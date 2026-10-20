@@ -1,0 +1,1373 @@
+{
+ "edition": "zodiac-aries-q2",
+ "name": "Aries — THE DIRECT HIT · Undated Edition — Q2",
+ "undated": true,
+ "themes": {},
+ "days": {
+  "92": {
+   "day": 92,
+   "holiday": {
+    "name": "Aries · Day 92",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which of your talents is rusting because the practice part bores you?",
+    "What could you master if repetition didn't feel like a cage?"
+   ],
+   "adventures": [
+    "Practice one small skill for fifteen minutes today — the unglamorous reps. Mastery hides in the boring part.",
+    "Do twenty push-ups or squats, counting each one out loud. Reps are the price of the skill."
+   ]
+  },
+  "93": {
+   "day": 93,
+   "holiday": {
+    "name": "Aries · Day 93",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What conversation have you been rehearsing as a fight instead of a talk?",
+    "Who are you bracing against that might actually be on your side?"
+   ],
+   "adventures": [
+    "Enter one tense conversation today assuming goodwill until proven otherwise. Disarm first.",
+    "Unclench your jaw right now, drop your shoulders. Your body is rehearsing the fight too."
+   ]
+  },
+  "94": {
+   "day": 94,
+   "holiday": {
+    "name": "Aries · Day 94",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "How much of your identity is just momentum with a name tag?",
+    "If you stopped moving for a week, who would be left?"
+   ],
+   "adventures": [
+    "Spend one hour today doing nothing productive. Meet the person who exists without the motion.",
+    "Lie flat on the floor and feel your weight. Stillness is also a position."
+   ]
+  },
+  "95": {
+   "day": 95,
+   "holiday": {
+    "name": "Aries · Day 95",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What did your last outburst actually communicate, minus the noise?",
+    "Who heard the volume but missed the message?"
+   ],
+   "adventures": [
+    "Restate one recent heated point calmly — to yourself or to them. Separate the signal from the static.",
+    "Hum one low note for a minute. Feel how much sound you can make without any sharpness."
+   ]
+  },
+  "96": {
+   "day": 96,
+   "holiday": {
+    "name": "Aries · Day 96",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which shortcut are you taking that's actually the long way around?",
+    "What process have you 'streamlined' into a mess you'll clean up twice?"
+   ],
+   "adventures": [
+    "Do one thing the thorough way today even though it takes longer. Count the time you save on the redo.",
+    "Untangle one cord, knot, or mess patiently. Some things only yield to slow hands."
+   ]
+  },
+  "97": {
+   "day": 97,
+   "holiday": {
+    "name": "Aries · Day 97",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What are you pretending doesn't bother you because reacting would be 'too much'?",
+    "Where has your honesty gone quiet to keep the peace you don't even want?"
+   ],
+   "adventures": [
+    "Name one thing that bothers you today, plainly, without dramatizing it. Honesty doesn't need volume.",
+    "Write the bothersome thing on paper, then tear the paper up. Externalize it, then release it."
+   ]
+  },
+  "98": {
+   "day": 98,
+   "holiday": {
+    "name": "Aries · Day 98",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "If courage is your gift, what have you been spending it on that isn't worth it?",
+    "Which of your battles is just your ego in armor?"
+   ],
+   "adventures": [
+    "Withdraw from one fight today that doesn't matter. Courage includes choosing the battlefield.",
+    "Stand in a wide stance, arms open, for one minute. Feel brave without an enemy."
+   ]
+  },
+  "99": {
+   "day": 99,
+   "holiday": {
+    "name": "Aries · Day 99",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What would you say if you weren't afraid of your own fire?",
+    "Who needs to hear your real opinion, delivered with care instead of a detonation?"
+   ],
+   "adventures": [
+    "Tell one person something true and kind that you've been holding back. Controlled fire warms.",
+    "Warm your hands on a hot drink and hold it a while. Practice holding heat without spilling it."
+   ]
+  },
+  "100": {
+   "day": 100,
+   "holiday": {
+    "name": "Aries · Day 100",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which ending are you dragging out because the goodbye feels like losing?",
+    "What finished thing are you still carrying like it's in progress?"
+   ],
+   "adventures": [
+    "Perform one small closing ritual today for something that's over — delete the file, send the note, say the words.",
+    "Take out the trash and recycling completely. Let your space demonstrate what done looks like."
+   ]
+  },
+  "101": {
+   "day": 101,
+   "holiday": {
+    "name": "Aries · Day 101",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "How do you react when someone else gets there first?",
+    "What does being second reveal about your first instincts?"
+   ],
+   "adventures": [
+    "Congratulate someone who beat you to something today, and mean it. Their win isn't your loss.",
+    "Let someone go ahead of you in line. Practice the physical feeling of not-first."
+   ]
+  },
+  "102": {
+   "day": 102,
+   "holiday": {
+    "name": "Aries · Day 102",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What have you started this month that already feels like a costume?",
+    "Which of your commitments would you decline if you were asked again today?"
+   ],
+   "adventures": [
+    "Quit one costume-commitment today. A fast no is kinder than a slow fade.",
+    "Change into clothes that feel like you, not the role. Dress for the person, not the performance."
+   ]
+  },
+  "103": {
+   "day": 103,
+   "holiday": {
+    "name": "Aries · Day 103",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Where are you mistaking restlessness for purpose?",
+    "What would your drive look like if it had nowhere to prove itself?"
+   ],
+   "adventures": [
+    "Sit with restlessness today without obeying it. Watch it pass like weather.",
+    "Take a slow bath or long shower. Let water do the moving while you stay still."
+   ]
+  },
+  "104": {
+   "day": 104,
+   "holiday": {
+    "name": "Aries · Day 104",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which promise to yourself keeps getting outrun by newer promises?",
+    "What old vow deserves to be kept before any new one is made?"
+   ],
+   "adventures": [
+    "Keep one old promise to yourself today — the unglamorous one. Old vows outrank new sparks.",
+    "Make your bed with hospital corners. A kept promise you can see."
+   ]
+  },
+  "105": {
+   "day": 105,
+   "holiday": {
+    "name": "Aries · Day 105",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What does your silence sound like when you're furious but holding it?",
+    "Is your quiet control or just a delayed explosion?"
+   ],
+   "adventures": [
+    "When fury rises today, name it silently: 'I am furious about X.' Naming shrinks it.",
+    "Grip an ice cube until it melts. Cold focus instead of hot reaction."
+   ]
+  },
+  "106": {
+   "day": 106,
+   "holiday": {
+    "name": "Aries · Day 106",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Who taught you that slow means weak, and were they right?",
+    "What strong thing in your life was built slowly, and do you respect it?"
+   ],
+   "adventures": [
+    "Thank or acknowledge something in your life that took time to build. Slow built it; honor that.",
+    "Plant a seed or tend a plant. Participate in the slowest kind of growth."
+   ]
+  },
+  "107": {
+   "day": 107,
+   "holiday": {
+    "name": "Aries · Day 107",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What are you avoiding finishing because the next step after it terrifies you?",
+    "Which completion are you delaying to postpone what comes after?"
+   ],
+   "adventures": [
+    "Finish the thing and face the after. The fear of next is not a reason to stall now.",
+    "Pack a bag completely for something upcoming. Preparation is finishing in advance."
+   ]
+  },
+  "108": {
+   "day": 108,
+   "holiday": {
+    "name": "Aries · Day 108",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "When was the last time you changed your mind without feeling defeated?",
+    "What belief of yours is due for a public retirement?"
+   ],
+   "adventures": [
+    "Change your mind about one small thing today, out loud. Flexibility is a different kind of strength.",
+    "Take a different route than usual, on foot or by road. Let your body practice new paths."
+   ]
+  },
+  "109": {
+   "day": 109,
+   "holiday": {
+    "name": "Aries · Day 109",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What are you bulldozing through today that would open if you knocked?",
+    "Which door in your life is unlocked but you're choosing to kick?"
+   ],
+   "adventures": [
+    "Ask for one thing today instead of taking it. Notice how often the door was already open.",
+    "Knock on a real door — a room, a car window — and wait for the answer. Practice the pause."
+   ]
+  },
+  "110": {
+   "day": 110,
+   "holiday": {
+    "name": "Aries · Day 110",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "How many tabs are open in your brain right now, and which one is on fire?",
+    "What would happen if you closed all but one today?"
+   ],
+   "adventures": [
+    "Pick one priority today and let the rest wait. Single focus is a dare for your sign.",
+    "Close every app and tab except one. Feel your attention narrow and deepen."
+   ]
+  },
+  "111": {
+   "day": 111,
+   "holiday": {
+    "name": "Aries · Day 111",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What compliment have you been withholding because giving it feels like losing?",
+    "Whose success feels like your failure, and what does that say about your scoreboard?"
+   ],
+   "adventures": [
+    "Praise a peer's win specifically and publicly today. Generosity is a power move.",
+    "Write the compliment on a sticky note and leave it where they'll find it. Tangible goodwill."
+   ]
+  },
+  "112": {
+   "day": 112,
+   "holiday": {
+    "name": "Aries · Day 112",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which of your 'fresh starts' needs a funeral instead of a relaunch?",
+    "What are you resurrecting that should stay buried?"
+   ],
+   "adventures": [
+    "Bury one dead project today: archive it, delete it, or declare it done. Funerals free the living.",
+    "Compost or discard something expired from your fridge. Let your kitchen model the lesson."
+   ]
+  },
+  "113": {
+   "day": 113,
+   "holiday": {
+    "name": "Aries · Day 113",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What would you build if you had to tend it for a decade?",
+    "Which of your dreams survives the question 'and then what, for ten years'?"
+   ],
+   "adventures": [
+    "Spend ten minutes planning the maintenance of a dream, not just its launch. Tending is the real vision.",
+    "Oil or condition something you own — leather, wood, a tool. Practice long-term care."
+   ]
+  },
+  "114": {
+   "day": 114,
+   "holiday": {
+    "name": "Aries · Day 114",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "When do you feel most like yourself — charging or arriving?",
+    "What if the arrival is the part you've been skipping past?"
+   ],
+   "adventures": [
+    "Celebrate one arrival today, however small. Mark the landing, not just the leap.",
+    "Stand at a finish line of your choosing — a doorway, a street end — and pause there. Arrive on purpose."
+   ]
+  },
+  "115": {
+   "day": 115,
+   "holiday": {
+    "name": "Aries · Day 115",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What hard truth about yourself have you been outrunning at full speed?",
+    "If you stopped sprinting, what would catch up with you?"
+   ],
+   "adventures": [
+    "Write one honest sentence about yourself that you've been avoiding. Let it catch you, then keep it.",
+    "Sit facing a blank wall for two minutes. No distractions. Let the quiet say what the noise won't."
+   ]
+  },
+  "116": {
+   "day": 116,
+   "holiday": {
+    "name": "Aries · Day 116",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which relationship of yours runs on your intensity instead of your presence?",
+    "Who gets your sparks but never your steadiness?"
+   ],
+   "adventures": [
+    "Give one person your steady attention today — no big gesture, just consistent presence. Sparks fade; presence stays.",
+    "Hold someone's hand or sit shoulder-to-shoulder without multitasking. Presence is physical."
+   ]
+  },
+  "117": {
+   "day": 117,
+   "holiday": {
+    "name": "Aries · Day 117",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What are you treating as urgent that's really just uncomfortable?",
+    "Which fire drill of yours is actually just avoidance in a hurry?"
+   ],
+   "adventures": [
+    "Reclassify one 'urgent' thing today as merely uncomfortable, and sit with it. Urgency is often a costume.",
+    "Do nothing for five minutes when the urge to rush hits. Let urgency pass through without obeying."
+   ]
+  },
+  "118": {
+   "day": 118,
+   "holiday": {
+    "name": "Aries · Day 118",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "If your temper is a tool, what have you been using it as a weapon for?",
+    "What would your anger build if you aimed it at a problem instead of a person?"
+   ],
+   "adventures": [
+    "Redirect one flash of temper today into fixing the actual problem. Aim the tool, don't swing it.",
+    "Chop vegetables aggressively but precisely for a meal. Controlled force, useful result."
+   ]
+  },
+  "119": {
+   "day": 119,
+   "holiday": {
+    "name": "Aries · Day 119",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What does 'finished' even mean to you — done, or done being interesting?",
+    "Which of your done things got abandoned at 'good enough to brag about'?"
+   ],
+   "adventures": [
+    "Take one 'done' thing to truly done today — the last ten percent. The boring final stretch is the signature.",
+    "Wipe down a surface you've been calling clean. True finished survives inspection."
+   ]
+  },
+  "120": {
+   "day": 120,
+   "holiday": {
+    "name": "Aries · Day 120",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Strip away the rescues, the charges, the rallying cries — who is left standing in the quiet room?",
+    "What softness of yours has been waiting for the armor to come off?"
+   ],
+   "adventures": [
+    "Let someone else be strong for you today — ask for help with something real. Armor off, human on.",
+    "Wrap yourself in a blanket and rest without earning it. Softness is allowed without a crisis."
+   ]
+  },
+  "121": {
+   "day": 121,
+   "holiday": {
+    "name": "Aries · Day 121",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What spark from long ago still deserves your fire, and what just needs the ashes swept?",
+    "Which old dream have you been carrying like a torch when it's really an ember?"
+   ],
+   "adventures": [
+    "Audit one old dream today: rekindle it with a real step, or sweep the ashes and release it.",
+    "Gather ashes or dust — fireplace, incense, a dusty shelf — and clear them out. Make room for real fire."
+   ]
+  },
+  "122": {
+   "day": 122,
+   "holiday": {
+    "name": "Aries · Day 122",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "If this chapter closed today, what would you be proud to have finished, not just started?",
+    "What single bold finish would make the starting finally worth it?"
+   ],
+   "adventures": [
+    "Choose one finish that would make you proud and put an hour into it today. Endings are the real flex for Aries.",
+    "Stand somewhere high — a hill, a rooftop, a staircase top — and look at how far the starts have carried you. Then pick the finish."
+   ]
+  },
+  "123": {
+   "day": 123,
+   "holiday": {
+    "name": "Aries · Day 123",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which bridge did you scorch in a flash of heat, and what would honest repair actually require?",
+    "If your temper had a mute button, which recent conversation deserves a calmer replay?"
+   ],
+   "adventures": [
+    "Send one short repair note to someone you clipped, with zero self-justification attached.",
+    "Hold an ice cube until it melts while replaying the last moment that set you off."
+   ]
+  },
+  "124": {
+   "day": 124,
+   "holiday": {
+    "name": "Aries · Day 124",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "How many half-finished projects are squatting in your head, and which one earns either a finish or a funeral?",
+    "Name the rush a fresh start hands you that a finished one never gets to."
+   ],
+   "adventures": [
+    "Choose the stalest unfinished task and give it eleven uninterrupted minutes today.",
+    "Line up five desk objects in a row, then nudge one forward as a dare to your own follow-through."
+   ]
+  },
+  "125": {
+   "day": 125,
+   "holiday": {
+    "name": "Aries · Day 125",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "When did you last treat fury like fuel, and where did that engine actually drive you?",
+    "Underneath your loudest recent anger, what quieter feeling was hiding?"
+   ],
+   "adventures": [
+    "Write the angry version of a message you want to send, then delete it and send the brave version.",
+    "Stand with your feet planted and shoulders dropped for ninety seconds, breathing slower than your irritation wants."
+   ]
+  },
+  "126": {
+   "day": 126,
+   "holiday": {
+    "name": "Aries · Day 126",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Where does impatience ambush you most: people, paperwork, or your own progress?",
+    "Which slow process have you been cursing that might be quietly protecting you?"
+   ],
+   "adventures": [
+    "Do one routine task at half speed on purpose and notice what you usually bulldoze past.",
+    "Wash your hands in deliberately warm water, slower than feels necessary, without checking the time."
+   ]
+  },
+  "127": {
+   "day": 127,
+   "holiday": {
+    "name": "Aries · Day 127",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Who would you be if being seen failing stopped feeling like death?",
+    "Describe the bold move you keep rehearsing privately instead of attempting publicly."
+   ],
+   "adventures": [
+    "Attempt one thing today where failure is visible and survivable, and let someone witness it.",
+    "Stand in front of a mirror and say the scary goal out loud, meeting your own eyes the whole time."
+   ]
+  },
+  "128": {
+   "day": 128,
+   "holiday": {
+    "name": "Aries · Day 128",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What are you waiting for permission to begin, and who exactly do you imagine grants it?",
+    "If nobody needed to approve, what would you have already launched?"
+   ],
+   "adventures": [
+    "Take the first concrete step on the stalled idea: one email, one sketch, one call.",
+    "Walk a route you have never taken, on foot, to remind your body that new paths exist."
+   ]
+  },
+  "129": {
+   "day": 129,
+   "holiday": {
+    "name": "Aries · Day 129",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "When does your honesty land as courage, and when does it land as a weapon?",
+    "Which truth have you been swinging like a hammer that actually needs a steadier hand?"
+   ],
+   "adventures": [
+    "Deliver one direct truth today wrapped in genuine respect, not softened into mush.",
+    "Unclench your jaw right now, then again every hour, and notice how often it tightens before you speak."
+   ]
+  },
+  "130": {
+   "day": 130,
+   "holiday": {
+    "name": "Aries · Day 130",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Why does resting feel like surrender to you instead of strategy?",
+    "How would your week shift if recovery counted as part of the charge, not the retreat?"
+   ],
+   "adventures": [
+    "Schedule one real break today and defend it like it matters, because it does.",
+    "Lie flat on the floor for five minutes with your arms open, doing absolutely nothing productive."
+   ]
+  },
+  "131": {
+   "day": 131,
+   "holiday": {
+    "name": "Aries · Day 131",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Do you detonate first and apologize later, or detonate and never look back?",
+    "Which old apology is still sitting in your chest, unpaid?"
+   ],
+   "adventures": [
+    "Pay one overdue apology in plain words, no performance, no fishing for forgiveness.",
+    "Press your palm flat against a wall and hold it there while you decide what repair looks like."
+   ]
+  },
+  "132": {
+   "day": 132,
+   "holiday": {
+    "name": "Aries · Day 132",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Name the last thing you committed to in a surge of excitement that your calmer self now resents.",
+    "How many of your current obligations were signed by a version of you running on adrenaline?"
+   ],
+   "adventures": [
+    "Before saying yes to anything today, pause ten full seconds and check with tomorrow-you.",
+    "Empty your pockets or bag completely, then put back only what today actually needs."
+   ]
+  },
+  "133": {
+   "day": 133,
+   "holiday": {
+    "name": "Aries · Day 133",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Who are you secretly racing, and what would happen if you stopped checking their lane?",
+    "Which victory would feel hollow the moment you won it?"
+   ],
+   "adventures": [
+    "Congratulate someone you envy, sincerely, without turning it into a pep talk about yourself.",
+    "Do twenty seconds of the hardest movement you can, then stop and feel your own pulse, belonging to no one else."
+   ]
+  },
+  "134": {
+   "day": 134,
+   "holiday": {
+    "name": "Aries · Day 134",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "If boredom could speak without noise drowning it out, what would it say?",
+    "When did you last sit with nothing to conquer and survive it?"
+   ],
+   "adventures": [
+    "Leave one dull moment undoped today: no phone, no podcast, just the dullness.",
+    "Stare out a window for three minutes and name five tiny things you can see, hear, or smell."
+   ]
+  },
+  "135": {
+   "day": 135,
+   "holiday": {
+    "name": "Aries · Day 135",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which task are you hogging because asking for help feels like weakness?",
+    "Describe your week if you stopped being the only hero in it."
+   ],
+   "adventures": [
+    "Hand one real task to someone else today and resist the urge to hover over it.",
+    "Carry something heavy with both hands instead of one, and notice the difference support makes."
+   ]
+  },
+  "136": {
+   "day": 136,
+   "holiday": {
+    "name": "Aries · Day 136",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which request for help have you been swallowing, and what is the actual worst case if you voice it?",
+    "Who already offered support that your pride refused to cash?"
+   ],
+   "adventures": [
+    "Ask for one specific thing you need, out loud, to a real person, today.",
+    "Stretch your arms overhead as wide as they go and hold them there while you picture receiving help."
+   ]
+  },
+  "137": {
+   "day": 137,
+   "holiday": {
+    "name": "Aries · Day 137",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which sharp sentence is sitting on your tongue right now, begging to be fired?",
+    "Would saying it make you brave, or just make you feel powerful for ten seconds?"
+   ],
+   "adventures": [
+    "Practice the pause: feel the retort rise, breathe once, then choose your words like they cost money.",
+    "Press your tongue to the roof of your mouth for sixty seconds and notice how loud silence can feel."
+   ]
+  },
+  "138": {
+   "day": 138,
+   "holiday": {
+    "name": "Aries · Day 138",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Where does your body warn you before you explode: chest, jaw, fists, stomach?",
+    "How many warnings did you ignore the last time you blew up?"
+   ],
+   "adventures": [
+    "The next time heat rises, name the body signal out loud before you speak a single word.",
+    "Press your forehead to a cool windowpane and breathe until your pulse stops sprinting."
+   ]
+  },
+  "139": {
+   "day": 139,
+   "holiday": {
+    "name": "Aries · Day 139",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Check your drafts, your notes, your head. Which unsent message is still living there?",
+    "Is it unsent because you are wise, or because you are avoiding the aftermath?"
+   ],
+   "adventures": [
+    "Decide the fate of one unsent message: send it cleanly, rewrite it kindly, or delete it for good.",
+    "Write the message by hand on paper, then tear the paper up slowly and watch the pieces fall."
+   ]
+  },
+  "140": {
+   "day": 140,
+   "holiday": {
+    "name": "Aries · Day 140",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which conflict did you win loudly and lose quietly?",
+    "Describe what a clean ending to that fight would have looked like."
+   ],
+   "adventures": [
+    "Revisit one messy conflict and write down what a dignified version of you would do next.",
+    "Tidy one small cluttered corner of a room as practice for tidying messier things."
+   ]
+  },
+  "141": {
+   "day": 141,
+   "holiday": {
+    "name": "Aries · Day 141",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Are you starting over, or just starting again to dodge the hard middle?",
+    "Name the unfinished middle you are hoping a fresh beginning will erase."
+   ],
+   "adventures": [
+    "Return to the abandoned middle of one project instead of opening a shiny new one.",
+    "Walk backward for thirty seconds in a safe open space and feel how strange retreat feels in your legs."
+   ]
+  },
+  "142": {
+   "day": 142,
+   "holiday": {
+    "name": "Aries · Day 142",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which grudge are you still feeding, and what is it costing you to keep it alive?",
+    "Who benefits from you staying angry at them?"
+   ],
+   "adventures": [
+    "Write the grudge down, read it once, then decide whether it deserves another day of your energy.",
+    "Clench both fists as tight as you can for ten seconds, then release and shake them loose."
+   ]
+  },
+  "143": {
+   "day": 143,
+   "holiday": {
+    "name": "Aries · Day 143",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "List what you are rushing past so fast you cannot feel it.",
+    "If speed is your armor, what is it protecting?"
+   ],
+   "adventures": [
+    "Do the thing you always rush, eating, walking, replying, at a deliberately human pace.",
+    "Count your breaths up to twenty without speeding up, restarting if you lose track."
+   ]
+  },
+  "144": {
+   "day": 144,
+   "holiday": {
+    "name": "Aries · Day 144",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "When did you last celebrate something without immediately hunting the next target?",
+    "What win did you sprint past so fast it barely registered?"
+   ],
+   "adventures": [
+    "Mark one recent win properly: tell someone, write it down, let it land.",
+    "Raise both arms overhead in a victory pose and hold it for thirty full seconds."
+   ]
+  },
+  "145": {
+   "day": 145,
+   "holiday": {
+    "name": "Aries · Day 145",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Whose boldness stings you with envy, and what does that sting reveal about your own held-back fire?",
+    "Suppose their courage were contagious. What would you attempt?"
+   ],
+   "adventures": [
+    "Borrow one page from their playbook: do the brave thing they did that you keep postponing.",
+    "Stand tall against a doorframe, press your palms into it, and feel your own frame take up space."
+   ]
+  },
+  "146": {
+   "day": 146,
+   "holiday": {
+    "name": "Aries · Day 146",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which boundary have you been hinting at instead of stating?",
+    "Name what you are afraid will happen if you say the blunt version."
+   ],
+   "adventures": [
+    "State one boundary today in plain words, early, before resentment writes the script.",
+    "Draw a literal line on paper, stand on one side of it, and practice saying the boundary out loud."
+   ]
+  },
+  "147": {
+   "day": 147,
+   "holiday": {
+    "name": "Aries · Day 147",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What slow, unglamorous step have you been skipping because it bores your fire?",
+    "How many shortcuts have quietly become detours?"
+   ],
+   "adventures": [
+    "Do the boring step fully today: the form, the follow-up, the foundation work.",
+    "Fold one piece of clothing with absurd precision, corner to corner, and notice the calm in it."
+   ]
+  },
+  "148": {
+   "day": 148,
+   "holiday": {
+    "name": "Aries · Day 148",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What is the smallest thing you could fully complete today that would prove you can finish?",
+    "Why do you keep score of starts but never of completions?"
+   ],
+   "adventures": [
+    "Finish one tiny thing completely, start to end, no loose threads left dangling.",
+    "Sweep one small area until every speck is gone, and stand in the clean patch for a moment."
+   ]
+  },
+  "149": {
+   "day": 149,
+   "holiday": {
+    "name": "Aries · Day 149",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "If your anger kept a diary, what would today's entry confess?",
+    "Which recurring irritation is actually a boundary you never set?"
+   ],
+   "adventures": [
+    "Log every flash of anger today with one line each: trigger, body signal, what you did.",
+    "Grip a pillow hard for fifteen seconds, then let it drop and feel your shoulders fall with it."
+   ]
+  },
+  "150": {
+   "day": 150,
+   "holiday": {
+    "name": "Aries · Day 150",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Name what you are protecting so fiercely it never gets expressed.",
+    "Which guarded part of you is done waiting behind the wall?"
+   ],
+   "adventures": [
+    "Express one protected thing today: a want, a hurt, a hope, said plainly to someone safe.",
+    "Place both hands over your chest, breathe into them, and notice what rises when you stop guarding."
+   ]
+  },
+  "151": {
+   "day": 151,
+   "holiday": {
+    "name": "Aries · Day 151",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Point to what you have outgrown that you are still politely tolerating.",
+    "If you outgrew it loudly, who would hear, and what would they learn?"
+   ],
+   "adventures": [
+    "Name the outgrown thing out loud to one person, no softening, no apology for evolving.",
+    "Remove one object from your space that belongs to an older version of you."
+   ]
+  },
+  "152": {
+   "day": 152,
+   "holiday": {
+    "name": "Aries · Day 152",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which risk keeps getting postponed to a someday that never arrives?",
+    "Which story do you tell yourself about why the timing is wrong?"
+   ],
+   "adventures": [
+    "Shrink the postponed risk to its smallest first move and do that move today.",
+    "Stand at your front door, step outside, and take ten deliberate steps toward something, anywhere."
+   ]
+  },
+  "153": {
+   "day": 153,
+   "holiday": {
+    "name": "Aries · Day 153",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which piece of feedback have you been withholding to keep the peace?",
+    "Is the peace real, or just quiet?"
+   ],
+   "adventures": [
+    "Give one piece of honest feedback today, direct and kind, without the compliment cushion.",
+    "Look someone in the eyes for a full three seconds longer than comfortable during one conversation."
+   ]
+  },
+  "154": {
+   "day": 154,
+   "holiday": {
+    "name": "Aries · Day 154",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which door do you keep kicking that might open with a knock?",
+    "Tell the truth: what has force ever won you that patience could not have won better?"
+   ],
+   "adventures": [
+    "Approach one stuck situation with a request instead of a demand and watch what shifts.",
+    "Knock slowly on a wooden surface three times and listen to the full sound fade before moving."
+   ]
+  },
+  "155": {
+   "day": 155,
+   "holiday": {
+    "name": "Aries · Day 155",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Where does waiting feel like punishment to you?",
+    "Consider the possibility that the delay is not denial but preparation. Then what?"
+   ],
+   "adventures": [
+    "Choose the longest line or slowest option once today and stay in it without fuming.",
+    "Stand on a threshold, half in and half out, and stay there for a slow count of thirty."
+   ]
+  },
+  "156": {
+   "day": 156,
+   "holiday": {
+    "name": "Aries · Day 156",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which conversation did you abandon mid-fire, and what remains unsaid?",
+    "Did you leave to protect them, or to protect yourself from what came next?"
+   ],
+   "adventures": [
+    "Reopen one abandoned conversation with a single honest sentence, not a relitigation.",
+    "Sit in a chair facing an empty chair and speak the unsaid sentence into the room."
+   ]
+  },
+  "157": {
+   "day": 157,
+   "holiday": {
+    "name": "Aries · Day 157",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Name what you are clinging to that quitting would actually liberate you from.",
+    "Is your persistence loyalty, or just stubbornness in a nicer outfit?"
+   ],
+   "adventures": [
+    "Name one thing you are allowed to quit, and say the quitting out loud to make it real.",
+    "Open a window wide and let the stale air out of one room while you picture the release."
+   ]
+  },
+  "158": {
+   "day": 158,
+   "holiday": {
+    "name": "Aries · Day 158",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which hard talk have you been circling for weeks?",
+    "Speak it here first: what is the opening sentence you keep rehearsing and never delivering?"
+   ],
+   "adventures": [
+    "Deliver the opening sentence today. Just the opener; the rest will follow.",
+    "Plant your feet shoulder-width apart, roll your shoulders back, and rehearse the sentence standing tall."
+   ]
+  },
+  "159": {
+   "day": 159,
+   "holiday": {
+    "name": "Aries · Day 159",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "How does your body feel right before you act on impulse: hot, tight, electric?",
+    "Wait ninety seconds inside that sensation. What would happen?"
+   ],
+   "adventures": [
+    "When the impulse hits, set a timer for ninety seconds and ride the wave without acting.",
+    "Run cold water over the insides of your wrists and notice your pulse slow down."
+   ]
+  },
+  "160": {
+   "day": 160,
+   "holiday": {
+    "name": "Aries · Day 160",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "When did you last choose quiet over noise on purpose?",
+    "Say it plainly: what are you afraid you might hear in the silence?"
+   ],
+   "adventures": [
+    "Spend ten minutes today without input: no music, no scroll, no chatter.",
+    "Cup your hands over your ears for thirty seconds, then release and let the world rush back in."
+   ]
+  },
+  "161": {
+   "day": 161,
+   "holiday": {
+    "name": "Aries · Day 161",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which corner of your space looks like your mind feels?",
+    "Imagine that corner clear. What would change inside you?"
+   ],
+   "adventures": [
+    "Tame one cluttered corner today: fifteen minutes, ruthless decisions, done.",
+    "Run your hand along a freshly cleared surface and let your nervous system register the order."
+   ]
+  },
+  "162": {
+   "day": 162,
+   "holiday": {
+    "name": "Aries · Day 162",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which win did you downplay so nobody could call you arrogant?",
+    "Who taught you that claiming victory makes you the villain?"
+   ],
+   "adventures": [
+    "Claim one win today without deflecting, minimizing, or crediting luck.",
+    "Write the win on paper in big letters and stick it where you will see it all day."
+   ]
+  },
+  "163": {
+   "day": 163,
+   "holiday": {
+    "name": "Aries · Day 163",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Whose applause are you secretly performing your bravery for?",
+    "Would you still charge ahead if nobody ever knew?"
+   ],
+   "adventures": [
+    "Do one brave thing today that no one will see, and keep it to yourself.",
+    "Close your eyes and stand perfectly still for one minute, answering to no audience."
+   ]
+  },
+  "164": {
+   "day": 164,
+   "holiday": {
+    "name": "Aries · Day 164",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What does your slowest hour of the day reveal about you?",
+    "Why do you treat your low-energy hours like moral failures?"
+   ],
+   "adventures": [
+    "Protect your slowest hour instead of fighting it: rest, wander, or do the gentle task.",
+    "Move through one room at half your normal speed and notice textures you usually miss."
+   ]
+  },
+  "165": {
+   "day": 165,
+   "holiday": {
+    "name": "Aries · Day 165",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What request do you need to refuse before resentment answers it for you?",
+    "How fast could you say no if you trusted that no is a complete sentence?"
+   ],
+   "adventures": [
+    "Say one clean no today: short, warm, final, with no essay of excuses.",
+    "Shake your head slowly side to side for ten seconds and feel how natural refusal is in your neck."
+   ]
+  },
+  "166": {
+   "day": 166,
+   "holiday": {
+    "name": "Aries · Day 166",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which old wound do you reopen just to feel the familiar burn?",
+    "Free that energy from the old wound. What would you do with it?"
+   ],
+   "adventures": [
+    "Catch yourself mid-replay today and redirect to one present-moment action.",
+    "Trace the outline of your own hand slowly with a finger, staying with the sensation, not the story."
+   ]
+  },
+  "167": {
+   "day": 167,
+   "holiday": {
+    "name": "Aries · Day 167",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Give every impulse a one-day waiting period. What would you still want tomorrow?",
+    "Which of today's urgencies would survive a night of sleep?"
+   ],
+   "adventures": [
+    "Put one impulse purchase or commitment on a 24-hour hold and revisit it tomorrow.",
+    "Fill a glass with water and drink it slowly before acting on any strong urge today."
+   ]
+  },
+  "168": {
+   "day": 168,
+   "holiday": {
+    "name": "Aries · Day 168",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Where exactly do you quit: the last stretch, the boring middle, or right before it counts?",
+    "Break it down: what does the final ten percent demand that the first ninety does not?"
+   ],
+   "adventures": [
+    "Push one nearly-done thing across the actual finish line today, all the way.",
+    "Walk to the far end of the longest hallway or path near you and back, finishing the full distance."
+   ]
+  },
+  "169": {
+   "day": 169,
+   "holiday": {
+    "name": "Aries · Day 169",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What is your anger protecting that feels too vulnerable to name?",
+    "If the anger stepped aside, what softer truth would stand there?"
+   ],
+   "adventures": [
+    "Translate one angry reaction into its vulnerable original: I am hurt, I am scared, I need.",
+    "Wrap your arms around yourself in a firm hold for thirty seconds and breathe into the squeeze."
+   ]
+  },
+  "170": {
+   "day": 170,
+   "holiday": {
+    "name": "Aries · Day 170",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What first draft are you hiding because it is not impressive yet?",
+    "Who decided that everything you make must arrive fully formed?"
+   ],
+   "adventures": [
+    "Share one rough, unfinished thing with someone today and let it be rough.",
+    "Scribble messily on paper for two minutes with your non-dominant hand and admire the ugly honesty."
+   ]
+  },
+  "171": {
+   "day": 171,
+   "holiday": {
+    "name": "Aries · Day 171",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Offer something unasked today. What could it be?",
+    "What stops you: fear of rejection, or the habit of waiting to be chosen?"
+   ],
+   "adventures": [
+    "Make one unasked offer today: help, an idea, an introduction, given freely.",
+    "Extend your hand as if offering something, hold it out for ten seconds, and notice the courage in the gesture."
+   ]
+  },
+  "172": {
+   "day": 172,
+   "holiday": {
+    "name": "Aries · Day 172",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which truth have you been gift-wrapping until it lost its meaning?",
+    "Strip the wrapping off. What would the unwrapped version sound like?"
+   ],
+   "adventures": [
+    "Say one thing today exactly as it is, no cushioning, no spin, still kind.",
+    "Speak one true sentence into a glass of water and watch the ripples, then drink it."
+   ]
+  },
+  "173": {
+   "day": 173,
+   "holiday": {
+    "name": "Aries · Day 173",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which long game are you refusing to play because the payoff is not immediate?",
+    "Where might you be in a year if you started the slow thing today?"
+   ],
+   "adventures": [
+    "Take one small step toward the distant goal: plant the seed, open the account, write the outline.",
+    "Plant something, even a bean in a cup, and touch the soil as a promise to the future."
+   ]
+  },
+  "174": {
+   "day": 174,
+   "holiday": {
+    "name": "Aries · Day 174",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which fire in your life deserves to keep burning, and which one needs the hose?",
+    "Describe the last bridge you set alight — was it strategy wearing a costume, or weather you refused to wait out?"
+   ],
+   "adventures": [
+    "Sort one burning situation today: feed it, mend it, or let it burn out deliberately.",
+    "Light a candle, watch the flame for one minute, then blow it out with a single decisive breath."
+   ]
+  },
+  "175": {
+   "day": 175,
+   "holiday": {
+    "name": "Aries · Day 175",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Where is your fire scattered that it could be focused?",
+    "Pit one concentrated blaze against ten scattered sparks. Which wins, and why?"
+   ],
+   "adventures": [
+    "Pick one target for your energy today and aim everything at it, single-minded.",
+    "Gather every stray item from one room into a single pile, then sort it with full attention."
+   ]
+  },
+  "176": {
+   "day": 176,
+   "holiday": {
+    "name": "Aries · Day 176",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Why does pausing feel like betrayal to your own momentum?",
+    "Dream past the grind: what brave thing might rest make possible?"
+   ],
+   "adventures": [
+    "Take a real pause today with no justification speech attached to it.",
+    "Sit on the floor with your back against a wall, knees up, and do nothing for five minutes."
+   ]
+  },
+  "177": {
+   "day": 177,
+   "holiday": {
+    "name": "Aries · Day 177",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What apology do you owe yourself for the way you have driven yourself?",
+    "Would you speak to anyone else the way your inner voice speaks to you?"
+   ],
+   "adventures": [
+    "Write yourself the apology you have been waiting for from someone else.",
+    "Place a hand on your own shoulder and hold it there like you would for a friend."
+   ]
+  },
+  "178": {
+   "day": 178,
+   "holiday": {
+    "name": "Aries · Day 178",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What did your haste cost you recently that slowness would have saved?",
+    "Add it up honestly: what is the real price of your speed?"
+   ],
+   "adventures": [
+    "Do a haste audit: list three rushed decisions and what each one cost.",
+    "Eat one meal today chewing each bite twenty times, tasting what speed usually steals."
+   ]
+  },
+  "179": {
+   "day": 179,
+   "holiday": {
+    "name": "Aries · Day 179",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Find the small no that would protect your biggest yes.",
+    "Why do you hand out yeses like they are free when they cost you hours?"
+   ],
+   "adventures": [
+    "Decline one small thing today to guard energy for the thing that matters.",
+    "Cross your arms firmly over your chest for twenty seconds and feel the boundary in your body."
+   ]
+  },
+  "180": {
+   "day": 180,
+   "holiday": {
+    "name": "Aries · Day 180",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What have you outgrown that is ready to be declared, loudly and finally?",
+    "Who needs to hear the declaration so the old version stops getting invited back?"
+   ],
+   "adventures": [
+    "Declare the outgrown thing to one witness today: say what you are done with and what replaces it.",
+    "Step outside, face the open air, and say the declaration aloud where the wind can hear it."
+   ]
+  },
+  "181": {
+   "day": 181,
+   "holiday": {
+    "name": "Aries · Day 181",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "Which Khaos in your life did you choose, and which did you cause by refusing to slow down?",
+    "Draw the line: what separates wildness you direct from wildness that directs you?"
+   ],
+   "adventures": [
+    "Choose one wild thing deliberately today instead of stumbling into it by impulse.",
+    "Spin in a circle three times, stop suddenly, and stand still until the room stops moving."
+   ]
+  },
+  "182": {
+   "day": 182,
+   "holiday": {
+    "name": "Aries · Day 182",
+    "action": "THE DIRECT HIT — FIRE / COURAGE / INITIATIVE"
+   },
+   "soulQuestions": [
+    "What is the single bravest thing you could do before this stretch of days ends?",
+    "Interrogate the hesitation: is it the size of it, or that no one will push you?"
+   ],
+   "adventures": [
+    "Do the bravest small thing on your list today, the one you keep circling.",
+    "Stand on tiptoes, reach as high as you can for ten seconds, then drop flat and feel grounded."
+   ]
+  }
+ }
+}

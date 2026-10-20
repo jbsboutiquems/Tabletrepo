@@ -156,7 +156,15 @@ const EXPANSION_PRODUCTS: ExpansionProduct[] = [
     days: 366,
     kind: "edition" as const,
   },
-  ...ZODIAC_SIGNS.map((sign) => {
+  ...[1, 2, 3, 4].map((q) => ({
+    product_id: `edition-2028-q${q}`,
+    title: `2028 Cosmic Forecast — Q${q}`,
+    blurb: `The 2028 yearly by the quarter: Q${q}'s sign seasons, missions, and soul-searching. $5 a quarter, or the full year above.`,
+    price: 5,
+    days: 92,
+    kind: "edition" as const,
+  })),
+  ...ZODIAC_SIGNS.flatMap((sign) => {
     const titles: Record<string, string> = {
       aries: "THE DIRECT HIT", taurus: "THE RITUAL", gemini: "THE NEXT QUESTION",
       cancer: "THE TIDE WITHIN", leo: "THE BRIGHT YES", virgo: "THE USEFUL MAGIC",
@@ -164,14 +172,24 @@ const EXPANSION_PRODUCTS: ExpansionProduct[] = [
       capricorn: "THE LONG GAME", aquarius: "THE OPEN CURRENT", pisces: "THE RETURN TO SELF",
     };
     const cap = sign.charAt(0).toUpperCase() + sign.slice(1);
-    return {
-      product_id: `edition-zodiac-${sign}`,
-      title: `${cap} — ${titles[sign]} · Undated Edition`,
-      blurb: `Learning yourself: 365 undated days in ${cap}'s voice, challenging ${cap}'s shadow. Runs by day number, any year you start it.`,
-      price: 20,
-      days: 365,
-      kind: "edition" as const,
-    };
+    return [
+      {
+        product_id: `edition-zodiac-${sign}`,
+        title: `${cap} — ${titles[sign]} · Undated Edition`,
+        blurb: `Learning yourself: 365 undated days in ${cap}'s voice, challenging ${cap}'s shadow. Runs by day number, any year you start it.`,
+        price: 20,
+        days: 365,
+        kind: "edition" as const,
+      },
+      ...[1, 2, 3, 4].map((q) => ({
+        product_id: `edition-zodiac-${sign}-q${q}`,
+        title: `${cap} — ${titles[sign]} · Undated Q${q}`,
+        blurb: `Quarter ${q} of the ${cap} undated edition (Days ${[1, 92, 183, 274][q - 1]}–${[91, 182, 273, 365][q - 1]}). $5 a quarter, or the full edition above.`,
+        price: 5,
+        days: [91, 91, 91, 92][q - 1],
+        kind: "edition" as const,
+      })),
+    ];
   }),
   {
     product_id: "monthly-theme",
@@ -407,6 +425,16 @@ const defaultContentPacks: Record<string, any> = {
     title: `${sign.charAt(0).toUpperCase() + sign.slice(1)} Undated Edition — Life OS: Off*Script`,
     assets_url: `/packs/zodiac-${sign}`,
   }])),
+  ...Object.fromEntries([1, 2, 3, 4].map((q) => [`edition-2028-q${q}`, {
+    pack_id: `edition-2028-q${q}`,
+    title: `2028 Cosmic Forecast — Q${q}`,
+    assets_url: `/packs/2028-cosmic-q${q}`,
+  }])),
+  ...Object.fromEntries(ZODIAC_SIGNS.flatMap((sign) => [1, 2, 3, 4].map((q) => [`edition-zodiac-${sign}-q${q}`, {
+    pack_id: `edition-zodiac-${sign}-q${q}`,
+    title: `${sign.charAt(0).toUpperCase() + sign.slice(1)} Undated Edition Q${q} — Life OS: Off*Script`,
+    assets_url: `/packs/zodiac-${sign}-q${q}`,
+  }]))),
 };
 
 const defaultQrTokens: Record<string, any> = {
@@ -1838,11 +1866,17 @@ interface EditionWindow { edition_id: string; title: string; start: string; end:
 const EDITION_WINDOWS: EditionWindow[] = [
   { edition_id: "edition-q4-2026", title: "Q4 2026 Sampler \u2014 Life OS: Off*Script", start: "2026-10-01", end: "2026-12-31" },
   { edition_id: "edition-2028-cosmic-forecast", title: "2028 Cosmic Forecast \u2014 Life OS: Off*Script", start: "2028-01-01", end: "2028-12-31" },
+  { edition_id: "edition-2028-q1", title: "2028 Cosmic Forecast — Q1", start: "2028-01-01", end: "2028-03-31" },
+  { edition_id: "edition-2028-q2", title: "2028 Cosmic Forecast — Q2", start: "2028-04-01", end: "2028-06-30" },
+  { edition_id: "edition-2028-q3", title: "2028 Cosmic Forecast — Q3", start: "2028-07-01", end: "2028-09-30" },
+  { edition_id: "edition-2028-q4", title: "2028 Cosmic Forecast — Q4", start: "2028-10-01", end: "2028-12-31" },
 ];
 const EDITION_PACK_FILES: Record<string, string> = {
   "edition-q4-2026": "q4-2026-pack.json",
   "edition-2028-cosmic-forecast": "cosmic-2028-pack.json",
   ...Object.fromEntries(ZODIAC_SIGNS.map((sign) => [`edition-zodiac-${sign}`, `zodiac-${sign}-pack.json`])),
+  ...Object.fromEntries([1, 2, 3, 4].map((q) => [`edition-2028-q${q}`, `cosmic-2028-q${q}-pack.json`])),
+  ...Object.fromEntries(ZODIAC_SIGNS.flatMap((sign) => [1, 2, 3, 4].map((q) => [`edition-zodiac-${sign}-q${q}`, `zodiac-${sign}-q${q}-pack.json`]))),
 };
 const EDITION_PACKS: Record<string, any> = {};
 for (const [id, file] of Object.entries(EDITION_PACK_FILES)) {

@@ -1,0 +1,1282 @@
+{
+ "edition": "zodiac-gemini-q3",
+ "name": "Gemini — THE NEXT QUESTION · Undated Edition — Q3",
+ "undated": true,
+ "themes": {},
+ "days": {
+  "183": {
+   "day": 183,
+   "holiday": {
+    "name": "Gemini · Day 183",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "After sixty-one days of this — what has your mouth learned?"
+   ],
+   "adventures": [
+    "Pick the one question from this stretch that stung the most and answer it again, out loud, honestly.",
+    "Stand under the open sky and say the truest sentence you own — once, clearly, no audience required."
+   ]
+  },
+  "184": {
+   "day": 184,
+   "holiday": {
+    "name": "Gemini · Day 184",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which two of your recent rabbit-hole discoveries are actually related — and have you bothered to find out?"
+   ],
+   "adventures": [
+    "Take two unrelated things you learned recently and write one sentence each explaining the link you suspect between them, even if it is shaky.",
+    "Stand in your kitchen doorway and say the connection out loud like you are defending it to a skeptic; if you cannot, the link needs work."
+   ]
+  },
+  "185": {
+   "day": 185,
+   "holiday": {
+    "name": "Gemini · Day 185",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "You hold two opinions that cannot both be true — which one is only there to impress people?"
+   ],
+   "adventures": [
+    "List two of your own contradictory beliefs side by side and pick one to interrogate for five honest minutes instead of skipping to the punchline.",
+    "Write both on one sheet of paper, one at each end, and draw the jagged line between them with a pen until it feels true."
+   ]
+  },
+  "186": {
+   "day": 186,
+   "holiday": {
+    "name": "Gemini · Day 186",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When did you last turn an idea into something instead of just filing it next to the others?"
+   ],
+   "adventures": [
+    "Pick one saved note or bookmark and build the smallest possible version of it today — a draft, a sketch, a message — instead of re-reading it.",
+    "Clear your desk or a table completely, then use only what is already in the room to assemble or prototype the idea by hand."
+   ]
+  },
+  "187": {
+   "day": 187,
+   "holiday": {
+    "name": "Gemini · Day 187",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Could you teach the thing you will not shut up about to someone who knows nothing — without boring them?"
+   ],
+   "adventures": [
+    "Write a three-sentence explanation of your pet topic aimed at a smart twelve-year-old, and cut every flourish that hides the point.",
+    "Explain it aloud to your phone camera in under sixty seconds, badly if you must, then watch it and note where you skimmed."
+   ]
+  },
+  "188": {
+   "day": 188,
+   "holiday": {
+    "name": "Gemini · Day 188",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is the pattern you keep noticing but refusing to write down because writing it makes it real?"
+   ],
+   "adventures": [
+    "Name the pattern in one plain sentence on paper; refuse the urge to qualify it with 'but maybe' and let it sit there.",
+    "Tape that sentence somewhere you will see it tomorrow morning and touch it once before you let yourself amend it."
+   ]
+  },
+  "189": {
+   "day": 189,
+   "holiday": {
+    "name": "Gemini · Day 189",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Is your curiosity a search engine or a museum gift shop — and be honest about the ratio?"
+   ],
+   "adventures": [
+    "Count today's information intake by category for one hour: count items consumed versus one thing you actually synthesized, and record the lopsidedness.",
+    "Walk to the nearest window, look outside for two full minutes, and convert whatever you notice into one question worth keeping."
+   ]
+  },
+  "190": {
+   "day": 190,
+   "holiday": {
+    "name": "Gemini · Day 190",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Who told you something real recently and got a joke in response instead of attention?"
+   ],
+   "adventures": [
+    "Send that person a message that replays what they said and asks one follow-up question that is not witty, just serious.",
+    "Sit somewhere quiet with your hands visible and unmoving while you compose it, no fidgeting, no second tab open."
+   ]
+  },
+  "191": {
+   "day": 191,
+   "holiday": {
+    "name": "Gemini · Day 191",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which disagreement are you treating as a game instead of a mind that might change yours?"
+   ],
+   "adventures": [
+    "Pick one person who disagrees with you, write their strongest argument in their own words, and resist adding your rebuttal underneath.",
+    "Read what you wrote standing up with the paper at arm's length, like it is a headline you did not write, and let it land."
+   ]
+  },
+  "192": {
+   "day": 192,
+   "holiday": {
+    "name": "Gemini · Day 192",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What would you know if you followed one thread to its end instead of five threads to their middles?"
+   ],
+   "adventures": [
+    "Choose the single most interesting question on your mind and research it for twenty uninterrupted minutes without opening a new topic.",
+    "Take a walk around the block with only that question allowed; each time your mind drifts, steer it back by saying the question aloud."
+   ]
+  },
+  "193": {
+   "day": 193,
+   "holiday": {
+    "name": "Gemini · Day 193",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When someone talks, are you listening or just loading your next brilliant response?"
+   ],
+   "adventures": [
+    "In your next conversation, delay your reply by three full seconds after the other person finishes, and notice how badly it itches.",
+    "Have one full conversation today with your phone in another room so your hands cannot pretend to be busy."
+   ]
+  },
+  "194": {
+   "day": 194,
+   "holiday": {
+    "name": "Gemini · Day 194",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What idea are you collecting that you should be crediting or paying for instead?"
+   ],
+   "adventures": [
+    "Identify one concept, joke, or insight you have been passing around as yours and trace it back to its actual source today.",
+    "Write the source's name by hand on a card and put it on your desk for a day as a reminder that synthesis cites."
+   ]
+  },
+  "195": {
+   "day": 195,
+   "holiday": {
+    "name": "Gemini · Day 195",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If your notes app exploded tonight, which three ideas would you mourn and which were pure clutter?"
+   ],
+   "adventures": [
+    "Skim your saved notes and delete five items without archiving them, trusting that anything worth keeping will come back.",
+    "Sit on the floor surrounded by any physical notebooks or papers you keep, and sort them into keep and release piles by touch, not reading."
+   ]
+  },
+  "196": {
+   "day": 196,
+   "holiday": {
+    "name": "Gemini · Day 196",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Whose mind are you performing for when you drop trivia instead of saying what you feel?"
+   ],
+   "adventures": [
+    "Replace one upcoming trivia-drop moment with a direct sentence about what you actually think or want, and watch what happens.",
+    "Trace one fingertip slowly along the edge of the nearest table while you rehearse the honest sentence under your breath — let your hands learn it before your mouth has to perform it."
+   ]
+  },
+  "197": {
+   "day": 197,
+   "holiday": {
+    "name": "Gemini · Day 197",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What two life events that seemed random were probably the same lesson wearing different hats?"
+   ],
+   "adventures": [
+    "Write both events down, then write the common lesson in one sentence that starts with 'Apparently I needed to learn…'",
+    "Go outside and recount the two events aloud to the air while walking; hearing them back-to-back reveals the thread."
+   ]
+  },
+  "198": {
+   "day": 198,
+   "holiday": {
+    "name": "Gemini · Day 198",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Are you explaining things or just decorating your confusion with big words?"
+   ],
+   "adventures": [
+    "Take one idea you use to sound smart and rewrite it in the five simplest words you can find, no jargon allowed.",
+    "Teach that simplified version to a pet, a plant, or a willing roommate while gesturing with your hands like a lecture hall professor."
+   ]
+  },
+  "199": {
+   "day": 199,
+   "holiday": {
+    "name": "Gemini · Day 199",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which conversation did you turn into gossip because the honest version required courage you skipped?"
+   ],
+   "adventures": [
+    "Identify the one you retold for entertainment and ask yourself what the truthful version would have demanded of you instead.",
+    "Write the honest version on paper, read it aloud once in an empty room, then destroy the paper — the point is practice, not evidence."
+   ]
+  },
+  "200": {
+   "day": 200,
+   "holiday": {
+    "name": "Gemini · Day 200",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What have you been 'almost writing' for ages that needs exactly one ugly draft?"
+   ],
+   "adventures": [
+    "Give yourself fifteen minutes to write the worst possible version of it, on purpose, with no editing until the timer ends.",
+    "Write it by hand on cheap paper with a pen you do not respect, so the draft feels disposable enough to start."
+   ]
+  },
+  "201": {
+   "day": 201,
+   "holiday": {
+    "name": "Gemini · Day 201",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If depth is a pool, are you the lifeguard who never swims?"
+   ],
+   "adventures": [
+    "Choose one topic you always discuss superficially and learn one concrete, non-flashy fact about it that would survive scrutiny.",
+    "Find a body of water, a bathtub, or even a deep sink, and hold your hand under the surface while reciting the fact to yourself."
+   ]
+  },
+  "202": {
+   "day": 202,
+   "holiday": {
+    "name": "Gemini · Day 202",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What synthesis are you avoiding because the two ideas together indict you?"
+   ],
+   "adventures": [
+    "Put the two ideas side by side and write the sentence that connects them, even if the sentence points the finger at you.",
+    "Fold the paper in half with the sentence hidden inside and carry it in your pocket all day as a private dare."
+   ]
+  },
+  "203": {
+   "day": 203,
+   "holiday": {
+    "name": "Gemini · Day 203",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Who do you keep around for their mind and then never actually listen to?"
+   ],
+   "adventures": [
+    "Ask that person one question you genuinely do not know the answer to, and listen to the whole answer without redirecting.",
+    "Meet them in person if possible, or sit somewhere their voice can be the only sound while you ask."
+   ]
+  },
+  "204": {
+   "day": 204,
+   "holiday": {
+    "name": "Gemini · Day 204",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is the question you never ask because you are afraid the answer will bore you?"
+   ],
+   "adventures": [
+    "Ask it today of someone whose answer you usually dodge, and commit to hearing the full response before judging it.",
+    "Ask it face to face or by voice call — no text — so you cannot scroll past the dull parts."
+   ]
+  },
+  "205": {
+   "day": 205,
+   "holiday": {
+    "name": "Gemini · Day 205",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When did collecting ideas become your excuse for never building one?"
+   ],
+   "adventures": [
+    "Set a rule: no new input until you have made one thing from what you already have — even a tiny, embarrassing thing.",
+    "Empty your pockets and your bag onto a surface and physically touch every item while asking which one moves the idea forward."
+   ]
+  },
+  "206": {
+   "day": 206,
+   "holiday": {
+    "name": "Gemini · Day 206",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Can you argue the other side of your hottest take well enough to fool its fans?"
+   ],
+   "adventures": [
+    "Write three sentences arguing against your own position, strong enough that your side would nod along, and sit with the discomfort.",
+    "Deliver the argument standing on a chair or a step, loudly, as if campaigning for the opposition."
+   ]
+  },
+  "207": {
+   "day": 207,
+   "holiday": {
+    "name": "Gemini · Day 207",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What have you skimmed that deserved a slow read?"
+   ],
+   "adventures": [
+    "Go back to one article, chapter, or message you skimmed and read it fully, slowly, with no other tabs open.",
+    "Read it aloud in a different room than where you usually read, changing the scenery to force attention."
+   ]
+  },
+  "208": {
+   "day": 208,
+   "holiday": {
+    "name": "Gemini · Day 208",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which of your 'connections' are just audience members you have not impressed lately?"
+   ],
+   "adventures": [
+    "Pick one person you perform for and contact them with zero cleverness — plain words, real question, no routine.",
+    "Handwrite the message first on paper before sending it, so the words have to survive without an audience's laugh track."
+   ]
+  },
+  "209": {
+   "day": 209,
+   "holiday": {
+    "name": "Gemini · Day 209",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What truth are you burying under wit because wit gets applause and truth gets silence?"
+   ],
+   "adventures": [
+    "Write one true sentence today with no joke attached, and share it with exactly one person who will not applaud.",
+    "Say it aloud to yourself in the shower or an empty car where no one can rate your delivery."
+   ]
+  },
+  "210": {
+   "day": 210,
+   "holiday": {
+    "name": "Gemini · Day 210",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If you had to teach your younger self one lesson using only two stories, which two?"
+   ],
+   "adventures": [
+    "Choose the two stories and write the single lesson they share in one line that your younger self would actually hear.",
+    "Tell both stories aloud to a photograph of yourself or an old keepsake, as if your younger self is in the room."
+   ]
+  },
+  "211": {
+   "day": 211,
+   "holiday": {
+    "name": "Gemini · Day 211",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What are you 'researching' that is really just procrastinating with footnotes?"
+   ],
+   "adventures": [
+    "Name the research project and set a deadline today for the decision it is supposedly informing — then honor it.",
+    "Stack every book, printout, or tab-session related to it into one physical pile and look at the pile's ridiculous height."
+   ]
+  },
+  "212": {
+   "day": 212,
+   "holiday": {
+    "name": "Gemini · Day 212",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Whose idea did you steal the vibe of and call it your synthesis?"
+   ],
+   "adventures": [
+    "Credit them explicitly today — in a message, a post, or a conversation — naming what you borrowed and from whom.",
+    "Write their name and the borrowed idea on a sticky note and display it where you work for the rest of the day."
+   ]
+  },
+  "213": {
+   "day": 213,
+   "holiday": {
+    "name": "Gemini · Day 213",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What would change if you finished one thought completely before starting the next?"
+   ],
+   "adventures": [
+    "Take the thought that keeps getting interrupted and write it out to its full conclusion, refusing to stop at the interesting part.",
+    "Sit in one spot without moving until the thought is fully written; treat restlessness as the tax on depth."
+   ]
+  },
+  "214": {
+   "day": 214,
+   "holiday": {
+    "name": "Gemini · Day 214",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Are your questions seeking answers or just applause for how well they are asked?"
+   ],
+   "adventures": [
+    "Ask one question today whose answer might make you look less smart, and genuinely want the answer more than the credit.",
+    "Ask it in a group setting where you cannot control the reaction, and keep your face neutral while it lands."
+   ]
+  },
+  "215": {
+   "day": 215,
+   "holiday": {
+    "name": "Gemini · Day 215",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What two skills you have would combine into something nobody expects from you?"
+   ],
+   "adventures": [
+    "Name the two skills and sketch the hybrid project in three sentences, however absurd it sounds on paper.",
+    "Gather one object representing each skill and place them touching on your desk as a physical promise of the hybrid."
+   ]
+  },
+  "216": {
+   "day": 216,
+   "holiday": {
+    "name": "Gemini · Day 216",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which of your opinions is currently a collage of other people's takes — and what of it would survive if you stripped their voices out?"
+   ],
+   "adventures": [
+    "Admit one changed opinion to someone today without framing it as a joke or a bit — just say what shifted and why.",
+    "Say it while standing still with your feet planted, no pacing, no hand-waving, letting the words carry their own weight."
+   ]
+  },
+  "217": {
+   "day": 217,
+   "holiday": {
+    "name": "Gemini · Day 217",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is the most interesting thing you know that you have never said out loud?"
+   ],
+   "adventures": [
+    "Say it today to one person, unrehearsed, and notice whether the world ends or just continues.",
+    "Whisper it to yourself in a parked car or empty hallway first, testing the shape of it in the air."
+   ]
+  },
+  "218": {
+   "day": 218,
+   "holiday": {
+    "name": "Gemini · Day 218",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which book, show, or person did you quit on right before it got good?"
+   ],
+   "adventures": [
+    "Return to it for thirty minutes today past the point where you quit, and find the thing you were about to miss.",
+    "Revisit it in a place you have never consumed it before — a different chair, a park bench, a laundromat."
+   ]
+  },
+  "219": {
+   "day": 219,
+   "holiday": {
+    "name": "Gemini · Day 219",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What are you pretending is 'too complex' to explain when it is just too exposing?"
+   ],
+   "adventures": [
+    "Explain it in plain language to yourself on paper, and circle the sentence where it gets personal — that is the real topic.",
+    "Read the circled sentence aloud while looking at your own reflection, so you cannot outsource the exposure."
+   ]
+  },
+  "220": {
+   "day": 220,
+   "holiday": {
+    "name": "Gemini · Day 220",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If your attention were money, where is it being pickpocketed daily?"
+   ],
+   "adventures": [
+    "Track every attention-theft for one evening: each notification, scroll, or tangent, logged in a notebook like expenses.",
+    "Walk through your home and physically turn off or unplug three attention-thieves, touching each one as you do."
+   ]
+  },
+  "221": {
+   "day": 221,
+   "holiday": {
+    "name": "Gemini · Day 221",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What does the version of you who commits to depth do differently on an ordinary day?"
+   ],
+   "adventures": [
+    "Do one concrete thing today that the deep version would do — finish the chapter, ask the second question, stay in the room.",
+    "Rearrange one corner of your living space to suit the deep version: a reading chair, a clear surface, a door that closes."
+   ]
+  },
+  "222": {
+   "day": 222,
+   "holiday": {
+    "name": "Gemini · Day 222",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which idea of yours is a Frankenstein — stitched from others and pretending to be born?"
+   ],
+   "adventures": [
+    "Dissect it: list its component parts and their true origins, then decide whether the stitching added anything real.",
+    "Draw the creature on paper — each part labeled with its source — and tape it to your wall as a reminder to build better."
+   ]
+  },
+  "223": {
+   "day": 223,
+   "holiday": {
+    "name": "Gemini · Day 223",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What conversation are you reheating because the new ones require effort you are dodging?"
+   ],
+   "adventures": [
+    "Start one genuinely new conversation today about a topic you know nothing about, with someone you rarely talk to.",
+    "Have it on foot, walking side by side, where the pace keeps either of you from retreating into the old script."
+   ]
+  },
+  "224": {
+   "day": 224,
+   "holiday": {
+    "name": "Gemini · Day 224",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When did 'I read about that' become your substitute for 'I understand that'?"
+   ],
+   "adventures": [
+    "Pick one thing you claim to know and explain its mechanism or logic from memory, no references, until you hit the wall.",
+    "Explain it while doing a physical task like cooking or cleaning, so your body keeps working when your brain wants to quit."
+   ]
+  },
+  "225": {
+   "day": 225,
+   "holiday": {
+    "name": "Gemini · Day 225",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What two opposites are both true about you, and why do you only advertise one?"
+   ],
+   "adventures": [
+    "Write both truths down and spend five minutes considering what the hidden one is protecting you from admitting.",
+    "Stand with one hand on each of two different objects in your home, one for each truth, and say both aloud."
+   ]
+  },
+  "226": {
+   "day": 226,
+   "holiday": {
+    "name": "Gemini · Day 226",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Who taught you the most by being wrong in front of you?"
+   ],
+   "adventures": [
+    "Write them a note of thanks naming the specific lesson, and mean it without a single joke undercutting the gratitude.",
+    "Deliver it by hand or by voice message so the warmth has to travel without the shield of text."
+   ]
+  },
+  "227": {
+   "day": 227,
+   "holiday": {
+    "name": "Gemini · Day 227",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is your most-performed insight — the one you say because it lands, not because you live it?"
+   ],
+   "adventures": [
+    "Test it: apply the insight to one real decision today and record whether it actually works or just sounds good.",
+    "Perform the application in the most unglamorous setting available — a grocery aisle, a parking lot — where no one is watching."
+   ]
+  },
+  "228": {
+   "day": 228,
+   "holiday": {
+    "name": "Gemini · Day 228",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If you could only keep one question you have ever asked, which one earned its keep?"
+   ],
+   "adventures": [
+    "Write down that question and answer it as fully as you can now, noting how your answer has changed since you first asked.",
+    "Carve or write it somewhere semi-permanent — a notebook's first page, a bookmark — so it outlives your feed."
+   ]
+  },
+  "229": {
+   "day": 229,
+   "holiday": {
+    "name": "Gemini · Day 229",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What are you using speed to avoid — and what would slow reveal?"
+   ],
+   "adventures": [
+    "Do one thinking task at half your normal pace today: read slowly, write slowly, decide slowly, and log what surfaces.",
+    "Walk somewhere you usually rush to at a deliberate crawl, touching the ground with each step like you are counting it."
+   ]
+  },
+  "230": {
+   "day": 230,
+   "holiday": {
+    "name": "Gemini · Day 230",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which of your friendships runs on entertainment, and what would honesty cost it?"
+   ],
+   "adventures": [
+    "With that friend, replace one entertaining story today with one honest admission, and observe the price or the gift.",
+    "Have that exchange sitting across from them or on a voice call — no texting, so the honesty has a heartbeat."
+   ]
+  },
+  "231": {
+   "day": 231,
+   "holiday": {
+    "name": "Gemini · Day 231",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What idea deserves a second draft instead of a clever first impression?"
+   ],
+   "adventures": [
+    "Take one half-formed opinion and develop it into a full paragraph with evidence, examples, and one honest doubt.",
+    "Write the paragraph by hand in your neatest script, as if it will be read by someone who matters."
+   ]
+  },
+  "232": {
+   "day": 232,
+   "holiday": {
+    "name": "Gemini · Day 232",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When did you last synthesize in silence instead of narrating the synthesis for credit?"
+   ],
+   "adventures": [
+    "Solve or connect something today without telling anyone about the process — let the result speak or stay private.",
+    "Work on it in a room with the door closed and your phone face-down, letting the quiet do the talking."
+   ]
+  },
+  "233": {
+   "day": 233,
+   "holiday": {
+    "name": "Gemini · Day 233",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What two things that annoy you about others are actually your own habits with better PR?"
+   ],
+   "adventures": [
+    "Name both habits honestly and pick one concrete way you will stop doing yours, starting now.",
+    "Write the habit on your bathroom mirror in dry-erase or sticky note so you meet it every morning."
+   ]
+  },
+  "234": {
+   "day": 234,
+   "holiday": {
+    "name": "Gemini · Day 234",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If you had to bet money on one of your theories about life, which one survives scrutiny?"
+   ],
+   "adventures": [
+    "Pick your strongest theory and stress-test it against one real counterexample, writing down the result either way.",
+    "Pace a hallway or a long room while arguing both sides aloud, letting your footsteps mark the rounds."
+   ]
+  },
+  "235": {
+   "day": 235,
+   "holiday": {
+    "name": "Gemini · Day 235",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What have you learned from someone you consider less interesting than you?"
+   ],
+   "adventures": [
+    "Identify one specific thing and write down how it changed your thinking, giving them full credit by name.",
+    "Thank them in person or by voice, naming the lesson, and watch what real connection does to your chest."
+   ]
+  },
+  "236": {
+   "day": 236,
+   "holiday": {
+    "name": "Gemini · Day 236",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which question are you asking everyone except the person who could actually answer it?"
+   ],
+   "adventures": [
+    "Take that question directly to the person who knows, today, and accept whatever answer comes back.",
+    "Ask it standing in their doorway or on a call with no escape hatch — no texting it from the couch."
+   ]
+  },
+  "237": {
+   "day": 237,
+   "holiday": {
+    "name": "Gemini · Day 237",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is the synthesis you keep describing but have never written in one place?"
+   ],
+   "adventures": [
+    "Write the full synthesis now: the two ideas, the connection, and what it means, in one document or page.",
+    "Write it longhand at a table with no screens nearby, and number the paragraphs so it feels like a real thing."
+   ]
+  },
+  "238": {
+   "day": 238,
+   "holiday": {
+    "name": "Gemini · Day 238",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Are you curious about people or just about what they can teach you?"
+   ],
+   "adventures": [
+    "Ask someone about something that interests them but does not benefit you at all, and care about the answer.",
+    "Listen to their answer while doing something generous with your hands — making them tea, helping with a task."
+   ]
+  },
+  "239": {
+   "day": 239,
+   "holiday": {
+    "name": "Gemini · Day 239",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What would your notes say about you if they were read as a diary of your attention?"
+   ],
+   "adventures": [
+    "Read your back pages of notes as if they were someone else's, and write one paragraph about what that person values.",
+    "Read them in a bathtub or a comfortable chair with the pages spread around you, like evidence laid out for inspection."
+   ]
+  },
+  "240": {
+   "day": 240,
+   "holiday": {
+    "name": "Gemini · Day 240",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which of your talents are you wasting on impressing strangers instead of building something?"
+   ],
+   "adventures": [
+    "Redirect one talent today toward a private project — no audience, no posting — and feel the difference.",
+    "Do the work in the least impressive location available: a closet desk, a kitchen counter, the floor."
+   ]
+  },
+  "241": {
+   "day": 241,
+   "holiday": {
+    "name": "Gemini · Day 241",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What two unrelated obsessions of yours would make a brilliant project if you stopped keeping them apart?"
+   ],
+   "adventures": [
+    "Name both obsessions and write the project pitch in two sentences, then commit to one hour of it as soon as you can.",
+    "Place one object from each obsession side by side on your nightstand tonight as a dare to your dreaming mind."
+   ]
+  },
+  "242": {
+   "day": 242,
+   "holiday": {
+    "name": "Gemini · Day 242",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When did gossip last substitute for the honest conversation you owed someone?"
+   ],
+   "adventures": [
+    "Go back and have the honest version with the person it was about, if it is safe and kind to do so.",
+    "If you cannot have it, write the honest version unsent, read it aloud once, and let the discomfort teach you."
+   ]
+  },
+  "243": {
+   "day": 243,
+   "holiday": {
+    "name": "Gemini · Day 243",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is the deepest thing you believe that you have never tested?"
+   ],
+   "adventures": [
+    "Design the smallest possible test of that belief and run it today, recording the outcome without spin.",
+    "Run the test somewhere physical — a store, a street, a gathering — where reality can answer back."
+   ]
+  },
+  "244": {
+   "day": 244,
+   "holiday": {
+    "name": "Gemini · Day 244",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If all these questions ended today, what is the one synthesis you would keep?"
+   ],
+   "adventures": [
+    "Write the synthesis that survived all this poking: the two ideas, the link, and what you will build from it.",
+    "Speak it aloud somewhere that echoes — a stairwell, a garage, an empty room — and let it land as a promise."
+   ]
+  },
+  "245": {
+   "day": 245,
+   "holiday": {
+    "name": "Gemini · Day 245",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Name the thing you dropped exactly when it stopped being novel — what would the next layer have cost you, and what did leaving cost more?"
+   ],
+   "adventures": [
+    "Reopen one abandoned thread today and give it a single unhurried hour — not to finish, just to find where the boredom was guarding the good part.",
+    "Find the dullest corner of your home, sit in it with nothing to scroll, and stay until the restlessness runs out of material."
+   ]
+  },
+  "246": {
+   "day": 246,
+   "holiday": {
+    "name": "Gemini · Day 246",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which relationship in your life has been stuck at the appetizer stage for years because you keep ordering new ones instead of finishing dinner?"
+   ],
+   "adventures": [
+    "Call one person you usually text in fragments and stay on one topic until it turns uncomfortable — then keep going one more minute.",
+    "Write a full-page letter by hand to someone you know well; no editing, no second page, and mail it like it matters."
+   ]
+  },
+  "247": {
+   "day": 247,
+   "holiday": {
+    "name": "Gemini · Day 247",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "How many of your ‘deep talks’ are actually the same shallow loop with better vocabulary?"
+   ],
+   "adventures": [
+    "Pick the topic you always circle and today drill into it with a friend — ask ‘why’ three times in a row and refuse to deflect.",
+    "Set two chairs facing each other in an empty room; sit in one and speak your actual fear about commitment aloud, then switch chairs and answer yourself."
+   ]
+  },
+  "248": {
+   "day": 248,
+   "holiday": {
+    "name": "Gemini · Day 248",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What would you discover about yourself if you stayed in the boring meeting with your own thoughts for twenty minutes?"
+   ],
+   "adventures": [
+    "Spend twenty minutes writing down every unfinished idea you can remember — no organizing, just the inventory of your escape routes.",
+    "Lie flat on the floor of the least comfortable room you own, hands still, and list out loud everything you are currently half-in on."
+   ]
+  },
+  "249": {
+   "day": 249,
+   "holiday": {
+    "name": "Gemini · Day 249",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Is your curiosity a compass or a casino — pointing you somewhere true, or just feeding you new chips to chase?"
+   ],
+   "adventures": [
+    "Choose one question that genuinely nags you and give it a full week — today, write the question on a card and tape it where you will trip over it daily.",
+    "Walk a straight line through your neighborhood for thirty minutes with no turns for novelty’s sake; notice what the sameness starts saying."
+   ]
+  },
+  "250": {
+   "day": 250,
+   "holiday": {
+    "name": "Gemini · Day 250",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When did you last let someone bore you on purpose — and listen all the way through their boring, instead of summarizing them out of it?"
+   ],
+   "adventures": [
+    "Today, let one person finish their whole long story without steering it; your only job is to ask what happened next, twice.",
+    "Sit beside someone doing their repetitive task — folding laundry, sorting screws — and do it with them in silence until it is done."
+   ]
+  },
+  "251": {
+   "day": 251,
+   "holiday": {
+    "name": "Gemini · Day 251",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What if the reason nothing feels deep is that you keep wading at the edge and calling the splash ‘diving’?"
+   ],
+   "adventures": [
+    "Pick the book you skimmed, the class you dropped, the skill you sampled — choose one and do lesson one properly today, pen out.",
+    "Fill one whole notebook page with a single idea, expanding it line by line, no topic jumps; if your hand drifts, drag it back."
+   ]
+  },
+  "252": {
+   "day": 252,
+   "holiday": {
+    "name": "Gemini · Day 252",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Who in your life actually knows your ugly middle-of-the-process self, and isn’t that list suspiciously short?"
+   ],
+   "adventures": [
+    "Tell one trusted person something you are genuinely bad at right now — mid-attempt, mid-struggle — and resist the urge to narrate it as funny.",
+    "Take a mirror into a quiet room and say out loud the sentence you have been editing for weeks; hear how it sounds unpolished."
+   ]
+  },
+  "253": {
+   "day": 253,
+   "holiday": {
+    "name": "Gemini · Day 253",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Are you collecting people like bookmarks — marking pages you never intend to finish?"
+   ],
+   "adventures": [
+    "Pick one bookmarked person and commit to a real plan this week; send the message today naming a time and place.",
+    "Draw a simple map of your relationships on paper: circle the three you would trust with a 3am call, and stand up and say their names to the room."
+   ]
+  },
+  "254": {
+   "day": 254,
+   "holiday": {
+    "name": "Gemini · Day 254",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is the oldest promise you have kept, and why does that one still hold when everything newer dissolved?"
+   ],
+   "adventures": [
+    "Write down one promise you made and forgot; today, either honor it or formally release it — no more ghosting your own word.",
+    "Speak the kept promise aloud as a vow in one fixed posture — kneeling, standing, seated — then write the forgotten one on paper and burn or bury it."
+   ]
+  },
+  "255": {
+   "day": 255,
+   "holiday": {
+    "name": "Gemini · Day 255",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If boredom is the toll booth on the road to mastery, how many tolls have you U-turned away from?"
+   ],
+   "adventures": [
+    "Choose the skill you are most tempted to quit at the plateau and do the dullest drill in it today — scales, reps, flashcards — without flair.",
+    "Stand at your desk and do one repetitive motion — sorting, stacking, counting — for ten minutes; watch your brain protest and stay anyway."
+   ]
+  },
+  "256": {
+   "day": 256,
+   "holiday": {
+    "name": "Gemini · Day 256",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which of your opinions is just a performance of thinking, rehearsed enough to sound original?"
+   ],
+   "adventures": [
+    "Pick one strong opinion you love to voice and spend today interrogating it: find the best counterargument and write it down fairly.",
+    "Stand on your front step and argue the other side of your favorite debate aloud to nobody; feel how strange sincerity on the wrong side tastes."
+   ]
+  },
+  "257": {
+   "day": 257,
+   "holiday": {
+    "name": "Gemini · Day 257",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Do you gossip because it is fun, or because honesty with the actual person would require staying in the room?"
+   ],
+   "adventures": [
+    "Next time you are about to share someone else’s news, say it to that person instead — or say nothing at all; notice which is harder.",
+    "Write the piece of gossip you most want to spread on paper, read it aloud once, then tear the paper up and throw it away outside."
+   ]
+  },
+  "258": {
+   "day": 258,
+   "holiday": {
+    "name": "Gemini · Day 258",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What question are you avoiding because answering it would commit you to something?"
+   ],
+   "adventures": [
+    "Write the avoided question at the top of a page and answer it in five sentences — no jokes, no hedging, signed like a contract.",
+    "Carry that page in your pocket all day; every time you touch it, you are reminded the question is still waiting — and so is the commitment."
+   ]
+  },
+  "259": {
+   "day": 259,
+   "holiday": {
+    "name": "Gemini · Day 259",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Is your group chat a community or a slot machine — and what would one actual dinner change?"
+   ],
+   "adventures": [
+    "Convert one digital thread into a real meeting: invite two group-chat people to one physical table this week.",
+    "Set the table — real plates, real glasses — for the people you invited, even if it is just coffee; make the physical space commit first."
+   ]
+  },
+  "260": {
+   "day": 260,
+   "holiday": {
+    "name": "Gemini · Day 260",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When everything is interesting, nothing is — so what have you starved of attention by feeding everything equally?"
+   ],
+   "adventures": [
+    "Starve your attention today: pick three ‘interesting’ things and ignore them deliberately, feeding only the one that matters most.",
+    "Place the one that matters on your desk, remove everything else from the room, and work with the door closed for one hour."
+   ]
+  },
+  "261": {
+   "day": 261,
+   "holiday": {
+    "name": "Gemini · Day 261",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What is the difference between your curiosity and a magpie’s, and when was the last time you proved it?"
+   ],
+   "adventures": [
+    "Take the shiniest distraction in your life and set a boundary with it today — one rule, one line, no exceptions for a week.",
+    "Put the distraction’s object — phone, app, gadget — in a drawer in another room for the evening; feel the magpie squawk and outlast it."
+   ]
+  },
+  "262": {
+   "day": 262,
+   "holiday": {
+    "name": "Gemini · Day 262",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Who would you be if you finished things — if ‘done’ was not just another rumor about you?"
+   ],
+   "adventures": [
+    "Finish one small thing today, fully: the email, the shelf, the call — and say the word ‘done’ out loud when it is true.",
+    "Line up three unfinished physical items on a table and finish the smallest one with your hands; photograph nothing, tell no one."
+   ]
+  },
+  "263": {
+   "day": 263,
+   "holiday": {
+    "name": "Gemini · Day 263",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Are you afraid of commitment, or are you afraid of being seen committing to the wrong thing?"
+   ],
+   "adventures": [
+    "Admit one wrong choice you are stuck defending; today, either recommit to it honestly or walk away cleanly — no more fence-sitting.",
+    "Stand in front of a closed door and say your decision aloud before opening it; the door is the wrong choice, walking through is the answer."
+   ]
+  },
+  "264": {
+   "day": 264,
+   "holiday": {
+    "name": "Gemini · Day 264",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What would change if you treated one friendship like a novel instead of a news feed?"
+   ],
+   "adventures": [
+    "Learn one new true thing about an old friend today — ask a question you have never asked them, and remember the answer.",
+    "Sit with that friend somewhere quiet, phones face-down under the table, and talk until the conversation surprises you."
+   ]
+  },
+  "265": {
+   "day": 265,
+   "holiday": {
+    "name": "Gemini · Day 265",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Is the novelty wearing off, or were you only ever in love with the beginning?"
+   ],
+   "adventures": [
+    "Revisit the beginning of something you still have: re-read the first chapter, re-walk the first route — and find one thing you missed the first time.",
+    "Return physically to where it started — the café, the trailhead, the desk — and stand there noticing what has changed, including you."
+   ]
+  },
+  "266": {
+   "day": 266,
+   "holiday": {
+    "name": "Gemini · Day 266",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Which decision are you keeping permanently 'almost made' because the doorway feels safer than either room?"
+   ],
+   "adventures": [
+    "Close one mental tab today: make the decision you have been deferring, any decision, and write it down so it cannot reopen.",
+    "Open every physical drawer in your home and close them one by one, saying what each holds; the last one closed is the decision you have been dodging."
+   ]
+  },
+  "267": {
+   "day": 267,
+   "holiday": {
+    "name": "Gemini · Day 267",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Do you talk to be heard, or do you talk so no one can ask you anything real?"
+   ],
+   "adventures": [
+    "In your next conversation, answer one question with complete honesty before adding any joke — count the seconds of silence after.",
+    "Hold your tongue for five full minutes in a conversation and let the other person’s words fill the room; notice how loud the quiet gets."
+   ]
+  },
+  "268": {
+   "day": 268,
+   "holiday": {
+    "name": "Gemini · Day 268",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What does your attention span look like from the other side — to the people waiting for you to land?"
+   ],
+   "adventures": [
+    "Ask one person: ‘When do I seem far away?’ — and listen to the answer without defending yourself.",
+    "Sit knee-to-knee with someone, maintain eye contact for two full minutes without speaking; let their face be the only stimulus."
+   ]
+  },
+  "269": {
+   "day": 269,
+   "holiday": {
+    "name": "Gemini · Day 269",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "If you had to bet your reputation on one idea for the next year, which one would survive the wager?"
+   ],
+   "adventures": [
+    "Write your one-year idea on an index card and carry it for a week; every new shiny idea has to argue with it before you chase it.",
+    "Plant the card somewhere you will see it every morning — bathroom mirror, fridge — and touch it each day as a renewal of the bet."
+   ]
+  },
+  "270": {
+   "day": 270,
+   "holiday": {
+    "name": "Gemini · Day 270",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Is your wit a bridge or a moat — connecting you to people, or keeping them at a clever distance?"
+   ],
+   "adventures": [
+    "Today, deliver one compliment with zero irony and zero punchline; watch how exposed sincerity feels.",
+    "Stand before a mirror and say three true, unironic things about someone you love; notice which is hardest to say straight."
+   ]
+  },
+  "271": {
+   "day": 271,
+   "holiday": {
+    "name": "Gemini · Day 271",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "What are you synthesizing, really — ideas, or just excuses for not picking one?"
+   ],
+   "adventures": [
+    "Take your three favorite half-ideas and force-merge them into one commitment today; write the merged version as a single-sentence vow.",
+    "Build a physical collage of the three ideas — cut paper, glue, one board — then circle the part you will actually do and cross out the rest."
+   ]
+  },
+  "272": {
+   "day": 272,
+   "holiday": {
+    "name": "Gemini · Day 272",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "When was the last time you were the student of something boring — and stayed until it stopped being boring?"
+   ],
+   "adventures": [
+    "Find the most tedious tutorial in your field and work through it completely today, taking notes like it was scripture.",
+    "Kneel on the floor with the tutorial open and a notebook; the posture of a student changes what the mind allows in."
+   ]
+  },
+  "273": {
+   "day": 273,
+   "holiday": {
+    "name": "Gemini · Day 273",
+    "action": "THE NEXT QUESTION — AIR / CURIOSITY / CONNECTION"
+   },
+   "soulQuestions": [
+    "Do you know anyone deeply, or do you know a lot of people shallowly enough to seem deep about them?"
+   ],
+   "adventures": [
+    "Pick one person and learn their actual inner weather today — not their updates, their undercurrents; ask and then shut up.",
+    "Walk with that person somewhere with no destination; walking side by side loosens the truths that face-to-face hides."
+   ]
+  }
+ }
+}

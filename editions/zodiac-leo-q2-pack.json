@@ -1,0 +1,1373 @@
+{
+ "edition": "zodiac-leo-q2",
+ "name": "Leo — THE BRIGHT YES · Undated Edition — Q2",
+ "undated": true,
+ "themes": {},
+ "days": {
+  "92": {
+   "day": 92,
+   "holiday": {
+    "name": "Leo · Day 92",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What are you hoarding — credit, ideas, invitations — because sharing feels like shrinking?"
+   ],
+   "adventures": [
+    "Send one opportunity, contact, or idea to someone it could help more than your ego. Send it before you can negotiate with yourself.",
+    "Set an extra place at your table or an extra chair in your circle today, even symbolically. Make physical room for someone else.",
+    "I feel most like myself when I pass the mic and discover the song gets bigger, not smaller."
+   ]
+  },
+  "93": {
+   "day": 93,
+   "holiday": {
+    "name": "Leo · Day 93",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where does your playfulness go when there's a chance you'll be judged for it?"
+   ],
+   "adventures": [
+    "Recall the last time you swallowed a joke or a game to stay dignified. Write down what the moment lost because of it.",
+    "Blow bubbles, toss a ball against a wall, or race someone to the door. Let your body remember play needs no justification.",
+    "I feel most like myself when I make the silly face first and break the tension for everyone."
+   ]
+  },
+  "94": {
+   "day": 94,
+   "holiday": {
+    "name": "Leo · Day 94",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Can you apologize without turning the apology into a monologue about your intentions?"
+   ],
+   "adventures": [
+    "Draft a clean apology: name the act, name the impact, no defense paragraph. Send it or save it, but write it clean.",
+    "Kneel down or sit on the floor for a few minutes while you think about it. Let your body practice a lower position without shame.",
+    "I feel most like myself when I say 'I was wrong, I'm sorry' and let the sentence end there."
+   ]
+  },
+  "95": {
+   "day": 95,
+   "holiday": {
+    "name": "Leo · Day 95",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What truth about your ambition would you admit if ambition weren't embarrassing to want out loud?"
+   ],
+   "adventures": [
+    "State one ambition plainly in writing, no hedging adverbs allowed. Read it back until it stops sounding like a confession.",
+    "Stand tall in a doorway, arms relaxed, and say that ambition out loud to the empty room. Hear it take up acoustic space.",
+    "I feel most like myself when I say I want the big thing without adding a self-deprecating joke as insurance."
+   ]
+  },
+  "96": {
+   "day": 96,
+   "holiday": {
+    "name": "Leo · Day 96",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Who sees you clearly and loves you anyway, and why do you still perform for the ones who don't?"
+   ],
+   "adventures": [
+    "Make a short list of your no-performance people. Send one of them a message that assumes you're already fully accepted.",
+    "Visit or sit in the place where you feel least performative. Notice your breathing, your posture, how your face rests there.",
+    "I feel most like myself when I'm with the people I never have to warm up for."
+   ]
+  },
+  "97": {
+   "day": 97,
+   "holiday": {
+    "name": "Leo · Day 97",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would you stop rehearsing if you trusted that your first, honest reaction was enough?"
+   ],
+   "adventures": [
+    "Pick one low-stakes question today and answer it within five seconds, unedited. Note how the world responds to the rough draft of you.",
+    "Shake your whole body out for sixty seconds — arms, legs, head, voice. Reset like an animal after a startle, not a brand after a scandal.",
+    "I feel most like myself when I answer from the gut before the press release in my head gets drafted."
+   ]
+  },
+  "98": {
+   "day": 98,
+   "holiday": {
+    "name": "Leo · Day 98",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How does generosity change when you give the thing that actually costs you something?"
+   ],
+   "adventures": [
+    "Identify what you give easily because it costs nothing. Choose one costlier gift — an hour, a skill, your full attention — and offer it.",
+    "Hand over the better portion: the bigger slice, the seat with the view, the first pick. Watch your hands learn abundance.",
+    "I feel most like myself when I give my time, not just my leftovers, and it stings a little in the best way."
+   ]
+  },
+  "99": {
+   "day": 99,
+   "holiday": {
+    "name": "Leo · Day 99",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What story about being 'too much' are you still obeying, and who wrote it?"
+   ],
+   "adventures": [
+    "Write the 'too much' accusation down, then argue back to it on paper like a friend who's heard enough of that nonsense.",
+    "Wear or use the boldest color you own today. Move through your errands at full saturation and notice who actually minds. (Spoiler: almost nobody.)",
+    "I feel most like myself when my laughter, my colors, and my opinions arrive at full size."
+   ]
+  },
+  "100": {
+   "day": 100,
+   "holiday": {
+    "name": "Leo · Day 100",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "If your worth had amnesia about every achievement, what would be left that you actually like about yourself?"
+   ],
+   "adventures": [
+    "List five qualities you have that can't be put on a résumé — how you hug, how you notice people, how you recover. Read them slowly.",
+    "Lie down flat, arms open, and rest for ten minutes without earning it first. Practice existing at full value while doing nothing.",
+    "I feel most like myself when I remember I'm lovable at zero accomplishments and a bad night's sleep."
+   ]
+  },
+  "101": {
+   "day": 101,
+   "holiday": {
+    "name": "Leo · Day 101",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where are you confusing being needed with being loved?"
+   ],
+   "adventures": [
+    "Decline one rescue mission today that isn't truly yours. Write what you fear will happen if you're not indispensable, then watch reality test it.",
+    "Let someone else host, drive, decide, or organize. Sit in the passenger seat — literal if possible — and keep your hands off the wheel.",
+    "I feel most like myself when I can be useless for an afternoon and still feel cherished."
+   ]
+  },
+  "102": {
+   "day": 102,
+   "holiday": {
+    "name": "Leo · Day 102",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What does your creative courage want to make before your inner critic finishes its coffee?"
+   ],
+   "adventures": [
+    "Set a timer for fifteen minutes and produce an ugly first version of something. Ugly is the assignment, not the accident.",
+    "Gather your materials in the middle of the floor, not at a tidy desk. Sit among them and begin from inside the beautiful Khaos.",
+    "I feel most like myself when I start before I'm ready and let momentum do the introductions."
+   ]
+  },
+  "103": {
+   "day": 103,
+   "holiday": {
+    "name": "Leo · Day 103",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How often do you compliment others in public but criticize yourself in an endless private loop?"
+   ],
+   "adventures": [
+    "Catch one self-insult today and rewrite it in the voice you use for your favorite person. Say the rewrite out loud once.",
+    "Put a hand over your heart and feel it beat while you breathe slowly for one minute. That's your oldest audience; treat it kindly.",
+    "I feel most like myself when I talk to myself with the same generosity I hand out so easily."
+   ]
+  },
+  "104": {
+   "day": 104,
+   "holiday": {
+    "name": "Leo · Day 104",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What are you waiting to be chosen for that you could simply choose yourself for?"
+   ],
+   "adventures": [
+    "Name one title, project, or identity you keep hoping someone grants you. Write the first step you'd take if it were already yours.",
+    "Make yourself a badge, crown, or ridiculous paper medal for that role. Wear it while you take the first step.",
+    "I feel most like myself when I cast myself in the role instead of refreshing my inbox for permission."
+   ]
+  },
+  "105": {
+   "day": 105,
+   "holiday": {
+    "name": "Leo · Day 105",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "When someone outshines you at your own table, what's your honest first move — celebrate, compete, or quietly withdraw?"
+   ],
+   "adventures": [
+    "Recall your last withdraw-or-compete moment without editing yourself into the hero. Write what celebration would have required of you.",
+    "Raise a glass — water counts — to someone else's win, standing up as you do it. Let your body learn that honoring isn't losing.",
+    "I feel most like myself when I can stay at the table, glowing and grounded, while someone else gets the toast."
+   ]
+  },
+  "106": {
+   "day": 106,
+   "holiday": {
+    "name": "Leo · Day 106",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What part of your identity is a costume you keep wearing because it once got applause?"
+   ],
+   "adventures": [
+    "Pick one crowd-pleasing habit — the fixer, the clown, the achiever — and skip it once today. Note what rushes in to fill the silence.",
+    "At home, change into the clothes you wear when nobody's coming over. Do one public-facing task dressed as your private self.",
+    "I feel most like myself when I hang up the crowd-pleasing character and walk around in my actual skin."
+   ]
+  },
+  "107": {
+   "day": 107,
+   "holiday": {
+    "name": "Leo · Day 107",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How would you spend your warmth if you stopped treating it like a limited spotlight?"
+   ],
+   "adventures": [
+    "Mentor, encourage, or teach one person something you know, expecting nothing back, not even gratitude performed on cue.",
+    "Open curtains or blinds in every room and let outside light rearrange the mood. Notice how freely it shares itself.",
+    "I feel most like myself when I realize my light isn't a cake — nobody's slice makes mine thinner."
+   ]
+  },
+  "108": {
+   "day": 108,
+   "holiday": {
+    "name": "Leo · Day 108",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What failure are you still hiding that could actually set someone else free if you told it straight?"
+   ],
+   "adventures": [
+    "Write the failure as a two-paragraph story with a beginning and what it taught you, no redemption montage required.",
+    "Find one broken or repaired object in your home and hold it. Let your hands remember that mended things still work beautifully.",
+    "I feel most like myself when my scars get speaking parts instead of being airbrushed out of the story."
+   ]
+  },
+  "109": {
+   "day": 109,
+   "holiday": {
+    "name": "Leo · Day 109",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Are you listening to understand people, or listening for your entrance cue?"
+   ],
+   "adventures": [
+    "In one conversation today, summarize what the other person said before adding anything of yours. Watch what that does to them.",
+    "Sit in a public place and just listen for five minutes — voices, footsteps, dishes, wind. Practice receiving a world that isn't about you.",
+    "I feel most like myself when a conversation ends and I know more about them than they know about me — and that's fine."
+   ]
+  },
+  "110": {
+   "day": 110,
+   "holiday": {
+    "name": "Leo · Day 110",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would your play look like if no adult in the room was allowed to call it a waste of time?"
+   ],
+   "adventures": [
+    "Schedule play like it matters — because the alternative is a life optimized into a spreadsheet. Put it in writing where you'll see it.",
+    "Spend ten minutes doing something gloriously unproductive with your body: skipping, spinning, doodling giant spirals on paper on the floor.",
+    "I feel most like myself when I build the blanket fort, start the water fight, or invent the game with terrible rules."
+   ]
+  },
+  "111": {
+   "day": 111,
+   "holiday": {
+    "name": "Leo · Day 111",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where does your pride refuse feedback from the exact people whose feedback would help most?"
+   ],
+   "adventures": [
+    "Ask one close person: 'What's one thing I do that makes me harder to love?' Promise, in writing to yourself, not to argue for ten minutes.",
+    "Sit in the lowest, coziest seat in your home while you consider their answer. Let the posture match the humility you're practicing.",
+    "I feel most like myself when I let the people closest to me edit the story I'm telling about myself."
+   ]
+  },
+  "112": {
+   "day": 112,
+   "holiday": {
+    "name": "Leo · Day 112",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What are you performing as 'fine' while your body is sending completely different memos?"
+   ],
+   "adventures": [
+    "Do a quick inventory: sleep, hunger, loneliness, overstimulation. Write which one is actually underneath today's mood.",
+    "Stretch the places that are holding the performance — neck, chest, hips. Exhale loudly enough to hear yourself, Leo; no whispering your own relief.",
+    "I feel most like myself when I let my face match my insides, even when the match isn't photogenic."
+   ]
+  },
+  "113": {
+   "day": 113,
+   "holiday": {
+    "name": "Leo · Day 113",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "If generosity had no audience and no tax write-off for your ego, what would you give first?"
+   ],
+   "adventures": [
+    "Choose a gift that will never be traced to you and arrange it today. The anonymity is the whole exercise.",
+    "Carry something heavy for someone — a bag, a box, a door held longer than polite. Feel generosity in your muscles, not your image.",
+    "I feel most like myself when giving feels like breathing out — natural, quiet, and necessary."
+   ]
+  },
+  "114": {
+   "day": 114,
+   "holiday": {
+    "name": "Leo · Day 114",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What new thing would you try if being a beginner didn't feel like a public relations problem?"
+   ],
+   "adventures": [
+    "Book, start, or sign up for the beginner thing in one small step today. Small enough that your pride can't mount a defense.",
+    "Use your non-dominant hand for a simple task — brushing teeth, stirring, writing your name. Sit inside the clumsiness without fixing it.",
+    "I feel most like myself when my curiosity is louder than my reputation management."
+   ]
+  },
+  "115": {
+   "day": 115,
+   "holiday": {
+    "name": "Leo · Day 115",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How do you want people to feel after they leave your presence — impressed, or warmed?"
+   ],
+   "adventures": [
+    "Pick one interaction today and aim only for warmth: no flexing, no name-drops, no highlight reel. Debrief yourself honestly afterward.",
+    "Make your entryway or doorstep more welcoming — sweep it, add a plant, fix the light. Let your space greet people before you perform a greeting.",
+    "I feel most like myself when people leave my company a little braver about their own lives."
+   ]
+  },
+  "116": {
+   "day": 116,
+   "holiday": {
+    "name": "Leo · Day 116",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What compliment do you fish for, and what would it actually prove if you finally caught it?"
+   ],
+   "adventures": [
+    "Write the exact compliment you crave. Then write why a stranger's version of it would still leave you hungry an hour later.",
+    "Stand in front of a mirror and deliver that compliment to yourself, out loud, eye contact held. Awkward is data, not failure.",
+    "I feel most like myself when I can receive praise with a simple thank-you instead of a fishing rod or a deflection."
+   ]
+  },
+  "117": {
+   "day": 117,
+   "holiday": {
+    "name": "Leo · Day 117",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where are you mistaking dramatic intensity for intimacy?"
+   ],
+   "adventures": [
+    "Think of one relationship that runs on crisis and chemistry. Write what a boring, stable Tuesday with that person would actually look like.",
+    "Share a quiet activity side by side — shelling peas, folding towels, walking without talking. Let silence do some of the bonding.",
+    "I feel most like myself when closeness feels calm enough to hear a kettle click off together."
+   ]
+  },
+  "118": {
+   "day": 118,
+   "holiday": {
+    "name": "Leo · Day 118",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What does your shadow do with a compliment meant for someone else?"
+   ],
+   "adventures": [
+    "Forward one piece of praise you overheard about a third person directly to them, word for word, adding nothing about yourself.",
+    "Arrange flowers, fruit, or objects so the best one sits off-center, not in the middle. Photograph nothing; just enjoy asymmetry.",
+    "I feel most like myself when I can hear 'she's amazing' or 'he nailed it' and feel the celebration, not the subtraction."
+   ]
+  },
+  "119": {
+   "day": 119,
+   "holiday": {
+    "name": "Leo · Day 119",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "If you stopped defending your image for one whole day, what would you have energy to build instead?"
+   ],
+   "adventures": [
+    "Estimate how many minutes you spend daily managing impressions. Write down one project that deserves those stolen minutes back.",
+    "Work on something with your hands for twenty minutes — repair, build, plant, assemble. Let the finished object argue for you.",
+    "I feel most like myself when my hands are too busy making something to keep adjusting my crown."
+   ]
+  },
+  "120": {
+   "day": 120,
+   "holiday": {
+    "name": "Leo · Day 120",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What kind of leader shows up when there's no title, no credit line, and no one keeping minutes?"
+   ],
+   "adventures": [
+    "Find one leaderless mess today — a plan nobody's making, a person nobody's checked on — and quietly handle one piece of it.",
+    "Tidy a shared space that isn't technically your job: a break room counter, a shared hallway, a friend's passenger seat. Leave it better and unbragged about.",
+    "I feel most like myself when I take care of the room without needing the room to know it was me."
+   ]
+  },
+  "121": {
+   "day": 121,
+   "holiday": {
+    "name": "Leo · Day 121",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How can you let your warmth be a practice instead of a performance that depends on the crowd's mood?"
+   ],
+   "adventures": [
+    "Define your warmth in verbs, not vibes: call, feed, include, encourage, remember. Pick one verb and do it before noon if you can.",
+    "Warm your hands — under water, around a mug, in sunlight — then place them on your own shoulders. Learn the temperature you're trying to give away.",
+    "I feel most like myself when I'm kind on the days nobody's watching and nothing's trending."
+   ]
+  },
+  "122": {
+   "day": 122,
+   "holiday": {
+    "name": "Leo · Day 122",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What will you dare to begin now that you've seen how little the applause actually feeds you?"
+   ],
+   "adventures": [
+    "Write a one-sentence manifesto for your next chapter that mentions no audience, no metrics, and no revenge glow-up. Sign it like you mean it.",
+    "Step outside, face the open sky, and stretch your arms as wide as they'll go. Take three breaths at full wingspan — this is your size, no stage required.",
+    "I feel most like myself when I begin for the love of the thing and let the echo take care of itself."
+   ]
+  },
+  "123": {
+   "day": 123,
+   "holiday": {
+    "name": "Leo · Day 123",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Suppose the thing you make gets zero witnesses forever. Which part of making it still feeds you?"
+   ],
+   "adventures": [
+    "Write down one thing you have been performing instead of feeling. Cross it out and write what is actually true underneath, even if it is messier.",
+    "Stand in the brightest patch of light in your room, close your eyes, and notice the warmth on your skin for a full minute without adjusting your posture for an invisible audience.",
+    "I feel most like myself when I let a wild idea out before my inner critic can costume-check it."
+   ]
+  },
+  "124": {
+   "day": 124,
+   "holiday": {
+    "name": "Leo · Day 124",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where does your pride lock the door before anyone gets a chance to knock?"
+   ],
+   "adventures": [
+    "Catch one moment today where you want to look unbothered. Name the bother out loud to yourself instead, plain and unpolished.",
+    "Roll your shoulders back, let them drop, then shake out your hands and jaw like you are shaking off a costume that got too tight.",
+    "I feel most like myself when I laugh so hard I forget to check how I look laughing."
+   ]
+  },
+  "125": {
+   "day": 125,
+   "holiday": {
+    "name": "Leo · Day 125",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "If nobody ever witnessed your generosity, would it get bigger or smaller?"
+   ],
+   "adventures": [
+    "Do one kind thing today and deliberately tell no one, share nothing, and drop the mental receipt entirely.",
+    "Prepare something beautiful just for yourself — a snack, a drink, a small arrangement — and take it in slowly, noticing color, scent, and texture first.",
+    "I feel most like myself when I give my full attention like it is a gift and not a transaction."
+   ]
+  },
+  "126": {
+   "day": 126,
+   "holiday": {
+    "name": "Leo · Day 126",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Which compliment are you secretly starving for right now, and why do you need it so badly?"
+   ],
+   "adventures": [
+    "Write the compliment you want to hear in your own handwriting, as if it came from you. Read it once and sit with what stirs.",
+    "Place both hands on your chest, breathe slowly into your palms, and hum one low note until you feel the vibration in your ribs.",
+    "I feel most like myself when I say the thing I actually mean instead of the thing that sounds good."
+   ]
+  },
+  "127": {
+   "day": 127,
+   "holiday": {
+    "name": "Leo · Day 127",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What does your spotlight hunger cost the quieter people in your orbit?"
+   ],
+   "adventures": [
+    "In your next conversation, ask a second question instead of telling a story. Notice how hard your attention has to work to stay there.",
+    "Dim the lights where you are, light one candle or lamp, and watch the flame move for two minutes without reaching for your phone.",
+    "I feel most like myself when I turn my spotlight into a lantern and hand it to someone else for a while."
+   ]
+  },
+  "128": {
+   "day": 128,
+   "holiday": {
+    "name": "Leo · Day 128",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Describe the fun you'd have if fun left no evidence. Why does the evidence matter so much?"
+   ],
+   "adventures": [
+    "Let yourself be visibly delighted by something small today. No irony, no cool distance — just the real, dorky, full-volume version.",
+    "Put on a song that makes your blood move and dance for the length of one track, eyes closed, no mirror, no choreography.",
+    "I feel most like myself when I dance in my own kitchen like the room is cheering, even in total silence."
+   ]
+  },
+  "129": {
+   "day": 129,
+   "holiday": {
+    "name": "Leo · Day 129",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "When did showing up start feeling more important than actually being there?"
+   ],
+   "adventures": [
+    "Show up to one thing today ten minutes early with nothing to prove. Notice who you are when there is no entrance to make.",
+    "Walk through your front door slowly tonight as if it is the first time you have seen the space, and touch three objects you usually pass without noticing.",
+    "I feel most like myself when I arrive early enough to settle into a room instead of sweeping into it."
+   ]
+  },
+  "130": {
+   "day": 130,
+   "holiday": {
+    "name": "Leo · Day 130",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What are you too proud to ask for, and who would you ask if pride were not the boss?"
+   ],
+   "adventures": [
+    "Ask for something concrete today — help, advice, a favor — without wrapping it in a joke or a disclaimer.",
+    "Stretch your arms wide overhead, then let them fall and wrap around your own shoulders. Hold that self-embrace for thirty seconds and breathe.",
+    "I feel most like myself when I ask for help and let the answer change my plans."
+   ]
+  },
+  "131": {
+   "day": 131,
+   "holiday": {
+    "name": "Leo · Day 131",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Whose approval have you been auditioning for without realizing it?"
+   ],
+   "adventures": [
+    "Pick one interaction today and refuse to rehearse it beforehand. Trust the first honest draft of your words.",
+    "Sit somewhere you would not normally linger — a stairwell, a curb, a hallway — and listen to every sound around you for three minutes without moving.",
+    "I feel most like myself when I stop rehearsing my sentences and just say the honest version."
+   ]
+  },
+  "132": {
+   "day": 132,
+   "holiday": {
+    "name": "Leo · Day 132",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How much of your warmth is real, and how much is a performance of warmth?"
+   ],
+   "adventures": [
+    "Say one genuinely warm thing to someone today with zero follow-up, zero expectation, and zero witness.",
+    "Run warm water over your hands and forearms, slowly, and notice how your body softens when the heat reaches your wrists.",
+    "I feel most like myself when my kindness comes with no punchline and no price tag."
+   ]
+  },
+  "133": {
+   "day": 133,
+   "holiday": {
+    "name": "Leo · Day 133",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Could somebody love the unedited version of an ordinary, unremarkable you? What makes that so hard to believe?"
+   ],
+   "adventures": [
+    "Spend one hour today doing nothing post-worthy. Notice which part of you panics and which part exhales.",
+    "Lie flat on the floor, arms spread, and feel the weight of your whole body pressing down. Stay there until your breathing slows on its own.",
+    "I feel most like myself when I am loved in my sweatpants, unscripted and unlit."
+   ]
+  },
+  "134": {
+   "day": 134,
+   "holiday": {
+    "name": "Leo · Day 134",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where is your playfulness hiding behind your reputation?"
+   ],
+   "adventures": [
+    "Do one deliberately silly thing today — a voice, a doodle, a terrible pun — and refuse to apologize for it.",
+    "Draw something with your non-dominant hand on scrap paper: your own face, badly, joyfully. Tape it somewhere you will see it tomorrow.",
+    "I feel most like myself when I do something ridiculous on purpose and commit to the bit."
+   ]
+  },
+  "135": {
+   "day": 135,
+   "holiday": {
+    "name": "Leo · Day 135",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What gift have you given that secretly came with a leash?"
+   ],
+   "adventures": [
+    "Think of one generous act you have been mentally invoicing. Forgive the debt completely, in writing, and tear it up.",
+    "Give away one physical object you like but do not need. Wrap it, hand it over, and feel your hands empty afterward.",
+    "I feel most like myself when my giving expects nothing back, not even gratitude."
+   ]
+  },
+  "136": {
+   "day": 136,
+   "holiday": {
+    "name": "Leo · Day 136",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "If your confidence were a costume, what is underneath it right now?"
+   ],
+   "adventures": [
+    "Name one thing that scares you about being ordinary. Write it down and read it back without editing it into bravery.",
+    "Press your bare feet into the ground — floor, grass, rug — and notice every point of contact for one slow minute.",
+    "I feel most like myself when I admit I am nervous and show up anyway, shaky hands and all."
+   ]
+  },
+  "137": {
+   "day": 137,
+   "holiday": {
+    "name": "Leo · Day 137",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Who needs your gentleness more than your greatness right now, and what's stopping the trade?"
+   ],
+   "adventures": [
+    "Lead one small moment today by listening first. Let the room set the temperature instead of you setting it.",
+    "Make eye contact with yourself in a mirror for sixty seconds without fixing anything. Just look, kindly.",
+    "I feel most like myself when someone relaxes because I walked into the room, not because I commanded it."
+   ]
+  },
+  "138": {
+   "day": 138,
+   "holiday": {
+    "name": "Leo · Day 138",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What story do you tell about yourself that no longer fits?"
+   ],
+   "adventures": [
+    "Write your usual self-introduction, then cross out the impressive parts and write what is actually interesting about you right now.",
+    "Rearrange one shelf, one drawer, or one corner of your space so it reflects who you are becoming, not who you were.",
+    "I feel most like myself when I outgrow a story I have been telling about who I am."
+   ]
+  },
+  "139": {
+   "day": 139,
+   "holiday": {
+    "name": "Leo · Day 139",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What's the difference between being watched and being known, and which one have you been collecting?"
+   ],
+   "adventures": [
+    "Tell one person something real about your week that you would normally dress up. Keep it short and unvarnished.",
+    "Take a walk with no destination and no music, and notice five things you have never registered on a route you know well.",
+    "I feel most like myself when I let someone see the draft version of me, typos and all."
+   ]
+  },
+  "140": {
+   "day": 140,
+   "holiday": {
+    "name": "Leo · Day 140",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What does your ego need you to believe about yourself that your heart knows is untrue?"
+   ],
+   "adventures": [
+    "Catch one brag today before it leaves your mouth. Replace it with one honest sentence about how you actually feel.",
+    "Fill a bowl with cold water and dunk your whole face in it. Come up gasping, unstyled, undeniably awake.",
+    "I feel most like myself when I trade the impressive version of the story for the true one."
+   ]
+  },
+  "141": {
+   "day": 141,
+   "holiday": {
+    "name": "Leo · Day 141",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "When did you last play without keeping score?"
+   ],
+   "adventures": [
+    "Play a game, any game, with the explicit goal of enjoying it rather than winning. Notice where the itch to dominate shows up.",
+    "Juggle, bounce a ball, or toss something in the air and catch it — badly, joyfully — for five minutes straight.",
+    "I feel most like myself when I lose at something fun and it does not touch my worth."
+   ]
+  },
+  "142": {
+   "day": 142,
+   "holiday": {
+    "name": "Leo · Day 142",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Who do you perform being fine for, and what would honesty cost you?"
+   ],
+   "adventures": [
+    "Answer 'how are you' honestly once today. Not the full saga — just the real temperature, not the highlight reel.",
+    "Curl up somewhere soft and small — a chair, a blanket fort, a corner — and let your body take up less space than usual for a while.",
+    "I feel most like myself when I say I am struggling before anyone has to guess."
+   ]
+  },
+  "143": {
+   "day": 143,
+   "holiday": {
+    "name": "Leo · Day 143",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What creative risk have you been avoiding because it might flop publicly?"
+   ],
+   "adventures": [
+    "Start one creative thing you have been postponing. Give yourself explicit permission for it to be terrible.",
+    "Scribble, drum, or sing for ten minutes with no goal and no audience, letting your hands or voice go wherever they want.",
+    "I feel most like myself when I make something that might embarrass me and make it anyway."
+   ]
+  },
+  "144": {
+   "day": 144,
+   "holiday": {
+    "name": "Leo · Day 144",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How do you confuse being needed with being loved?"
+   ],
+   "adventures": [
+    "Notice one moment today where you rush to be useful. Pause and ask whether you are serving them or auditioning for them.",
+    "Soak in warm water — bath, foot soak, long shower — and do nothing productive while you do. Let being still be enough.",
+    "I feel most like myself when people choose me, not just need me."
+   ]
+  },
+  "145": {
+   "day": 145,
+   "holiday": {
+    "name": "Leo · Day 145",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would you stop doing if nobody clapped for it ever again?"
+   ],
+   "adventures": [
+    "List three things you do partly for recognition. Pick one and do it differently this week — quieter, for yourself, or not at all.",
+    "Turn off every notification for two hours. Notice the silence where the applause usually pings, and what fills it.",
+    "I feel most like myself when I quit something I only kept doing for the applause."
+   ]
+  },
+  "146": {
+   "day": 146,
+   "holiday": {
+    "name": "Leo · Day 146",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where does your generosity turn into a stage?"
+   ],
+   "adventures": [
+    "Help someone today in a way that cannot be traced back to you. No signature, no story, no credit.",
+    "Tidy or beautify a shared space — a kitchen, a sidewalk, a waiting room — and leave before anyone sees you did it.",
+    "I feel most like myself when I help without making it a moment."
+   ]
+  },
+  "147": {
+   "day": 147,
+   "holiday": {
+    "name": "Leo · Day 147",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Picture everyone watching you flop at the thing you brag about most. What's the first honest sentence after the flop?"
+   ],
+   "adventures": [
+    "Attempt something you are bad at, in public, on purpose. Let the awkwardness be the whole point.",
+    "Balance on one foot, wobble, catch yourself, and laugh. Switch feet and do it again, noticing how your body corrects itself.",
+    "I feel most like myself when I try something new in front of people and laugh at my own wobble."
+   ]
+  },
+  "148": {
+   "day": 148,
+   "holiday": {
+    "name": "Leo · Day 148",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How loud is the room inside your head when you are alone with no witnesses?"
+   ],
+   "adventures": [
+    "Spend thirty minutes alone with no input — no phone, no music, no show. Just you and whatever surfaces.",
+    "Sit in complete darkness for five minutes, eyes open, and track every sound you can hear, near and far.",
+    "I feel most like myself when my own company is enough and the room goes quiet in the best way."
+   ]
+  },
+  "149": {
+   "day": 149,
+   "holiday": {
+    "name": "Leo · Day 149",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "If praise stopped arriving entirely, which parts of your routine would quietly shut down?"
+   ],
+   "adventures": [
+    "Share something you made today without asking what anyone thinks of it. Let it exist unrated.",
+    "Look at something you created or did recently and trace it with your finger, noticing the details you love, privately.",
+    "I feel most like myself when I can enjoy my own work without needing a witness to certify it."
+   ]
+  },
+  "150": {
+   "day": 150,
+   "holiday": {
+    "name": "Leo · Day 150",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where has pride kept you from saying the two words you owe someone?"
+   ],
+   "adventures": [
+    "Apologize for one real thing today — cleanly, briefly, with no 'but' attached. Let it land.",
+    "Write the apology on paper, read it aloud to the empty room, and feel where the words sit in your body.",
+    "I feel most like myself when I apologize without defending myself in the same breath."
+   ]
+  },
+  "151": {
+   "day": 151,
+   "holiday": {
+    "name": "Leo · Day 151",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What does your inner child want to do that your image would never allow?"
+   ],
+   "adventures": [
+    "Ask your memory what you loved doing before you learned to be impressive. Do a tiny version of it today.",
+    "Spin in a circle until you are dizzy, then stop and feel the world tilt. Laugh at the vertigo like a kid would.",
+    "I feel most like myself when I do the goofy thing my younger self would have begged me to do."
+   ]
+  },
+  "152": {
+   "day": 152,
+   "holiday": {
+    "name": "Leo · Day 152",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How do you handle being upstaged, honestly?"
+   ],
+   "adventures": [
+    "Compliment someone today who is shining in a space you usually own. Mean it fully, with no pivot back to yourself.",
+    "Step to the back of the room — literally — at your next gathering, and watch the scene unfold without being in it.",
+    "I feel most like myself when I can genuinely cheer for someone else's moment without shrinking."
+   ]
+  },
+  "153": {
+   "day": 153,
+   "holiday": {
+    "name": "Leo · Day 153",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would radical honesty sound like in your closest relationship right now?"
+   ],
+   "adventures": [
+    "Say one honest thing you have been softening. Say it with warmth, but do not dilute it.",
+    "Hold something warm — a mug, a stone in the sun, a heated towel — against your chest while you think about what needs saying.",
+    "I feel most like myself when I tell the truth early, before it ferments into resentment."
+   ]
+  },
+  "154": {
+   "day": 154,
+   "holiday": {
+    "name": "Leo · Day 154",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where do you mistake intensity for intimacy?"
+   ],
+   "adventures": [
+    "In one conversation today, match the other person's pace instead of setting it. Notice what you learn when you stop driving.",
+    "Breathe in sync with someone near you — a partner, a friend, a pet's breathing — for two full minutes.",
+    "I feel most like myself when I slow down enough to actually feel the person in front of me."
+   ]
+  },
+  "155": {
+   "day": 155,
+   "holiday": {
+    "name": "Leo · Day 155",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What are you clinging to because letting go would mean admitting you were wrong?"
+   ],
+   "adventures": [
+    "Reverse one opinion you have been defending out of habit. Say the new version out loud and notice the relief.",
+    "Open your hands wide, palms up, and slowly close and release your fists ten times, imagining letting something drop each time.",
+    "I feel most like myself when I change my mind loudly and without shame."
+   ]
+  },
+  "156": {
+   "day": 156,
+   "holiday": {
+    "name": "Leo · Day 156",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How much of your ambition is hunger, and how much is appetite for applause?"
+   ],
+   "adventures": [
+    "Write down your current biggest goal, then write the real reason you want it underneath. Be brutally honest about the mix.",
+    "Go outside and look at the widest sky you can find. Let your eyes rest on the horizon until your shoulders drop.",
+    "I feel most like myself when I chase something because I want it, not because it looks good to want."
+   ]
+  },
+  "157": {
+   "day": 157,
+   "holiday": {
+    "name": "Leo · Day 157",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would you do with your radiance if you knew it could never be taken from you?"
+   ],
+   "adventures": [
+    "Do one bold thing today that your shine makes possible — speak up, start, invite — without calculating the optics.",
+    "Wear the brightest, loudest thing you own today, purely for your own delight, and notice how your body moves in it.",
+    "I feel most like myself when I shine without checking who is blinded or who is watching."
+   ]
+  },
+  "158": {
+   "day": 158,
+   "holiday": {
+    "name": "Leo · Day 158",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where do you use humor as armor instead of as joy?"
+   ],
+   "adventures": [
+    "Notice one moment today where you joke to dodge feeling something. Skip the joke and sit in the feeling for sixty seconds.",
+    "Laugh on purpose for one full minute — forced at first, real by the end — and feel where it vibrates in your belly.",
+    "I feel most like myself when my laughter connects instead of deflects."
+   ]
+  },
+  "159": {
+   "day": 159,
+   "holiday": {
+    "name": "Leo · Day 159",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What does enough look like for someone who always wants more spotlight?"
+   ],
+   "adventures": [
+    "Write down five things that are already working in your life. Read them slowly and let each one count.",
+    "Eat one meal today with total attention — no screens, no rushing — tasting each bite like it is the main event.",
+    "I feel most like myself when I can name what I have and feel it land as enough."
+   ]
+  },
+  "160": {
+   "day": 160,
+   "holiday": {
+    "name": "Leo · Day 160",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Who gets the unedited version of you, and who only gets the highlight reel?"
+   ],
+   "adventures": [
+    "Show one unedited thought to someone who usually gets the polished version. Watch what happens to the air between you.",
+    "Wash your face slowly and deliberately, feeling the water and your own skin, as a small ritual of meeting yourself bare.",
+    "I feel most like myself when the gap between my public face and my private face gets smaller."
+   ]
+  },
+  "161": {
+   "day": 161,
+   "holiday": {
+    "name": "Leo · Day 161",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would you risk if your reputation were already secure?"
+   ],
+   "adventures": [
+    "Take one small risk you have been delaying until you felt 'ready.' Do the unready version today.",
+    "Stand at the edge of something — a curb, a step, a diving board of your choosing — and feel the thrill of the edge in your knees.",
+    "I feel most like myself when I take the leap before I have proof it will land."
+   ]
+  },
+  "162": {
+   "day": 162,
+   "holiday": {
+    "name": "Leo · Day 162",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How do you react when someone does not notice your effort?"
+   ],
+   "adventures": [
+    "Do excellent work on something today that nobody will see. Notice whether the quality changes when the audience vanishes.",
+    "Polish, sweep, or arrange something hidden — inside a drawer, behind a door — and savor the secret excellence.",
+    "I feel most like myself when my effort is for the work itself, not the witness."
+   ]
+  },
+  "163": {
+   "day": 163,
+   "holiday": {
+    "name": "Leo · Day 163",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What part of you are you still trying to prove, and to whom?"
+   ],
+   "adventures": [
+    "Write a letter to the person you are still trying to impress — real or imagined — and tell them you are done auditioning. Do not send it.",
+    "Stand tall, then deliberately slouch, then find the middle — your natural stance. Rest there and breathe into your spine.",
+    "I feel most like myself when I stop proving and start simply being, right in the middle of the mess."
+   ]
+  },
+  "164": {
+   "day": 164,
+   "holiday": {
+    "name": "Leo · Day 164",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where does your loyalty become loyalty theater?"
+   ],
+   "adventures": [
+    "Do one loyal thing today that nobody will praise — check in, follow through, keep a promise — with no announcement.",
+    "Hold a heavy object — a book, a stone, a bag — close to your heart for one minute, feeling the honest weight of what you carry for others.",
+    "I feel most like myself when my loyalty is quiet, steady, and unperformed."
+   ]
+  },
+  "165": {
+   "day": 165,
+   "holiday": {
+    "name": "Leo · Day 165",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would it take for you to celebrate someone else's win like it was your own?"
+   ],
+   "adventures": [
+    "Send an effusive, specific congratulations to someone today. Make it entirely about them — no mention of you at all.",
+    "Clap your hands hard and fast for thirty seconds, as if cheering at a show, and feel the sting and warmth in your palms.",
+    "I feel most like myself when another person's joy feels like my joy, no translation needed."
+   ]
+  },
+  "166": {
+   "day": 166,
+   "holiday": {
+    "name": "Leo · Day 166",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How do you know when you are being brave versus being dramatic?"
+   ],
+   "adventures": [
+    "Do one brave thing today that looks boring from the outside — a hard call, an honest no, a boundary held.",
+    "Place your hand over your heart and count twenty beats, feeling each one, distinguishing your real pulse from the performance of it.",
+    "I feel most like myself when my courage is quiet enough to hear my own heartbeat."
+   ]
+  },
+  "167": {
+   "day": 167,
+   "holiday": {
+    "name": "Leo · Day 167",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What mask do you wear that has started to feel like your face?"
+   ],
+   "adventures": [
+    "Identify one role you play automatically — the funny one, the strong one, the together one. Drop it for one conversation.",
+    "Cover your face with your hands for thirty seconds, then slowly lower them and look around the room with fresh eyes.",
+    "I feel most like myself when I peel off the confident mask and find I am still standing."
+   ]
+  },
+  "168": {
+   "day": 168,
+   "holiday": {
+    "name": "Leo · Day 168",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where are you generous with things but stingy with vulnerability?"
+   ],
+   "adventures": [
+    "Trade one material generosity today for an emotional one: instead of a gift, offer a true feeling or a real story.",
+    "Touch something with real texture — bark, stone, rough fabric — and describe its feeling to yourself in absurd, lavish detail.",
+    "I feel most like myself when I give the real thing — my honest feeling — not just the shiny thing."
+   ]
+  },
+  "169": {
+   "day": 169,
+   "holiday": {
+    "name": "Leo · Day 169",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would your life look like if you trusted your warmth more than your worry?"
+   ],
+   "adventures": [
+    "Make one decision today from warmth rather than strategy. Notice how your body feels about the choice.",
+    "Wrap yourself in the softest thing you own and sit with the sensation of being held by something uncomplicated.",
+    "I feel most like myself when I lead with my heart and let my head catch up later."
+   ]
+  },
+  "170": {
+   "day": 170,
+   "holiday": {
+    "name": "Leo · Day 170",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How do you fill silence, and what are you afraid it would say?"
+   ],
+   "adventures": [
+    "Let one pause go unfilled today. Do not rush to entertain, explain, or rescue the quiet.",
+    "Sit in a quiet room and listen until you can hear your own breath, then your own heartbeat, then the hum beneath both.",
+    "I feel most like myself when I can let a silence hang and trust it is not judging me."
+   ]
+  },
+  "171": {
+   "day": 171,
+   "holiday": {
+    "name": "Leo · Day 171",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What does your pride protect you from feeling?"
+   ],
+   "adventures": [
+    "Name the feeling underneath your pride today — hurt, fear, shame, smallness. Write it in one plain sentence.",
+    "Press your palms together hard, then release slowly, feeling the tingle as the tension drains out of your hands.",
+    "I feel most like myself when I let the protected feeling surface and discover it cannot destroy me."
+   ]
+  },
+  "172": {
+   "day": 172,
+   "holiday": {
+    "name": "Leo · Day 172",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where do you chase the crown instead of enjoying the kingdom?"
+   ],
+   "adventures": [
+    "Spend today appreciating one thing you have already earned instead of planning the next conquest.",
+    "Survey your space like a monarch surveying their realm — slowly, fondly — and touch three things you are proud of having.",
+    "I feel most like myself when I enjoy what I have built instead of scheming for the next throne."
+   ]
+  },
+  "173": {
+   "day": 173,
+   "holiday": {
+    "name": "Leo · Day 173",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would you say if you knew you would be believed without having to perform belief?"
+   ],
+   "adventures": [
+    "Say something important today in the plainest possible words. No buildup, no drama, just the sentence.",
+    "Speak one true sentence aloud to an empty room, slowly, feeling how the words shape the air.",
+    "I feel most like myself when my words carry their own weight, no theatrics required."
+   ]
+  },
+  "174": {
+   "day": 174,
+   "holiday": {
+    "name": "Leo · Day 174",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How does your need to be special isolate you from being known?"
+   ],
+   "adventures": [
+    "Join something today as a participant, not a star — a group, a game, a conversation — and enjoy the middle of the pack.",
+    "Sit shoulder to shoulder with someone — on a couch, a bench, the floor — and feel the simple warmth of being beside, not above.",
+    "I feel most like myself when I am one of the gang instead of above it, and it feels like relief."
+   ]
+  },
+  "175": {
+   "day": 175,
+   "holiday": {
+    "name": "Leo · Day 175",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What are you pretending not to want because wanting it feels undignified?"
+   ],
+   "adventures": [
+    "Write down the want you have been editing out of your story. Read it back and let it be as big and unseemly as it is.",
+    "Reach both arms toward the sky as high as you can, stretching for something invisible, and hold the wanting in your body.",
+    "I feel most like myself when I admit what I actually want, dignity be damned."
+   ]
+  },
+  "176": {
+   "day": 176,
+   "holiday": {
+    "name": "Leo · Day 176",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where does your fire warm people, and where does it scorch them?"
+   ],
+   "adventures": [
+    "Check your temperature in one relationship today. Ask yourself honestly: am I warming this or burning it?",
+    "Hold your hands near — not on — a warm light or cup, and slowly move them closer and farther, finding the distance that warms without burning.",
+    "I feel most like myself when my fire is a hearth, not a wildfire."
+   ]
+  },
+  "177": {
+   "day": 177,
+   "holiday": {
+    "name": "Leo · Day 177",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would you create if your only audience was your future self?"
+   ],
+   "adventures": [
+    "Make one thing today — a note, a sketch, a voice memo — addressed to yourself a year from now. Seal it away.",
+    "Write with a thick marker on big paper, huge looping letters, letting your whole arm move instead of just your wrist.",
+    "I feel most like myself when I make something as a message to the person I am becoming."
+   ]
+  },
+  "178": {
+   "day": 178,
+   "holiday": {
+    "name": "Leo · Day 178",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How do you confuse being admired with being understood?"
+   ],
+   "adventures": [
+    "Ask one person today what they actually think about something that matters to you — and listen for understanding, not praise.",
+    "Trace the outline of your own hand slowly with a finger, noticing every ridge and line, like studying something worth knowing.",
+    "I feel most like myself when someone gets me, not just applauds me."
+   ]
+  },
+  "179": {
+   "day": 179,
+   "holiday": {
+    "name": "Leo · Day 179",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What would it feel like to rest without earning it first?"
+   ],
+   "adventures": [
+    "Take a real break today before you are exhausted. Notice how your pride argues with the decision.",
+    "Lie down in the middle of the day, in daylight, and do absolutely nothing for fifteen minutes. Feel the luxury of the unearned pause.",
+    "I feel most like myself when I rest because I am human, not because I collapsed."
+   ]
+  },
+  "180": {
+   "day": 180,
+   "holiday": {
+    "name": "Leo · Day 180",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "Where do you mistake being the center with being connected?"
+   ],
+   "adventures": [
+    "Map your closest relationships today and ask: where am I performing connection instead of practicing it?",
+    "Sit in a circle — of cushions, chairs, stones — and feel what it is like to be one point among many, equally held.",
+    "I feel most like myself when I am woven into the circle, not standing in its middle."
+   ]
+  },
+  "181": {
+   "day": 181,
+   "holiday": {
+    "name": "Leo · Day 181",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "What truth about yourself have you been outshining with charisma?"
+   ],
+   "adventures": [
+    "Write the sentence you usually charm your way around. Read it plain, no sparkle, and let it stand.",
+    "Look at your own eyes in the mirror without smiling, without performing, and hold your own gaze with steady kindness.",
+    "I feel most like myself when I let the charisma rest and the truth speak for itself."
+   ]
+  },
+  "182": {
+   "day": 182,
+   "holiday": {
+    "name": "Leo · Day 182",
+    "action": "THE BRIGHT YES — FIRE / RADIANCE / HEART"
+   },
+   "soulQuestions": [
+    "How would you love people if you never needed them to love you back loudly?"
+   ],
+   "adventures": [
+    "Love one person today in their language, not yours. Do the quiet thing they actually value.",
+    "Knead dough, clay, or even a pillow with your hands, pouring care into the pressure and rhythm of the motion.",
+    "I feel most like myself when I love people in the way they need, not the way that gets me noticed."
+   ]
+  }
+ }
+}

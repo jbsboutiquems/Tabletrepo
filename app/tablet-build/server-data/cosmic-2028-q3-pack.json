@@ -1,0 +1,1624 @@
+{
+ "edition": "cosmic-2028-q3",
+ "name": "2028 Cosmic Forecast — Q3",
+ "window": {
+  "start": "2028-07-01",
+  "end": "2028-09-30"
+ },
+ "themes": {
+  "January": {
+   "name": "Capricorn Tail",
+   "theme": "THE LONG GAME"
+  },
+  "February": {
+   "name": "Aquarius",
+   "theme": "THE OPEN CURRENT"
+  },
+  "March": {
+   "name": "Pisces",
+   "theme": "THE RETURN TO SELF"
+  },
+  "April": {
+   "name": "Aries",
+   "theme": "THE DIRECT HIT"
+  },
+  "May": {
+   "name": "Taurus",
+   "theme": "THE RITUAL"
+  },
+  "June": {
+   "name": "Gemini",
+   "theme": "THE NEXT QUESTION"
+  },
+  "July": {
+   "name": "Cancer",
+   "theme": "THE TIDE WITHIN"
+  },
+  "August": {
+   "name": "Leo",
+   "theme": "THE BRIGHT YES"
+  },
+  "September": {
+   "name": "Virgo",
+   "theme": "THE USEFUL MAGIC"
+  },
+  "October": {
+   "name": "Libra",
+   "theme": "THE BEAUTIFUL MIDDLE"
+  },
+  "November": {
+   "name": "Scorpio",
+   "theme": "THE DEEP TURN"
+  },
+  "December": {
+   "name": "Sagittarius",
+   "theme": "THE OPEN ROAD"
+  }
+ },
+ "days": {
+  "2028-07-01": {
+   "date": "2028-07-01",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Mercury shadow ends",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Mercury's shadow lifts today — the static over your signals finally clears. What feeling have you been broadcasting on a delay, hoping someone would decode it? Feel how heavy the unspoken thing has gotten. It's ready to be said plainly.",
+    "Whom are you 'protecting' from a truth they are fully grown enough to hear — and how much of that protection is really about keeping yourself comfortable?"
+   ],
+   "adventures": [
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life.",
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room."
+   ]
+  },
+  "2028-07-02": {
+   "date": "2028-07-02",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Host something small and real today — tea, a porch sit, one person, zero performance. Belonging isn't built with grand gestures; it's a table that keeps getting set. Who actually shows up for you? Set the table for them.",
+    "When did you last let someone see you need something — and what are you so sure would break if you stopped being the strong one for a day?"
+   ],
+   "adventures": [
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room.",
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit."
+   ]
+  },
+  "2028-07-03": {
+   "date": "2028-07-03",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "If your protection of someone you love worked perfectly, what would it cost THEM? Name one way your keeping-them-safe has kept them small — and what trusting their strength would require you to surrender.",
+    "Is your loyalty a promise you keep to people, or a leash — and would the people you hold closest describe it the way you do?"
+   ],
+   "adventures": [
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit.",
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was."
+   ]
+  },
+  "2028-07-04": {
+   "date": "2028-07-04",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Everyone else's feelings get a room in your house. Where does your anger live — the basement, the junk drawer, behind the smile in the hallway? Walk toward it today. Anger carried quietly is still anger carried.",
+    "You can feel everyone's weather but your own — what storm have you been refusing to forecast because naming it would mean the shell has to open?"
+   ],
+   "adventures": [
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was.",
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you."
+   ]
+  },
+  "2028-07-05": {
+   "date": "2028-07-05",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Tomorrow the Moon eclipses in Capricorn — empire's sign, your opposite. Today, choose: cancel one obligation that feeds your résumé and starves your home, and spend that hour on your actual sanctuary. Home gets the vote this time.",
+    "Does your devotion feed the people you love, or does it quietly keep score — and which one would they say it is if nobody was listening?"
+   ],
+   "adventures": [
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you.",
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat."
+   ]
+  },
+  "2028-07-06": {
+   "date": "2028-07-06",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Partial lunar eclipse in CAPRICORN",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Partial lunar eclipse in Capricorn tonight: the home-versus-empire axis lights up. Which empire are you building that your home life is paying for — and which part of home have you been neglecting because maintenance never comes with applause? Total it honestly.",
+    "What memory do you keep perfectly preserved because admitting how it actually felt would mean the house you grew up in was never as safe as you needed it to be?"
+   ],
+   "adventures": [
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat.",
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome."
+   ]
+  },
+  "2028-07-07": {
+   "date": "2028-07-07",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "The day after an eclipse in your opposite sign, everything feels exposed. What truth about your ambitions did last night's shadow show you — the one where 'providing' became the excuse to never actually be present? Sit in it before you busy it away.",
+    "Whose feelings have you been treating as weather you must manage, when your gut has been quietly telling you those storms were never yours to calm?"
+   ],
+   "adventures": [
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome.",
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight."
+   ]
+  },
+  "2028-07-08": {
+   "date": "2028-07-08",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Do one brave un-shelling: ask for help with something you've been silently handling alone, and let the help arrive imperfectly. Receiving without managing the delivery — that's the whole practice.",
+    "Is your home a place you built for living, or a fortress you built so nobody could ask you to come out and live?"
+   ],
+   "adventures": [
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight.",
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life."
+   ]
+  },
+  "2028-07-09": {
+   "date": "2028-07-09",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Whose forgiveness are you still waiting on before you'll feel at home in your own life? What if the door you're standing at is one only you can open — and the debt you think you owe was paid years ago, or never existed at all?",
+    "Whom are you 'protecting' from a truth they are fully grown enough to hear — and how much of that protection is really about keeping yourself comfortable?"
+   ],
+   "adventures": [
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life.",
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room."
+   ]
+  },
+  "2028-07-10": {
+   "date": "2028-07-10",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Your intuition is a tide — it comes in whether you schedule it or not. What has the tide been bringing to your shore for weeks that you keep sweeping back into the sea? Pick it up. Look at it. It's yours.",
+    "When did you last let someone see you need something — and what are you so sure would break if you stopped being the strong one for a day?"
+   ],
+   "adventures": [
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room.",
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit."
+   ]
+  },
+  "2028-07-11": {
+   "date": "2028-07-11",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Forgive one emotional debt today — tell someone, or write it where they'll never see it but mean every word, that the ledger is closed. Not because they earned it. Because carrying the book costs YOU the room it takes up.",
+    "Is your loyalty a promise you keep to people, or a leash — and would the people you hold closest describe it the way you do?"
+   ],
+   "adventures": [
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit.",
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was."
+   ]
+  },
+  "2028-07-12": {
+   "date": "2028-07-12",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "When you retreat, what are you really negotiating? Silence can be a bid: chase me, prove it, suffer a little first. Name the last time your shell was strategy instead of shelter — and what asking directly would have risked.",
+    "You can feel everyone's weather but your own — what storm have you been refusing to forecast because naming it would mean the shell has to open?"
+   ],
+   "adventures": [
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was.",
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you."
+   ]
+  },
+  "2028-07-13": {
+   "date": "2028-07-13",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Think of the person who feels like home. Now the hard part: do YOU feel like home to yourself when they're not in the room? Whatever wavers in that answer is the work — not them, not the distance. You, un-wavered.",
+    "Does your devotion feed the people you love, or does it quietly keep score — and which one would they say it is if nobody was listening?"
+   ],
+   "adventures": [
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you.",
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat."
+   ]
+  },
+  "2028-07-14": {
+   "date": "2028-07-14",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Make your home do one thing it never does: host your joy instead of just your recovery. Dance in the kitchen, eat the good food on an ordinary day, light the candles you were saving. A sanctuary that only holds your tears is only half a home.",
+    "What memory do you keep perfectly preserved because admitting how it actually felt would mean the house you grew up in was never as safe as you needed it to be?"
+   ],
+   "adventures": [
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat.",
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome."
+   ]
+  },
+  "2028-07-15": {
+   "date": "2028-07-15",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "What are you mothering that is not yours to raise — a grown person's feelings, a friend's Khaos, an outcome you were never assigned? Care that overreaches is still control wearing an apron. Set one of them down.",
+    "Whose feelings have you been treating as weather you must manage, when your gut has been quietly telling you those storms were never yours to calm?"
+   ],
+   "adventures": [
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome.",
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight."
+   ]
+  },
+  "2028-07-16": {
+   "date": "2028-07-16",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Let yourself be comforted today — by a person, a place, a blanket, a song — without instantly planning how you'll repay it. Receiving with no receipts: feel how foreign it is, then how light.",
+    "Is your home a place you built for living, or a fortress you built so nobody could ask you to come out and live?"
+   ],
+   "adventures": [
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight.",
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life."
+   ]
+  },
+  "2028-07-17": {
+   "date": "2028-07-17",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Retire one protective ritual that has quietly become a prison: the checking, the hovering, the pre-emptive rescuing. Replace it with one act of trust — in them, in the world, in your own ability to survive somebody else's stumble.",
+    "Whom are you 'protecting' from a truth they are fully grown enough to hear — and how much of that protection is really about keeping yourself comfortable?"
+   ],
+   "adventures": [
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life.",
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room."
+   ]
+  },
+  "2028-07-18": {
+   "date": "2028-07-18",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Your shell has a door policy. Who got permanently banned, and was the sentence proportional — or did one bad night cost someone a lifetime membership? Review the list like a judge, not like a wound.",
+    "When did you last let someone see you need something — and what are you so sure would break if you stopped being the strong one for a day?"
+   ],
+   "adventures": [
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room.",
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit."
+   ]
+  },
+  "2028-07-19": {
+   "date": "2028-07-19",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Cancer season is ending in fire — Leo is days out and the light is about to get loud. What part of your tenderness have you kept in the dark because it felt too needy to be seen? It's craving daylight. Feel what it wants to say out loud.",
+    "Is your loyalty a promise you keep to people, or a leash — and would the people you hold closest describe it the way you do?"
+   ],
+   "adventures": [
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit.",
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was."
+   ]
+  },
+  "2028-07-20": {
+   "date": "2028-07-20",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Before totality tomorrow night, do the most Cancer thing there is: thank your home out loud and tell your people the true thing. One room blessed, one sentence spoken, zero subtext. Pack light for the eclipse.",
+    "You can feel everyone's weather but your own — what storm have you been refusing to forecast because naming it would mean the shell has to open?"
+   ],
+   "adventures": [
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was.",
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you."
+   ]
+  },
+  "2028-07-21": {
+   "date": "2028-07-21",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "TOTAL solar eclipse — the Great Southern Eclipse, on the season's last night",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Tonight the Great Southern Eclipse goes total on the Cancer/Leo cusp — your season ends in totality, the Moon's own sign going dark at maximum light. What version of 'home' ends tonight, and what freer one gets born in the dark? Feel both: the grief, and the keys to the new door.",
+    "Does your devotion feed the people you love, or does it quietly keep score — and which one would they say it is if nobody was listening?"
+   ],
+   "adventures": [
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you.",
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat."
+   ]
+  },
+  "2028-07-22": {
+   "date": "2028-07-22",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "TOTAL solar eclipse — the Great Southern Eclipse (Sydney/NZ); Sun enters Leo",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "The Great Southern Eclipse went total this morning and the Sun walked straight into Leo — the lights are officially back on. Tonight: make one thing you've been hiding — a page, a photo, a rough draft — and tell NOBODY about it yet. The eclipse took the stage away; rebuild your art in the dark before you show it in daylight.",
+    "Where do you dim yourself to stay likable instead of blazing the way you actually are?"
+   ],
+   "adventures": [
+    "Walk into a room today and say the honest, warm thing nobody's saying. Give the compliment you're hoarding. Be the light on purpose, not by accident.",
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post."
+   ]
+  },
+  "2028-07-23": {
+   "date": "2028-07-23",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Yesterday the sky went dark in the middle of the day. Now ask the real question: last time the applause in your life went quiet — really quiet — what did you hear underneath? Name it without dressing it up for the room.",
+    "When was the last time you gave without needing to be seen giving?"
+   ],
+   "adventures": [
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post.",
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose."
+   ]
+  },
+  "2028-07-24": {
+   "date": "2028-07-24",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Let yourself want the thing at full volume today — the bold, embarrassing, specific version of what you want. No shrinking it so it sounds more likable. Feel it at 100% and notice who flinches: you, or your audience?",
+    "What would you do for fun if no one were watching and nobody would ever know?"
+   ],
+   "adventures": [
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose.",
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good."
+   ]
+  },
+  "2028-07-25": {
+   "date": "2028-07-25",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Do one generous thing today that earns you zero credit — anonymous, invisible, no receipts, no story about it later. Leo's heart is enormous; prove yours doesn't need a spotlight to beat.",
+    "Whose approval are you waiting for before you let your work out of the draft folder?"
+   ],
+   "adventures": [
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good.",
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you."
+   ]
+  },
+  "2028-07-26": {
+   "date": "2028-07-26",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Think of the last thing you made that flopped. Be radically honest: did the pain come from the work being bad — or from nobody clapping? Separate the two before you decide what to build next.",
+    "Are you leading because the room needs it, or because you need the room to need you?"
+   ],
+   "adventures": [
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you.",
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real."
+   ]
+  },
+  "2028-07-27": {
+   "date": "2028-07-27",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Play today — actual, pointless, unserious play. The joy that isn't content. Feel how big your happiness is allowed to be when it performs for absolutely no one.",
+    "What win of yours have you been waiting for someone else to clap for first?"
+   ],
+   "adventures": [
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real.",
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be."
+   ]
+  },
+  "2028-07-28": {
+   "date": "2028-07-28",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Finish one thing you've called 'almost done' for weeks — and put it in front of real eyes before sunset, polish be damned. Perfectionism is just applause-anxiety in a costume. Ship it anyway.",
+    "Do your people stay because you're there, or because you're always on?"
+   ],
+   "adventures": [
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be.",
+    "Ask one person today how they really are — and stay for the real answer. Remember one detail. Bring it up next week."
+   ]
+  },
+  "2028-07-29": {
+   "date": "2028-07-29",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "If you had to spend one full year with zero witnesses — no followers, no feed, no one watching — what would you still build? That answer is your compass for the rest of Leo season.",
+    "Who in your orbit is performing for your attention because they've never had your real one?"
+   ],
+   "adventures": [
+    "Ask one person today how they really are — and stay for the real answer. Remember one detail. Bring it up next week.",
+    "Walk into a room today and say the honest, warm thing nobody's saying. Give the compliment you're hoarding. Be the light on purpose, not by accident."
+   ]
+  },
+  "2028-07-30": {
+   "date": "2028-07-30",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Stand in front of a mirror and say one true thing you're proud of about yourself — out loud, no caveats, no self-deprecating punchline to make it palatable. Feel what pride is like before anyone else votes on it.",
+    "Where do you dim yourself to stay likable instead of blazing the way you actually are?"
+   ],
+   "adventures": [
+    "Walk into a room today and say the honest, warm thing nobody's saying. Give the compliment you're hoarding. Be the light on purpose, not by accident.",
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post."
+   ]
+  },
+  "2028-07-31": {
+   "date": "2028-07-31",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Compliment someone today with zero motive — no networking, no flattery, no favor-launcher. Just: I see you, you're great at this, done. Generosity without an angle is pure Leo. Practice it clean.",
+    "When was the last time you gave without needing to be seen giving?"
+   ],
+   "adventures": [
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post.",
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose."
+   ]
+  },
+  "2028-08-01": {
+   "date": "2028-08-01",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Audit last week's decisions: how many did you choose for how they'd LOOK versus how they'd FEEL? Circle the one you'd un-make, and then this week, actually make the opposite call.",
+    "What would you do for fun if no one were watching and nobody would ever know?"
+   ],
+   "adventures": [
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose.",
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good."
+   ]
+  },
+  "2028-08-02": {
+   "date": "2028-08-02",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Be the main character today — dress louder, laugh bigger, take up the space you usually shrink out of politeness. Feel the exact difference between arrogance and simply refusing to be small.",
+    "Whose approval are you waiting for before you let your work out of the draft folder?"
+   ],
+   "adventures": [
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good.",
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you."
+   ]
+  },
+  "2028-08-03": {
+   "date": "2028-08-03",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Ask for help today — out loud, specific, to a real person, before noon. Pride-as-armor says handle it alone. Even lions hunt in prides. Drop the armor and make the call.",
+    "Are you leading because the room needs it, or because you need the room to need you?"
+   ],
+   "adventures": [
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you.",
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real."
+   ]
+  },
+  "2028-08-04": {
+   "date": "2028-08-04",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "What's the boldest move you've been rehearsing in your head for months? Interrogate the delay: is it unfinished — or are you terrified of what the room will say when it lands? Name which one is true.",
+    "What win of yours have you been waiting for someone else to clap for first?"
+   ],
+   "adventures": [
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real.",
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be."
+   ]
+  },
+  "2028-08-05": {
+   "date": "2028-08-05",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Grieve one old version of yourself today — the one who needed everybody to like them. Feel it properly: she kept you safe once. Then notice how much lighter your chest feels without performing for her.",
+    "Do your people stay because you're there, or because you're always on?"
+   ],
+   "adventures": [
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be.",
+    "Ask one person today how they really are — and stay for the real answer. Remember one detail. Bring it up next week."
+   ]
+  },
+  "2028-08-06": {
+   "date": "2028-08-06",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Lead one small thing today — a plan, a project, a hard conversation — and deliberately hand the visible credit to someone else. Leading without the trophy is the hardest, most Leo move of the season. Do it anyway.",
+    "Who in your orbit is performing for your attention because they've never had your real one?"
+   ],
+   "adventures": [
+    "Ask one person today how they really are — and stay for the real answer. Remember one detail. Bring it up next week.",
+    "Walk into a room today and say the honest, warm thing nobody's saying. Give the compliment you're hoarding. Be the light on purpose, not by accident."
+   ]
+  },
+  "2028-08-07": {
+   "date": "2028-08-07",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Write down the three beliefs you hold most fiercely about yourself. Now check the fingerprints: which ones grew inside you, and which ones did you adopt because they got a good reaction? Keep only yours.",
+    "Where do you dim yourself to stay likable instead of blazing the way you actually are?"
+   ],
+   "adventures": [
+    "Walk into a room today and say the honest, warm thing nobody's saying. Give the compliment you're hoarding. Be the light on purpose, not by accident.",
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post."
+   ]
+  },
+  "2028-08-08": {
+   "date": "2028-08-08",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Do the thing today that makes you feel most ALIVE — not most impressive, most alive. Feel exactly where it sits in your body, then put it on the calendar weekly. Audience optional.",
+    "When was the last time you gave without needing to be seen giving?"
+   ],
+   "adventures": [
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post.",
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose."
+   ]
+  },
+  "2028-08-09": {
+   "date": "2028-08-09",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Share one unfinished thing today — the draft, the sketch, the voice-memo version. Your power was never in the polish; it's in the nerve. Let the work-in-progress be seen.",
+    "What would you do for fun if no one were watching and nobody would ever know?"
+   ],
+   "adventures": [
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose.",
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good."
+   ]
+  },
+  "2028-08-10": {
+   "date": "2028-08-10",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Count how many times today you edit yourself mid-sentence to sound better. What was the unedited sentence? Who are you when you're not stage-managing everyone's experience of you?",
+    "Whose approval are you waiting for before you let your work out of the draft folder?"
+   ],
+   "adventures": [
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good.",
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you."
+   ]
+  },
+  "2028-08-11": {
+   "date": "2028-08-11",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Celebrate someone else's win today — big, loud, genuinely. When your chest tightens with comparison, don't run: breathe through it until only joy is left. Their spotlight does not dim yours.",
+    "Are you leading because the room needs it, or because you need the room to need you?"
+   ],
+   "adventures": [
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you.",
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real."
+   ]
+  },
+  "2028-08-12": {
+   "date": "2028-08-12",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Say the true thing you've been swallowing — the feedback, the boundary, the confession — to the one person who needs it. Kind, direct, today. Courage is Leo's native language. Speak it.",
+    "What win of yours have you been waiting for someone else to clap for first?"
+   ],
+   "adventures": [
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real.",
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be."
+   ]
+  },
+  "2028-08-13": {
+   "date": "2028-08-13",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Picture your life's highlight reel — then delete every scene nobody ever witnessed. What's left is what you actually lived for. Which of THOSE scenes deserves more of your August?",
+    "Do your people stay because you're there, or because you're always on?"
+   ],
+   "adventures": [
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be.",
+    "Ask one person today how they really are — and stay for the real answer. Remember one detail. Bring it up next week."
+   ]
+  },
+  "2028-08-14": {
+   "date": "2028-08-14",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Rest today — real rest, not 'recharging so I can perform better.' Feel what it's like to be magnificent while producing nothing. The sun doesn't apologize for setting.",
+    "Who in your orbit is performing for your attention because they've never had your real one?"
+   ],
+   "adventures": [
+    "Ask one person today how they really are — and stay for the real answer. Remember one detail. Bring it up next week.",
+    "Walk into a room today and say the honest, warm thing nobody's saying. Give the compliment you're hoarding. Be the light on purpose, not by accident."
+   ]
+  },
+  "2028-08-15": {
+   "date": "2028-08-15",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Make the version of the thing YOU want — not the version the algorithm rewards, not the one your audience expects. The weird one. The heart-led one. Build it before you ask anyone's permission.",
+    "Where do you dim yourself to stay likable instead of blazing the way you actually are?"
+   ],
+   "adventures": [
+    "Walk into a room today and say the honest, warm thing nobody's saying. Give the compliment you're hoarding. Be the light on purpose, not by accident.",
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post."
+   ]
+  },
+  "2028-08-16": {
+   "date": "2028-08-16",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Ask the uncomfortable one: if ONE person's approval vanished tomorrow, whose would make you feel invisible? That name is where your shadow lives. What would feeling visible to yourself actually require?",
+    "When was the last time you gave without needing to be seen giving?"
+   ],
+   "adventures": [
+    "Buy lunch, dinner, or the bar round for someone who cannot repay you and will never know it was you. No story, no post.",
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose."
+   ]
+  },
+  "2028-08-17": {
+   "date": "2028-08-17",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Fall for your own life today — your mornings, your people, your mess, your magic. Feel it the way you feel it for someone you adore. Self-devotion isn't vanity; it's fuel. Let it burn.",
+    "What would you do for fun if no one were watching and nobody would ever know?"
+   ],
+   "adventures": [
+    "Do something purely for fun today — loud, unserious, zero productive value. A dance in the kitchen, a silly voice in the store. On purpose.",
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good."
+   ]
+  },
+  "2028-08-18": {
+   "date": "2028-08-18",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Admit one mistake out loud today — specific, witnessed, no spin, no 'but.' Owning the miss in public is the exact opposite of pride-as-armor, and it's the most magnetic thing a Leo can do.",
+    "Whose approval are you waiting for before you let your work out of the draft folder?"
+   ],
+   "adventures": [
+    "Make the thing. The song, the sketch, the video, the page — unfinished, unpolished, posted or shared before you're sure it's good.",
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you."
+   ]
+  },
+  "2028-08-19": {
+   "date": "2028-08-19",
+   "season": "Leo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Leo Season · THINK",
+    "action": "A THINK day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Think back to July 22: totality, then the lights came back. What's still sitting in shadow in your creative life? Name the one project you keep in the dark — today it gets a verdict: kill it or light it.",
+    "Are you leading because the room needs it, or because you need the room to need you?"
+   ],
+   "adventures": [
+    "Today, lead one small moment: set the plan, gather the people, take the group where they need to go. Carry the room's weight like it belongs to you.",
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real."
+   ]
+  },
+  "2028-08-20": {
+   "date": "2028-08-20",
+   "season": "Leo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Leo Season · FEEL",
+    "action": "A FEEL day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Perform today for an audience of exactly one: you. Sing, dance, monologue at full volume. Feel the joy of expressing at 100% with nobody to impress — this is the self the applause was always chasing.",
+    "What win of yours have you been waiting for someone else to clap for first?"
+   ],
+   "adventures": [
+    "Throw a tiny celebration for something nobody else noticed — your own win, a friend's quiet progress. A toast, a cake, a banner. Make it real.",
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be."
+   ]
+  },
+  "2028-08-21": {
+   "date": "2028-08-21",
+   "season": "Leo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Leo Season · ACT",
+    "action": "A ACT day in Leo season — THE BRIGHT YES."
+   },
+   "soulQuestions": [
+    "Close Leo season like a lion: list the three things you made this month that you're proud of whether anyone noticed or not, and read the list out loud. Virgo starts tomorrow — hand her the work and let it speak for itself.",
+    "Do your people stay because you're there, or because you're always on?"
+   ],
+   "adventures": [
+    "Show up for one person who flaked on you before, no scorekeeping, no speech about it. Be there the way you said you'd be.",
+    "Ask one person today how they really are — and stay for the real answer. Remember one detail. Bring it up next week."
+   ]
+  },
+  "2028-08-22": {
+   "date": "2028-08-22",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Name the draft, the email, the thing — the one you've revised past the point of usefulness. Send the version you have before this day ends. Done beats perfect; perfect was never coming.",
+    "What are you still evaluating long after you've already decided, because calling it done would mean being seen?"
+   ],
+   "adventures": [
+    "Take your messiest drawer, shelf, or inbox and sort it into keep, toss, and donate — in one sitting, no second-guessing, timer on. Anything you agonize over longer than ten seconds goes in the toss pile.",
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory."
+   ]
+  },
+  "2028-08-23": {
+   "date": "2028-08-23",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Your inner editor rewrites you all day. Catch one sentence it softened this morning and say the original out loud. Which version was true, and which one was just safer?",
+    "Where has your standard quietly become a hiding place, protecting the work from ever being finished or judged?"
+   ],
+   "adventures": [
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory.",
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens."
+   ]
+  },
+  "2028-08-24": {
+   "date": "2028-08-24",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Jupiter enters LIBRA — expansion moves to partnership",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Jupiter leaves your sign for Libra today — growth stops being a solo craft and becomes a shared one. What does it feel like in your body to imagine your work held by other hands, not just yours? Sit with both the relief and the grief of it.",
+    "What part of your life is waiting to be healed by a routine you're too proud to make simple?"
+   ],
+   "adventures": [
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens.",
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect."
+   ]
+  },
+  "2028-08-25": {
+   "date": "2028-08-25",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Pick one task you've been 'preparing' for longer than the task itself takes. Set a timer for 25 minutes and do the ugly first pass — out loud, on paper, in the open. Preparation is not the work.",
+    "What are you refusing to cut because the extra parts prove how hard you worked, even though they're what's making it worse?"
+   ],
+   "adventures": [
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect.",
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too."
+   ]
+  },
+  "2028-08-26": {
+   "date": "2028-08-26",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "What are you analyzing for the fifth time that you already decided on the first? Write down the decision you keep re-opening, and what re-opening it protects you from.",
+    "Whose trust did your endless preparing quietly spend, while you were waiting to be ready enough to show up?"
+   ],
+   "adventures": [
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too.",
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual."
+   ]
+  },
+  "2028-08-27": {
+   "date": "2028-08-27",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "When did you last finish something and feel plain satisfied — no asterisk, no 'next time'? Reconstruct that feeling. What was different about that day's standards?",
+    "What magic have you been postponing because the materials weren't perfect, when everything you needed was already in the junk drawer?"
+   ],
+   "adventures": [
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual.",
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit."
+   ]
+  },
+  "2028-08-28": {
+   "date": "2028-08-28",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Your to-do list has an item that's been carried over three times. Either do it today in its messiest form or cross it off and admit it was decoration. There is no fourth carry-over.",
+    "Which details do you lavish on everyone else's life while your own basics run on fumes?"
+   ],
+   "adventures": [
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit.",
+    "Do one genuinely useful thing for someone today — then stop. No follow-up favor, no lingering, no mentioning it later. Help, leave, and let it cost you nothing but the act itself."
+   ]
+  },
+  "2028-08-29": {
+   "date": "2028-08-29",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Make two columns: details that change the outcome, and details that only change how the outcome looks. How much of your week has been going to column two?",
+    "Where does your helping stop being generosity and start being a contract nobody signed?"
+   ],
+   "adventures": [
+    "Do one genuinely useful thing for someone today — then stop. No follow-up favor, no lingering, no mentioning it later. Help, leave, and let it cost you nothing but the act itself.",
+    "Take your messiest drawer, shelf, or inbox and sort it into keep, toss, and donate — in one sitting, no second-guessing, timer on. Anything you agonize over longer than ten seconds goes in the toss pile."
+   ]
+  },
+  "2028-08-30": {
+   "date": "2028-08-30",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Feel where criticism lands in you — the jaw, the stomach, the shoulders. Is that sensation information, or an old alarm that goes off even when nothing is actually wrong?",
+    "What are you still evaluating long after you've already decided, because calling it done would mean being seen?"
+   ],
+   "adventures": [
+    "Take your messiest drawer, shelf, or inbox and sort it into keep, toss, and donate — in one sitting, no second-guessing, timer on. Anything you agonize over longer than ten seconds goes in the toss pile.",
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory."
+   ]
+  },
+  "2028-08-31": {
+   "date": "2028-08-31",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Fix one small broken thing in your actual environment — the wobbling shelf, the dead bulb, the drawer that sticks — instead of reorganizing the whole house in your head. Virgo magic is maintenance, not overhaul fantasies.",
+    "Where has your standard quietly become a hiding place, protecting the work from ever being finished or judged?"
+   ],
+   "adventures": [
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory.",
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens."
+   ]
+  },
+  "2028-09-01": {
+   "date": "2028-09-01",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Mercury retrograde shadow begins (Libra)",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Mercury's shadow opens today — everything agreed now gets re-read in three weeks. Which promise you've made lately has fine print you haven't said out loud? Say it before the retrograde says it for you.",
+    "What part of your life is waiting to be healed by a routine you're too proud to make simple?"
+   ],
+   "adventures": [
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens.",
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect."
+   ]
+  },
+  "2028-09-02": {
+   "date": "2028-09-02",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Name one thing your hands made that you're quietly proud of, and let yourself feel the whole of it for sixty seconds. No improving it in your head while you do.",
+    "What are you refusing to cut because the extra parts prove how hard you worked, even though they're what's making it worse?"
+   ],
+   "adventures": [
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect.",
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too."
+   ]
+  },
+  "2028-09-03": {
+   "date": "2028-09-03",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Teach someone one thing you know how to do well, without correcting their first attempt into your method. Service that has to control the outcome isn't service — it's supervision.",
+    "Whose trust did your endless preparing quietly spend, while you were waiting to be ready enough to show up?"
+   ],
+   "adventures": [
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too.",
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual."
+   ]
+  },
+  "2028-09-04": {
+   "date": "2028-09-04",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "If your standards were a person, would you hire them? Write the review: where does your inner critic earn its keep, and where is it just billing you hours?",
+    "What magic have you been postponing because the materials weren't perfect, when everything you needed was already in the junk drawer?"
+   ],
+   "adventures": [
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual.",
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit."
+   ]
+  },
+  "2028-09-05": {
+   "date": "2028-09-05",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Where does 'I should be doing more' live in your body at the end of the day? Whose voice is that, really — and does it ever clock out?",
+    "Which details do you lavish on everyone else's life while your own basics run on fumes?"
+   ],
+   "adventures": [
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit.",
+    "Do one genuinely useful thing for someone today — then stop. No follow-up favor, no lingering, no mentioning it later. Help, leave, and let it cost you nothing but the act itself."
+   ]
+  },
+  "2028-09-06": {
+   "date": "2028-09-06",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Write the email you've been drafting in your head for a week. One pass. No rereading for tone. Send it before lunch and let the words stand as spoken.",
+    "Where does your helping stop being generosity and start being a contract nobody signed?"
+   ],
+   "adventures": [
+    "Do one genuinely useful thing for someone today — then stop. No follow-up favor, no lingering, no mentioning it later. Help, leave, and let it cost you nothing but the act itself.",
+    "Take your messiest drawer, shelf, or inbox and sort it into keep, toss, and donate — in one sitting, no second-guessing, timer on. Anything you agonize over longer than ten seconds goes in the toss pile."
+   ]
+  },
+  "2028-09-07": {
+   "date": "2028-09-07",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "What's the difference between 'not ready' and 'not willing to be seen trying'? Pick one stalled project and answer honestly which one it is.",
+    "What are you still evaluating long after you've already decided, because calling it done would mean being seen?"
+   ],
+   "adventures": [
+    "Take your messiest drawer, shelf, or inbox and sort it into keep, toss, and donate — in one sitting, no second-guessing, timer on. Anything you agonize over longer than ten seconds goes in the toss pile.",
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory."
+   ]
+  },
+  "2028-09-08": {
+   "date": "2028-09-08",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Feel the difference between tired-from-work and tired-from-worry. Which one are you tonight, and what would each one actually need from you?",
+    "Where has your standard quietly become a hiding place, protecting the work from ever being finished or judged?"
+   ],
+   "adventures": [
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory.",
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens."
+   ]
+  },
+  "2028-09-09": {
+   "date": "2028-09-09",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Choose the 80% version of one plan and put it on the calendar with a real date. The 100% version has had months to show up and hasn't. It is not coming.",
+    "What part of your life is waiting to be healed by a routine you're too proud to make simple?"
+   ],
+   "adventures": [
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens.",
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect."
+   ]
+  },
+  "2028-09-10": {
+   "date": "2028-09-10",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "You call it research. Count the tabs, the saved posts, the notes-to-self. At what number does gathering information become a way to never have to use it?",
+    "What are you refusing to cut because the extra parts prove how hard you worked, even though they're what's making it worse?"
+   ],
+   "adventures": [
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect.",
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too."
+   ]
+  },
+  "2028-09-11": {
+   "date": "2028-09-11",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "When someone thanks you, what happens inside in the half-second before you say 'it was nothing'? Stay there. What are you protecting by shrinking the thing you did?",
+    "Whose trust did your endless preparing quietly spend, while you were waiting to be ready enough to show up?"
+   ],
+   "adventures": [
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too.",
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual."
+   ]
+  },
+  "2028-09-12": {
+   "date": "2028-09-12",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Declutter exactly one drawer, shelf, or folder — timer on, twenty minutes, no expanding the project. When the timer ends, so does the job, however it looks.",
+    "What magic have you been postponing because the materials weren't perfect, when everything you needed was already in the junk drawer?"
+   ],
+   "adventures": [
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual.",
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit."
+   ]
+  },
+  "2028-09-13": {
+   "date": "2028-09-13",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Think of the last compliment you deflected with a correction — 'thanks, but the seam is crooked.' What did correcting it buy you, and what did it cost the person who gave it?",
+    "Which details do you lavish on everyone else's life while your own basics run on fumes?"
+   ],
+   "adventures": [
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit.",
+    "Do one genuinely useful thing for someone today — then stop. No follow-up favor, no lingering, no mentioning it later. Help, leave, and let it cost you nothing but the act itself."
+   ]
+  },
+  "2028-09-14": {
+   "date": "2028-09-14",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Describe the feeling of a clean, finished job in one sentence — then the feeling of an almost-finished one. Why does the last 5% hold the other 95% hostage in you?",
+    "Where does your helping stop being generosity and start being a contract nobody signed?"
+   ],
+   "adventures": [
+    "Do one genuinely useful thing for someone today — then stop. No follow-up favor, no lingering, no mentioning it later. Help, leave, and let it cost you nothing but the act itself.",
+    "Take your messiest drawer, shelf, or inbox and sort it into keep, toss, and donate — in one sitting, no second-guessing, timer on. Anything you agonize over longer than ten seconds goes in the toss pile."
+   ]
+  },
+  "2028-09-15": {
+   "date": "2028-09-15",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Ask for help with one specific task before you finish perfecting your solo system for it. Name the task, name the person, make the ask today.",
+    "What are you still evaluating long after you've already decided, because calling it done would mean being seen?"
+   ],
+   "adventures": [
+    "Take your messiest drawer, shelf, or inbox and sort it into keep, toss, and donate — in one sitting, no second-guessing, timer on. Anything you agonize over longer than ten seconds goes in the toss pile.",
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory."
+   ]
+  },
+  "2028-09-16": {
+   "date": "2028-09-16",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Virgo Season · THINK",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Which of your routines exists because it works, and which exists because stopping it would mean admitting the season of your life it was built for is over?",
+    "Where has your standard quietly become a hiding place, protecting the work from ever being finished or judged?"
+   ],
+   "adventures": [
+    "Pick one small thing you do badly on purpose — a meal, a repair, a paragraph — and redo it slowly, by hand, until it holds up to your own inspection. Ugly first pass is mandatory.",
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens."
+   ]
+  },
+  "2028-09-17": {
+   "date": "2028-09-17",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Pride check: name the most useful thing you did this week for someone else and let it count at full value. How does it feel to not discount it, just this once?",
+    "What part of your life is waiting to be healed by a routine you're too proud to make simple?"
+   ],
+   "adventures": [
+    "Find the one recurring friction in your week — the lost keys, the skipped meal, the 2 a.m. spiral — and build a physical system that removes it: a hook, a basket, a written sequence taped where it happens.",
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect."
+   ]
+  },
+  "2028-09-18": {
+   "date": "2028-09-18",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Ship the thing at the quality it is right now, then write down what 'good enough' actually cost you: nothing, or everything? Let the evidence argue with your standards.",
+    "What are you refusing to cut because the extra parts prove how hard you worked, even though they're what's making it worse?"
+   ],
+   "adventures": [
+    "Take something you made — a post, a room, a plan, a resume — and cut twenty percent of it. Not polish it. Remove it. Ship the smaller, sharper version today, visibly imperfect.",
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too."
+   ]
+  },
+  "2028-09-19": {
+   "date": "2028-09-19",
+   "season": "Virgo",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Mercury stations RETROGRADE in Libra — the fairness audit",
+    "action": "A THINK day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Mercury stations retrograde in Libra today — the fairness audit is officially open. Which agreement in your life have you been silently scoring as unfair while signing it with a smile? Name the real terms.",
+    "Whose trust did your endless preparing quietly spend, while you were waiting to be ready enough to show up?"
+   ],
+   "adventures": [
+    "Make one small promise to one person — a ride, a call, a returned thing — and keep it early, without being reminded. Then make the next one smaller and keep that too.",
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual."
+   ]
+  },
+  "2028-09-20": {
+   "date": "2028-09-20",
+   "season": "Virgo",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Virgo Season · FEEL",
+    "action": "A FEEL day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Mercury is retrograde and the replays have started. When an old conversation loops in your head tonight, feel for the exact moment you edited yourself. What did the unedited version want to say — and what does it feel like to finally hear it?",
+    "What magic have you been postponing because the materials weren't perfect, when everything you needed was already in the junk drawer?"
+   ],
+   "adventures": [
+    "Fix one broken ordinary thing in your home with your own hands today — the wobble, the leak, the dead battery, the torn hem. No buying a replacement. Repair is the ritual.",
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit."
+   ]
+  },
+  "2028-09-21": {
+   "date": "2028-09-21",
+   "season": "Virgo",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Virgo Season · ACT",
+    "action": "A ACT day in Virgo season — THE USEFUL MAGIC."
+   },
+   "soulQuestions": [
+    "Last day of the craft season. Finish one loose end completely — not improved, not optimized, finished — and leave the rest of the list exactly as imperfect as it is.",
+    "Which details do you lavish on everyone else's life while your own basics run on fumes?"
+   ],
+   "adventures": [
+    "Spend thirty full minutes on one detail nobody will ever notice — the inside of a cabinet, the back of a photo, the last line of a letter. Do it for the doing, not the credit.",
+    "Do one genuinely useful thing for someone today — then stop. No follow-up favor, no lingering, no mentioning it later. Help, leave, and let it cost you nothing but the act itself."
+   ]
+  },
+  "2028-09-22": {
+   "date": "2028-09-22",
+   "season": "Libra",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Libra Season · ACT",
+    "action": "A ACT day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "Today the equinox hands you the season's own sign: name the ONE verdict you've been sitting on — then say it out loud to yourself before noon. Rehearsal counts as a start.",
+    "Whose approval are you buying with silence right now, and what is it actually costing you?"
+   ],
+   "adventures": [
+    "End one festering argument this week — not by winning, by landing it. Sit both parties down and don't stand up until something true gets said.",
+    "Curate your space today: throw out, rearrange, or frame five things until one room finally looks like it belongs to you."
+   ]
+  },
+  "2028-09-23": {
+   "date": "2028-09-23",
+   "season": "Libra",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Libra Season · THINK",
+    "action": "A THINK day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "You're already weighing both sides of the week ahead. Stop — which side are you secretly protecting because choosing the other would cost you someone's good opinion?",
+    "Which of your rooms, outfits, or habits is really decorated for other people?"
+   ],
+   "adventures": [
+    "Curate your space today: throw out, rearrange, or frame five things until one room finally looks like it belongs to you.",
+    "Audit one unfair deal you're living with — the split check, the thankless chore, the silent workload. Rebalance it out loud."
+   ]
+  },
+  "2028-09-24": {
+   "date": "2028-09-24",
+   "season": "Libra",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Libra Season · FEEL",
+    "action": "A FEEL day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "Feel the difference, in your body, between a calm you've earned and a calm you've rented with your silence. Which one are you living in right now?",
+    "What imbalance do you keep smoothing over because calling it out would make you the difficult one?"
+   ],
+   "adventures": [
+    "Audit one unfair deal you're living with — the split check, the thankless chore, the silent workload. Rebalance it out loud.",
+    "Ask one real question of someone you love and then actually listen — no fixing, no rehearsing your reply."
+   ]
+  },
+  "2028-09-25": {
+   "date": "2028-09-25",
+   "season": "Libra",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Libra Season · ACT",
+    "action": "A ACT day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "Send the text you've been drafting for three weeks: the honest ask, the boundary, the no. Ugly draft beats no draft — hit send before your coffee cools.",
+    "Do you want a partner, or an audience that never disagrees with you?"
+   ],
+   "adventures": [
+    "Ask one real question of someone you love and then actually listen — no fixing, no rehearsing your reply.",
+    "Compliment one stranger today with zero agenda. Specific, sincere, then gone."
+   ]
+  },
+  "2028-09-26": {
+   "date": "2028-09-26",
+   "season": "Libra",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Libra Season · THINK",
+    "action": "A THINK day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "Mercury is retrograde in YOUR sign auditing every agreement you smiled through. Which deal did you nod at while wanting to scream — and what would the renegotiation actually say?",
+    "When you turn on the charm, who are you hoping will stop looking at the real thing?"
+   ],
+   "adventures": [
+    "Compliment one stranger today with zero agenda. Specific, sincere, then gone.",
+    "Argue the other side of your loudest opinion — in writing, steelmanning it, no straw-men. Publish nowhere."
+   ]
+  },
+  "2028-09-27": {
+   "date": "2028-09-27",
+   "season": "Libra",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Libra Season · FEEL",
+    "action": "A FEEL day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "Where in your body do you store the resentment you won't name? Jaw, stomach, shoulders — find it, breathe into it, and ask it what truth it's waiting for you to speak.",
+    "What would you have to admit if the person you argue with most turned out to be partly right?"
+   ],
+   "adventures": [
+    "Argue the other side of your loudest opinion — in writing, steelmanning it, no straw-men. Publish nowhere.",
+    "Host something — dinner, a call, a walk — where two people who don't usually talk get the same table. You set the table, not the topic."
+   ]
+  },
+  "2028-09-28": {
+   "date": "2028-09-28",
+   "season": "Libra",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Libra Season · ACT",
+    "action": "A ACT day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "Jupiter is expanding in Libra — your charm, your connections, your reach. Today, charm yourself into ONE hard conversation instead of charming someone else out of one.",
+    "Do you create peace, or do you just perform the absence of conflict?"
+   ],
+   "adventures": [
+    "Host something — dinner, a call, a walk — where two people who don't usually talk get the same table. You set the table, not the topic.",
+    "Take one hard conversation you keep postponing and have it before Friday — standing tall, voice steady, no apology for having a spine."
+   ]
+  },
+  "2028-09-29": {
+   "date": "2028-09-29",
+   "season": "Libra",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Libra Season · THINK",
+    "action": "A THINK day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "List the decisions currently on your 'maybe' shelf. Now ask: which of these are maybes and which are cowardices wearing a halo of patience?",
+    "Where in your life is 'keeping the peace' just a prettier name for surrender?"
+   ],
+   "adventures": [
+    "Take one hard conversation you keep postponing and have it before Friday — standing tall, voice steady, no apology for having a spine.",
+    "End one festering argument this week — not by winning, by landing it. Sit both parties down and don't stand up until something true gets said."
+   ]
+  },
+  "2028-09-30": {
+   "date": "2028-09-30",
+   "season": "Libra",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Libra Season · FEEL",
+    "action": "A FEEL day in Libra season — THE BEAUTIFUL MIDDLE."
+   },
+   "soulQuestions": [
+    "Do something beautiful today that nobody will thank you for. Notice whether the pleasure lands anyway — or whether you've been confusing beauty with applause.",
+    "Whose approval are you buying with silence right now, and what is it actually costing you?"
+   ],
+   "adventures": [
+    "End one festering argument this week — not by winning, by landing it. Sit both parties down and don't stand up until something true gets said.",
+    "Curate your space today: throw out, rearrange, or frame five things until one room finally looks like it belongs to you."
+   ]
+  }
+ }
+}

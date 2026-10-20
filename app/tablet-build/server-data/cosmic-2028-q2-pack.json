@@ -1,0 +1,1607 @@
+{
+ "edition": "cosmic-2028-q2",
+ "name": "2028 Cosmic Forecast — Q2",
+ "window": {
+  "start": "2028-04-01",
+  "end": "2028-06-30"
+ },
+ "themes": {
+  "January": {
+   "name": "Capricorn Tail",
+   "theme": "THE LONG GAME"
+  },
+  "February": {
+   "name": "Aquarius",
+   "theme": "THE OPEN CURRENT"
+  },
+  "March": {
+   "name": "Pisces",
+   "theme": "THE RETURN TO SELF"
+  },
+  "April": {
+   "name": "Aries",
+   "theme": "THE DIRECT HIT"
+  },
+  "May": {
+   "name": "Taurus",
+   "theme": "THE RITUAL"
+  },
+  "June": {
+   "name": "Gemini",
+   "theme": "THE NEXT QUESTION"
+  },
+  "July": {
+   "name": "Cancer",
+   "theme": "THE TIDE WITHIN"
+  },
+  "August": {
+   "name": "Leo",
+   "theme": "THE BRIGHT YES"
+  },
+  "September": {
+   "name": "Virgo",
+   "theme": "THE USEFUL MAGIC"
+  },
+  "October": {
+   "name": "Libra",
+   "theme": "THE BEAUTIFUL MIDDLE"
+  },
+  "November": {
+   "name": "Scorpio",
+   "theme": "THE DEEP TURN"
+  },
+  "December": {
+   "name": "Sagittarius",
+   "theme": "THE OPEN ROAD"
+  }
+ },
+ "days": {
+  "2028-04-01": {
+   "date": "2028-04-01",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "No new starts today. Take inventory of everything you've begun since the equinox and close, kill, or complete one of them before bed. Pruning is also power.",
+    "Who are you actually racing, and would you still want the prize if the fight stopped being interesting halfway to it?"
+   ],
+   "adventures": [
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't.",
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice."
+   ]
+  },
+  "2028-04-02": {
+   "date": "2028-04-02",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Saturn has been drilling your identity since 2025. Who did it force you to become? Write the before-and-after like a report card you're finally allowed to read.",
+    "How many of your fast decisions were real conviction, and how many were just you slamming the door so you wouldn't have to stay and choose slowly?"
+   ],
+   "adventures": [
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice.",
+    "Stand in front of someone smaller in the fight today — the coworker getting talked over, the friend getting mocked. Interrupt it physically if you must. Be the wall, then be done."
+   ]
+  },
+  "2028-04-03": {
+   "date": "2028-04-03",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "In ten days the test changes from who you are to what you're worth. What's the first feeling that lands — relief, dread, hunger? Stay with it and write out why.",
+    "You'd charge into danger for your people without blinking — so why do you abandon your own long fights the moment nobody's watching you be brave?"
+   ],
+   "adventures": [
+    "Stand in front of someone smaller in the fight today — the coworker getting talked over, the friend getting mocked. Interrupt it physically if you must. Be the wall, then be done.",
+    "Sign up for the class where you'll be the worst person in the room. Show up anyway. Ask the dumb question out loud. Beginners get to be bad in public — that's the whole sport."
+   ]
+  },
+  "2028-04-04": {
+   "date": "2028-04-04",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Put a number on something today. Price the offer, total the debt, count the hours your 'quick project' actually eats. Aries runs on instinct — today instinct gets audited.",
+    "What did you quit the moment you stopped being instantly good at it, and what would it take to be a beginner on purpose instead of a quitter by accident?"
+   ],
+   "adventures": [
+    "Sign up for the class where you'll be the worst person in the room. Show up anyway. Ask the dumb question out loud. Beginners get to be bad in public — that's the whole sport.",
+    "Pick the thing you've been circling for a week. Do the first ugly minute of it right now — no setup, no playlist, no perfect conditions. Momentum doesn't ask permission."
+   ]
+  },
+  "2028-04-05": {
+   "date": "2028-04-05",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "What do you actually own — money, skills, time, reputation — that you've never sat down and honestly listed? Draft the inventory. You can't defend a kingdom you won't map.",
+    "What did you start in a blaze last month that's sitting cold right now, and what would it cost you to admit the spark was never the problem — the staying was?"
+   ],
+   "adventures": [
+    "Pick the thing you've been circling for a week. Do the first ugly minute of it right now — no setup, no playlist, no perfect conditions. Momentum doesn't ask permission.",
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished."
+   ]
+  },
+  "2028-04-06": {
+   "date": "2028-04-06",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Where do you spend money like you're proving something? Name the purchase pattern that performs instead of provides — and the feeling you're actually trying to buy.",
+    "When did you last sprint toward something that scared you instead of sprinting away, and why do you trust your fear more than your track record?"
+   ],
+   "adventures": [
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished.",
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room."
+   ]
+  },
+  "2028-04-07": {
+   "date": "2028-04-07",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Finish something small enough to complete before lunch and annoying enough that you've dodged it for weeks. Completion is a muscle. Today is leg day.",
+    "What truth did you blurt out fast and then abandon because the reaction got uncomfortable — and who deserved you finishing that sentence?"
+   ],
+   "adventures": [
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room.",
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings."
+   ]
+  },
+  "2028-04-08": {
+   "date": "2028-04-08",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Examine the race you're actually running. Whose finish line are you sprinting toward — yours, or one somebody else painted for you? Be brutally specific.",
+    "Is your speed a gift or an exit strategy — how often do you rush the beginning so you never have to sit through the middle?"
+   ],
+   "adventures": [
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings.",
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't."
+   ]
+  },
+  "2028-04-09": {
+   "date": "2028-04-09",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Four days until Saturn hands you over. What part of the last three years of discipline are you secretly going to miss? Write the goodbye you owe that version of yourself.",
+    "Who are you actually racing, and would you still want the prize if the fight stopped being interesting halfway to it?"
+   ],
+   "adventures": [
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't.",
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice."
+   ]
+  },
+  "2028-04-10": {
+   "date": "2028-04-10",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Open the account. Read the statement. Look at the real number — whatever financial truth you've been charging past. Stand in it for ten full minutes. No flinching, no fixing yet.",
+    "How many of your fast decisions were real conviction, and how many were just you slamming the door so you wouldn't have to stay and choose slowly?"
+   ],
+   "adventures": [
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice.",
+    "Stand in front of someone smaller in the fight today — the coworker getting talked over, the friend getting mocked. Interrupt it physically if you must. Be the wall, then be done."
+   ]
+  },
+  "2028-04-11": {
+   "date": "2028-04-11",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "When the test becomes 'what are you worth,' which of your values is non-negotiable — the one no paycheck buys out? Define it in writing before the market defines it for you.",
+    "You'd charge into danger for your people without blinking — so why do you abandon your own long fights the moment nobody's watching you be brave?"
+   ],
+   "adventures": [
+    "Stand in front of someone smaller in the fight today — the coworker getting talked over, the friend getting mocked. Interrupt it physically if you must. Be the wall, then be done.",
+    "Sign up for the class where you'll be the worst person in the room. Show up anyway. Ask the dumb question out loud. Beginners get to be bad in public — that's the whole sport."
+   ]
+  },
+  "2028-04-12": {
+   "date": "2028-04-12",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Tomorrow the drill sergeant leaves your sign. Tonight, feel the full weight of how hard you've been on yourself since 2025 — and write what rest would even look like if you let it count.",
+    "What did you quit the moment you stopped being instantly good at it, and what would it take to be a beginner on purpose instead of a quitter by accident?"
+   ],
+   "adventures": [
+    "Sign up for the class where you'll be the worst person in the room. Show up anyway. Ask the dumb question out loud. Beginners get to be bad in public — that's the whole sport.",
+    "Pick the thing you've been circling for a week. Do the first ugly minute of it right now — no setup, no playlist, no perfect conditions. Momentum doesn't ask permission."
+   ]
+  },
+  "2028-04-13": {
+   "date": "2028-04-13",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Saturn enters Taurus — the money-and-values structure era begins",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Saturn moved into Taurus today: the era of proving who you are is over, and the era of proving what you're worth just started. Make one concrete move that treats your work like it has value — send the invoice, raise the rate, or set the boundary. In writing, before bed.",
+    "What did you start in a blaze last month that's sitting cold right now, and what would it cost you to admit the spark was never the problem — the staying was?"
+   ],
+   "adventures": [
+    "Pick the thing you've been circling for a week. Do the first ugly minute of it right now — no setup, no playlist, no perfect conditions. Momentum doesn't ask permission.",
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished."
+   ]
+  },
+  "2028-04-14": {
+   "date": "2028-04-14",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "First full day of the new era. Look at how you earned, spent, and gave this week. Does the money story match the identity you spent three years building? Find the leak and name it.",
+    "When did you last sprint toward something that scared you instead of sprinting away, and why do you trust your fear more than your track record?"
+   ],
+   "adventures": [
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished.",
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room."
+   ]
+  },
+  "2028-04-15": {
+   "date": "2028-04-15",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Slow down on purpose for one full hour — eat something slowly, build something with your hands, put your feet on actual ground. Notice what your fire feels like when it's fed instead of spent.",
+    "What truth did you blurt out fast and then abandon because the reaction got uncomfortable — and who deserved you finishing that sentence?"
+   ],
+   "adventures": [
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room.",
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings."
+   ]
+  },
+  "2028-04-16": {
+   "date": "2028-04-16",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Take one thing you made this season and put a finish on it so complete that a stranger could pick it up and use it. Then hand it to an actual human today.",
+    "Is your speed a gift or an exit strategy — how often do you rush the beginning so you never have to sit through the middle?"
+   ],
+   "adventures": [
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings.",
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't."
+   ]
+  },
+  "2028-04-17": {
+   "date": "2028-04-17",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Your season ends in two days. Review every start you made since the equinox: which ones earned a future, and which were just matches struck for the flare? Decide now, in ink.",
+    "Who are you actually racing, and would you still want the prize if the fight stopped being interesting halfway to it?"
+   ],
+   "adventures": [
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't.",
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice."
+   ]
+  },
+  "2028-04-18": {
+   "date": "2028-04-18",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "The fire hands over to the earth tomorrow. What do you want to carry into Taurus season — and what blaze are you finally willing to let burn out? Feel both answers honestly before you write them.",
+    "How many of your fast decisions were real conviction, and how many were just you slamming the door so you wouldn't have to stay and choose slowly?"
+   ],
+   "adventures": [
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice.",
+    "Stand in front of someone smaller in the fight today — the coworker getting talked over, the friend getting mocked. Interrupt it physically if you must. Be the wall, then be done."
+   ]
+  },
+  "2028-04-19": {
+   "date": "2028-04-19",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Saturn walked into your sign on April 13 and it didn't knock — it moved in. Open your bank app right now and move one real amount of money toward the thing you keep calling 'someday.' Any amount. A dream with zero dollars in it is a screensaver.",
+    "What have you been faithfully tending for years that quietly stopped growing — and is your loyalty to it actually just fear of the empty pot?"
+   ],
+   "adventures": [
+    "Pick one small thing and do it every day this week at the same hour — water one plant, light one candle, tend one corner. No streak apps. Miss a day? Start again, no speech.",
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week."
+   ]
+  },
+  "2028-04-20": {
+   "date": "2028-04-20",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Name the purchase you've researched eleven times and bought zero times. What are you actually protecting by not buying it — your savings, or your excuse for why nothing has changed?",
+    "When did comfort stop being pleasure and start being anesthesia — and what would your senses ask for if you let them order?"
+   ],
+   "adventures": [
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week.",
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect."
+   ]
+  },
+  "2028-04-21": {
+   "date": "2028-04-21",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Put your bare feet on actual ground for two full minutes. No phone. Taurus runs on contact, not content — what does your body know about your life that your budget spreadsheet refuses to say?",
+    "What skill have your hands been waiting to learn while you kept insisting you were not that kind of person?"
+   ],
+   "adventures": [
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect.",
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it."
+   ]
+  },
+  "2028-04-22": {
+   "date": "2028-04-22",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Fix one thing in your physical space today — the drawer, the drip, the pile — all the way to done. Not 'started.' Done. Comfort that isn't maintained is just decay with good lighting.",
+    "Is your famous unshakeability actual peace — or is it just refusing to move dressed up as serenity?"
+   ],
+   "adventures": [
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it.",
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it."
+   ]
+  },
+  "2028-04-23": {
+   "date": "2028-04-23",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "It's Sunday. Look at your week: which hours were rest and which were hiding? Write the hiding hours down and put a dollar value on them. What did the hiding actually cost?",
+    "Who have you stayed loyal to out of habit long after the relationship ended — and what is that loyalty costing the people actually here?"
+   ],
+   "adventures": [
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it.",
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it."
+   ]
+  },
+  "2028-04-24": {
+   "date": "2028-04-24",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Cook one thing slowly today — no shortcuts, no microwave absolution. While it cooks, feel the difference between patience that builds flavor and stalling that just keeps you in the kitchen and out of the arena.",
+    "What are you saving for a someday that's really just a locked room — and what would change if you let one saved thing be used today?"
+   ],
+   "adventures": [
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it.",
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches."
+   ]
+  },
+  "2028-04-25": {
+   "date": "2028-04-25",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Set one price today: your rate, your product, your boundary. Write it somewhere it can be seen and don't apologize under it. Undercharging is just stagnation wearing a generous mask.",
+    "Where has your patience become a waiting room — sitting still not because the timing is right, but because moving means deciding?"
+   ],
+   "adventures": [
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches.",
+    "Spend one full hour somewhere beautiful with nothing to capture it. No photo. If your hand reaches for the phone, notice, and put it back."
+   ]
+  },
+  "2028-04-26": {
+   "date": "2028-04-26",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "What do you own that owns you back? Name the possession, subscription, or obligation whose upkeep eats the resources your actual life is waiting on. What would selling, canceling, or ending it fund?",
+    "When were you last completely inside a moment instead of storing it — and what are you afraid you'd feel if you stopped archiving your life?"
+   ],
+   "adventures": [
+    "Spend one full hour somewhere beautiful with nothing to capture it. No photo. If your hand reaches for the phone, notice, and put it back.",
+    "Pick one small thing and do it every day this week at the same hour — water one plant, light one candle, tend one corner. No streak apps. Miss a day? Start again, no speech."
+   ]
+  },
+  "2028-04-27": {
+   "date": "2028-04-27",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Touch something you made with your own hands — or admit there isn't anything. When did your pleasure get outsourced to delivery apps and other people's craftsmanship? Sit with what your hands are hungry to build.",
+    "What have you been faithfully tending for years that quietly stopped growing — and is your loyalty to it actually just fear of the empty pot?"
+   ],
+   "adventures": [
+    "Pick one small thing and do it every day this week at the same hour — water one plant, light one candle, tend one corner. No streak apps. Miss a day? Start again, no speech.",
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week."
+   ]
+  },
+  "2028-04-28": {
+   "date": "2028-04-28",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Open a separate account, envelope, or ledger line today and name it after the project. Not 'savings.' The project's actual name. Money follows names, and unnamed dreams get spent on snacks.",
+    "When did comfort stop being pleasure and start being anesthesia — and what would your senses ask for if you let them order?"
+   ],
+   "adventures": [
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week.",
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect."
+   ]
+  },
+  "2028-04-29": {
+   "date": "2028-04-29",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Whose definition of 'enough' are you using? Trace it back: a parent, a partner, an algorithm, a younger scared version of you. If it isn't yours, what's the number you'd choose with nobody watching?",
+    "What skill have your hands been waiting to learn while you kept insisting you were not that kind of person?"
+   ],
+   "adventures": [
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect.",
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it."
+   ]
+  },
+  "2028-04-30": {
+   "date": "2028-04-30",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Sunday audit of the senses: name one taste, one sound, one texture from this week that genuinely restored you — and one comfort you reached for on autopilot. Which list is longer, and which one is running your life?",
+    "Is your famous unshakeability actual peace — or is it just refusing to move dressed up as serenity?"
+   ],
+   "adventures": [
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it.",
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it."
+   ]
+  },
+  "2028-05-01": {
+   "date": "2028-05-01",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "It's May. Buy the seeds, the domain, the course, the tool — the starter version, today, before dinner. A season spent 'getting ready' is a season spent visiting your own life.",
+    "Who have you stayed loyal to out of habit long after the relationship ended — and what is that loyalty costing the people actually here?"
+   ],
+   "adventures": [
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it.",
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it."
+   ]
+  },
+  "2028-05-02": {
+   "date": "2028-05-02",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "If your comfort zone filed taxes, what would it declare? List what staying exactly this comfortable pays you — safety, predictability, no witnesses to failure — and what it charges. Which column could you read out loud to someone you respect?",
+    "What are you saving for a someday that's really just a locked room — and what would change if you let one saved thing be used today?"
+   ],
+   "adventures": [
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it.",
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches."
+   ]
+  },
+  "2028-05-03": {
+   "date": "2028-05-03",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Mercury retrograde shadow begins (Gemini)",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Mercury slipped into its pre-retrograde shadow in Gemini today — the review of every money conversation you've ever had is loading. Feel for the one sentence about what you're worth that already feels shaky. Say it out loud. If your stomach drops, that's the sentence the next six weeks are about.",
+    "Where has your patience become a waiting room — sitting still not because the timing is right, but because moving means deciding?"
+   ],
+   "adventures": [
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches.",
+    "Spend one full hour somewhere beautiful with nothing to capture it. No photo. If your hand reaches for the phone, notice, and put it back."
+   ]
+  },
+  "2028-05-04": {
+   "date": "2028-05-04",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Have the money conversation you've been rehearsing in the shower — the raise, the split, the 'I can't cover that anymore.' Say the real number first, before the softening starts. Shower audiences don't pay bills.",
+    "When were you last completely inside a moment instead of storing it — and what are you afraid you'd feel if you stopped archiving your life?"
+   ],
+   "adventures": [
+    "Spend one full hour somewhere beautiful with nothing to capture it. No photo. If your hand reaches for the phone, notice, and put it back.",
+    "Pick one small thing and do it every day this week at the same hour — water one plant, light one candle, tend one corner. No streak apps. Miss a day? Start again, no speech."
+   ]
+  },
+  "2028-05-05": {
+   "date": "2028-05-05",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Venus turns retrograde in five days and your desires are about to be cross-examined. Prep honestly: which of your current wants is actually yours, and which one did you inherit from a feed, a friend, or a former self?",
+    "What have you been faithfully tending for years that quietly stopped growing — and is your loyalty to it actually just fear of the empty pot?"
+   ],
+   "adventures": [
+    "Pick one small thing and do it every day this week at the same hour — water one plant, light one candle, tend one corner. No streak apps. Miss a day? Start again, no speech.",
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week."
+   ]
+  },
+  "2028-05-06": {
+   "date": "2028-05-06",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Wear the good thing today. Eat off the real plates. Taurus hoards beauty for 'occasions' that never get scheduled — feel what it's like to let an ordinary Saturday qualify. What are you actually saving it for?",
+    "When did comfort stop being pleasure and start being anesthesia — and what would your senses ask for if you let them order?"
+   ],
+   "adventures": [
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week.",
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect."
+   ]
+  },
+  "2028-05-07": {
+   "date": "2028-05-07",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Sunday. Do the physical inventory: pantry, tools, closet, accounts. Touch everything you're keeping and say why out loud. Anything you can't justify in one sentence gets sold, donated, or used this week. Dead weight is a decision too.",
+    "What skill have your hands been waiting to learn while you kept insisting you were not that kind of person?"
+   ],
+   "adventures": [
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect.",
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it."
+   ]
+  },
+  "2028-05-08": {
+   "date": "2028-05-08",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Two days before Venus retrograde: write down what you believe your work is worth — one number, no range. Now write what you've been accepting. The gap between those numbers is the exact size of the review that's coming.",
+    "Is your famous unshakeability actual peace — or is it just refusing to move dressed up as serenity?"
+   ],
+   "adventures": [
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it.",
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it."
+   ]
+  },
+  "2028-05-09": {
+   "date": "2028-05-09",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Eat the meal you've been craving — the real version, not the substitute — slowly, like you mean it. Then notice: where else in your life are you eating the substitute and calling it discipline?",
+    "Who have you stayed loyal to out of habit long after the relationship ended — and what is that loyalty costing the people actually here?"
+   ],
+   "adventures": [
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it.",
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it."
+   ]
+  },
+  "2028-05-10": {
+   "date": "2028-05-10",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Venus stations RETROGRADE in Gemini — the Double Review begins",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Venus — your ruler, the planet of desire itself — stations retrograde in Gemini today, and the Double Review opens: what you want and how you talk about it get audited together. Before you spend another dollar this month, write down what you actually want — not the catalog version, the real one — and read it out loud to one person who won't let you soften it.",
+    "What are you saving for a someday that's really just a locked room — and what would change if you let one saved thing be used today?"
+   ],
+   "adventures": [
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it.",
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches."
+   ]
+  },
+  "2028-05-11": {
+   "date": "2028-05-11",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "The Double Review is open. Pull up last month's statements and find the purchase that was supposed to make you feel something. Did it? For how long? What did the feeling actually cost per hour?",
+    "Where has your patience become a waiting room — sitting still not because the timing is right, but because moving means deciding?"
+   ],
+   "adventures": [
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches.",
+    "Spend one full hour somewhere beautiful with nothing to capture it. No photo. If your hand reaches for the phone, notice, and put it back."
+   ]
+  },
+  "2028-05-12": {
+   "date": "2028-05-12",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Stand in the most beautiful spot you have access to and do nothing for ten minutes — no producing, no improving, no photographing. Taurus, your worth is not your output. Feel how loud that sentence is in your chest.",
+    "When were you last completely inside a moment instead of storing it — and what are you afraid you'd feel if you stopped archiving your life?"
+   ],
+   "adventures": [
+    "Spend one full hour somewhere beautiful with nothing to capture it. No photo. If your hand reaches for the phone, notice, and put it back.",
+    "Pick one small thing and do it every day this week at the same hour — water one plant, light one candle, tend one corner. No streak apps. Miss a day? Start again, no speech."
+   ]
+  },
+  "2028-05-13": {
+   "date": "2028-05-13",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Raise one price, end one freebie, or invoice one thing you've been doing for exposure and gratitude. Send it before noon. The Double Review rewards people who renegotiate while the sky is watching.",
+    "What have you been faithfully tending for years that quietly stopped growing — and is your loyalty to it actually just fear of the empty pot?"
+   ],
+   "adventures": [
+    "Pick one small thing and do it every day this week at the same hour — water one plant, light one candle, tend one corner. No streak apps. Miss a day? Start again, no speech.",
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week."
+   ]
+  },
+  "2028-05-14": {
+   "date": "2028-05-14",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Sunday. Saturn's been in your sign a month now. Answer in writing: what structure did you actually build — and what structure did you just admire, pin, and talk about? Only one of those holds weight.",
+    "When did comfort stop being pleasure and start being anesthesia — and what would your senses ask for if you let them order?"
+   ],
+   "adventures": [
+    "Eat one meal today with your hands — no phone, no screen, sitting down. Taste all of it. Then write down the single best bite you had this week.",
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect."
+   ]
+  },
+  "2028-05-15": {
+   "date": "2028-05-15",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Name the comfort you'd be devastated to lose and the comfort you'd secretly be relieved to lose. They're both in your house right now. Feel the difference in your body when you picture each one gone.",
+    "What skill have your hands been waiting to learn while you kept insisting you were not that kind of person?"
+   ],
+   "adventures": [
+    "Make one real thing with your hands this week — bread, a mended seam, a planted row — and give it away before Sunday. Imperfect counts. Especially imperfect.",
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it."
+   ]
+  },
+  "2028-05-16": {
+   "date": "2028-05-16",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Automate one transfer — weekly, small, non-negotiable — into the named account for the project. Willpower is a terrible financial plan. Systems are how Taurus actually gets rich: slowly, then permanently.",
+    "Is your famous unshakeability actual peace — or is it just refusing to move dressed up as serenity?"
+   ],
+   "adventures": [
+    "When the next small crisis hits, wait ten full minutes before reacting. Sit down. Breathe. Watch what the panic does when nobody feeds it.",
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it."
+   ]
+  },
+  "2028-05-17": {
+   "date": "2028-05-17",
+   "season": "Taurus",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Taurus Season · THINK",
+    "action": "A THINK day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Whose permission are you still waiting for to spend your own resources on your own life? Name them. Then figure out what their approval would even change — because if the answer is 'nothing,' the wait is the point, and the wait is the stagnation.",
+    "Who have you stayed loyal to out of habit long after the relationship ended — and what is that loyalty costing the people actually here?"
+   ],
+   "adventures": [
+    "Show up for one person this week the boring way: bring the soup, drive the errand, sit through the story you've heard twice. No post about it.",
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it."
+   ]
+  },
+  "2028-05-18": {
+   "date": "2028-05-18",
+   "season": "Taurus",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Taurus Season · FEEL",
+    "action": "A FEEL day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Run your hands over the materials of your actual life — your tools, your clothes, your furniture, your soil. What quality have you surrounded yourself with, and what quality have you been tolerating? Your standards are a feeling before they're a budget.",
+    "What are you saving for a someday that's really just a locked room — and what would change if you let one saved thing be used today?"
+   ],
+   "adventures": [
+    "Take twenty dollars and turn it into more of something real this week — seeds, ingredients, supplies for the thing you keep saying you'll start. Then start it.",
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches."
+   ]
+  },
+  "2028-05-19": {
+   "date": "2028-05-19",
+   "season": "Taurus",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Taurus Season · ACT",
+    "action": "A ACT day in Taurus season — THE RITUAL."
+   },
+   "soulQuestions": [
+    "Last day of your season. Fund one thing before Gemini season opens tomorrow — money down, date set, deposit paid, signature dry. Leave this season with proof in the physical world that you built something, not just visited it.",
+    "Where has your patience become a waiting room — sitting still not because the timing is right, but because moving means deciding?"
+   ],
+   "adventures": [
+    "Choose the slowest possible way to do one thing today — hand-wash it, walk it, stir it by hand — and don't rush even when it itches.",
+    "Spend one full hour somewhere beautiful with nothing to capture it. No photo. If your hand reaches for the phone, notice, and put it back."
+   ]
+  },
+  "2028-05-20": {
+   "date": "2028-05-20",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Gemini season starts today: open the draft you've been polishing the longest, pick one imperfect page, and send it somewhere — text it, post it, pitch it — before you sleep.",
+    "What question are you avoiding asking because you already like your answer?"
+   ],
+   "adventures": [
+    "Ask three strangers one question you genuinely want answered. No networking. No angle. Just the question, and then shut up and listen to the full answer.",
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you."
+   ]
+  },
+  "2028-05-21": {
+   "date": "2028-05-21",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Mercury stations RETROGRADE in Gemini — love and language audited together",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Mercury stations RETROGRADE in your sign today: what did you say in the last week that was clever instead of true? Rewind it — what were you actually trying not to say?",
+    "Who needs to hear you in their language instead of yours?"
+   ],
+   "adventures": [
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you.",
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target."
+   ]
+  },
+  "2028-05-22": {
+   "date": "2028-05-22",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Point your curiosity at your own heart today: what's the question you've been afraid to ask it, and why does answering honestly feel more dangerous than staying curious about everything else?",
+    "What are you using humor to avoid sitting with?"
+   ],
+   "adventures": [
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target.",
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud."
+   ]
+  },
+  "2028-05-23": {
+   "date": "2028-05-23",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Name the person you've been 'getting ready' to call for weeks. No more research, no more drafting the perfect opener — dial them today with exactly the sentence you already have.",
+    "What pattern keeps repeating in your life that you're still calling coincidence?"
+   ],
+   "adventures": [
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud.",
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever."
+   ]
+  },
+  "2028-05-24": {
+   "date": "2028-05-24",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "What if both truths are true: you genuinely want the thing AND you're terrified of it? Which one have you been skimming past because holding both would force you to actually choose?",
+    "What did you quit learning the moment it stopped being new?"
+   ],
+   "adventures": [
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever.",
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened."
+   ]
+  },
+  "2028-05-25": {
+   "date": "2028-05-25",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "When did your last real conversation happen — the kind where you stopped performing being interesting and said the thing that made your voice shake?",
+    "Whose version of your life have you been performing instead of telling your own?"
+   ],
+   "adventures": [
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened.",
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked."
+   ]
+  },
+  "2028-05-26": {
+   "date": "2028-05-26",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Pick your messiest open thread — the text chain, the project, the unresolved thing — and give it one crisp decision today. Gemini doesn't close loops; today you do.",
+    "Which of your certainties hasn't been updated since you were twenty?"
+   ],
+   "adventures": [
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked.",
+    "Introduce two people who should know each other and make it real — a shared interest, a real reason, not a shrug. Then leave before you become the topic."
+   ]
+  },
+  "2028-05-27": {
+   "date": "2028-05-27",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Mercury retrograde week one: look at what you posted, pitched, or promised this month. Which of it was you talking, and which was you talking AT people to feel smart?",
+    "Which friendship are you skimming the surface of to avoid the depth it would require?"
+   ],
+   "adventures": [
+    "Introduce two people who should know each other and make it real — a shared interest, a real reason, not a shrug. Then leave before you become the topic.",
+    "Ask three strangers one question you genuinely want answered. No networking. No angle. Just the question, and then shut up and listen to the full answer."
+   ]
+  },
+  "2028-05-28": {
+   "date": "2028-05-28",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Venus is retrograde and your heart is under review: who do you actually miss, versus who do you like the idea of missing? Tell the difference out loud.",
+    "What question are you avoiding asking because you already like your answer?"
+   ],
+   "adventures": [
+    "Ask three strangers one question you genuinely want answered. No networking. No angle. Just the question, and then shut up and listen to the full answer.",
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you."
+   ]
+  },
+  "2028-05-29": {
+   "date": "2028-05-29",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Publish something unfinished today — a thought, a draft, a half-baked idea — exactly as-is. Polishing is procrastination wearing a clever costume.",
+    "Who needs to hear you in their language instead of yours?"
+   ],
+   "adventures": [
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you.",
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target."
+   ]
+  },
+  "2028-05-30": {
+   "date": "2028-05-30",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Count your open tabs — browser, brain, and relationships. Which three are you keeping open because closing them would mean admitting they're done?",
+    "What are you using humor to avoid sitting with?"
+   ],
+   "adventures": [
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target.",
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud."
+   ]
+  },
+  "2028-05-31": {
+   "date": "2028-05-31",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "What emotion have you been narrating about instead of feeling? Stop writing the thinkpiece and sit inside the actual ache for ten minutes.",
+    "What pattern keeps repeating in your life that you're still calling coincidence?"
+   ],
+   "adventures": [
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud.",
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever."
+   ]
+  },
+  "2028-06-01": {
+   "date": "2028-06-01",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Text one person the true sentence you've been translating into small talk. Not the clever version. The true one. Hit send before your brain starts editing.",
+    "What did you quit learning the moment it stopped being new?"
+   ],
+   "adventures": [
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever.",
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened."
+   ]
+  },
+  "2028-06-02": {
+   "date": "2028-06-02",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "The Double Review is halfway through: what's the pattern in every relationship argument you've had this season? Hint: it's in the words you keep dodging.",
+    "Whose version of your life have you been performing instead of telling your own?"
+   ],
+   "adventures": [
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened.",
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked."
+   ]
+  },
+  "2028-06-03": {
+   "date": "2028-06-03",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "What does your heart want that your intellect keeps vetoing? Let the heart make its case today without your mind cross-examining every sentence.",
+    "Which of your certainties hasn't been updated since you were twenty?"
+   ],
+   "adventures": [
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked.",
+    "Introduce two people who should know each other and make it real — a shared interest, a real reason, not a shrug. Then leave before you become the topic."
+   ]
+  },
+  "2028-06-04": {
+   "date": "2028-06-04",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Re-record your story about one past relationship: rewrite the version you've been telling — the polished one — into the true one, and tell it to one person today.",
+    "Which friendship are you skimming the surface of to avoid the depth it would require?"
+   ],
+   "adventures": [
+    "Introduce two people who should know each other and make it real — a shared interest, a real reason, not a shrug. Then leave before you become the topic.",
+    "Ask three strangers one question you genuinely want answered. No networking. No angle. Just the question, and then shut up and listen to the full answer."
+   ]
+  },
+  "2028-06-05": {
+   "date": "2028-06-05",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Mercury rewound: what promise did you make recently that you were already too distracted to keep? Rescind it, renew it, or own it — but stop drifting past it.",
+    "What question are you avoiding asking because you already like your answer?"
+   ],
+   "adventures": [
+    "Ask three strangers one question you genuinely want answered. No networking. No angle. Just the question, and then shut up and listen to the full answer.",
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you."
+   ]
+  },
+  "2028-06-06": {
+   "date": "2028-06-06",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Who do you perform cleverness for most — and what would you say to them if you decided today that being understood mattered more than being impressive?",
+    "Who needs to hear you in their language instead of yours?"
+   ],
+   "adventures": [
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you.",
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target."
+   ]
+  },
+  "2028-06-07": {
+   "date": "2028-06-07",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Pick one conversation you've been having in your head for months. Have it in real life this week — even clumsily. Real beats rehearsed.",
+    "What are you using humor to avoid sitting with?"
+   ],
+   "adventures": [
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target.",
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud."
+   ]
+  },
+  "2028-06-08": {
+   "date": "2028-06-08",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Your attention scattered today — trace it: what were you avoiding by flitting? Name the one thing you skimmed past because sitting with it felt too heavy.",
+    "What pattern keeps repeating in your life that you're still calling coincidence?"
+   ],
+   "adventures": [
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud.",
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever."
+   ]
+  },
+  "2028-06-09": {
+   "date": "2028-06-09",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Venus retrograde: which version of love are you auditing — the one you feel, or the one you describe? What's the gap between them, honestly?",
+    "What did you quit learning the moment it stopped being new?"
+   ],
+   "adventures": [
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever.",
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened."
+   ]
+  },
+  "2028-06-10": {
+   "date": "2028-06-10",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Mercury goes direct in three days: write the apology, the proposal, or the confession now — while the rewind is still forcing honesty — and deliver it before the station.",
+    "Whose version of your life have you been performing instead of telling your own?"
+   ],
+   "adventures": [
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened.",
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked."
+   ]
+  },
+  "2028-06-11": {
+   "date": "2028-06-11",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "What did the Double Review teach you about your mouth and your heart? Which one has been running the other, and is that the right order?",
+    "Which of your certainties hasn't been updated since you were twenty?"
+   ],
+   "adventures": [
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked.",
+    "Introduce two people who should know each other and make it real — a shared interest, a real reason, not a shrug. Then leave before you become the topic."
+   ]
+  },
+  "2028-06-12": {
+   "date": "2028-06-12",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "One day before words come back online: what feeling have you been translating into analysis because the raw version scares you? Say the raw version. Now.",
+    "Which friendship are you skimming the surface of to avoid the depth it would require?"
+   ],
+   "adventures": [
+    "Introduce two people who should know each other and make it real — a shared interest, a real reason, not a shrug. Then leave before you become the topic.",
+    "Ask three strangers one question you genuinely want answered. No networking. No angle. Just the question, and then shut up and listen to the full answer."
+   ]
+  },
+  "2028-06-13": {
+   "date": "2028-06-13",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Mercury stations DIRECT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Mercury stations DIRECT today: the words are back online — use them. Say the thing the retrograde made you finally admit, clearly, to the person who needs to hear it.",
+    "What question are you avoiding asking because you already like your answer?"
+   ],
+   "adventures": [
+    "Ask three strangers one question you genuinely want answered. No networking. No angle. Just the question, and then shut up and listen to the full answer.",
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you."
+   ]
+  },
+  "2028-06-14": {
+   "date": "2028-06-14",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Now that Mercury is direct, what's the first forward-moving decision the rewind prepared you for? And what's the first old pattern you're NOT allowed to take with you?",
+    "Who needs to hear you in their language instead of yours?"
+   ],
+   "adventures": [
+    "Explain the complicated thing you care about to someone who knows nothing about it — a kid, a grandparent, a mechanic — until they can explain it back to you.",
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target."
+   ]
+  },
+  "2028-06-15": {
+   "date": "2028-06-15",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Venus still audits for seven more days: your heart got rewound — what came up that the clever you would never have admitted during forward motion?",
+    "What are you using humor to avoid sitting with?"
+   ],
+   "adventures": [
+    "Write the three funniest lines about your own excuses. Perform them out loud. If you're laughing, great. If you're deflecting, you just found the target.",
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud."
+   ]
+  },
+  "2028-06-16": {
+   "date": "2028-06-16",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Ship the thing. The draft, the pitch, the post, the project — whatever survived the Double Review. Publish it today before your Gemini brain finds another angle to polish.",
+    "What pattern keeps repeating in your life that you're still calling coincidence?"
+   ],
+   "adventures": [
+    "Pick one thing you've noticed repeating — in people, in the news, in yourself. Find three more examples this week. Photograph them, screenshot them, say the thread out loud.",
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever."
+   ]
+  },
+  "2028-06-17": {
+   "date": "2028-06-17",
+   "season": "Gemini",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Gemini Season · THINK",
+    "action": "A THINK day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "You've held two truths all season — the clever story and the true one. Which one are you choosing to live by now that the sky is moving forward again?",
+    "What did you quit learning the moment it stopped being new?"
+   ],
+   "adventures": [
+    "Pick one skill you keep saying you'll learn 'someday.' You have 72 hours. On day three, demonstrate it to a witness — juggled, cooked, coded, played, whatever.",
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened."
+   ]
+  },
+  "2028-06-18": {
+   "date": "2028-06-18",
+   "season": "Gemini",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Gemini Season · FEEL",
+    "action": "A FEEL day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Season's closing Sunday: look at what you actually said and did these 29 days. Are you closer to being understood than being impressive? What changed inside you?",
+    "Whose version of your life have you been performing instead of telling your own?"
+   ],
+   "adventures": [
+    "Tell one full true story about your life to one person — beginning, middle, and the part you usually skip. No moral, no lesson, no punchline. Just what happened.",
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked."
+   ]
+  },
+  "2028-06-19": {
+   "date": "2028-06-19",
+   "season": "Gemini",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Gemini Season · ACT",
+    "action": "A ACT day in Gemini season — THE NEXT QUESTION."
+   },
+   "soulQuestions": [
+    "Last full day of Gemini season: one bold, clear, honest sentence — to one person, about one thing that matters. Make it the season's closing line.",
+    "Which of your certainties hasn't been updated since you were twenty?"
+   ],
+   "adventures": [
+    "Take your strongest opinion and argue the opposite for ten full minutes, out loud, convincingly enough that a stranger would buy it. Then write down what cracked.",
+    "Introduce two people who should know each other and make it real — a shared interest, a real reason, not a shrug. Then leave before you become the topic."
+   ]
+  },
+  "2028-06-20": {
+   "date": "2028-06-20",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Cancer season starts now. Walk your home like a stranger seeing it for the first time: what is one corner arranged for everybody else's comfort while yours goes without? Fix that corner today — your sanctuary is not a waiting room for other people's needs.",
+    "What memory do you keep perfectly preserved because admitting how it actually felt would mean the house you grew up in was never as safe as you needed it to be?"
+   ],
+   "adventures": [
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat.",
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome."
+   ]
+  },
+  "2028-06-21": {
+   "date": "2028-06-21",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Name the last time you said 'I'm fine' while retreating into your shell. What were you really protecting — your peace, or your image as the one who never needs anything? Write the true sentence underneath the fine.",
+    "Whose feelings have you been treating as weather you must manage, when your gut has been quietly telling you those storms were never yours to calm?"
+   ],
+   "adventures": [
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome.",
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight."
+   ]
+  },
+  "2028-06-22": {
+   "date": "2028-06-22",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Venus stations DIRECT — the Double Review ends",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Venus stations direct today — the Double Review is over, no more auditing your heart. What do you actually want, now that wanting it out loud is allowed again? Feel the want before you edit it down into something reasonable.",
+    "Is your home a place you built for living, or a fortress you built so nobody could ask you to come out and live?"
+   ],
+   "adventures": [
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight.",
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life."
+   ]
+  },
+  "2028-06-23": {
+   "date": "2028-06-23",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Cook or make one thing today purely because it comforts YOU — not to feed the troops, not to earn your place at the table. Nourishment that isn't a transaction. Eat it slowly and refuse to apologize for the hour it took.",
+    "Whom are you 'protecting' from a truth they are fully grown enough to hear — and how much of that protection is really about keeping yourself comfortable?"
+   ],
+   "adventures": [
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life.",
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room."
+   ]
+  },
+  "2028-06-24": {
+   "date": "2028-06-24",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Whose moods do you monitor like weather — and who monitors yours? If the care in your life only flows one direction, that's not sensitivity, that's a surveillance job you never applied for. What would balance actually look like?",
+    "When did you last let someone see you need something — and what are you so sure would break if you stopped being the strong one for a day?"
+   ],
+   "adventures": [
+    "Say the soft thing out loud to one person who usually gets your armor instead. No joke after it. No deflecting. Let the sentence sit in the room.",
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit."
+   ]
+  },
+  "2028-06-25": {
+   "date": "2028-06-25",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Sit somewhere in your home that feels like the inside of your shell — safe, hidden, entirely yours. What part of you only comes out in that spot? It deserves more square footage in your actual life. Name it.",
+    "Is your loyalty a promise you keep to people, or a leash — and would the people you hold closest describe it the way you do?"
+   ],
+   "adventures": [
+    "Show up for someone in the boring way: the ride, the errand, the second hour of the crisis when the casseroles stopped coming. No post. No credit.",
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was."
+   ]
+  },
+  "2028-06-26": {
+   "date": "2028-06-26",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Text one person you've been 'giving space' as cover for sulking in silence. Say the real thing in one honest sentence — no guilt garnish, no invoice attached. Direct beats telepathic every time.",
+    "You can feel everyone's weather but your own — what storm have you been refusing to forecast because naming it would mean the shell has to open?"
+   ],
+   "adventures": [
+    "Walk into one gathering today and name the room's actual mood to yourself in one sentence before you speak. Then act on what you read, not on what you wish it was.",
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you."
+   ]
+  },
+  "2028-06-27": {
+   "date": "2028-06-27",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "What did your childhood home teach you love costs? Itemize the tuition: the silence, the caretaking, the earning. Now circle which of those lessons you're still charging the people who love you today.",
+    "Does your devotion feed the people you love, or does it quietly keep score — and which one would they say it is if nobody was listening?"
+   ],
+   "adventures": [
+    "Do one small, unglamorous act for a person or a project you claim to love — daily, quietly, for seven straight days. Nobody audits it but you.",
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat."
+   ]
+  },
+  "2028-06-28": {
+   "date": "2028-06-28",
+   "season": "Cancer",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Cancer Season · FEEL",
+    "action": "A FEEL day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Where in your body does homesickness for a place that never existed live? Sit with the ache for the home you deserved instead of the one you got — no fixing, no redecorating. Just feel what's underneath the longing.",
+    "What memory do you keep perfectly preserved because admitting how it actually felt would mean the house you grew up in was never as safe as you needed it to be?"
+   ],
+   "adventures": [
+    "Cook one meal exactly the way it was made for you as a kid — no upgrades, no health swaps. Serve it to someone and tell them the story while you eat.",
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome."
+   ]
+  },
+  "2028-06-29": {
+   "date": "2028-06-29",
+   "season": "Cancer",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Cancer Season · ACT",
+    "action": "A ACT day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "Set one boundary that protects your tenderness instead of your pride: a door that closes, a phone that sleeps in another room, a 'not tonight' with no twelve-page explanation. Guard the soft thing, not the image.",
+    "Whose feelings have you been treating as weather you must manage, when your gut has been quietly telling you those storms were never yours to calm?"
+   ],
+   "adventures": [
+    "Before your phone, your list, or anyone's opinion: write down what your gut says about one live decision today. Seal it. Check back in a week and grade the gut, not the outcome.",
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight."
+   ]
+  },
+  "2028-06-30": {
+   "date": "2028-06-30",
+   "season": "Cancer",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Cancer Season · THINK",
+    "action": "A THINK day in Cancer season — THE TIDE WITHIN."
+   },
+   "soulQuestions": [
+    "You remember everything — every slight filed, every kindness catalogued. Which memory are you curating like evidence for a trial nobody scheduled? Decide today: is it protection, or a grudge with excellent record-keeping?",
+    "Is your home a place you built for living, or a fortress you built so nobody could ask you to come out and live?"
+   ],
+   "adventures": [
+    "Fix one small corner of your home so it works for the life you actually live — the chair nobody sits in, the drawer that fights back. One corner. Done by tonight.",
+    "Stand physically, literally between someone you love and one hard thing today — make the call, take the meeting, lift the box. Then step back and let them live their own life."
+   ]
+  }
+ }
+}

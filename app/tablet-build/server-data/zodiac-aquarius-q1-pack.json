@@ -1,0 +1,1373 @@
+{
+ "edition": "zodiac-aquarius-q1",
+ "name": "Aquarius — THE OPEN CURRENT · Undated Edition — Q1",
+ "undated": true,
+ "themes": {},
+ "days": {
+  "1": {
+   "day": 1,
+   "holiday": {
+    "name": "Aquarius · Day 1",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What idea of yours has been waiting for you to stop performing it and start practicing it?",
+    "Where did you learn that being different had to look effortful?"
+   ],
+   "adventures": [
+    "Pick one small opinion you actually hold and say it plainly today, without the clever wrapper.",
+    "Stand somewhere with a wide view and name three things you see before you interpret any of them."
+   ]
+  },
+  "2": {
+   "day": 2,
+   "holiday": {
+    "name": "Aquarius · Day 2",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Whose rebellion are you renting when you could be authoring your own?",
+    "How much of your weirdness is curated for an audience that isn't even watching?"
+   ],
+   "adventures": [
+    "Catch one contrarian reflex today and ask what you'd think if nobody were scoring originality points.",
+    "Rearrange three objects on your desk into an order only you understand, then leave them that way."
+   ]
+  },
+  "3": {
+   "day": 3,
+   "holiday": {
+    "name": "Aquarius · Day 3",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "If one of your ideas were a gift, who would actually want to unwrap it?",
+    "What brilliant thought have you kept locked up because sharing it felt too ordinary?"
+   ],
+   "adventures": [
+    "Give one idea away today: tell someone a thought that could help them, with no credit expected.",
+    "Write your best current idea on paper and set it somewhere you'll physically bump into it tomorrow."
+   ]
+  },
+  "4": {
+   "day": 4,
+   "holiday": {
+    "name": "Aquarius · Day 4",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When does your voice sound most like you, and when does it sound like a broadcast?",
+    "Which sentence did you polish so hard it stopped being true?"
+   ],
+   "adventures": [
+    "Say one true thing in the plainest words you have, and resist the urge to make it sound smarter.",
+    "Hum at whatever pitch feels natural for thirty seconds, noticing how your chest vibrates."
+   ]
+  },
+  "5": {
+   "day": 5,
+   "holiday": {
+    "name": "Aquarius · Day 5",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What would change if asking for help were genuinely celebrated?",
+    "Who already sees the real draft of you beneath the finished performance?"
+   ],
+   "adventures": [
+    "Let one person see an unfinished thought today instead of waiting until it's bulletproof.",
+    "Loosen your shoulders and jaw right now, then take one breath that isn't efficient at all."
+   ]
+  },
+  "6": {
+   "day": 6,
+   "holiday": {
+    "name": "Aquarius · Day 6",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How do you know when an idea is yours versus one you adopted to seem interesting?",
+    "What belief did you inherit from your circle that you've never actually tested?"
+   ],
+   "adventures": [
+    "Trace one strong opinion back to its source and decide whether you still want to keep it.",
+    "Walk a route you normally rush through, at half speed, and touch one textured surface along the way."
+   ]
+  },
+  "7": {
+   "day": 7,
+   "holiday": {
+    "name": "Aquarius · Day 7",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Could your detachment be doing the talking instead of you lately?",
+    "What feeling have you translated into a theory so you wouldn't have to feel it?"
+   ],
+   "adventures": [
+    "Name one emotion you've been analyzing instead of experiencing, and let it sit unanalyzed for an hour.",
+    "Press your palms flat against a cool surface and notice the temperature change in your skin."
+   ]
+  },
+  "8": {
+   "day": 8,
+   "holiday": {
+    "name": "Aquarius · Day 8",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Where does originality live in your body before your brain edits it?",
+    "What did you censor this week because it didn't sound visionary enough?"
+   ],
+   "adventures": [
+    "Follow one odd impulse today that has no strategic value — pure curiosity, no thesis.",
+    "Draw a nonsense shape with your non-dominant hand and study it like it means something."
+   ]
+  },
+  "9": {
+   "day": 9,
+   "holiday": {
+    "name": "Aquarius · Day 9",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Who benefits when you keep your strangest ideas to yourself?",
+    "What gift have you withheld from people who might actually need it?"
+   ],
+   "adventures": [
+    "Share one half-formed idea with someone who thinks differently from you, and listen to what they do with it.",
+    "Sit facing a window and watch movement outside for five full minutes without narrating it."
+   ]
+  },
+  "10": {
+   "day": 10,
+   "holiday": {
+    "name": "Aquarius · Day 10",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Is your independence a practice or a brand at this point?",
+    "When did needing no one start feeling like a personality trait instead of a choice?"
+   ],
+   "adventures": [
+    "Admit one small thing you can't figure out alone, out loud, to one trusted person.",
+    "Stretch your arms as wide as they'll go, then bring your hands to your heart and hold them there."
+   ]
+  },
+  "11": {
+   "day": 11,
+   "holiday": {
+    "name": "Aquarius · Day 11",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What system in your life is brilliant on paper but starving in practice?",
+    "Which of your frameworks exists to impress people rather than serve them?"
+   ],
+   "adventures": [
+    "Simplify one overcomplicated system of yours until a twelve-year-old could run it.",
+    "Organize one drawer by feel instead of logic — what belongs together in your hands?"
+   ]
+  },
+  "12": {
+   "day": 12,
+   "holiday": {
+    "name": "Aquarius · Day 12",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How would your ideas change if they had to be useful to one real person?",
+    "What problem near you have you ignored because it wasn't big or futuristic enough?"
+   ],
+   "adventures": [
+    "Apply one big idea to one tiny real situation today and watch what actually happens.",
+    "Hold an everyday object and study it like an alien artifact for two minutes."
+   ]
+  },
+  "13": {
+   "day": 13,
+   "holiday": {
+    "name": "Aquarius · Day 13",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What are you rebelling against that stopped mattering years ago?",
+    "Which of your nonconformities is now just a uniform?"
+   ],
+   "adventures": [
+    "Drop one performative quirk today and notice what remains when you're not trying to be distinct.",
+    "Wear or arrange something in the most ordinary way possible and observe how it feels in your body."
+   ]
+  },
+  "14": {
+   "day": 14,
+   "holiday": {
+    "name": "Aquarius · Day 14",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When did you last let an idea surprise you instead of confirming you?",
+    "What thought would embarrass the curated version of you?"
+   ],
+   "adventures": [
+    "Write down the idea you're slightly ashamed of liking, and give it a fair hearing.",
+    "Spin slowly in place once, then stand still and feel the room settle around you."
+   ]
+  },
+  "15": {
+   "day": 15,
+   "holiday": {
+    "name": "Aquarius · Day 15",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Whose voice gets loudest in your head when you're about to say something real?",
+    "How many drafts does your honesty go through before it's allowed out?"
+   ],
+   "adventures": [
+    "Send the message at draft one today — unpolished, human, yours.",
+    "Place your hand on your throat while you speak one true sentence and feel the vibration."
+   ]
+  },
+  "16": {
+   "day": 16,
+   "holiday": {
+    "name": "Aquarius · Day 16",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What would your work look like if no one could see you making it?",
+    "Which parts of your process exist only for the audience?"
+   ],
+   "adventures": [
+    "Make something today you will never show anyone, and make it exactly how you like it.",
+    "Work with your hands on something tactile — clay, dough, soil — for ten unhurried minutes."
+   ]
+  },
+  "17": {
+   "day": 17,
+   "holiday": {
+    "name": "Aquarius · Day 17",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Do your ideas connect you to people or keep you safely above them?",
+    "When did thinking become your favorite way of not participating?"
+   ],
+   "adventures": [
+    "Use one idea as a bridge today: ask someone what they think about it instead of telling them.",
+    "Make eye contact with one person for a full breath longer than comfortable, kindly."
+   ]
+  },
+  "18": {
+   "day": 18,
+   "holiday": {
+    "name": "Aquarius · Day 18",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What original thing did you do as a kid before anyone taught you taste?",
+    "Where did that fearless inventor go, and what would they make of you now?"
+   ],
+   "adventures": [
+    "Revisit one childhood invention or game and give it fifteen minutes of adult attention.",
+    "Lie on the floor and look at the ceiling like it's a sky you've never seen."
+   ]
+  },
+  "19": {
+   "day": 19,
+   "holiday": {
+    "name": "Aquarius · Day 19",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How much of your futurism is just avoidance with better lighting?",
+    "What present-tense thing are you theorizing about instead of touching?"
+   ],
+   "adventures": [
+    "Handle one present-moment task with full attention instead of optimizing it from orbit.",
+    "Step outside barefoot if you can, or press your feet firmly into the floor, and notice the ground."
+   ]
+  },
+  "20": {
+   "day": 20,
+   "holiday": {
+    "name": "Aquarius · Day 20",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What do you need right now that you haven't asked for?",
+    "Which request feels too human to make, so you've turned it into a solo project?"
+   ],
+   "adventures": [
+    "Aquarius energy loves the collective; today, let one person from yours actually help you with something small.",
+    "Let someone else choose where you sit or stand for a conversation, and notice what changes."
+   ]
+  },
+  "21": {
+   "day": 21,
+   "holiday": {
+    "name": "Aquarius · Day 21",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "If your mind were a room, what have you locked in the basement?",
+    "Which thought do you only allow yourself at 2 a.m.?"
+   ],
+   "adventures": [
+    "Invite one basement thought upstairs: write it down in daylight and read it without flinching.",
+    "Open a window or door you usually keep closed and stand in the draft for a minute."
+   ]
+  },
+  "22": {
+   "day": 22,
+   "holiday": {
+    "name": "Aquarius · Day 22",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What makes an idea feel alive to you versus merely clever?",
+    "When did cleverness start outranking aliveness in your choices?"
+   ],
+   "adventures": [
+    "Choose the alive option over the clever one in one small decision today.",
+    "Listen to a piece of music and track only the bass line with your whole body."
+   ]
+  },
+  "23": {
+   "day": 23,
+   "holiday": {
+    "name": "Aquarius · Day 23",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Whose approval are you secretly still designing for?",
+    "What would you build if that person's opinion evaporated overnight?"
+   ],
+   "adventures": [
+    "Create one thing today that your imagined critic would find completely unimpressive.",
+    "Close your eyes and walk slowly across a familiar room, trusting memory and touch."
+   ]
+  },
+  "24": {
+   "day": 24,
+   "holiday": {
+    "name": "Aquarius · Day 24",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How do you distinguish a genuine insight from intellectual armor?",
+    "What are you using brilliance to avoid admitting?"
+   ],
+   "adventures": [
+    "Trade one brilliant explanation for one honest sentence: 'I don't know, and here's what I feel.'",
+    "Soak your hands in warm water and pay attention to nothing else for three minutes."
+   ]
+  },
+  "25": {
+   "day": 25,
+   "holiday": {
+    "name": "Aquarius · Day 25",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What small, unglamorous idea keeps knocking despite your grander plans?",
+    "Why do you trust the spectacular more than the persistent?"
+   ],
+   "adventures": [
+    "Give the small persistent idea one concrete hour today — no fanfare, just follow-through.",
+    "Tend to one living thing — a plant, a pet, your own skin — with slow deliberate touch."
+   ]
+  },
+  "26": {
+   "day": 26,
+   "holiday": {
+    "name": "Aquarius · Day 26",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Where has your originality become predictable?",
+    "What would the opposite of your usual take sound like, argued sincerely?"
+   ],
+   "adventures": [
+    "Argue the opposite of your default position in writing, giving it your full intelligence.",
+    "Take a familiar object and use it for something it was never designed to do."
+   ]
+  },
+  "27": {
+   "day": 27,
+   "holiday": {
+    "name": "Aquarius · Day 27",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What truth about people do your systems keep missing?",
+    "Which human mess have you designed around instead of designing for?"
+   ],
+   "adventures": [
+    "Ask one person about their actual experience before theorizing about people like them.",
+    "Sit in a busy spot and simply watch humans for ten minutes, no analysis allowed."
+   ]
+  },
+  "28": {
+   "day": 28,
+   "holiday": {
+    "name": "Aquarius · Day 28",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When does thinking about humanity feel safer than being with humans?",
+    "What specific person have you replaced with an abstraction lately?"
+   ],
+   "adventures": [
+    "Replace one abstraction with a name today: think of a real person, not 'people.'",
+    "Share physical space with someone you care about without multitasking — just be there."
+   ]
+  },
+  "29": {
+   "day": 29,
+   "holiday": {
+    "name": "Aquarius · Day 29",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What borrowed aesthetic are you ready to outgrow?",
+    "Which influences shaped you that you've never thanked or released?"
+   ],
+   "adventures": [
+    "Thank one influence explicitly, then deliberately make something that moves past it.",
+    "Change the lighting in one room and create in the new atmosphere for a while."
+   ]
+  },
+  "30": {
+   "day": 30,
+   "holiday": {
+    "name": "Aquarius · Day 30",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How would you describe your mind to someone who loves you?",
+    "What part of your inner world have you never translated for anyone?"
+   ],
+   "adventures": [
+    "Translate one inner-world concept into plain language for someone who wants to understand you.",
+    "Describe aloud what you see right now, in detail, as if narrating for someone who can't see it."
+   ]
+  },
+  "31": {
+   "day": 31,
+   "holiday": {
+    "name": "Aquarius · Day 31",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What does your idealism cost the people closest to you?",
+    "Where has your vision of the future made you absent from the present?"
+   ],
+   "adventures": [
+    "Show up for one present-tense person in a concrete way, no vision-talk attached.",
+    "Cook or prepare something with your hands and offer it to someone nearby."
+   ]
+  },
+  "32": {
+   "day": 32,
+   "holiday": {
+    "name": "Aquarius · Day 32",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Which of your ideas is actually a feeling wearing a lab coat?",
+    "What would happen if you let the feeling take the coat off?"
+   ],
+   "adventures": [
+    "Say the feeling underneath one intellectual position, just to yourself first, then decide if it needs saying aloud.",
+    "Dance to one song with no choreography and no witnesses, letting your body lead."
+   ]
+  },
+  "33": {
+   "day": 33,
+   "holiday": {
+    "name": "Aquarius · Day 33",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What makes you feel most like yourself when nobody's grading?",
+    "How often do you give yourself that ungraded time?"
+   ],
+   "adventures": [
+    "Schedule thirty ungraded minutes today where nothing needs to be interesting or useful.",
+    "Do one physical thing purely for pleasure — stretch, sway, splash water on your face."
+   ]
+  },
+  "34": {
+   "day": 34,
+   "holiday": {
+    "name": "Aquarius · Day 34",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "If you stopped explaining yourself, what would remain?",
+    "Who would still recognize you without the commentary track?"
+   ],
+   "adventures": [
+    "Do one thing today without explaining why — let the action stand alone.",
+    "Move through your home silently for five minutes, noticing sounds you'd normally talk over."
+   ]
+  },
+  "35": {
+   "day": 35,
+   "holiday": {
+    "name": "Aquarius · Day 35",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What question are you afraid to ask because the answer might be ordinary?",
+    "How has the fear of being ordinary shaped your strangest choices?"
+   ],
+   "adventures": [
+    "Ask the ordinary question anyway, and receive the answer without spinning it.",
+    "Do one completely ordinary task with extraordinary attention — folding, sweeping, wiping."
+   ]
+  },
+  "36": {
+   "day": 36,
+   "holiday": {
+    "name": "Aquarius · Day 36",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Where do your best ideas actually come from — the pattern or the interruption?",
+    "What interruption have you been avoiding that might be the real idea?"
+   ],
+   "adventures": [
+    "Deliberately interrupt your routine today and capture whatever thought arrives in the gap.",
+    "Change your physical perspective: work or rest from the floor, a windowsill, an unlikely perch."
+   ]
+  },
+  "37": {
+   "day": 37,
+   "holiday": {
+    "name": "Aquarius · Day 37",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What have you been calling objectivity that is really distance?",
+    "Which relationship would improve if you stopped observing it and joined it?"
+   ],
+   "adventures": [
+    "Join instead of observe once today: participate in something you'd normally analyze.",
+    "Stand close enough to someone to feel their presence without words, and stay there a moment."
+   ]
+  },
+  "38": {
+   "day": 38,
+   "holiday": {
+    "name": "Aquarius · Day 38",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How do you want your ideas to live in the world after you voice them?",
+    "What would it mean to release an idea without controlling its afterlife?"
+   ],
+   "adventures": [
+    "Release one idea publicly — a post, a note, a sketch — and resist managing how it's received.",
+    "Write an idea on paper, fold it into a boat or plane, and let it travel across the room."
+   ]
+  },
+  "39": {
+   "day": 39,
+   "holiday": {
+    "name": "Aquarius · Day 39",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What does your inner critic sound like when it's pretending to be visionary?",
+    "Which so-called standards are just fear with a better vocabulary?"
+   ],
+   "adventures": [
+    "Write down the critic's latest line, then answer it in the voice of a loyal friend.",
+    "Shake out your hands, arms, and shoulders vigorously for thirty seconds, then go still."
+   ]
+  },
+  "40": {
+   "day": 40,
+   "holiday": {
+    "name": "Aquarius · Day 40",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When did you last change your mind about something that mattered?",
+    "What made that change possible — evidence, or someone you trusted?"
+   ],
+   "adventures": [
+    "Revisit one settled opinion and genuinely look for the strongest counter-evidence.",
+    "Flip your usual workspace orientation — face a different direction while you think."
+   ]
+  },
+  "41": {
+   "day": 41,
+   "holiday": {
+    "name": "Aquarius · Day 41",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What part of the human experience have you intellectualized past recognition?",
+    "How would you understand it differently if you had to feel it first?"
+   ],
+   "adventures": [
+    "Approach one abstract topic through a personal story — yours or someone else's — instead of a theory.",
+    "Hold something fragile carefully and notice what carefulness feels like in your fingers."
+   ]
+  },
+  "42": {
+   "day": 42,
+   "holiday": {
+    "name": "Aquarius · Day 42",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Which of your routines is quietly killing your curiosity?",
+    "What tiny experiment could prove your routine wrong?"
+   ],
+   "adventures": [
+    "Run one tiny experiment that breaks a routine rule, and record what you learn.",
+    "Take a different path through a familiar space and count five things you've never noticed."
+   ]
+  },
+  "43": {
+   "day": 43,
+   "holiday": {
+    "name": "Aquarius · Day 43",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What would you attempt if being misunderstood weren't a threat?",
+    "How much brilliance have you edited out to stay legible?"
+   ],
+   "adventures": [
+    "Share the illegible version first today — the raw thought before the translation.",
+    "Make a sound you've never made — a hum, a click, a sigh — and listen to it fade."
+   ]
+  },
+  "44": {
+   "day": 44,
+   "holiday": {
+    "name": "Aquarius · Day 44",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Who taught you that feelings were data corruption?",
+    "What have your feelings been trying to tell your models?"
+   ],
+   "adventures": [
+    "Log one feeling as valid data today: write it down without converting it into a hypothesis.",
+    "Place both hands on your chest and breathe into them, counting four in and six out."
+   ]
+  },
+  "45": {
+   "day": 45,
+   "holiday": {
+    "name": "Aquarius · Day 45",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What original contribution is hiding inside your most conventional habit?",
+    "Where are you already weird without trying?"
+   ],
+   "adventures": [
+    "Amplify one natural quirk deliberately today instead of smoothing it down.",
+    "Look at your reflection and find one feature you genuinely like, then say so out loud."
+   ]
+  },
+  "46": {
+   "day": 46,
+   "holiday": {
+    "name": "Aquarius · Day 46",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How do you react when someone else has the idea first?",
+    "What does that reaction reveal about what originality means to you?"
+   ],
+   "adventures": [
+    "Celebrate someone else's good idea out loud today, specifically and generously.",
+    "Clap your hands once, loudly, and feel the echo in the room and your palms."
+   ]
+  },
+  "47": {
+   "day": 47,
+   "holiday": {
+    "name": "Aquarius · Day 47",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What system would actually set you free instead of just organizing you?",
+    "Which of your structures is a cage with good branding?"
+   ],
+   "adventures": [
+    "Dismantle one cage-structure today, even partially, and notice what breathes easier.",
+    "Clear one surface completely — bare wood or stone — and rest your eyes on the emptiness."
+   ]
+  },
+  "48": {
+   "day": 48,
+   "holiday": {
+    "name": "Aquarius · Day 48",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When do you feel most connected to the larger human story?",
+    "What pulls you out of that connection fastest?"
+   ],
+   "adventures": [
+    "Do one thing today that serves the collective you claim to love — small, direct, human.",
+    "Look at the sky for two full minutes and feel your own smallness as a comfort, not a threat."
+   ]
+  },
+  "49": {
+   "day": 49,
+   "holiday": {
+    "name": "Aquarius · Day 49",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What idea did you abandon because it wasn't original enough?",
+    "Who decided originality was the only metric that matters?"
+   ],
+   "adventures": [
+    "Rescue one abandoned 'unoriginal' idea and give it new life on its own merits.",
+    "Revisit an old notebook or file and run your fingers over pages you forgot you made."
+   ]
+  },
+  "50": {
+   "day": 50,
+   "holiday": {
+    "name": "Aquarius · Day 50",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How has your need to be different limited what you're allowed to enjoy?",
+    "What mainstream pleasure are you secretly fond of?"
+   ],
+   "adventures": [
+    "Enjoy one 'basic' pleasure openly today, with zero irony or apology.",
+    "Savor one bite or sip slowly, eyes closed, letting it be exactly as good as it is."
+   ]
+  },
+  "51": {
+   "day": 51,
+   "holiday": {
+    "name": "Aquarius · Day 51",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What would your ideas look like if they were designed to be held, not admired?",
+    "How do you make something brilliant also touchable?"
+   ],
+   "adventures": [
+    "Translate one abstract idea into something someone can use with their hands today.",
+    "Build a small structure — blocks, cards, cushions — and test whether it stands."
+   ]
+  },
+  "52": {
+   "day": 52,
+   "holiday": {
+    "name": "Aquarius · Day 52",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Where does your thinking end and your knowing begin?",
+    "What do you know in your bones that your brain keeps debating?"
+   ],
+   "adventures": [
+    "Act on one bone-knowing today without waiting for the brain's committee vote.",
+    "Stand barefoot and rock gently heel to toe, feeling the whole architecture of your feet."
+   ]
+  },
+  "53": {
+   "day": 53,
+   "holiday": {
+    "name": "Aquarius · Day 53",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What have you made complicated that is actually simple?",
+    "Who benefits from you believing it's complicated?"
+   ],
+   "adventures": [
+    "State the simple version of one complicated thing, in one sentence, to one person.",
+    "Untie, unplug, or unfold something and experience the satisfaction of simple reversal."
+   ]
+  },
+  "54": {
+   "day": 54,
+   "holiday": {
+    "name": "Aquarius · Day 54",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How do you tell the difference between solitude that restores and isolation that armors?",
+    "Which one have you been practicing more lately?"
+   ],
+   "adventures": [
+    "Choose restoring solitude deliberately today — and notice if armor tries to sneak in.",
+    "Find a quiet corner, wrap yourself in something warm, and sit with the difference in your body."
+   ]
+  },
+  "55": {
+   "day": 55,
+   "holiday": {
+    "name": "Aquarius · Day 55",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What gift does your strangeness actually offer the world?",
+    "Who is waiting for exactly the perspective only you have?"
+   ],
+   "adventures": [
+    "Offer your strange perspective where it's genuinely needed today, not where it's merely noticed.",
+    "Leave a small surprising gift — a note, a drawing, an object — where someone will find it."
+   ]
+  },
+  "56": {
+   "day": 56,
+   "holiday": {
+    "name": "Aquarius · Day 56",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When did you last let yourself be the beginner in the room?",
+    "What does your expert identity prevent you from learning?"
+   ],
+   "adventures": [
+    "Ask a beginner's question about something you're supposed to already understand.",
+    "Try a physical skill you're bad at for five minutes — juggling, balancing, whistling — and laugh."
+   ]
+  },
+  "57": {
+   "day": 57,
+   "holiday": {
+    "name": "Aquarius · Day 57",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What pattern in your life keeps repeating despite all your analysis?",
+    "What if the pattern isn't a puzzle but a message?"
+   ],
+   "adventures": [
+    "Write the pattern as a story with a moral, not a dataset with variables.",
+    "Trace a repeating shape — circles, spirals — with your finger on any surface, slowly."
+   ]
+  },
+  "58": {
+   "day": 58,
+   "holiday": {
+    "name": "Aquarius · Day 58",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How would you live if your ideas were seeds instead of monuments?",
+    "What are you building to last that should have been planted to grow?"
+   ],
+   "adventures": [
+    "Plant one idea-seed today: mention it to someone who might grow it better than you.",
+    "Touch soil, sand, or grain with your hands and feel how seeds actually begin."
+   ]
+  },
+  "59": {
+   "day": 59,
+   "holiday": {
+    "name": "Aquarius · Day 59",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What does freedom actually feel like in your daily life, not your philosophy?",
+    "Where do you preach liberation while practicing constraint?"
+   ],
+   "adventures": [
+    "Grant yourself one real freedom today — permission you've been withholding from yourself.",
+    "Move without a plan for three minutes — no routine, no reps, just motion that feels free."
+   ]
+  },
+  "60": {
+   "day": 60,
+   "holiday": {
+    "name": "Aquarius · Day 60",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Which of your truths has never been spoken in your own voice?",
+    "What keeps translating it into someone else's language?"
+   ],
+   "adventures": [
+    "Speak one truth in your own voice today — your words, your rhythm, no borrowed brilliance.",
+    "Record your voice saying something true, then listen back and notice what sounds like you."
+   ]
+  },
+  "61": {
+   "day": 61,
+   "holiday": {
+    "name": "Aquarius · Day 61",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What has this practice of originality taught you about yourself?",
+    "How will you keep it a practice rather than letting it harden into performance?"
+   ],
+   "adventures": [
+    "Write a one-sentence vow about how you'll stay original on purpose, and put it where you'll see it.",
+    "Stand tall, take up your full space, and take one deep breath as the person you've been practicing to be."
+   ]
+  },
+  "62": {
+   "day": 62,
+   "holiday": {
+    "name": "Aquarius · Day 62",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When did 'observing' your feelings start substituting for actually having them?",
+    "If someone asked what you're feeling right now, how many sentences would it take before you dodged into analysis?"
+   ],
+   "adventures": [
+    "Catch yourself narrating a feeling like a documentary and interrupt it — finish the sentence with the raw word instead: sad, scared, jealous, tender.",
+    "Place both hands on your chest for sixty seconds and just notice what's under them without translating it into a theory."
+   ]
+  },
+  "63": {
+   "day": 63,
+   "holiday": {
+    "name": "Aquarius · Day 63",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Name one person whose name in your notifications would actually make your day. When did you last tell them that?",
+    "Whose absence would you feel first — and how long would you pretend you wouldn't?"
+   ],
+   "adventures": [
+    "Send that person one sentence that admits they matter. No irony shield, no 'lol'.",
+    "Hold your phone like it's them for a moment before you text — feel the weight of meaning what you say."
+   ]
+  },
+  "64": {
+   "day": 64,
+   "holiday": {
+    "name": "Aquarius · Day 64",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Is it easier being admired from across the room than known across the table? What does that cost you?",
+    "When has someone 'understood' you in a way that was flattering but completely wrong — and why didn't you correct them?"
+   ],
+   "adventures": [
+    "Tell one person one true thing they have wrong about you. Watch the distance shrink.",
+    "Sit face-to-face with someone today — same couch, knees angled toward them — and stay in the conversation five minutes longer than your exit reflex wants."
+   ]
+  },
+  "65": {
+   "day": 65,
+   "holiday": {
+    "name": "Aquarius · Day 65",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Which emotions have you quietly filed under 'noise' — and who taught you they don't count as data?",
+    "If your feelings were a lab readout you'd never delete, what would today's printout say?"
+   ],
+   "adventures": [
+    "Log three feelings today like a scientist with no peer review to impress: just the data, no interpretation.",
+    "Scan your body top to skull at bedtime and name wherever the day stored itself — jaw, shoulders, gut — without explaining why."
+   ]
+  },
+  "66": {
+   "day": 66,
+   "holiday": {
+    "name": "Aquarius · Day 66",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Every system needs maintenance — so why do your closest relationships run on zero upkeep while your ideas get constant upgrades?",
+    "If closeness were a project you'd actually maintain, what's the one overdue task on it?"
+   ],
+   "adventures": [
+    "Pick one relationship and do the smallest maintenance act: a check-in text, a thank-you, a plan made.",
+    "Rearrange one corner of your space to make room for someone else — an extra chair angled in, a mug kept for guests."
+   ]
+  },
+  "67": {
+   "day": 67,
+   "holiday": {
+    "name": "Aquarius · Day 67",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "When was the last time something moved you and you pretended it didn't? What were you protecting?",
+    "What would have happened if you'd let your face show it instead of filing it under 'interesting'?"
+   ],
+   "adventures": [
+    "Revisit that moment in memory and let yourself feel it properly this time — no audience, no performance, just the feeling.",
+    "Play the song or scene that got to you, alone, and don't multitask through it. Let it do its work."
+   ]
+  },
+  "68": {
+   "day": 68,
+   "holiday": {
+    "name": "Aquarius · Day 68",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Audit your detachment: where is it genuine protection, and where is it just the laziest way to avoid the conversation?",
+    "Which one of your 'I'm fine with anything' stances is actually 'I'm terrified of wanting something specific'?"
+   ],
+   "adventures": [
+    "Label one detached stance honestly — protection or avoidance — and write the one-line truth under it.",
+    "Stand in front of a mirror, look yourself in the eye, and say the true version out loud once. Feel how it lands in your body."
+   ]
+  },
+  "69": {
+   "day": 69,
+   "holiday": {
+    "name": "Aquarius · Day 69",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Who has seen you mid-feeling instead of post-analysis, and what did you do to make sure it didn't happen twice?",
+    "If asking were celebrated instead of tolerated, what would you finally say out loud?"
+   ],
+   "adventures": [
+    "Ask for one small thing today — something low-stakes but real — and receive the answer without a disclaimer.",
+    "Notice where your body holds the unasked need: tight throat, held breath, clenched hands. Exhale into it deliberately."
+   ]
+  },
+  "70": {
+   "day": 70,
+   "holiday": {
+    "name": "Aquarius · Day 70",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What are you afraid someone would reclassify you as if they saw the unedited version?",
+    "Whose good opinion of you depends on them never seeing you needy, messy, or wrong?"
+   ],
+   "adventures": [
+    "Do one slightly unpolished thing in front of someone safe — admit confusion, ask a dumb question, be visibly mid-process.",
+    "Leave your space a little uncurated when someone visits: dishes in the sink, real life. Notice you survive it."
+   ]
+  },
+  "71": {
+   "day": 71,
+   "holiday": {
+    "name": "Aquarius · Day 71",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Has being the cool, unbothered one ever been a power move — a way to stay in control of how much anyone can touch you?",
+    "Who would you be in the room if you weren't performing 'above it all'?"
+   ],
+   "adventures": [
+    "Drop the cool once today: react genuinely to something — laugh too loud, admit you're excited, say 'that got me.'",
+    "Feel the temperature of your own face when you let yourself react for real — warmth is data, not weakness."
+   ]
+  },
+  "72": {
+   "day": 72,
+   "holiday": {
+    "name": "Aquarius · Day 72",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Why do people only get your feelings in post-production, neatly edited, never mid-scene?",
+    "Picture letting one person see you mid-feeling — confused, mid-cry, mid-anger — with no narrator's voiceover. What scares you about that image?"
+   ],
+   "adventures": [
+    "Next time a feeling arrives, don't wait to process it before mentioning it: 'I'm feeling weird about this right now' is a complete sentence.",
+    "When the feeling hits, freeze your body for ten seconds and locate it physically before your brain edits it."
+   ]
+  },
+  "73": {
+   "day": 73,
+   "holiday": {
+    "name": "Aquarius · Day 73",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Be honest: is 'I don't need anyone' a fact, or the story that makes not-having feel like a choice?",
+    "What would the committee of one have to admit if it held an actual meeting with your loneliness?"
+   ],
+   "adventures": [
+    "Write the sentence 'I need ______' and fill the blank with the truest word you can find. Read it twice.",
+    "Sleep with one light on tonight — a small rebellion against the performance of needing nothing."
+   ]
+  },
+  "74": {
+   "day": 74,
+   "holiday": {
+    "name": "Aquarius · Day 74",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What do you do with the big feelings when the only witness is a wall — and why does privacy feel safer than people?",
+    "If your 2am self could send a message to your daylight self, what would it say about what you're actually carrying?"
+   ],
+   "adventures": [
+    "Tonight, instead of scrolling past the feeling, stay with it for five undivided minutes. No fixing, no framing.",
+    "Lie flat on the floor, arms spread, and let the feeling have the whole room of your body. Don't shrink it."
+   ]
+  },
+  "75": {
+   "day": 75,
+   "holiday": {
+    "name": "Aquarius · Day 75",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Some physical closeness makes you flinch — hugs, hand-holding, sustained eye contact. Which one, and when did your body learn that?",
+    "Is the flinch about them, or about what being touchable might reveal about you?"
+   ],
+   "adventures": [
+    "Accept one offered hug today without the half-second delay, the pat-pat, or the early release. Stay in it.",
+    "Hold eye contact with someone you trust for a full five seconds longer than comfortable. Notice what your body does and don't look away from it."
+   ]
+  },
+  "76": {
+   "day": 76,
+   "holiday": {
+    "name": "Aquarius · Day 76",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Pick a feeling you've intellectualized into a personality trait — jealousy into 'I just don't do attachment,' longing into 'I'm above that.' Which one is it?",
+    "What would the raw, un-theorized version of that feeling be called?"
+   ],
+   "adventures": [
+    "Say the raw word out loud once — jealous, lonely, needy, hurt — without the academic footnote.",
+    "Put your hand where that feeling lives in your body and breathe into the spot like it's allowed to exist there."
+   ]
+  },
+  "77": {
+   "day": 77,
+   "holiday": {
+    "name": "Aquarius · Day 77",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Who did you ghost — emotionally, not literally — the moment things got tender?",
+    "What were you certain would happen if you'd stayed for the tender part?"
+   ],
+   "adventures": [
+    "Reach back out to one person you went cold on. You don't owe a thesis; 'I've been thinking about you' is enough.",
+    "Write the unsent message by hand — pen, paper — and notice how your handwriting changes when you're being honest."
+   ]
+  },
+  "78": {
+   "day": 78,
+   "holiday": {
+    "name": "Aquarius · Day 78",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "If a friend described your exact situation, what would you tell them — and why are you exempt from your own advice?",
+    "What's the kindest true thing you'd say to them that you refuse to say to yourself?"
+   ],
+   "adventures": [
+    "Give yourself the advice you'd give them, out loud, in the second person: 'You need to…'",
+    "Deliver it to your own reflection, eyes locked, and hold the gaze until the advice feels addressed to someone real."
+   ]
+  },
+  "79": {
+   "day": 79,
+   "holiday": {
+    "name": "Aquarius · Day 79",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "How wide is the gap between who people think you are and who you are at 3am?",
+    "What does the 3am version know that the daytime version would never admit in public?"
+   ],
+   "adventures": [
+    "Choose one trusted person and hand them one 3am truth this week. Let the gap narrow by a single sentence.",
+    "Tonight, whenever you're most honest, write the truth down and leave it somewhere you'll find it tomorrow."
+   ]
+  },
+  "80": {
+   "day": 80,
+   "holiday": {
+    "name": "Aquarius · Day 80",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Someone compliments you — why does your first instinct involve a deflection, a joke, or an immediate return serve?",
+    "What would receiving it cleanly — just 'thank you,' full stop — threaten?"
+   ],
+   "adventures": [
+    "Greet the next compliment with only 'thank you.' No rebuttal, no redirect, no self-deprecation tax.",
+    "Notice where the compliment lands in your body when you don't deflect it — let the warmth sit there unargued."
+   ]
+  },
+  "81": {
+   "day": 81,
+   "holiday": {
+    "name": "Aquarius · Day 81",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What's the thing you're most ashamed to want — the desire that feels too ordinary, too needy, or too unoriginal for you?",
+    "Who decided that wanting it disqualifies you from being the person you think you are?"
+   ],
+   "adventures": [
+    "Write the want down in plain language, no justification paragraph — it gets to exist as a single sentence.",
+    "Speak the want aloud while doing something physical — walking, stretching — so your body hears it too."
+   ]
+  },
+  "82": {
+   "day": 82,
+   "holiday": {
+    "name": "Aquarius · Day 82",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Your independence — a choice you keep making, or a costume your loneliness wears to parties?",
+    "When does 'I prefer being alone' mean 'I've forgotten how to let anyone in'?"
+   ],
+   "adventures": [
+    "Name one thing you do alone that you'd secretly like company for. Then invite someone.",
+    "Sit in a crowded space today — café, park, library — and let yourself be one body among bodies instead of an observer above them."
+   ]
+  },
+  "83": {
+   "day": 83,
+   "holiday": {
+    "name": "Aquarius · Day 83",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Whose small care have you been too proud — or too cool — to receive?",
+    "What story do you tell yourself about why their care doesn't count?"
+   ],
+   "adventures": [
+    "Let them do the thing: accept the ride, the meal, the favor. Say yes before your pride finishes its objection.",
+    "When the care arrives, pause and feel it physically — the relief, the warmth — before your brain audits it."
+   ]
+  },
+  "84": {
+   "day": 84,
+   "holiday": {
+    "name": "Aquarius · Day 84",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "If intimacy had a thermostat, where's yours set — and who installed it?",
+    "What temperature would actually feel good, versus the one that just feels safe?"
+   ],
+   "adventures": [
+    "Turn your thermostat up one degree today: one extra question asked, one extra truth offered, one extra minute stayed.",
+    "Take a warm shower or hold something warm and notice the difference between physical warmth and the emotional kind you ration."
+   ]
+  },
+  "85": {
+   "day": 85,
+   "holiday": {
+    "name": "Aquarius · Day 85",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Think of the last time someone was unexpectedly gentle with you — did you receive it or deflect it?",
+    "What did you do with the gentleness afterward: treasure it, analyze it, or pretend it didn't happen?"
+   ],
+   "adventures": [
+    "Thank the person who was gentle — even retroactively, even awkwardly. Gentleness deserves a receipt.",
+    "Wrap yourself in something heavy and warm — a blanket, a held cup — and let yourself feel held without earning it."
+   ]
+  },
+  "86": {
+   "day": 86,
+   "holiday": {
+    "name": "Aquarius · Day 86",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "If someone really got close, what's the discovery you're dreading most?",
+    "Is that fear based on evidence, or on one old story you've never fact-checked?"
+   ],
+   "adventures": [
+    "Fact-check it: write the fear, then list actual evidence for and against. Read the verdict honestly.",
+    "Stand somewhere you feel small — under a big sky, at the edge of water — and let the fear be one small thing in a big world."
+   ]
+  },
+  "87": {
+   "day": 87,
+   "holiday": {
+    "name": "Aquarius · Day 87",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Who gets your softness — your pet, strangers you'll never see again, fictional characters — and why not the people who stay?",
+    "What's the real difference between them: is it safety, or is it that the temporary ones can't ask anything back?"
+   ],
+   "adventures": [
+    "Give one staying-person one ounce of the softness you hand out freely to temporary ones.",
+    "Pet an animal or touch something soft today and notice the tenderness in your own hands — that's yours, not theirs."
+   ]
+  },
+  "88": {
+   "day": 88,
+   "holiday": {
+    "name": "Aquarius · Day 88",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Think of a recent conflict you won by going clinical — what feeling were you dodging?",
+    "What would the honest, non-strategic version of your position have sounded like?"
+   ],
+   "adventures": [
+    "Go back to that conversation — with the person or on paper — and say the feeling part you left out.",
+    "Unclench your jaw and drop your shoulders right now; notice how much of 'being rational' was just bracing."
+   ]
+  },
+  "89": {
+   "day": 89,
+   "holiday": {
+    "name": "Aquarius · Day 89",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "What grief have you filed under 'fine' — and how long has the file been sitting there?",
+    "What would 'not fine' look like, said plainly, to someone who could handle it?"
+   ],
+   "adventures": [
+    "Open the file: write the loss in one honest paragraph — no analysis, no silver lining, no 'at least.'",
+    "Light a candle or sit by a window and give the grief five minutes of your undivided, unhurried presence."
+   ]
+  },
+  "90": {
+   "day": 90,
+   "holiday": {
+    "name": "Aquarius · Day 90",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Picture someone crying near you: do you stay, leave, or fix — and what are you running from in each case?",
+    "Staying in the room, useless and present — what makes that harder than fixing or fleeing?"
+   ],
+   "adventures": [
+    "Next time someone is upset near you, stay put for three extra minutes without offering solutions.",
+    "Practice stillness: sit with your own discomfort for two minutes, hands unclenched, breathing slow, not fixing anything."
+   ]
+  },
+  "91": {
+   "day": 91,
+   "holiday": {
+    "name": "Aquarius · Day 91",
+    "action": "THE OPEN CURRENT — AIR / IDEAS / FREEDOM"
+   },
+   "soulQuestions": [
+    "Does one person get the unfiltered version of you — and if not, why has no one earned the clearance?",
+    "If yes, when did you last actually use that clearance instead of self-censoring out of habit?"
+   ],
+   "adventures": [
+    "Use the clearance today: tell that person something unfiltered, mid-process, unfinished.",
+    "Call them instead of texting — let your voice carry the unfiltered version your thumbs keep editing."
+   ]
+  }
+ }
+}

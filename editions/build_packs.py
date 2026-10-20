@@ -106,3 +106,24 @@ for sign in SIGNS:
     dump(pack, f"zodiac-{sign}-pack.json")
 
 print("done")
+
+# ---------- Quarterly slices (app add-on SKUs, $5) ----------
+import calendar as _cal
+c2028 = json.load(open(os.path.join(OUT, "cosmic-2028-pack.json")))
+qranges = {1: ("2028-01-01", "2028-03-31"), 2: ("2028-04-01", "2028-06-30"),
+           3: ("2028-07-01", "2028-09-30"), 4: ("2028-10-01", "2028-12-31")}
+for qn, (qs, qe) in qranges.items():
+    qdays = {d: v for d, v in c2028["days"].items() if qs <= d <= qe}
+    qp = {"edition": f"cosmic-2028-q{qn}", "name": f"2028 Cosmic Forecast — Q{qn}",
+          "window": {"start": qs, "end": qe}, "themes": c2028["themes"], "days": qdays}
+    dump(qp, f"cosmic-2028-q{qn}-pack.json")
+
+zqranges = {1: (1, 91), 2: (92, 182), 3: (183, 273), 4: (274, 365)}
+for sign in SIGNS:
+    zp = json.load(open(os.path.join(OUT, f"zodiac-{sign}-pack.json")))
+    for qn, (a, b) in zqranges.items():
+        qdays = {k: v for k, v in zp["days"].items() if a <= int(k) <= b}
+        qp = {"edition": f"zodiac-{sign}-q{qn}", "name": f"{zp['name']} — Q{qn}",
+              "undated": True, "themes": {}, "days": qdays}
+        dump(qp, f"zodiac-{sign}-q{qn}-pack.json")
+print("quarterlies done")

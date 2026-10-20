@@ -1,0 +1,1607 @@
+{
+ "edition": "cosmic-2028-q1",
+ "name": "2028 Cosmic Forecast — Q1",
+ "window": {
+  "start": "2028-01-01",
+  "end": "2028-03-31"
+ },
+ "themes": {
+  "January": {
+   "name": "Capricorn Tail",
+   "theme": "THE LONG GAME"
+  },
+  "February": {
+   "name": "Aquarius",
+   "theme": "THE OPEN CURRENT"
+  },
+  "March": {
+   "name": "Pisces",
+   "theme": "THE RETURN TO SELF"
+  },
+  "April": {
+   "name": "Aries",
+   "theme": "THE DIRECT HIT"
+  },
+  "May": {
+   "name": "Taurus",
+   "theme": "THE RITUAL"
+  },
+  "June": {
+   "name": "Gemini",
+   "theme": "THE NEXT QUESTION"
+  },
+  "July": {
+   "name": "Cancer",
+   "theme": "THE TIDE WITHIN"
+  },
+  "August": {
+   "name": "Leo",
+   "theme": "THE BRIGHT YES"
+  },
+  "September": {
+   "name": "Virgo",
+   "theme": "THE USEFUL MAGIC"
+  },
+  "October": {
+   "name": "Libra",
+   "theme": "THE BEAUTIFUL MIDDLE"
+  },
+  "November": {
+   "name": "Scorpio",
+   "theme": "THE DEEP TURN"
+  },
+  "December": {
+   "name": "Sagittarius",
+   "theme": "THE OPEN ROAD"
+  }
+ },
+ "days": {
+  "2028-01-01": {
+   "date": "2028-01-01",
+   "season": "Capricorn Tail",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Capricorn Season · ACT",
+    "action": "A ACT day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "New year, same mountain — name the one structure you built last year that actually held weight, and the one held up only by your pride. Demolish the pride one this week, before it costs you another season.",
+    "If your output vanished for a full year, what part of you would you finally have to sit still with — and why have you been outrunning it?"
+   ],
+   "adventures": [
+    "Take the same long walk at the same time every day for the whole season. No headphones, no shortcuts, no skipping for weather. When it gets boring — and it will — that's the rep. Keep walking.",
+    "Draw the floor plan of your next year on one sheet of paper: a room each for work, people, rest, and one locked door. Build nothing today. Just make the plan clear enough for a stranger to follow."
+   ]
+  },
+  "2028-01-02": {
+   "date": "2028-01-02",
+   "season": "Capricorn Tail",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Capricorn Season · THINK",
+    "action": "A THINK day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "If nobody could ever know what you achieved this year — no announcement, no witness — which goal survives that silence? That's your real ambition. The rest is armor with a deadline.",
+    "What are you building that only has to exist so you never have to ask who you'd be without a project?"
+   ],
+   "adventures": [
+    "Draw the floor plan of your next year on one sheet of paper: a room each for work, people, rest, and one locked door. Build nothing today. Just make the plan clear enough for a stranger to follow.",
+    "Pick one thing you want right now — the purchase, the answer, the decision. Set a seven-day timer and write the date down. Until it rings: no chasing it, no checking on it, no mentioning it."
+   ]
+  },
+  "2028-01-03": {
+   "date": "2028-01-03",
+   "season": "Capricorn Tail",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Capricorn Season · FEEL",
+    "action": "A FEEL day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Feel the exact moment your shoulders climb toward your ears today. That's your body filing a report your calendar ignores. What is it actually asking for?",
+    "What would your life gain if the thing you're rushing arrived exactly on time instead of early enough to quiet your fear?"
+   ],
+   "adventures": [
+    "Pick one thing you want right now — the purchase, the answer, the decision. Set a seven-day timer and write the date down. Until it rings: no chasing it, no checking on it, no mentioning it.",
+    "Give one clear instruction today — at work, at home, anywhere — then do not explain it, defend it, or apologize for it. Say it once. Let it stand in the room by itself."
+   ]
+  },
+  "2028-01-04": {
+   "date": "2028-01-04",
+   "season": "Capricorn Tail",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Capricorn Season · ACT",
+    "action": "A ACT day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Take one task you've been white-knuckling solo and hand a real piece of it to someone else — not the scraps, a load-bearing piece. Control is not the same as competence.",
+    "When did you last trust your own judgment without polling the room first — and what did that silence cost or save you?"
+   ],
+   "adventures": [
+    "Give one clear instruction today — at work, at home, anywhere — then do not explain it, defend it, or apologize for it. Say it once. Let it stand in the room by itself.",
+    "Build one useful thing this week using only what's already in your house: the junk drawer, the saved links, the abandoned draft. Spend zero dollars. It has to actually work when you're done."
+   ]
+  },
+  "2028-01-05": {
+   "date": "2028-01-05",
+   "season": "Capricorn Tail",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Capricorn Season · THINK",
+    "action": "A THINK day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Audit your 'someday' list like a balance sheet: which item has been sitting there for years, paying you nothing but guilt? Either schedule it or strike it. Dead inventory is still inventory.",
+    "What did you throw away — time, money, a whole version of yourself — because rebuilding it felt slower than starting over?"
+   ],
+   "adventures": [
+    "Build one useful thing this week using only what's already in your house: the junk drawer, the saved links, the abandoned draft. Spend zero dollars. It has to actually work when you're done.",
+    "Pick one boring thing — the dishes, the walk, the page — and do it at the same time every day this week, whether you feel like it or not. No tracking app. The clock is the witness."
+   ]
+  },
+  "2028-01-06": {
+   "date": "2028-01-06",
+   "season": "Capricorn Tail",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Capricorn Season · FEEL",
+    "action": "A FEEL day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "When did you last sit somewhere with no output expected of you — no phone, no plan, no quiet self-improvement project running in the background? Let the discomfort of that memory tell you what rest has become in your house.",
+    "If discipline is just how you punish yourself in a respectable font, what would it look like as care instead?"
+   ],
+   "adventures": [
+    "Pick one boring thing — the dishes, the walk, the page — and do it at the same time every day this week, whether you feel like it or not. No tracking app. The clock is the witness.",
+    "Write one true sentence a day about something that went wrong — short enough for a sticky note. It has to make you laugh, not wince. Stick it where tomorrow-you will find it."
+   ]
+  },
+  "2028-01-07": {
+   "date": "2028-01-07",
+   "season": "Capricorn Tail",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Mercury retrograde shadow begins (Aquarius)",
+    "action": "A ACT day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Mercury's retrograde shadow opens today in Aquarius — the review period before the review. Before you announce the big plan to anyone, reread the last version of it you sent out into the world. Which sentence in it do you no longer believe?",
+    "What truth about your life could you only say out loud if you said it as a joke first?"
+   ],
+   "adventures": [
+    "Write one true sentence a day about something that went wrong — short enough for a sticky note. It has to make you laugh, not wince. Stick it where tomorrow-you will find it.",
+    "Do one useful thing for one person who can never repay you — fix it, pay it, carry it — and tell nobody. Not the person. Not your journal. Nobody, ever."
+   ]
+  },
+  "2028-01-08": {
+   "date": "2028-01-08",
+   "season": "Capricorn Tail",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Capricorn Season · THINK",
+    "action": "A THINK day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Your calendar is a confession: it records what you actually worship. Read last week back and name the god — work, or the life the work was supposed to buy?",
+    "Who showed up for you when you produced nothing — and have you ever let yourself be that unprofitable for someone else?"
+   ],
+   "adventures": [
+    "Do one useful thing for one person who can never repay you — fix it, pay it, carry it — and tell nobody. Not the person. Not your journal. Nobody, ever.",
+    "Take the same long walk at the same time every day for the whole season. No headphones, no shortcuts, no skipping for weather. When it gets boring — and it will — that's the rep. Keep walking."
+   ]
+  },
+  "2028-01-09": {
+   "date": "2028-01-09",
+   "season": "Capricorn Tail",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Capricorn Season · FEEL",
+    "action": "A FEEL day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Pride that you have to feed every single day isn't pride — it's a debt. Where in your chest does the owing live, and what would tonight feel like if you paid yourself first for once?",
+    "If your output vanished for a full year, what part of you would you finally have to sit still with — and why have you been outrunning it?"
+   ],
+   "adventures": [
+    "Take the same long walk at the same time every day for the whole season. No headphones, no shortcuts, no skipping for weather. When it gets boring — and it will — that's the rep. Keep walking.",
+    "Draw the floor plan of your next year on one sheet of paper: a room each for work, people, rest, and one locked door. Build nothing today. Just make the plan clear enough for a stranger to follow."
+   ]
+  },
+  "2028-01-10": {
+   "date": "2028-01-10",
+   "season": "Capricorn Tail",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Capricorn Season · ACT",
+    "action": "A ACT day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Pick the rule you enforce most rigidly — the one nobody's allowed to bend, including you. Break it deliberately today, in a way that harms nothing, and watch what your fear predicted versus what actually happened.",
+    "What are you building that only has to exist so you never have to ask who you'd be without a project?"
+   ],
+   "adventures": [
+    "Draw the floor plan of your next year on one sheet of paper: a room each for work, people, rest, and one locked door. Build nothing today. Just make the plan clear enough for a stranger to follow.",
+    "Pick one thing you want right now — the purchase, the answer, the decision. Set a seven-day timer and write the date down. Until it rings: no chasing it, no checking on it, no mentioning it."
+   ]
+  },
+  "2028-01-11": {
+   "date": "2028-01-11",
+   "season": "Capricorn Tail",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Capricorn Season · THINK",
+    "action": "A THINK day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Tomorrow the Moon gets eclipsed in Cancer, the sign of home. Tonight, walk through your home like an inspector who works for the other side: what has the empire been quietly charging the household?",
+    "What would your life gain if the thing you're rushing arrived exactly on time instead of early enough to quiet your fear?"
+   ],
+   "adventures": [
+    "Pick one thing you want right now — the purchase, the answer, the decision. Set a seven-day timer and write the date down. Until it rings: no chasing it, no checking on it, no mentioning it.",
+    "Give one clear instruction today — at work, at home, anywhere — then do not explain it, defend it, or apologize for it. Say it once. Let it stand in the room by itself."
+   ]
+  },
+  "2028-01-12": {
+   "date": "2028-01-12",
+   "season": "Capricorn Tail",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Partial lunar eclipse in Cancer",
+    "action": "A FEEL day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Eclipse day: the Moon dims in Cancer, dead opposite your Sun — the home audit lands inside the ambition season. Sit at your own table, eat something you made, and ask the room: what does this structure exist to protect? If the answer isn't in this house, the blueprint is wrong.",
+    "When did you last trust your own judgment without polling the room first — and what did that silence cost or save you?"
+   ],
+   "adventures": [
+    "Give one clear instruction today — at work, at home, anywhere — then do not explain it, defend it, or apologize for it. Say it once. Let it stand in the room by itself.",
+    "Build one useful thing this week using only what's already in your house: the junk drawer, the saved links, the abandoned draft. Spend zero dollars. It has to actually work when you're done."
+   ]
+  },
+  "2028-01-13": {
+   "date": "2028-01-13",
+   "season": "Capricorn Tail",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Capricorn Season · ACT",
+    "action": "A ACT day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "The eclipse showed you the bill. Now act on the smallest line item: repair one home-system the work has been neglecting — a meal rhythm, a door that closes, an evening that ends. Small repairs are still structural.",
+    "What did you throw away — time, money, a whole version of yourself — because rebuilding it felt slower than starting over?"
+   ],
+   "adventures": [
+    "Build one useful thing this week using only what's already in your house: the junk drawer, the saved links, the abandoned draft. Spend zero dollars. It has to actually work when you're done.",
+    "Pick one boring thing — the dishes, the walk, the page — and do it at the same time every day this week, whether you feel like it or not. No tracking app. The clock is the witness."
+   ]
+  },
+  "2028-01-14": {
+   "date": "2028-01-14",
+   "season": "Capricorn Tail",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Capricorn Season · THINK",
+    "action": "A THINK day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "You've been calling it 'standards,' but be honest: which of your non-negotiables is actually fear wearing a tie? A standard serves the mission. Fear just serves itself.",
+    "If discipline is just how you punish yourself in a respectable font, what would it look like as care instead?"
+   ],
+   "adventures": [
+    "Pick one boring thing — the dishes, the walk, the page — and do it at the same time every day this week, whether you feel like it or not. No tracking app. The clock is the witness.",
+    "Write one true sentence a day about something that went wrong — short enough for a sticky note. It has to make you laugh, not wince. Stick it where tomorrow-you will find it."
+   ]
+  },
+  "2028-01-15": {
+   "date": "2028-01-15",
+   "season": "Capricorn Tail",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Capricorn Season · FEEL",
+    "action": "A FEEL day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Notice what happens in your body when a plan cancels and frees an hour. Relief or panic? If empty time feels like failure, the machine isn't running you efficiently — it's just running you.",
+    "What truth about your life could you only say out loud if you said it as a joke first?"
+   ],
+   "adventures": [
+    "Write one true sentence a day about something that went wrong — short enough for a sticky note. It has to make you laugh, not wince. Stick it where tomorrow-you will find it.",
+    "Do one useful thing for one person who can never repay you — fix it, pay it, carry it — and tell nobody. Not the person. Not your journal. Nobody, ever."
+   ]
+  },
+  "2028-01-16": {
+   "date": "2028-01-16",
+   "season": "Capricorn Tail",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Capricorn Season · ACT",
+    "action": "A ACT day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Legacy check: if your work stopped tomorrow, what would remain standing that isn't a title? Build one hour this week into the thing that remains — a person, a place, a skill that feeds you back.",
+    "Who showed up for you when you produced nothing — and have you ever let yourself be that unprofitable for someone else?"
+   ],
+   "adventures": [
+    "Do one useful thing for one person who can never repay you — fix it, pay it, carry it — and tell nobody. Not the person. Not your journal. Nobody, ever.",
+    "Take the same long walk at the same time every day for the whole season. No headphones, no shortcuts, no skipping for weather. When it gets boring — and it will — that's the rep. Keep walking."
+   ]
+  },
+  "2028-01-17": {
+   "date": "2028-01-17",
+   "season": "Capricorn Tail",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Capricorn Season · THINK",
+    "action": "A THINK day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Every empire has a maintenance cost it hides from itself. Itemize yours: the sleep, the friendships on read, the body aches you've renamed 'normal.' Total it up and look at the number without flinching.",
+    "If your output vanished for a full year, what part of you would you finally have to sit still with — and why have you been outrunning it?"
+   ],
+   "adventures": [
+    "Take the same long walk at the same time every day for the whole season. No headphones, no shortcuts, no skipping for weather. When it gets boring — and it will — that's the rep. Keep walking.",
+    "Draw the floor plan of your next year on one sheet of paper: a room each for work, people, rest, and one locked door. Build nothing today. Just make the plan clear enough for a stranger to follow."
+   ]
+  },
+  "2028-01-18": {
+   "date": "2028-01-18",
+   "season": "Capricorn Tail",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Capricorn Season · FEEL",
+    "action": "A FEEL day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Let yourself want the summit AND the soft life in the same breath — no ranking them, no apology. What does it feel like in your gut when you stop treating tenderness as the tax on ambition?",
+    "What are you building that only has to exist so you never have to ask who you'd be without a project?"
+   ],
+   "adventures": [
+    "Draw the floor plan of your next year on one sheet of paper: a room each for work, people, rest, and one locked door. Build nothing today. Just make the plan clear enough for a stranger to follow.",
+    "Pick one thing you want right now — the purchase, the answer, the decision. Set a seven-day timer and write the date down. Until it rings: no chasing it, no checking on it, no mentioning it."
+   ]
+  },
+  "2028-01-19": {
+   "date": "2028-01-19",
+   "season": "Capricorn Tail",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Capricorn Season · ACT",
+    "action": "A ACT day in Capricorn season — THE LONG GAME."
+   },
+   "soulQuestions": [
+    "Last day of the season. Seal the structure: write down the one load-bearing lesson this Capricorn stretch taught you, and the one burden you're formally resigning from. Carry the lesson into Aquarius. Leave the burden here.",
+    "What would your life gain if the thing you're rushing arrived exactly on time instead of early enough to quiet your fear?"
+   ],
+   "adventures": [
+    "Pick one thing you want right now — the purchase, the answer, the decision. Set a seven-day timer and write the date down. Until it rings: no chasing it, no checking on it, no mentioning it.",
+    "Give one clear instruction today — at work, at home, anywhere — then do not explain it, defend it, or apologize for it. Say it once. Let it stand in the room by itself."
+   ]
+  },
+  "2028-01-20": {
+   "date": "2028-01-20",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Post the idea you've been polishing in private for months — rough edges, wrong parts and all — and invite one specific person to tear into it with you in the room, not in the comments.",
+    "What do you know about the future that you pretend not to know?"
+   ],
+   "adventures": [
+    "Write a letter FROM yourself in 2033 — dated, sealed — describing one thing that exists then that doesn't exist now.",
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly."
+   ]
+  },
+  "2028-01-21": {
+   "date": "2028-01-21",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Which of your opinions did you inherit from your favorite people instead of from your own evidence? Write down the last time you repeated it out loud and knew, mid-sentence, it wasn't yours.",
+    "Which of your opinions would survive if everyone you know dropped it tomorrow?"
+   ],
+   "adventures": [
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly.",
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there."
+   ]
+  },
+  "2028-01-22": {
+   "date": "2028-01-22",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Who was the last person you helped from a distance — a share, a link, a donation — because getting closer would have cost you an actual afternoon? Name what the closeness would have cost.",
+    "Whose help did you refuse this year that you actually needed — and what did refusing it protect?"
+   ],
+   "adventures": [
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there.",
+    "Introduce two people who would never meet without you. Then leave the conversation."
+   ]
+  },
+  "2028-01-23": {
+   "date": "2028-01-23",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Ask for help today with something small and specific, out loud, to one person — not a hint, not a post, a direct ask — and let them actually give it.",
+    "If your people described you in one sentence, would you recognize yourself in it?"
+   ],
+   "adventures": [
+    "Introduce two people who would never meet without you. Then leave the conversation.",
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it."
+   ]
+  },
+  "2028-01-24": {
+   "date": "2028-01-24",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Mercury stations RETROGRADE in Aquarius",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Mercury just turned around in your sign. Which blueprint for your future have you been defending the longest without re-reading it? Pull it out today and mark every assumption that's expired.",
+    "What is the problem actually asking for that the solution keeps missing?"
+   ],
+   "adventures": [
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it.",
+    "Send the text you've been drafting in your head for a month. The real one."
+   ]
+  },
+  "2028-01-25": {
+   "date": "2028-01-25",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Tomorrow the Sun goes dark in your sign. Tonight, sit with the version of you the eclipse is about to overwrite: what does that version still believe that you're already done believing?",
+    "What truth do you keep softening so the room stays comfortable?"
+   ],
+   "adventures": [
+    "Send the text you've been drafting in your head for a month. The real one.",
+    "Defend one unpopular idea at dinner — calmly, completely, no hedging."
+   ]
+  },
+  "2028-01-26": {
+   "date": "2028-01-26",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Annular solar eclipse in AQUARIUS — ring of fire",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Ring of fire, in your house. Announce the rewrite today: tell one named human — by name, out loud — the belief you're retiring and the one replacing it. No broadcast. A witness.",
+    "Where are you performing agreement just to be invited back?"
+   ],
+   "adventures": [
+    "Defend one unpopular idea at dinner — calmly, completely, no hedging.",
+    "Spend one full day answering to a name nobody calls you. Respond only as that version."
+   ]
+  },
+  "2028-01-27": {
+   "date": "2028-01-27",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "The eclipse rewrote the story; your calendar didn't get the memo. Which recurring plan in your week still serves the person you stopped being yesterday?",
+    "Who were you before the label — and can they still be reached?"
+   ],
+   "adventures": [
+    "Spend one full day answering to a name nobody calls you. Respond only as that version.",
+    "Write a letter FROM yourself in 2033 — dated, sealed — describing one thing that exists then that doesn't exist now."
+   ]
+  },
+  "2028-01-28": {
+   "date": "2028-01-28",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Who checked on you after the big announcement — and did you let it land, or did you deflect it into a joke about the collective? Write the reply you should have sent.",
+    "What do you know about the future that you pretend not to know?"
+   ],
+   "adventures": [
+    "Write a letter FROM yourself in 2033 — dated, sealed — describing one thing that exists then that doesn't exist now.",
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly."
+   ]
+  },
+  "2028-01-29": {
+   "date": "2028-01-29",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Let someone teach you something today — hands-on, in person — and resist upgrading their method with your system for one full hour.",
+    "Which of your opinions would survive if everyone you know dropped it tomorrow?"
+   ],
+   "adventures": [
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly.",
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there."
+   ]
+  },
+  "2028-01-30": {
+   "date": "2028-01-30",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Audit your group chats: in which one are you the broadcaster and in which one are you a participant? What would change if you answered more than you announced for a week?",
+    "Whose help did you refuse this year that you actually needed — and what did refusing it protect?"
+   ],
+   "adventures": [
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there.",
+    "Introduce two people who would never meet without you. Then leave the conversation."
+   ]
+  },
+  "2028-01-31": {
+   "date": "2028-01-31",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Name one feeling you've been analyzing instead of having. Set a timer for ten minutes and have it — no framework, no takeaway, no post about it after.",
+    "If your people described you in one sentence, would you recognize yourself in it?"
+   ],
+   "adventures": [
+    "Introduce two people who would never meet without you. Then leave the conversation.",
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it."
+   ]
+  },
+  "2028-02-01": {
+   "date": "2028-02-01",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Co-build one small thing today with the least 'your kind of person' person you know — and let their weird idea survive to the end.",
+    "What is the problem actually asking for that the solution keeps missing?"
+   ],
+   "adventures": [
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it.",
+    "Send the text you've been drafting in your head for a month. The real one."
+   ]
+  },
+  "2028-02-02": {
+   "date": "2028-02-02",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Which cause do you champion at a distance that has a face within walking distance of your house? Why hasn't your activism met your street yet?",
+    "What truth do you keep softening so the room stays comfortable?"
+   ],
+   "adventures": [
+    "Send the text you've been drafting in your head for a month. The real one.",
+    "Defend one unpopular idea at dinner — calmly, completely, no hedging."
+   ]
+  },
+  "2028-02-03": {
+   "date": "2028-02-03",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "When someone you love cries in front of you, what do you reach for first — a solution, a system, or your phone? Confess which one, and what the reaching protects you from feeling.",
+    "Where are you performing agreement just to be invited back?"
+   ],
+   "adventures": [
+    "Defend one unpopular idea at dinner — calmly, completely, no hedging.",
+    "Spend one full day answering to a name nobody calls you. Respond only as that version."
+   ]
+  },
+  "2028-02-04": {
+   "date": "2028-02-04",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Publish one unfinished thing with a visible flaw and leave the flaw in for 24 hours. Count how many times you reach to fix or explain it.",
+    "Who were you before the label — and can they still be reached?"
+   ],
+   "adventures": [
+    "Spend one full day answering to a name nobody calls you. Respond only as that version.",
+    "Write a letter FROM yourself in 2033 — dated, sealed — describing one thing that exists then that doesn't exist now."
+   ]
+  },
+  "2028-02-05": {
+   "date": "2028-02-05",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "What's the difference between being ahead of your time and just being out of the room? Find one decision where 'they don't get it yet' was really 'I never explained it to a person, only to an audience.'",
+    "What do you know about the future that you pretend not to know?"
+   ],
+   "adventures": [
+    "Write a letter FROM yourself in 2033 — dated, sealed — describing one thing that exists then that doesn't exist now.",
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly."
+   ]
+  },
+  "2028-02-06": {
+   "date": "2028-02-06",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Mercury's still retrograde and so is your guard. Who have you been 'giving space' as a polite way of disappearing? Write what you're actually avoiding saying to them.",
+    "Which of your opinions would survive if everyone you know dropped it tomorrow?"
+   ],
+   "adventures": [
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly.",
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there."
+   ]
+  },
+  "2028-02-07": {
+   "date": "2028-02-07",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Invite one person into the project at the stage where it's still embarrassing — not the launch, the draft — and give them a real vote, not a viewing.",
+    "Whose help did you refuse this year that you actually needed — and what did refusing it protect?"
+   ],
+   "adventures": [
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there.",
+    "Introduce two people who would never meet without you. Then leave the conversation."
+   ]
+  },
+  "2028-02-08": {
+   "date": "2028-02-08",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "List the three people whose help you've refused this year. Next to each, write the story you told yourself about why refusing was strength.",
+    "If your people described you in one sentence, would you recognize yourself in it?"
+   ],
+   "adventures": [
+    "Introduce two people who would never meet without you. Then leave the conversation.",
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it."
+   ]
+  },
+  "2028-02-09": {
+   "date": "2028-02-09",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Zoom out thirty years like you love to do — then zoom all the way in: what is one person's face doing right now because of something you did this week? Stay with that face for a page.",
+    "What is the problem actually asking for that the solution keeps missing?"
+   ],
+   "adventures": [
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it.",
+    "Send the text you've been drafting in your head for a month. The real one."
+   ]
+  },
+  "2028-02-10": {
+   "date": "2028-02-10",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Show up in person to one thing you usually support online — the meeting, the porch, the pickup line — and let your body do the caring your feed usually performs.",
+    "What truth do you keep softening so the room stays comfortable?"
+   ],
+   "adventures": [
+    "Send the text you've been drafting in your head for a month. The real one.",
+    "Defend one unpopular idea at dinner — calmly, completely, no hedging."
+   ]
+  },
+  "2028-02-11": {
+   "date": "2028-02-11",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Which of your 'original' ideas is a remix you won't credit because crediting it would make you a member instead of a founder? Name your sources today, in writing.",
+    "Where are you performing agreement just to be invited back?"
+   ],
+   "adventures": [
+    "Defend one unpopular idea at dinner — calmly, completely, no hedging.",
+    "Spend one full day answering to a name nobody calls you. Respond only as that version."
+   ]
+  },
+  "2028-02-12": {
+   "date": "2028-02-12",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "When did you last let someone see you not know something — not perform curiosity, actually not know, out loud, first? If you can't remember, that's the answer; write about why.",
+    "Who were you before the label — and can they still be reached?"
+   ],
+   "adventures": [
+    "Spend one full day answering to a name nobody calls you. Respond only as that version.",
+    "Write a letter FROM yourself in 2033 — dated, sealed — describing one thing that exists then that doesn't exist now."
+   ]
+  },
+  "2028-02-13": {
+   "date": "2028-02-13",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Plan tomorrow's Mercury-direct announcement with a partner, not an audience: pick the one person who'll hear the new blueprint first, before any post exists.",
+    "What do you know about the future that you pretend not to know?"
+   ],
+   "adventures": [
+    "Write a letter FROM yourself in 2033 — dated, sealed — describing one thing that exists then that doesn't exist now.",
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly."
+   ]
+  },
+  "2028-02-14": {
+   "date": "2028-02-14",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Mercury stations DIRECT",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Mercury goes direct today, in your sign. Read back over this season's pages: which rewritten belief survived the retrograde intact, and which one quietly reverted when nobody was watching?",
+    "Which of your opinions would survive if everyone you know dropped it tomorrow?"
+   ],
+   "adventures": [
+    "Delete one account, group, or subscription you joined because everyone did. Walk away from one herd, quietly.",
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there."
+   ]
+  },
+  "2028-02-15": {
+   "date": "2028-02-15",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "The review is over. What did it cost you to feel things at human distance this season instead of broadcasting them at safe distance? Name the cost without decorating it.",
+    "Whose help did you refuse this year that you actually needed — and what did refusing it protect?"
+   ],
+   "adventures": [
+    "Climb somewhere high — a hill, a rooftop, a drone view of your town — and look at your actual problem from up there.",
+    "Introduce two people who would never meet without you. Then leave the conversation."
+   ]
+  },
+  "2028-02-16": {
+   "date": "2028-02-16",
+   "season": "Aquarius",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aquarius Season · ACT",
+    "action": "A ACT day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Take the rewritten blueprint public the Aquarius way — but backwards: tell the smallest room first. Three people, in person, before the internet hears a word.",
+    "If your people described you in one sentence, would you recognize yourself in it?"
+   ],
+   "adventures": [
+    "Introduce two people who would never meet without you. Then leave the conversation.",
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it."
+   ]
+  },
+  "2028-02-17": {
+   "date": "2028-02-17",
+   "season": "Aquarius",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aquarius Season · THINK",
+    "action": "A THINK day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "If your originality needed no audience to prove it, what would you stop making? And what would you finally start, now that nobody's watching the experiment?",
+    "What is the problem actually asking for that the solution keeps missing?"
+   ],
+   "adventures": [
+    "Take your stuck problem to a mechanic, a kid, or a bartender — someone with zero stake — and ask how they'd solve it.",
+    "Send the text you've been drafting in your head for a month. The real one."
+   ]
+  },
+  "2028-02-18": {
+   "date": "2028-02-18",
+   "season": "Aquarius",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aquarius Season · FEEL",
+    "action": "A FEEL day in Aquarius season — THE OPEN CURRENT."
+   },
+   "soulQuestions": [
+    "Last day of your season. Who got closer to you in these thirty days — name them — and what did you have to put down (the blueprint, the broadcast, the armor) to let it happen?",
+    "What truth do you keep softening so the room stays comfortable?"
+   ],
+   "adventures": [
+    "Send the text you've been drafting in your head for a month. The real one.",
+    "Defend one unpopular idea at dinner — calmly, completely, no hedging."
+   ]
+  },
+  "2028-02-19": {
+   "date": "2028-02-19",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Day one of your own season. Pick one dream you've been 'feeling out' for months and give it a body today — a draft, a deposit, a call you can't un-make. Feeling it out was the old season; acting on it starts now.",
+    "Whose pain do you absorb like it's yours — and whose feelings are you actually avoiding by drowning in someone else's?"
+   ],
+   "adventures": [
+    "Sit with one person in pain today — no advice, no fixing, no phone. Stay the whole time. Let their weather pass through you and out; don't carry it home.",
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess."
+   ]
+  },
+  "2028-02-20": {
+   "date": "2028-02-20",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "You read the room like scripture this week — now cross-examine it. Name one 'intuition' that was really an old hurt wearing new clothes, and one that held up against the evidence.",
+    "What are you waiting to feel inspired about that you already know how to start badly?"
+   ],
+   "adventures": [
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess.",
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it."
+   ]
+  },
+  "2028-02-21": {
+   "date": "2028-02-21",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Where today did you call it empathy while you were actually dissolving — abandoning your own edge so nobody else had to sit with theirs? Feel it standing up: name what you needed before anyone else's feelings entered the chat.",
+    "What did your gut tell you months ago that you're still pretending you didn't hear?"
+   ],
+   "adventures": [
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it.",
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line."
+   ]
+  },
+  "2028-02-22": {
+   "date": "2028-02-22",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Rescue someone with your hands today, not just your heart — bring the meal, drive the errand, send the money. Compassion in motion beats compassion in imagination; you don't save anyone by drowning alongside them.",
+    "If your dreams keep sending the same message, why do you keep calling it random?"
+   ],
+   "adventures": [
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line.",
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call."
+   ]
+  },
+  "2028-02-23": {
+   "date": "2028-02-23",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Track every decision you made today: which ones ran on evidence, and which ones ran on vibe? Your gut is gifted and it is also occasionally a liar — log the score honestly.",
+    "What grudge are you keeping warm because letting it go feels like losing?"
+   ],
+   "adventures": [
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call.",
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens."
+   ]
+  },
+  "2028-02-24": {
+   "date": "2028-02-24",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Tenderness with a boundary is still tenderness. Say one true thing tonight that you'd normally swallow — gently, but out loud — and notice the world doesn't end when you refuse to dissolve.",
+    "What are you controlling so hard because you're terrified of what you'd feel if you let go?"
+   ],
+   "adventures": [
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens.",
+    "Change one physical thing about your day on purpose — route, outfit, seat, schedule — and stay in the new shape all day. Notice who you are inside it."
+   ]
+  },
+  "2028-02-25": {
+   "date": "2028-02-25",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Mercury shadow ends",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Mercury's shadow ends today — the post-retrograde fog lifts. Whatever you tabled, edited, or 'waited on a sign' about through the January retrograde: the green light is real now, not mystical. Execute one shelved thing before midnight.",
+    "Which version of you only exists to make other people comfortable — and what would she do with a day off?"
+   ],
+   "adventures": [
+    "Change one physical thing about your day on purpose — route, outfit, seat, schedule — and stay in the new shape all day. Notice who you are inside it.",
+    "Do one slow, kind thing for a body today — yours or someone else's. A warm drink, an early bed, a hand held a second longer than necessary. No announcement."
+   ]
+  },
+  "2028-02-26": {
+   "date": "2028-02-26",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Name your current escape vehicle — the scroll, the fantasy, the 'just resting' — and honestly audit: what specific conversation is it parked in front of?",
+    "When did rest become something you have to earn by collapsing first?"
+   ],
+   "adventures": [
+    "Do one slow, kind thing for a body today — yours or someone else's. A warm drink, an early bed, a hand held a second longer than necessary. No announcement.",
+    "Sit with one person in pain today — no advice, no fixing, no phone. Stay the whole time. Let their weather pass through you and out; don't carry it home."
+   ]
+  },
+  "2028-02-27": {
+   "date": "2028-02-27",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "You absorbed three people's moods this week like a sponge with no wring cycle. Squeeze yourself out: which feelings in your body are actually yours, and which are you carrying on loan?",
+    "Whose pain do you absorb like it's yours — and whose feelings are you actually avoiding by drowning in someone else's?"
+   ],
+   "adventures": [
+    "Sit with one person in pain today — no advice, no fixing, no phone. Stay the whole time. Let their weather pass through you and out; don't carry it home.",
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess."
+   ]
+  },
+  "2028-02-28": {
+   "date": "2028-02-28",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Stop 'holding space' for the thing and do the thing. Pick the one task you've been spiritually supporting from the sidelines and give it 90 physical minutes today — timer on, phone down.",
+    "What are you waiting to feel inspired about that you already know how to start badly?"
+   ],
+   "adventures": [
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess.",
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it."
+   ]
+  },
+  "2028-02-29": {
+   "date": "2028-02-29",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Leap-day bonus round. What story about yourself have you been rehearsing in fantasy but refusing to test in reality — and what does today's one experiment look like?",
+    "What did your gut tell you months ago that you're still pretending you didn't hear?"
+   ],
+   "adventures": [
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it.",
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line."
+   ]
+  },
+  "2028-03-01": {
+   "date": "2028-03-01",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Feelings aren't facts, but they are data. Sit with today's heaviest feeling and ask it: what are you trying to protect me from? Answer in writing, not in waves.",
+    "If your dreams keep sending the same message, why do you keep calling it random?"
+   ],
+   "adventures": [
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line.",
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call."
+   ]
+  },
+  "2028-03-02": {
+   "date": "2028-03-02",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Boundaries are the Pisces love language you haven't learned yet. Decline one request today — cleanly, kindly, no five-paragraph apology — and keep the evening you get back.",
+    "What grudge are you keeping warm because letting it go feels like losing?"
+   ],
+   "adventures": [
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call.",
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens."
+   ]
+  },
+  "2028-03-03": {
+   "date": "2028-03-03",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Your imagination built someone a halo this week. Reality-check it: list three actual, observed facts about that person or situation that the fantasy edited out.",
+    "What are you controlling so hard because you're terrified of what you'd feel if you let go?"
+   ],
+   "adventures": [
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens.",
+    "Change one physical thing about your day on purpose — route, outfit, seat, schedule — and stay in the new shape all day. Notice who you are inside it."
+   ]
+  },
+  "2028-03-04": {
+   "date": "2028-03-04",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Cry if it's there — but no drowning: set a timer, feel the whole wave, then dry off and do the next real thing. Grief with a spine is stronger than grief with an undertow.",
+    "Which version of you only exists to make other people comfortable — and what would she do with a day off?"
+   ],
+   "adventures": [
+    "Change one physical thing about your day on purpose — route, outfit, seat, schedule — and stay in the new shape all day. Notice who you are inside it.",
+    "Do one slow, kind thing for a body today — yours or someone else's. A warm drink, an early bed, a hand held a second longer than necessary. No announcement."
+   ]
+  },
+  "2028-03-05": {
+   "date": "2028-03-05",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Water finds its level; you keep lowering yours. Pick one standard — in sleep, in work, in how people speak to you — and raise it one notch today. Higher water, same tide.",
+    "When did rest become something you have to earn by collapsing first?"
+   ],
+   "adventures": [
+    "Do one slow, kind thing for a body today — yours or someone else's. A warm drink, an early bed, a hand held a second longer than necessary. No announcement.",
+    "Sit with one person in pain today — no advice, no fixing, no phone. Stay the whole time. Let their weather pass through you and out; don't carry it home."
+   ]
+  },
+  "2028-03-06": {
+   "date": "2028-03-06",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Whose dream are you dreaming right now? Audit your last five big efforts and tag each one: mine, inherited, or absorbed from someone louder.",
+    "Whose pain do you absorb like it's yours — and whose feelings are you actually avoiding by drowning in someone else's?"
+   ],
+   "adventures": [
+    "Sit with one person in pain today — no advice, no fixing, no phone. Stay the whole time. Let their weather pass through you and out; don't carry it home.",
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess."
+   ]
+  },
+  "2028-03-07": {
+   "date": "2028-03-07",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "You want the thing — the rest, the touch, the win. Want it at full volume, no guilt tax, no 'but they need it more.' Desire is allowed to be yours.",
+    "What are you waiting to feel inspired about that you already know how to start badly?"
+   ],
+   "adventures": [
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess.",
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it."
+   ]
+  },
+  "2028-03-08": {
+   "date": "2028-03-08",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Finish something small and ship it before the day ends — the email, the form, the dish in the sink. Completion is the antidote to the infinite almost.",
+    "What did your gut tell you months ago that you're still pretending you didn't hear?"
+   ],
+   "adventures": [
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it.",
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line."
+   ]
+  },
+  "2028-03-09": {
+   "date": "2028-03-09",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Play prophet, then play auditor: what did you predict would happen this week, and what actually happened? Score your intuition like a weather app — then trust the reading that earned it.",
+    "If your dreams keep sending the same message, why do you keep calling it random?"
+   ],
+   "adventures": [
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line.",
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call."
+   ]
+  },
+  "2028-03-10": {
+   "date": "2028-03-10",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Compassion for yourself — not as a concept, as an act. Do the one kind thing today that you'd do for a friend in your exact position. No martyr discounts.",
+    "What grudge are you keeping warm because letting it go feels like losing?"
+   ],
+   "adventures": [
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call.",
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens."
+   ]
+  },
+  "2028-03-11": {
+   "date": "2028-03-11",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Call — voice, not text — the person you've been 'sending love to' from a distance. Distance is where Pisces love goes to die; proximity is where it lives.",
+    "What are you controlling so hard because you're terrified of what you'd feel if you let go?"
+   ],
+   "adventures": [
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens.",
+    "Change one physical thing about your day on purpose — route, outfit, seat, schedule — and stay in the new shape all day. Notice who you are inside it."
+   ]
+  },
+  "2028-03-12": {
+   "date": "2028-03-12",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Draw the map of your merge points: who gets you to dissolve, where, and on what pretext? Knowing the triggers is the first dam.",
+    "Which version of you only exists to make other people comfortable — and what would she do with a day off?"
+   ],
+   "adventures": [
+    "Change one physical thing about your day on purpose — route, outfit, seat, schedule — and stay in the new shape all day. Notice who you are inside it.",
+    "Do one slow, kind thing for a body today — yours or someone else's. A warm drink, an early bed, a hand held a second longer than necessary. No announcement."
+   ]
+  },
+  "2028-03-13": {
+   "date": "2028-03-13",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Stand in the cold ocean of one hard truth today — say it plainly, to yourself first. Cold water shocks; then you get used to it, and it clears everything.",
+    "When did rest become something you have to earn by collapsing first?"
+   ],
+   "adventures": [
+    "Do one slow, kind thing for a body today — yours or someone else's. A warm drink, an early bed, a hand held a second longer than necessary. No announcement.",
+    "Sit with one person in pain today — no advice, no fixing, no phone. Stay the whole time. Let their weather pass through you and out; don't carry it home."
+   ]
+  },
+  "2028-03-14": {
+   "date": "2028-03-14",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Turn one imaginary kindness into a real one: the message you drafted in your head, the help you pictured yourself giving. Convert fantasy into calendar.",
+    "Whose pain do you absorb like it's yours — and whose feelings are you actually avoiding by drowning in someone else's?"
+   ],
+   "adventures": [
+    "Sit with one person in pain today — no advice, no fixing, no phone. Stay the whole time. Let their weather pass through you and out; don't carry it home.",
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess."
+   ]
+  },
+  "2028-03-15": {
+   "date": "2028-03-15",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Halfway through your season — Neptune's watching: is the dream growing a spine or growing a fog? Write the honest answer, then the one action that proves it.",
+    "What are you waiting to feel inspired about that you already know how to start badly?"
+   ],
+   "adventures": [
+    "Set a timer for ten minutes. Make something ugly on purpose — a song, a sketch, a paragraph. No stopping, no editing. Show nobody. Keep the mess.",
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it."
+   ]
+  },
+  "2028-03-16": {
+   "date": "2028-03-16",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Sit with someone else's pain today without fixing, fleeing, or absorbing it — just witness. That's the advanced Pisces move: presence without merging.",
+    "What did your gut tell you months ago that you're still pretending you didn't hear?"
+   ],
+   "adventures": [
+    "Make one real decision today with zero research — no asking around, no pros-and-cons list. First gut answer wins. Write down what it said before your brain edits it.",
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line."
+   ]
+  },
+  "2028-03-17": {
+   "date": "2028-03-17",
+   "season": "Pisces",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Pisces Season · ACT",
+    "action": "A ACT day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Sign the thing, send the thing, start the thing. Today the dream stops being a tide pool and becomes a current — one outward motion that can't be un-done.",
+    "If your dreams keep sending the same message, why do you keep calling it random?"
+   ],
+   "adventures": [
+    "Write last night's dream down before your feet touch the floor. Then do one tiny thing from it today — literally. Wear the color. Go to the place. Say the line.",
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call."
+   ]
+  },
+  "2028-03-18": {
+   "date": "2028-03-18",
+   "season": "Pisces",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Pisces Season · THINK",
+    "action": "A THINK day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Inventory your escapes before the season ends: which ones did you actually give up, and which ones just changed outfits? Name them like pets — you can't outrun what you've named.",
+    "What grudge are you keeping warm because letting it go feels like losing?"
+   ],
+   "adventures": [
+    "Write the apology you owe — or the one you'll never get — on paper. Read it aloud once, to nobody. Then burn it, tear it, or keep it. Your call.",
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens."
+   ]
+  },
+  "2028-03-19": {
+   "date": "2028-03-19",
+   "season": "Pisces",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Pisces Season · FEEL",
+    "action": "A FEEL day in Pisces season — THE RETURN TO SELF."
+   },
+   "soulQuestions": [
+    "Season's last day. Feel all thirty at once — the tide you rode, the boundaries you built, the dream that's finally growing a spine. Then let the water carry you forward instead of pulling you under.",
+    "What are you controlling so hard because you're terrified of what you'd feel if you let go?"
+   ],
+   "adventures": [
+    "Pick one thing you're white-knuckling. Cancel the backup plan. Delete the draft message. Let it go unwitnessed for 24 hours and see what actually happens.",
+    "Change one physical thing about your day on purpose — route, outfit, seat, schedule — and stay in the new shape all day. Notice who you are inside it."
+   ]
+  },
+  "2028-03-20": {
+   "date": "2028-03-20",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "It's opening day of the astrological year. Start the thing you've rehearsed eleven times in your head — but before sunset, finish ONE step of it completely and show somebody. A spark you can't point to by tonight didn't happen.",
+    "What did you start in a blaze last month that's sitting cold right now, and what would it cost you to admit the spark was never the problem — the staying was?"
+   ],
+   "adventures": [
+    "Pick the thing you've been circling for a week. Do the first ugly minute of it right now — no setup, no playlist, no perfect conditions. Momentum doesn't ask permission.",
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished."
+   ]
+  },
+  "2028-03-21": {
+   "date": "2028-03-21",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Name the last three things you started in a blaze. How many are still alive? Write down what actually killed the dead ones — 'life got busy' is not an acceptable answer.",
+    "When did you last sprint toward something that scared you instead of sprinting away, and why do you trust your fear more than your track record?"
+   ],
+   "adventures": [
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished.",
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room."
+   ]
+  },
+  "2028-03-22": {
+   "date": "2028-03-22",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Let yourself want something today at full volume — no apology, no shrinking, no 'it's fine either way.' Write the desire like it already has the keys. Then sit with how loud it feels and write that too.",
+    "What truth did you blurt out fast and then abandon because the reaction got uncomfortable — and who deserved you finishing that sentence?"
+   ],
+   "adventures": [
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room.",
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings."
+   ]
+  },
+  "2028-03-23": {
+   "date": "2028-03-23",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Pick the half-finished project that embarrasses you most and spend 25 minutes on it before you touch anything new. Fire that finishes beats fire that flatters.",
+    "Is your speed a gift or an exit strategy — how often do you rush the beginning so you never have to sit through the middle?"
+   ],
+   "adventures": [
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings.",
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't."
+   ]
+  },
+  "2028-03-24": {
+   "date": "2028-03-24",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "What's the real difference between your courage and your impatience? Write about the last time you called something 'brave' that was honestly just fast.",
+    "Who are you actually racing, and would you still want the prize if the fight stopped being interesting halfway to it?"
+   ],
+   "adventures": [
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't.",
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice."
+   ]
+  },
+  "2028-03-25": {
+   "date": "2028-03-25",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Where does the anger actually live in your body today — jaw, fists, stomach, shoulders? Put a hand there. What is it protecting that you haven't admitted you want?",
+    "How many of your fast decisions were real conviction, and how many were just you slamming the door so you wouldn't have to stay and choose slowly?"
+   ],
+   "adventures": [
+    "You have three things you've been 'deciding' for days. Pick each one in the next ten minutes, out loud, to another human. No take-backs until tomorrow. Live inside the choice.",
+    "Stand in front of someone smaller in the fight today — the coworker getting talked over, the friend getting mocked. Interrupt it physically if you must. Be the wall, then be done."
+   ]
+  },
+  "2028-03-26": {
+   "date": "2028-03-26",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Declare today's finish line out loud to one person: one task, done by tonight, no extensions, no renegotiation. Then go hit it like it owes you money.",
+    "You'd charge into danger for your people without blinking — so why do you abandon your own long fights the moment nobody's watching you be brave?"
+   ],
+   "adventures": [
+    "Stand in front of someone smaller in the fight today — the coworker getting talked over, the friend getting mocked. Interrupt it physically if you must. Be the wall, then be done.",
+    "Sign up for the class where you'll be the worst person in the room. Show up anyway. Ask the dumb question out loud. Beginners get to be bad in public — that's the whole sport."
+   ]
+  },
+  "2028-03-27": {
+   "date": "2028-03-27",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "If nobody could ever know you did it, which of your current battles would you quietly drop? What does that answer tell you about who's really been steering?",
+    "What did you quit the moment you stopped being instantly good at it, and what would it take to be a beginner on purpose instead of a quitter by accident?"
+   ],
+   "adventures": [
+    "Sign up for the class where you'll be the worst person in the room. Show up anyway. Ask the dumb question out loud. Beginners get to be bad in public — that's the whole sport.",
+    "Pick the thing you've been circling for a week. Do the first ugly minute of it right now — no setup, no playlist, no perfect conditions. Momentum doesn't ask permission."
+   ]
+  },
+  "2028-03-28": {
+   "date": "2028-03-28",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "When did you last feel genuinely proud — not relieved, not noticed, proud? Describe it in full detail. What would it take to feel that again before this week ends?",
+    "What did you start in a blaze last month that's sitting cold right now, and what would it cost you to admit the spark was never the problem — the staying was?"
+   ],
+   "adventures": [
+    "Pick the thing you've been circling for a week. Do the first ugly minute of it right now — no setup, no playlist, no perfect conditions. Momentum doesn't ask permission.",
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished."
+   ]
+  },
+  "2028-03-29": {
+   "date": "2028-03-29",
+   "season": "Aries",
+   "mode": "ACT",
+   "holiday": {
+    "name": "Aries Season · ACT",
+    "action": "A ACT day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Do the boring rep. Pick the unglamorous middle step of your biggest goal — the paperwork, the practice session, the cleanup — and complete it today. Middles are where Aries goes to die. Refuse.",
+    "When did you last sprint toward something that scared you instead of sprinting away, and why do you trust your fear more than your track record?"
+   ],
+   "adventures": [
+    "Make the phone call you've been rehearsing in the shower. Dial before you finish reading this page. Say the first sentence badly if you have to — dialed beats polished.",
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room."
+   ]
+  },
+  "2028-03-30": {
+   "date": "2028-03-30",
+   "season": "Aries",
+   "mode": "THINK",
+   "holiday": {
+    "name": "Aries Season · THINK",
+    "action": "A THINK day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "Write down the impulse you're most likely to obey this week. Now write the bill it usually sends you afterward. Read the bill before you act this time, not after.",
+    "What truth did you blurt out fast and then abandon because the reaction got uncomfortable — and who deserved you finishing that sentence?"
+   ],
+   "adventures": [
+    "Tell one person the true version today — the one without the diplomatic edit. No softening, no cushion joke at the end. Let it land and stay in the room.",
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings."
+   ]
+  },
+  "2028-03-31": {
+   "date": "2028-03-31",
+   "season": "Aries",
+   "mode": "FEEL",
+   "holiday": {
+    "name": "Aries Season · FEEL",
+    "action": "A FEEL day in Aries season — THE DIRECT HIT."
+   },
+   "soulQuestions": [
+    "What are you pretending not to be furious about? Say it plainly, out loud, alone if you have to. Then write down what you actually need underneath the fury.",
+    "Is your speed a gift or an exit strategy — how often do you rush the beginning so you never have to sit through the middle?"
+   ],
+   "adventures": [
+    "Set a timer for 20 minutes and finish one small thing end-to-end — the email, the form, the drawer. Done and shipped beats perfect and pending. Stop when it rings.",
+    "Enter something with a scoreboard this week — a race, a contest, a game night — and play to actually win. No ironic detachment. Losing honestly is allowed; coasting isn't."
+   ]
+  }
+ }
+}

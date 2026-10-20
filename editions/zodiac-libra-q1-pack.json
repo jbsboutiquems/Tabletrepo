@@ -1,0 +1,1282 @@
+{
+ "edition": "zodiac-libra-q1",
+ "name": "Libra — THE BEAUTIFUL MIDDLE · Undated Edition — Q1",
+ "undated": true,
+ "themes": {},
+ "days": {
+  "1": {
+   "day": 1,
+   "holiday": {
+    "name": "Libra · Day 1",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "What 'I'm fine with whatever' actually meant 'I care and I'm afraid to say so'?"
+   ],
+   "adventures": [
+    "Say one preference out loud before noon — where to eat, which route, what to watch. Let someone witness you having an opinion without the cushioning.",
+    "Rearrange three objects on a shelf until the composition pleases you, not a hypothetical guest. Beauty you don't perform is still yours."
+   ]
+  },
+  "2": {
+   "day": 2,
+   "holiday": {
+    "name": "Libra · Day 2",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Whose approval are you currently styling your whole personality around?"
+   ],
+   "adventures": [
+    "Catch yourself polishing a sentence for an invisible audience and send the unpolished version instead. Rough edges prove you were there.",
+    "Remove one decorative item you bought to impress visitors and never actually liked. Reclaim the space for your own taste."
+   ]
+  },
+  "3": {
+   "day": 3,
+   "holiday": {
+    "name": "Libra · Day 3",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "If your smile were subpoenaed, what would it have to admit?"
+   ],
+   "adventures": [
+    "Deliver the no you've been postponing — short, kind, final, with no explanation longer than the no itself.",
+    "Stand in front of a mirror and drop the expression you wear for other people. Sit with your actual face for a full minute."
+   ]
+  },
+  "4": {
+   "day": 4,
+   "holiday": {
+    "name": "Libra · Day 4",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Which conflict are you decorating instead of resolving?"
+   ],
+   "adventures": [
+    "Tell someone involved what the actual disagreement is, using plain words and no softening jokes. Decorations don't fix foundations.",
+    "Walk through one room and discard or relocate the thing you keep shuffling around because you're avoiding a bigger decision about it."
+   ]
+  },
+  "5": {
+   "day": 5,
+   "holiday": {
+    "name": "Libra · Day 5",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "How is 'keeping the peace' taxing the life you actually want?"
+   ],
+   "adventures": [
+    "Name the tax: write down exactly what the peace is costing you this week. Itemized resentment is harder to ignore.",
+    "Make your bed badly on purpose — or leave it unmade and admire the wreckage. Order is a choice, not a duty."
+   ]
+  },
+  "6": {
+   "day": 6,
+   "holiday": {
+    "name": "Libra · Day 6",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "When did 'diplomatic' quietly become your word for 'dishonest'?"
+   ],
+   "adventures": [
+    "Speak one honest sentence today where you'd normally deploy diplomacy. Diplomacy is a tool, not a residence.",
+    "Take the long way somewhere and let your inner monologue be completely undiplomatic the whole walk. Private bluntness is training."
+   ]
+  },
+  "7": {
+   "day": 7,
+   "holiday": {
+    "name": "Libra · Day 7",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Where in your life are you the unpaid diplomat, and who hired you?"
+   ],
+   "adventures": [
+    "Hand in your resignation from one mediation nobody asked you to perform. Let two people be uncomfortable with each other directly.",
+    "Claim one chair, corner, or surface as exclusively yours and style it without compromise. Territory is underrated."
+   ]
+  },
+  "8": {
+   "day": 8,
+   "holiday": {
+    "name": "Libra · Day 8",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Who gets the curated you, and who gets the real one — is that list backwards?"
+   ],
+   "adventures": [
+    "Resign from the performance with one person: give them the unfiltered complaint, the weird opinion, the actual mood. Intimacy needs ingredients.",
+    "Photograph something ugly-beautiful — the messy corner, the worn-out shoe. Train your eye to love what's true."
+   ]
+  },
+  "9": {
+   "day": 9,
+   "holiday": {
+    "name": "Libra · Day 9",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Why do you treat your own needs as opening bids in a negotiation?"
+   ],
+   "adventures": [
+    "Promote one need to non-negotiable and state it as a fact, not a request wrapped in apology. 'I need quiet' is a complete sentence.",
+    "Eat something exactly the way you like it, even if it's 'wrong' — cereal dry, pizza cold. Your palate, your rules."
+   ]
+  },
+  "10": {
+   "day": 10,
+   "holiday": {
+    "name": "Libra · Day 10",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Describe the grudge you're currently watering with a smile."
+   ],
+   "adventures": [
+    "Pick up the pen: name the resentment in writing first, then decide if the person deserves to hear it. Smiling at someone you're mad at is a hostage situation.",
+    "Buy or make yourself something indulgent with no audience in mind. Pleasure you hide still counts."
+   ]
+  },
+  "11": {
+   "day": 11,
+   "holiday": {
+    "name": "Libra · Day 11",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Name the decision you've been 'sleeping on' longer than any mattress warranty allows."
+   ],
+   "adventures": [
+    "Replace deliberation with a deadline: choose by dinner. Flip a coin if you must, then notice whether you feel relieved or disappointed — that's the real answer.",
+    "Move the piece of furniture you've been 'thinking about moving' for months. Your body decides faster than your committee."
+   ]
+  },
+  "12": {
+   "day": 12,
+   "holiday": {
+    "name": "Libra · Day 12",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Picture your life with no audience. What changes first?"
+   ],
+   "adventures": [
+    "Remove one audience-driven habit today — the outfit, the opinion, the post. Notice how light the unobserved version of you feels.",
+    "Spend twenty minutes somewhere with no one to impress: a park bench, your parked car. Practice being unwitnessed."
+   ]
+  },
+  "13": {
+   "day": 13,
+   "holiday": {
+    "name": "Libra · Day 13",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Imagine nobody had to like your next decision. What would it be?"
+   ],
+   "adventures": [
+    "Tidy up the excuses and take the first concrete step toward it. Likability is a terrible compass; it points at everyone except you.",
+    "Rearrange your bookshelf, closet, or playlist by your own secret logic. Private systems are a quiet joy."
+   ]
+  },
+  "14": {
+   "day": 14,
+   "holiday": {
+    "name": "Libra · Day 14",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Suppose fairness started with you for once. What would change?"
+   ],
+   "adventures": [
+    "Rise for yourself the way you rise for everyone else: give yourself the benefit of the doubt you'd hand a stranger. The scales include you.",
+    "Balance one tangible ledger — the budget, the schedule, the shelf — and notice where you've been shorting yourself."
+   ]
+  },
+  "15": {
+   "day": 15,
+   "holiday": {
+    "name": "Libra · Day 15",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Consider the last 'we' decision that was really a 'you caved' decision. What did it cost?"
+   ],
+   "adventures": [
+    "Reverse one caved decision and state your real position, even if the outcome stands. The record should show your vote.",
+    "Buy or make something in a single serving, your flavor only. Not everything needs a co-signer."
+   ]
+  },
+  "16": {
+   "day": 16,
+   "holiday": {
+    "name": "Libra · Day 16",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Finish this sentence honestly: 'I'd say what I really think, but...'"
+   ],
+   "adventures": [
+    "Fix the sentence by deleting everything after 'but' — then say the first half to someone safe. The 'but' is where your truth goes to die.",
+    "Hum, sing, or talk to yourself at full volume in your own space. Your voice is allowed to take up air."
+   ]
+  },
+  "17": {
+   "day": 17,
+   "holiday": {
+    "name": "Libra · Day 17",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Admit it: which relationship survives only because you never say the thing?"
+   ],
+   "adventures": [
+    "Exit the museum: say a measured version of the thing this week, or admit the relationship is an exhibit. Museums are for visiting, not living in.",
+    "Archive one photo, contact, or object tied to a relationship you're maintaining out of habit. Curation is self-respect."
+   ]
+  },
+  "18": {
+   "day": 18,
+   "holiday": {
+    "name": "Libra · Day 18",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Confess the compliment you give that you don't mean. Who is it buying off?"
+   ],
+   "adventures": [
+    "Claim honesty over harmony once today: replace the hollow compliment with silence or a true observation. Flattery is a bribe with good lighting.",
+    "Touch something with a texture you love — velvet, bark, cool stone — and let yourself just like it. Sensation needs no justification."
+   ]
+  },
+  "19": {
+   "day": 19,
+   "holiday": {
+    "name": "Libra · Day 19",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Try answering this without editing: what do you actually want?"
+   ],
+   "adventures": [
+    "Cook up the first step toward it before the editing reflex kicks in. Wanting things is not a character flaw.",
+    "Wear or display the bold thing you've been saving for a special occasion. The occasion is you, existing."
+   ]
+  },
+  "20": {
+   "day": 20,
+   "holiday": {
+    "name": "Libra · Day 20",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Ask yourself who taught you that being liked equals being safe."
+   ],
+   "adventures": [
+    "Purchase one small likability violation: disagree, decline, or disappoint someone low-stakes today. Notice that you survive.",
+    "Go somewhere alone where nobody knows you and be gloriously unbothered — take the big table, linger. Anonymity is a rehearsal room."
+   ]
+  },
+  "21": {
+   "day": 21,
+   "holiday": {
+    "name": "Libra · Day 21",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Look at your week: where are you performing 'easy to be around' at your own expense?"
+   ],
+   "adventures": [
+    "Occupy the space: be one degree harder to be around today — have the preference, the boundary, the opinion. Easy is expensive; check the bill.",
+    "Stretch out on the couch and spread your things around you. Your body is allowed its square footage."
+   ]
+  },
+  "22": {
+   "day": 22,
+   "holiday": {
+    "name": "Libra · Day 22",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Audit your 'fair' arrangements. Which one is just convenient for someone louder?"
+   ],
+   "adventures": [
+    "Look the numbers in the eye: recalculate one lopsided deal and propose the correction. Fairness has a spine; find yours.",
+    "Split something indulgent with yourself first — the dessert, the afternoon, the good seat. You are a party to the deal."
+   ]
+  },
+  "23": {
+   "day": 23,
+   "holiday": {
+    "name": "Libra · Day 23",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Interrogate your mental ledger: what favors are you silently scorekeeping?"
+   ],
+   "adventures": [
+    "Tear up the ledger or present the bill: either forgive the debts or name them out loud. Silent accounting poisons the books.",
+    "Give something with no possibility of return — an anonymous gift, an unlogged favor. Unbalanced generosity breaks the scorekeeping habit."
+   ]
+  },
+  "24": {
+   "day": 24,
+   "holiday": {
+    "name": "Libra · Day 24",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Weigh this: whose comfort are you purchasing with your silence, and is the price fair?"
+   ],
+   "adventures": [
+    "Sit with the receipt: state one price you've been paying quietly and ask if the other person even knew. Most of these debts are imaginary.",
+    "Park yourself somewhere deliberately uncomfortable — a hard chair, the floor — for ten minutes. Your body will report what it's been absorbing."
+   ]
+  },
+  "25": {
+   "day": 25,
+   "holiday": {
+    "name": "Libra · Day 25",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Count the opinions you auditioned before settling on someone else's. What number shames you?"
+   ],
+   "adventures": [
+    "Lock in one decision in under thirty seconds and stand by it all day. Speed is a muscle; yours has atrophied.",
+    "Choose a route, a meal, or a film in under a minute with zero research. Your gut outruns your committee."
+   ]
+  },
+  "26": {
+   "day": 26,
+   "holiday": {
+    "name": "Libra · Day 26",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "List three things you pretend not to notice so the peace stays intact."
+   ],
+   "adventures": [
+    "Identify the biggest one and say it to the person it concerns, calmly, without apologizing for seeing it. Peace built on blindness is just a nap.",
+    "Fix one small broken thing you've been living around — the wobbly knob, the flickering bulb. Your surroundings believe what you tolerate."
+   ]
+  },
+  "27": {
+   "day": 27,
+   "holiday": {
+    "name": "Libra · Day 27",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Rank your relationships by how much editing you do around each person. Who tops the list?"
+   ],
+   "adventures": [
+    "Retract one smoothing-over you've recently performed — a 'no worries' that was, in fact, worries. Corrections are allowed.",
+    "Put on a song you actually love at a volume someone else might find too much. Your playlist, your decibels."
+   ]
+  },
+  "28": {
+   "day": 28,
+   "holiday": {
+    "name": "Libra · Day 28",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Choose: the beautiful lie that keeps things even, or the ugly truth that sets them straight?"
+   ],
+   "adventures": [
+    "Recalculate the cost of evenness: tell one true thing you've been smoothing over with pleasantries. Honesty hosts better than politeness.",
+    "Draw or scribble the ugly truth — deliberately unaesthetic, no filter. The page can handle what your manners can't."
+   ]
+  },
+  "29": {
+   "day": 29,
+   "holiday": {
+    "name": "Libra · Day 29",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "State the boundary a person who genuinely liked themselves would draw here."
+   ],
+   "adventures": [
+    "Upgrade the boundary from thought to action: text it, say it, or write it on the calendar. The medium doesn't matter; the line does.",
+    "Close one door today, literal or metaphorical: decline the invite, shut the tab, lock up. A closed door is a complete sentence."
+   ]
+  },
+  "30": {
+   "day": 30,
+   "holiday": {
+    "name": "Libra · Day 30",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Declare one thing you're done tolerating. Say it like you mean it."
+   ],
+   "adventures": [
+    "Give the declaration teeth: take the first action that proves it within 24 hours. Declarations without deeds are décor.",
+    "Deep-clean one neglected corner — behind the couch, under the sink. Tolerance has a smell; air it out."
+   ]
+  },
+  "31": {
+   "day": 31,
+   "holiday": {
+    "name": "Libra · Day 31",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Write the apology you're owed and will never receive. Then what?"
+   ],
+   "adventures": [
+    "Channel the sender, sign it, then burn or delete it. Closure is a DIY project — stop waiting for the contractor.",
+    "Pot or arrange something living as a marker of what you're done waiting for. Growth is the rebuttal."
+   ]
+  },
+  "32": {
+   "day": 32,
+   "holiday": {
+    "name": "Libra · Day 32",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Text the opening line of the conversation that keeps getting rescheduled in your head."
+   ],
+   "adventures": [
+    "Send three sentences max, no preamble, to the person it concerns. The conversation is already happening; you're just not in the room yet.",
+    "Walk while rehearsing your opening line out loud like a person talking to the air. Rehearsal is allowed; avoidance isn't."
+   ]
+  },
+  "33": {
+   "day": 33,
+   "holiday": {
+    "name": "Libra · Day 33",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Notice which 'yes' this week was actually a hostage negotiation."
+   ],
+   "adventures": [
+    "Evict the coerced yes: 'I agreed too fast — I'm changing it to no' is a complete script. Renegotiation is a right, not a crime.",
+    "Reclaim one hour as non-negotiable yours and defend it like property. Your calendar is a border."
+   ]
+  },
+  "34": {
+   "day": 34,
+   "holiday": {
+    "name": "Libra · Day 34",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Catch the passive-aggressive maneuver you're most proud of. Now disarm it."
+   ],
+   "adventures": [
+    "Have the direct version instead: replace the pleasant punishment with the plain sentence. Pleasantness is not a weapon; retire it.",
+    "Do something kind with zero audience and zero credit — and tell no one. Generosity without witnesses is the real test."
+   ]
+  },
+  "35": {
+   "day": 35,
+   "holiday": {
+    "name": "Libra · Day 35",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Remember the last time you apologized for something that wasn't your fault? Why did you?"
+   ],
+   "adventures": [
+    "Issue a moratorium: no apologies for existing today — not for the wait, the weather, the feelings. Save 'sorry' for actual harm.",
+    "Stride the full width of a sidewalk or hallway for one walk — no shrinking for strangers. Space you're entitled to needs no apology."
+   ]
+  },
+  "36": {
+   "day": 36,
+   "holiday": {
+    "name": "Libra · Day 36",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Pretend the room has no consequences for one minute. What would you say?"
+   ],
+   "adventures": [
+    "Deliver the 30% version: write the consequence-free speech, then say a third of it out loud to someone safe. Scale the honesty up from there.",
+    "Lie on the floor for five minutes and let the unsaid thing exist without fixing it. Not everything needs your repair crew."
+   ]
+  },
+  "37": {
+   "day": 37,
+   "holiday": {
+    "name": "Libra · Day 37",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Borrow your best friend's bluntness for a day. What would they tell you?"
+   ],
+   "adventures": [
+    "Go ahead and listen: write their unsparing paragraph, then read it aloud. Borrowed courage is still courage.",
+    "Look at your reflection and say one true thing about your week — out loud. The mirror is a decent confessor."
+   ]
+  },
+  "38": {
+   "day": 38,
+   "holiday": {
+    "name": "Libra · Day 38",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Steal back one 'taste' that's actually someone else's preference you've been renting."
+   ],
+   "adventures": [
+    "Reopen the lease: admit you don't love the thing everyone assumes you love. Your palate is yours to redecorate.",
+    "Change one thing in your space that was chosen to match someone else's aesthetic. Mismatch is a declaration."
+   ]
+  },
+  "39": {
+   "day": 39,
+   "holiday": {
+    "name": "Libra · Day 39",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Return the standards you're failing that you never agreed to in the first place."
+   ],
+   "adventures": [
+    "Stop the audit: tell the person — or yourself — you're opting out of that scoreboard. You can't lose a game you refuse to play.",
+    "Mess up one thing you've been keeping perfect — the inbox, the streak, the shelf. Perfection is a landlord; evict it."
+   ]
+  },
+  "40": {
+   "day": 40,
+   "holiday": {
+    "name": "Libra · Day 40",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Hand back the emotional chore you were never assigned. Who was it really for?"
+   ],
+   "adventures": [
+    "Write the resignation letter — one honest paragraph — even if you never send it. Naming the chore is half the quitting.",
+    "Leave one space in your home exactly as you like it, even if a guest might judge. Hospitality that costs your taste is a bad trade."
+   ]
+  },
+  "41": {
+   "day": 41,
+   "holiday": {
+    "name": "Libra · Day 41",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Leave the committee meeting in your head. What's the verdict when it's just you?"
+   ],
+   "adventures": [
+    "Act on the solo verdict today: make the call, send the message, book the thing. The committee was never elected.",
+    "Take a walk alone with no destination and no soundtrack. Unmediated air clears committee fog."
+   ]
+  },
+  "42": {
+   "day": 42,
+   "holiday": {
+    "name": "Libra · Day 42",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Keep one promise to yourself this week that no one will ever check on."
+   ],
+   "adventures": [
+    "Burn the performance aspect: do it with zero announcement and zero audience. Private promises build the sturdiest self-trust.",
+    "Light a candle or open a window and sit with yourself for five uninterrupted minutes. Rituals make promises feel real."
+   ]
+  },
+  "43": {
+   "day": 43,
+   "holiday": {
+    "name": "Libra · Day 43",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Drop the symmetry act: where is your life suspiciously even, and what's been balanced out?"
+   ],
+   "adventures": [
+    "Put the scale down and tip it on purpose: over-invest in something you've been rationing. Symmetry is sometimes just fear with a ruler.",
+    "Make something deliberately asymmetrical — part your hair differently, hang a picture crooked. A little Khaos is a vitamin."
+   ]
+  },
+  "44": {
+   "day": 44,
+   "holiday": {
+    "name": "Libra · Day 44",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Trade one 'someday' for a real plan or a real goodbye."
+   ],
+   "adventures": [
+    "Consult the calendar, not your courage: either schedule it this week or write its eulogy. 'Someday' is where dreams go to be politely ignored.",
+    "Clear one physical 'someday' pile — the mending, the unsorted box. Objects, like dreams, need a verdict."
+   ]
+  },
+  "45": {
+   "day": 45,
+   "holiday": {
+    "name": "Libra · Day 45",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Own the ugly feeling you've been dressing in pretty language. Name it plainly."
+   ],
+   "adventures": [
+    "Strip the costume: say the feeling in its work clothes — jealousy, spite, boredom, rage — to someone safe. Pretty words don't shrink it; they just hide the address.",
+    "Find one object that matches the feeling's texture — rough, sharp, heavy — and hold it while you name what it is. Honesty has a grip."
+   ]
+  },
+  "46": {
+   "day": 46,
+   "holiday": {
+    "name": "Libra · Day 46",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Claim the desire you've filed under 'too much'."
+   ],
+   "adventures": [
+    "Redesign the label: upgrade one 'too much' to 'just enough' and take the first step. Wanting things is not a character flaw.",
+    "Bring one beautiful disruption into your space — flowers, loud art, a ridiculous color. Let the room feel the want."
+   ]
+  },
+  "47": {
+   "day": 47,
+   "holiday": {
+    "name": "Libra · Day 47",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Resign as peacemaker in a war that was never yours to mediate."
+   ],
+   "adventures": [
+    "Ask both sides to count you out — one clear message each. Neutrality chosen is strength; neutrality defaulted is drift.",
+    "Stand somewhere high — a hill, a rooftop, a staircase — and survey your own life from altitude. Perspective is a verdict's best friend."
+   ]
+  },
+  "48": {
+   "day": 48,
+   "holiday": {
+    "name": "Libra · Day 48",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Cancel the performance: what are you polishing on the surface while the inside stays unaddressed?"
+   ],
+   "adventures": [
+    "Scuff the surface on purpose: let one polished thing show its true state today — the real mood, the real mess, the real opinion. Shine is not the same as health.",
+    "Practice deliberate unpolish: leave the bed unmade, the hair undone, the dish in the sink — and sit with the uncurated version of your space. Khaos, owned, beats order, performed."
+   ]
+  },
+  "49": {
+   "day": 49,
+   "holiday": {
+    "name": "Libra · Day 49",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Book the confrontation you've been avoiding — or admit you're never going to."
+   ],
+   "adventures": [
+    "Ask for the meeting, the call, the five minutes. Or write the eulogy for the unsaid thing. Either way, decide.",
+    "Choose discomfort on purpose: a cold shower or a brisk walk in rough weather. Voluntary hard things shrink involuntary ones."
+   ]
+  },
+  "50": {
+   "day": 50,
+   "holiday": {
+    "name": "Libra · Day 50",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Delete the curated version of the story you tell about your life. What's the unedited cut?"
+   ],
+   "adventures": [
+    "Add the missing paragraph to one story — the part you skip to keep it pretty. Pretty stories with holes are just well-lit evasions.",
+    "Journal the unpretty version of your day: three honest lines, no audience. The page doesn't need you to be charming."
+   ]
+  },
+  "51": {
+   "day": 51,
+   "holiday": {
+    "name": "Libra · Day 51",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Frame the question differently: what would you do if being liked weren't the goal?"
+   ],
+   "adventures": [
+    "Do one good thing nobody will agree with — the unpopular fairness, the awkward honesty. Goodness has a spine; agreeableness has a smile.",
+    "Commit one small act of anonymous mischief — rearrange the magnets, leave an unsigned kind note. Goodness without credit is the purest kind."
+   ]
+  },
+  "52": {
+   "day": 52,
+   "holiday": {
+    "name": "Libra · Day 52",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Plant your flag: which hill is actually worth your honesty?"
+   ],
+   "adventures": [
+    "Decide what you'd defend at the cost of comfort, then defend one small piece of it today. Flags need planting, not folding.",
+    "Mark the hill physically: move one object in your home to the place of honor to represent the thing you won't compromise. Altars aren't just for temples."
+   ]
+  },
+  "53": {
+   "day": 53,
+   "holiday": {
+    "name": "Libra · Day 53",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Wear the opinion you've been keeping in the closet."
+   ],
+   "adventures": [
+    "Say the closet opinion to one person today — the unpopular take, the unfashionable preference. Opinions wrinkle when stored too long.",
+    "Dress one full degree bolder than your 'appropriate' default. The closet was never the opinion's home."
+   ]
+  },
+  "54": {
+   "day": 54,
+   "holiday": {
+    "name": "Libra · Day 54",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Play devil's advocate against your own peacekeeping. What breaks first?"
+   ],
+   "adventures": [
+    "Cross-examine the truce: list what the peace is protecting and who it's protecting it from. Some truces are just surrenders with better PR.",
+    "Throw something soft at a wall — a pillow, a sock — while naming the peace you'd renegotiate. Embodied honesty works."
+   ]
+  },
+  "55": {
+   "day": 55,
+   "holiday": {
+    "name": "Libra · Day 55",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Walk forward: who are you outgrowing, and what are you afraid they'll say about it?"
+   ],
+   "adventures": [
+    "Name the growth without apology: you are allowed to evolve past dynamics that fit a former you. Loyalty to the past is not a life plan.",
+    "Revisit one place from an earlier chapter of your life — alone — and notice what no longer fits. Geography keeps the receipts."
+   ]
+  },
+  "56": {
+   "day": 56,
+   "holiday": {
+    "name": "Libra · Day 56",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Sit with this: what truth have you never said out loud about yourself?"
+   ],
+   "adventures": [
+    "Voice it to one person today, or write it where someone might find it. Unsaid truths have weight; set one down.",
+    "Breathe through the discomfort of the unsaid thing for five slow breaths. Your lungs can hold what your voice won't — for now."
+   ]
+  },
+  "57": {
+   "day": 57,
+   "holiday": {
+    "name": "Libra · Day 57",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Breathe in: what criticism are you dodging by being delightful?"
+   ],
+   "adventures": [
+    "Attempt one thing imperfectly in public — the draft with the rough edge, the mismatched pair. Delight is a shield; set it down.",
+    "Leave one visible mess untouched for the day as an experiment. Note who actually cares. (Probably no one.)"
+   ]
+  },
+  "58": {
+   "day": 58,
+   "holiday": {
+    "name": "Libra · Day 58",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Open the ledger: where is 'fair' just your word for 'everyone's happy except me'?"
+   ],
+   "adventures": [
+    "Redesign one 'fair' deal with your happiness as a line item. Fairness without you in it is charity with paperwork.",
+    "Eat the bigger half, take the better chair, claim the last word in one small negotiation. Practice being the beneficiary of fairness, not just its administrator."
+   ]
+  },
+  "59": {
+   "day": 59,
+   "holiday": {
+    "name": "Libra · Day 59",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Throw a fair fight: what conflict have you been losing by refusing to show up?"
+   ],
+   "adventures": [
+    "Suit up: name the conflict, name your position, and deliver it to the person involved — no seconds, no audience. Showing up is half the fight.",
+    "Shadowbox, stretch, or take a brisk walk while rehearsing your opening line. Bodies fight better when they've warmed up."
+   ]
+  },
+  "60": {
+   "day": 60,
+   "holiday": {
+    "name": "Libra · Day 60",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Break the tie: what would you choose if indecision stopped paying you?"
+   ],
+   "adventures": [
+    "Collect the payment you've been getting from not choosing — whose approval, what comfort — and decide anyway. Indecision is a salary; quit the job.",
+    "Flip a coin for one low-stakes choice and commit to the outcome for the whole day. Notice how little the stakes actually were."
+   ]
+  },
+  "61": {
+   "day": 61,
+   "holiday": {
+    "name": "Libra · Day 61",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Fix your eyes on the real question: if you stopped performing balance, what would your life actually weigh?"
+   ],
+   "adventures": [
+    "Weigh it honestly: list what you'd keep and what you'd drop if nobody were watching. The Libra in you knows the true measure — use it.",
+    "Hold something heavy, then set it down — a bag, a book, a stone. Feel the difference between carrying and choosing."
+   ]
+  },
+  "62": {
+   "day": 62,
+   "holiday": {
+    "name": "Libra · Day 62",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Which version of fair have you been performing — the one that keeps everyone comfortable, or the one that actually tells the truth?"
+   ],
+   "adventures": [
+    "Admit one lopsided arrangement out loud to yourself before you soften it for anyone else. Write the unedited cost in one blunt sentence.",
+    "Rearrange one shelf or surface until it looks slightly asymmetrical on purpose. Sit with the urge to fix it for five full minutes."
+   ]
+  },
+  "63": {
+   "day": 63,
+   "holiday": {
+    "name": "Libra · Day 63",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "If nobody clapped, nodded, or liked you more for it, would you still choose what you chose yesterday?"
+   ],
+   "adventures": [
+    "Strip one recent decision down to its private motive and name whether approval was the real currency. Keep the answer even if it stings.",
+    "Wear or display something you genuinely love that you normally hide because it might read as too much. Let it stay visible all day."
+   ]
+  },
+  "64": {
+   "day": 64,
+   "holiday": {
+    "name": "Libra · Day 64",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "What resentment is currently wearing your friendliest smile?"
+   ],
+   "adventures": [
+    "Translate that smile into a direct sentence beginning with I need, then decide who actually needs to hear it. No rehearsing a prettier version.",
+    "Find the room where you swallow the most complaints and change one thing in it — light, scent, or seating — so your body relaxes before your mouth agrees."
+   ]
+  },
+  "65": {
+   "day": 65,
+   "holiday": {
+    "name": "Libra · Day 65",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "When did keeping the peace last cost you a piece of yourself, and who collected the discount?"
+   ],
+   "adventures": [
+    "Calculate the real price of one swallowed no — time, sleep, desire, money. Refuse to call that bargain kindness.",
+    "Close a door you usually leave open for other people's convenience and enjoy the quiet behind it for twenty minutes. Notice who knocks and why."
+   ]
+  },
+  "66": {
+   "day": 66,
+   "holiday": {
+    "name": "Libra · Day 66",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Whose disappointment are you treating like an emergency that must be prevented at all costs?"
+   ],
+   "adventures": [
+    "Practice letting one person be mildly disappointed without sending a repair text, a joke, or an apology. Discomfort is not danger.",
+    "Set a table or desk for one with deliberate care — best glass, real napkin, something beautiful — and eat or work there without inviting anyone to validate it."
+   ]
+  },
+  "67": {
+   "day": 67,
+   "holiday": {
+    "name": "Libra · Day 67",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "How long have you been calling indecision thoroughness because thoroughness sounds more respectable?"
+   ],
+   "adventures": [
+    "Set a ten-minute timer on one stalled choice and decide with the information you already have. Record what your gut picked in the first thirty seconds.",
+    "Move two objects you have been mentally auditioning for a spot into their places right now. Living with a decision teaches more than picturing ten."
+   ]
+  },
+  "68": {
+   "day": 68,
+   "holiday": {
+    "name": "Libra · Day 68",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Where in your relationships does fairness quietly mean you go last, every single time?"
+   ],
+   "adventures": [
+    "Name one rotation where you are permanently last and claim first position once, without a paragraph of justification. Fair includes you in the count.",
+    "Take the better seat, the window spot, or the last good towel today — whichever you habitually surrender. Feel the small guilt and do not refund it."
+   ]
+  },
+  "69": {
+   "day": 69,
+   "holiday": {
+    "name": "Libra · Day 69",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Name the opinion you keep sanding down until it is smooth enough for every room you enter."
+   ],
+   "adventures": [
+    "Write that opinion at full sharpness in a private note, then read it aloud in your normal voice. Your voice should be able to hold your own mind.",
+    "Choose one bold color, pattern, or texture for your space or outfit today and skip the neutral buffer you add to make it safer. Taste does not need a chaperone."
+   ]
+  },
+  "70": {
+   "day": 70,
+   "holiday": {
+    "name": "Libra · Day 70",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Does harmony in your home or group chat survive only because you do the emotional janitorial work nobody sees?"
+   ],
+   "adventures": [
+    "Skip one invisible repair job — the smoothing text, the topic rescue, the tension joke — and watch what the silence reveals. Information lives there.",
+    "Leave one small mess that is genuinely yours untouched until evening instead of tidying it for an imaginary guest. Your space is allowed to look lived in by you."
+   ]
+  },
+  "71": {
+   "day": 71,
+   "holiday": {
+    "name": "Libra · Day 71",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Why do you trust a committee of other people's reactions more than the preference you felt instantly?"
+   ],
+   "adventures": [
+    "Catch yourself mid-poll today and stop before the third opinion. Decide solo and tell no one you did it the brave way.",
+    "Stand in front of a mirror or window display and pick your favorite thing in three seconds, out loud. Train the eye that already knows."
+   ]
+  },
+  "72": {
+   "day": 72,
+   "holiday": {
+    "name": "Libra · Day 72",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Imagine the most elegant version of your life — does it have room for your anger, or only for your charm?"
+   ],
+   "adventures": [
+    "Give one irritation a clean, unadorned sentence today instead of wrapping it in compliments first. A boundary can be plain and still be kind.",
+    "Play music that matches your actual mood rather than the ambiance you think the room deserves. Let the soundtrack stop lying for you."
+   ]
+  },
+  "73": {
+   "day": 73,
+   "holiday": {
+    "name": "Libra · Day 73",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Who benefits when you phrase a clear need as a vague suggestion and then hope they guess?"
+   ],
+   "adventures": [
+    "Convert one hint you dropped recently into an explicit request with a time and a shape. Guessing games are not grace.",
+    "Label one drawer, folder, or corner with exactly what it is, in handwriting, no cute euphemisms. Clarity can live in small places too."
+   ]
+  },
+  "74": {
+   "day": 74,
+   "holiday": {
+    "name": "Libra · Day 74",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "List the decisions currently waiting for a perfect option that does not exist — which one is just fear in formal wear?"
+   ],
+   "adventures": [
+    "Cross one item off that waiting list by choosing the good-enough option before lunch. Imperfect movement beats exquisite paralysis.",
+    "Open the windows on opposite sides of a room and stand in the cross-breeze for a minute. Air signs think better when the air actually moves."
+   ]
+  },
+  "75": {
+   "day": 75,
+   "holiday": {
+    "name": "Libra · Day 75",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Between being liked and being known, which have you been quietly prioritizing in your closest relationship?"
+   ],
+   "adventures": [
+    "Share one unflattering, true preference with someone close instead of the agreeable version. Intimacy needs material to work with.",
+    "Hang or place one piece of art, photo, or object where guests will see it first, because you love it — not because it photographs well. Curate for your own eyes."
+   ]
+  },
+  "76": {
+   "day": 76,
+   "holiday": {
+    "name": "Libra · Day 76",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Pick a recent yes that your body answered no to first — what signal did you override, and how fast?"
+   ],
+   "adventures": [
+    "Draft the correction for that yes in two sentences maximum, no apology tour attached. You are allowed to revise a performance.",
+    "Scan your body head to toe and physically loosen the tightest spot — jaw, shoulders, hands — before your next commitment today. Let the body vote early."
+   ]
+  },
+  "77": {
+   "day": 77,
+   "holiday": {
+    "name": "Libra · Day 77",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Would the people who call you easygoing recognize the version of you that exists when no one needs managing?"
+   ],
+   "adventures": [
+    "Spend thirty minutes doing something with zero audience value and tell nobody about it afterward. Worth that never gets witnessed still counts.",
+    "Dim or brighten one room to match how you actually feel in it tonight, ignoring how it is supposed to look. Mood is data, not decor failure."
+   ]
+  },
+  "78": {
+   "day": 78,
+   "holiday": {
+    "name": "Libra · Day 78",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Is there a compliment you keep fishing for that points straight at the validation you refuse to give yourself?"
+   ],
+   "adventures": [
+    "Say the exact compliment you crave to yourself, in the mirror, without laughing it off. Awkward counts as honest here.",
+    "Polish one object you own until it shines, purely for the pleasure of looking at it. Beauty maintained for yourself is not vanity; it is residence."
+   ]
+  },
+  "79": {
+   "day": 79,
+   "holiday": {
+    "name": "Libra · Day 79",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Tell the truth: which relationship runs on your editing — your timing, your tone, your swallowed reactions?"
+   ],
+   "adventures": [
+    "Let one real reaction arrive at its natural speed today instead of delaying it into a diplomatic summary. People can handle weather.",
+    "Rearrange the seating in one shared space so conversation faces inward instead of toward a screen. Design the room for the honesty you claim to want."
+   ]
+  },
+  "80": {
+   "day": 80,
+   "holiday": {
+    "name": "Libra · Day 80",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Unpack one both-sides habit: when has seeing every perspective become your favorite way to avoid having one?"
+   ],
+   "adventures": [
+    "Commit to a single-sentence position on something you keep surveying from all angles, and sign your name under it. Ownership is the exercise.",
+    "Fold or stack something with precision — linens, papers, books — and stop at good instead of perfect. Feel where the stopping point itches."
+   ]
+  },
+  "81": {
+   "day": 81,
+   "holiday": {
+    "name": "Libra · Day 81",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Consider the grudge you are too well-mannered to admit you are holding — what is it actually protecting?"
+   ],
+   "adventures": [
+    "Name the grudge privately with its real reason, especially if the reason feels petty. Petty truths still steer the ship until named.",
+    "Remove one object from your space that you keep only because someone important gave it to you. Your rooms are not a diplomacy museum."
+   ]
+  },
+  "82": {
+   "day": 82,
+   "holiday": {
+    "name": "Libra · Day 82",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Admit it: which invitation, project, or person are you keeping in limbo because a no might change how they see you?"
+   ],
+   "adventures": [
+    "Deliver one overdue no today, kindly and completely, with no maybe welded onto the end. A clean no is a form of respect.",
+    "Clear the literal limbo pile — the bag by the door, the chair of pending clothes, the unanswered corner — by deciding each item's fate in one pass. No re-stacking."
+   ]
+  },
+  "83": {
+   "day": 83,
+   "holiday": {
+    "name": "Libra · Day 83",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Notice where your taste goes silent around someone whose taste you admire — what do you stop choosing in their presence?"
+   ],
+   "adventures": [
+    "Voice one aesthetic preference in front of that person without prefacing it with this is probably wrong. Taste shared is taste strengthened.",
+    "Make one corner of your home unmistakably yours today — scent, object, fabric — even if it clashes with the overall scheme. A beautiful middle still has a signature."
+   ]
+  },
+  "84": {
+   "day": 84,
+   "holiday": {
+    "name": "Libra · Day 84",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Which apology have you issued this month that you did not actually mean?"
+   ],
+   "adventures": [
+    "Retire that apology internally: write what you were truly sorry for, if anything, and what you were actually managing. Stop spending sincerity as social glue, Libra.",
+    "Light a candle or lamp solely to make one ordinary task feel ceremonial, and do that task slowly. Atmosphere is yours to spend on yourself."
+   ]
+  },
+  "85": {
+   "day": 85,
+   "holiday": {
+    "name": "Libra · Day 85",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "If your closest friend described your needs back to you, would they need a magnifying glass to find them?"
+   ],
+   "adventures": [
+    "State one need today at full volume and full specificity, to the person who can actually meet it. Needs whispered are needs postponed.",
+    "Fill a glass with water and your favorite addition — citrus, mint, ice shaped right — and drink it standing still. Small luxuries taken deliberately recalibrate asking."
+   ]
+  },
+  "86": {
+   "day": 86,
+   "holiday": {
+    "name": "Libra · Day 86",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "What would you stop tolerating if you stopped grading yourself on how gracefully you tolerate it?"
+   ],
+   "adventures": [
+    "Score one tolerated thing on honesty instead of grace today, and let the low score stand. Some situations deserve an F, delivered with poise.",
+    "Go barefoot on a textured surface — grass, rug, cool tile — and notice the sensation without softening it. Feeling things directly is practice, not drama."
+   ]
+  },
+  "87": {
+   "day": 87,
+   "holiday": {
+    "name": "Libra · Day 87",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "When someone says be honest with me, do you hear it as an invitation or as a trap you must decorate?"
+   ],
+   "adventures": [
+    "Answer one be-honest prompt with the plain sentence first, then stop talking. Resist the reflex to embroider the exit.",
+    "Turn your phone face-down during one real conversation and keep your hands still. Presence is the most attractive accessory you own."
+   ]
+  },
+  "88": {
+   "day": 88,
+   "holiday": {
+    "name": "Libra · Day 88",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "How much of your routine is choreography for an audience that never actually arrives?"
+   ],
+   "adventures": [
+    "Cancel one performance errand — the extra wipe, the rearranged entryway, the touched-up detail — and see if anyone notices. The theater is mostly empty.",
+    "Walk through your home carrying one bag and collect ten things that do not belong anywhere, then put each where it actually lives. Order without performance."
+   ]
+  },
+  "89": {
+   "day": 89,
+   "holiday": {
+    "name": "Libra · Day 89",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Describe the most recent moment you swallowed the second half of a sentence because the first half got a warm reaction."
+   ],
+   "adventures": [
+    "Finish that swallowed sentence today, even if only in writing to the person involved. The warm reaction was for a fragment, not for you.",
+    "Speak one true sentence to an empty room in your full voice, not the softer one you use around people. Hear what your own conviction sounds like."
+   ]
+  },
+  "90": {
+   "day": 90,
+   "holiday": {
+    "name": "Libra · Day 90",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Point to the compromise in your life that everyone calls balanced but only balances because you absorb the wobble."
+   ],
+   "adventures": [
+    "State the wobble plainly to whoever shares that compromise, without proposing your own fix first. Let them carry their half of the data.",
+    "Balance literally: stand on one foot for thirty seconds each side while brushing your teeth. Notice how much micro-adjusting you do — then ask where else you do that silently."
+   ]
+  },
+  "91": {
+   "day": 91,
+   "holiday": {
+    "name": "Libra · Day 91",
+    "action": "THE BEAUTIFUL MIDDLE — AIR / BALANCE / BEAUTY"
+   },
+   "soulQuestions": [
+    "Ask yourself who you would be if charm were confiscated for a week — what would get you through rooms instead?"
+   ],
+   "adventures": [
+    "Enter one interaction today with charm deliberately holstered and substance leading. You will survive; watch what changes in the response.",
+    "Style yourself for invisibility-adjacent comfort one day — soft, plain, unbothered — and note how much of your confidence was actually costume."
+   ]
+  }
+ }
+}
