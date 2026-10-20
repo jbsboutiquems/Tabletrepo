@@ -131,6 +131,48 @@ const ZODIAC_SIGNS = [
 ];
 
 const EXPANSION_PRODUCTS: ExpansionProduct[] = [
+  // ---- Editions first: the app RUNS on the yearly editions ----
+  {
+    product_id: "edition-q4-2026",
+    title: "Q4 2026 Sampler — Life OS: Off*Script",
+    blurb: "The live edition: October through December 2026, Pink Forest. 92 days of unofficial holidays, soul questions, and living adventures — the quarter the app runs right now.",
+    price: 5,
+    days: 92,
+    kind: "edition" as const,
+  },
+  {
+    product_id: "edition-2027-khaos-year",
+    title: "2027 Khaos Year — Life OS: Off*Script",
+    blurb: "The 2027 yearly edition: 365 days of hidden-archetype modules, dual soul questions, living adventures, and weekly audits. The year the app runs on in 2027.",
+    price: 20,
+    days: 365,
+    kind: "edition" as const,
+  },
+  {
+    product_id: "edition-2028-cosmic-forecast",
+    title: "2028 Cosmic Forecast — Life OS: Off*Script",
+    blurb: "The 2028 yearly edition: 13 sign seasons on the real sky — walk in someone else's shoes, one sign at a time. 366 days of ACT / THINK / FEEL, missions and soul-searching.",
+    price: 20,
+    days: 366,
+    kind: "edition" as const,
+  },
+  ...ZODIAC_SIGNS.map((sign) => {
+    const titles: Record<string, string> = {
+      aries: "THE DIRECT HIT", taurus: "THE RITUAL", gemini: "THE NEXT QUESTION",
+      cancer: "THE TIDE WITHIN", leo: "THE BRIGHT YES", virgo: "THE USEFUL MAGIC",
+      libra: "THE BEAUTIFUL MIDDLE", scorpio: "THE DEEP TURN", sagittarius: "THE OPEN ROAD",
+      capricorn: "THE LONG GAME", aquarius: "THE OPEN CURRENT", pisces: "THE RETURN TO SELF",
+    };
+    const cap = sign.charAt(0).toUpperCase() + sign.slice(1);
+    return {
+      product_id: `edition-zodiac-${sign}`,
+      title: `${cap} — ${titles[sign]} · Undated Edition`,
+      blurb: `Learning yourself: 365 undated days in ${cap}'s voice, challenging ${cap}'s shadow. Runs by day number, any year you start it.`,
+      price: 20,
+      days: 365,
+      kind: "edition" as const,
+    };
+  }),
   {
     product_id: "monthly-theme",
     title: "Monthly Khaos Theme",
@@ -164,14 +206,6 @@ const EXPANSION_PRODUCTS: ExpansionProduct[] = [
     kind: "wedding" as const,
     link_url: "https://muse.ai/s/maid-of-honor-duties-xmz6awpxfxbkwi",
     link_label: "Open Wedding Party HQ",
-  },
-  {
-    product_id: "edition-q4-2026",
-    title: "Q4 2026 Sampler — Life OS: Off*Script",
-    blurb: "The live edition: October through December 2026, Pink Forest. 92 days of unofficial holidays, soul questions, and living adventures — the quarter the app runs right now.",
-    price: 5,
-    days: 92,
-    kind: "edition" as const,
   },
 ];
 
@@ -357,7 +391,22 @@ const defaultContentPacks: Record<string, any> = {
     pack_id: "edition-q4-2026",
     title: "Q4 2026 Sampler — Life OS: Off*Script",
     assets_url: "/packs/q4-2026-sampler"
-  }
+  },
+  "edition-2027-khaos-year": {
+    pack_id: "edition-2027-khaos-year",
+    title: "2027 Khaos Year — Life OS: Off*Script",
+    assets_url: "/packs/2027-khaos-year"
+  },
+  "edition-2028-cosmic-forecast": {
+    pack_id: "edition-2028-cosmic-forecast",
+    title: "2028 Cosmic Forecast — Life OS: Off*Script",
+    assets_url: "/packs/2028-cosmic-forecast"
+  },
+  ...Object.fromEntries(ZODIAC_SIGNS.map((sign) => [`edition-zodiac-${sign}`, {
+    pack_id: `edition-zodiac-${sign}`,
+    title: `${sign.charAt(0).toUpperCase() + sign.slice(1)} Undated Edition — Life OS: Off*Script`,
+    assets_url: `/packs/zodiac-${sign}`,
+  }])),
 };
 
 const defaultQrTokens: Record<string, any> = {
@@ -1780,16 +1829,27 @@ app.get("/api/entitlements", requireAuth, (req, res) => {
 // ---------- Expansion shop: priced, expiring content ----------
 
 
-// ---- Editions: dated planner editions the app RUNS (Q4 2026 Sampler first) ----
+// ---- Editions: the app RUNS on the yearly editions ----
+// Dated yearlys resolve by window (the live one runs for everyone in its
+// window); undated zodiac editions resolve by day-of-year and are
+// purchase-only. 2027 Khaos Year joins EDITION_WINDOWS when its content
+// pack lands (flagship master fix first).
 interface EditionWindow { edition_id: string; title: string; start: string; end: string; }
 const EDITION_WINDOWS: EditionWindow[] = [
   { edition_id: "edition-q4-2026", title: "Q4 2026 Sampler \u2014 Life OS: Off*Script", start: "2026-10-01", end: "2026-12-31" },
+  { edition_id: "edition-2028-cosmic-forecast", title: "2028 Cosmic Forecast \u2014 Life OS: Off*Script", start: "2028-01-01", end: "2028-12-31" },
 ];
-let _q4Pack: any = null;
-try {
-  _q4Pack = JSON.parse(fs.readFileSync(path.join(process.cwd(), "server-data", "q4-2026-pack.json"), "utf8"));
-} catch { _q4Pack = null; }
-const EDITION_PACKS: Record<string, any> = _q4Pack ? { "edition-q4-2026": _q4Pack } : {};
+const EDITION_PACK_FILES: Record<string, string> = {
+  "edition-q4-2026": "q4-2026-pack.json",
+  "edition-2028-cosmic-forecast": "cosmic-2028-pack.json",
+  ...Object.fromEntries(ZODIAC_SIGNS.map((sign) => [`edition-zodiac-${sign}`, `zodiac-${sign}-pack.json`])),
+};
+const EDITION_PACKS: Record<string, any> = {};
+for (const [id, file] of Object.entries(EDITION_PACK_FILES)) {
+  try {
+    EDITION_PACKS[id] = JSON.parse(fs.readFileSync(path.join(process.cwd(), "server-data", file), "utf8"));
+  } catch { /* pack not present \u2014 edition stays catalog-only */ }
+}
 
 function todayKey(): string { return new Date().toISOString().slice(0, 10); }
 function activeEdition(dateKey: string = todayKey()): EditionWindow | null {
@@ -1827,15 +1887,28 @@ app.get("/api/editions/:editionId/day", requireAuth, (req, res) => {
   const date = String(req.query.date || "");
   const pack = EDITION_PACKS[editionId];
   const win = EDITION_WINDOWS.find((w) => w.edition_id === editionId);
-  if (!pack || !win) { res.status(404).json({ error: "Unknown edition." }); return; }
+  if (!pack || (!win && !pack.undated)) { res.status(404).json({ error: "Unknown edition." }); return; }
   if (!editionEntitled(ar.ud, editionId)) { res.status(403).json({ error: "Edition not unlocked." }); return; }
-  if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || date < win.start || date > win.end) {
-    res.status(404).json({ error: "Date outside the edition window." }); return;
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) { res.status(404).json({ error: "Bad date." }); return; }
+  let day: any = null;
+  let theme: any = null;
+  if (pack.undated) {
+    // Undated editions run by day number: day-of-year of the requested
+    // date (leap years clamp day 366 to Day 365).
+    const ms = Date.parse(date + "T12:00:00Z");
+    const jan1 = Date.parse(date.slice(0, 4) + "-01-01T12:00:00Z");
+    const doy = Math.min(Math.floor((ms - jan1) / 86400000) + 1, 365);
+    day = pack.days?.[String(doy)];
+  } else {
+    if (date < win!.start || date > win!.end) {
+      res.status(404).json({ error: "Date outside the edition window." }); return;
+    }
+    day = pack.days?.[date];
+    const monthName = new Date(date + "T12:00:00Z").toLocaleString("en-US", { month: "long", timeZone: "UTC" });
+    theme = pack.themes?.[monthName] || null;
   }
-  const day = pack.days?.[date];
   if (!day) { res.status(404).json({ error: "No content for that date." }); return; }
-  const monthName = new Date(date + "T12:00:00Z").toLocaleString("en-US", { month: "long", timeZone: "UTC" });
-  res.json({ edition_id: editionId, date, theme: pack.themes?.[monthName] || null, day });
+  res.json({ edition_id: editionId, date, theme, day });
 });
 
 app.get("/api/expansions", requireAuth, (req, res) => {

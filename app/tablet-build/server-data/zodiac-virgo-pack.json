@@ -1,0 +1,5118 @@
+{
+ "edition": "zodiac-virgo",
+ "name": "Virgo — THE USEFUL MAGIC · Undated Edition",
+ "undated": true,
+ "themes": {},
+ "days": {
+  "1": {
+   "day": 1,
+   "holiday": {
+    "name": "Virgo · Day 1",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What are you calling 'not ready' that is actually just not perfect yet?"
+   ],
+   "adventures": [
+    "Send one thing today after a single read-through instead of your usual fifth pass. Notice how hard your finger hovers before you let it go.",
+    "Make the first mark messy on purpose: a crooked line, a smudged note, a workspace that starts lived-in instead of staged."
+   ]
+  },
+  "2": {
+   "day": 2,
+   "holiday": {
+    "name": "Virgo · Day 2",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If waiting really improved this, what proof do you have besides the comfort of not being judged yet?"
+   ],
+   "adventures": [
+    "Name the exact fear underneath the delay out loud to yourself. Vague dread shrinks a little when it has to use actual words.",
+    "Stand up and shake out your hands, shoulders, and jaw for thirty seconds. That clench is perfectionism living in your body, not a planning strategy."
+   ]
+  },
+  "3": {
+   "day": 3,
+   "holiday": {
+    "name": "Virgo · Day 3",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Whose impossible standard are you trying to meet, and did you ever actually agree to it?"
+   ],
+   "adventures": [
+    "Choose the good-enough version of one task today and stop there deliberately. Leave the extra ten percent undone and watch the world fail to end.",
+    "Put one useful object where it is easy to grab, not where it looks most correct. Function gets the good spot today."
+   ]
+  },
+  "4": {
+   "day": 4,
+   "holiday": {
+    "name": "Virgo · Day 4",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How much of your research is learning, and how much is a very respectable hiding place?"
+   ],
+   "adventures": [
+    "Close the tabs after one more source, not ten. Work with what you already know and let the gaps show up honestly.",
+    "Clear a small patch of surface with your bare hands and start there, even if the rest is still cluttered. Partial order is still order."
+   ]
+  },
+  "5": {
+   "day": 5,
+   "holiday": {
+    "name": "Virgo · Day 5",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When has a rough beginning ever actually ruined anything for you, versus just embarrassing you for a minute?"
+   ],
+   "adventures": [
+    "Start before you finish planning: one paragraph, one call, one corner. You can steer something that is moving far easier than something parked.",
+    "Eat or drink something without fixing its presentation first. Lukewarm, uneven, and still perfectly usable counts."
+   ]
+  },
+  "6": {
+   "day": 6,
+   "holiday": {
+    "name": "Virgo · Day 6",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "That thing you have polished three times now — are you avoiding its next part because it scares you more?"
+   ],
+   "adventures": [
+    "Move on mid-polish today, even if it itches. Leave a visible rough edge as evidence you chose progress over soothing yourself.",
+    "Walk your space and touch three things that are unfinished. No fixing, no tidying — just letting your hands learn they are not emergencies."
+   ]
+  },
+  "7": {
+   "day": 7,
+   "holiday": {
+    "name": "Virgo · Day 7",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Could you tell the difference between your discernment and your self-criticism if they used the same voice?"
+   ],
+   "adventures": [
+    "Catch one critical thought and rewrite it as a craftsman's note: specific, kind, and about the work, not your worth. If it attacks you, it is not discernment.",
+    "Soften your shoulders and unclench your teeth every time you spot an error today. Spotting flaws should not cost you your posture."
+   ]
+  },
+  "8": {
+   "day": 8,
+   "holiday": {
+    "name": "Virgo · Day 8",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who benefits while you keep perfecting in private and sharing nothing?"
+   ],
+   "adventures": [
+    "Give someone the draft, the idea, or the half-built thing and ask for reaction, not approval. Early eyes are a gift, not a verdict.",
+    "Arrange a small offering — tea, a note, a mended strap — imperfectly and deliver it anyway. Usefulness does not wait for presentation."
+   ]
+  },
+  "9": {
+   "day": 9,
+   "holiday": {
+    "name": "Virgo · Day 9",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What would you attempt today if being a beginner did not feel like a character flaw?"
+   ],
+   "adventures": [
+    "Admit 'I am new at this' in one place where you would normally fake competence. Watch how much energy faking was eating.",
+    "Use your non-dominant hand for one simple task. Let your body practice clumsy without treating it as failure."
+   ]
+  },
+  "10": {
+   "day": 10,
+   "holiday": {
+    "name": "Virgo · Day 10",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Are you offering help because you care, or because being needed feels safer than being seen starting your own thing?"
+   ],
+   "adventures": [
+    "Before helping anyone else today, spend twenty minutes on your own stalled start. Your work gets first claim, not leftovers.",
+    "Sit on the floor somewhere you usually rush past and look at your space from that low angle. Not to fix it — just to be in it differently."
+   ]
+  },
+  "11": {
+   "day": 11,
+   "holiday": {
+    "name": "Virgo · Day 11",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If the first version is supposed to be bad, why are you grading yours like it is the final?"
+   ],
+   "adventures": [
+    "Label one piece of work 'Version Ugly' at the top and keep going. The label gives your inner critic less to pretend about.",
+    "Scribble, doodle, or scratch out words with an actual pen until the page looks ruined. Now write the real thing on that ruined page."
+   ]
+  },
+  "12": {
+   "day": 12,
+   "holiday": {
+    "name": "Virgo · Day 12",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Where did you learn that love, respect, or safety had to be earned through flawlessness?"
+   ],
+   "adventures": [
+    "Do one kind thing for yourself that you have not earned by finishing anything. No completed checklist required for basic decency toward yourself.",
+    "Wear the comfortable thing with the small flaw today — the chip, the wrinkle, the scuff. Let it do its job imperfectly in public."
+   ]
+  },
+  "13": {
+   "day": 13,
+   "holiday": {
+    "name": "Virgo · Day 13",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which decision are you researching to death because any choice means one path dies?"
+   ],
+   "adventures": [
+    "Flip your criteria: pick the option you can correct later instead of the one you can defend forever. Reversible beats perfect.",
+    "Move one piece of furniture or one heavy object to a 'good enough for now' spot. Live with it there before you optimize it again."
+   ]
+  },
+  "14": {
+   "day": 14,
+   "holiday": {
+    "name": "Virgo · Day 14",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What detail are you obsessing over that the person it is for will never notice or care about?"
+   ],
+   "adventures": [
+    "Ask one real person what they actually need from this instead of guessing at a higher standard in your head. Let their answer shrink the job.",
+    "Wash a single dish, cup, or tool slowly and stop when it is clean, not gleaming. Clean is a finish line; gleaming is a trap."
+   ]
+  },
+  "15": {
+   "day": 15,
+   "holiday": {
+    "name": "Virgo · Day 15",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How often does 'let me just fix this first' turn into the whole day disappearing?"
+   ],
+   "adventures": [
+    "Cap tidying or prep at ten minutes, then begin the real work whether the setup feels complete or not.",
+    "Leave one drawer, bag, or corner deliberately unsorted today. Walk past it without negotiating and notice the urge rise and fall."
+   ]
+  },
+  "16": {
+   "day": 16,
+   "holiday": {
+    "name": "Virgo · Day 16",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Suppose nobody would ever see the finished product — would you have started already?"
+   ],
+   "adventures": [
+    "Work in private ugliness for half an hour with no sharing and no judging, just making. Freedom hides in unobserved drafts.",
+    "Dim the harsh light or step away from close inspection distance. Some flaws only exist under a spotlight."
+   ]
+  },
+  "17": {
+   "day": 17,
+   "holiday": {
+    "name": "Virgo · Day 17",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Why do you trust your criticism more than your curiosity when both are talking?"
+   ],
+   "adventures": [
+    "Follow a 'what if I tried it this way' impulse today before your editor can file a report. Curiosity gets one unvetted move.",
+    "Handle your tools, materials, or ingredients with your eyes partly unfocused. Feel texture and weight instead of scanning for defects."
+   ]
+  },
+  "18": {
+   "day": 18,
+   "holiday": {
+    "name": "Virgo · Day 18",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What conversation are you rehearsing word-perfect instead of just having badly and honestly?"
+   ],
+   "adventures": [
+    "Say the clumsy true version to one person today: 'I do not have the right words, but here it is.' Connection survives stumbles.",
+    "Breathe out longer than you breathe in before you speak or send. A settled body makes imperfect words less terrifying."
+   ]
+  },
+  "19": {
+   "day": 19,
+   "holiday": {
+    "name": "Virgo · Day 19",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If your helpfulness disappeared for a day, what uncomfortable own-life task would be waiting for you?"
+   ],
+   "adventures": [
+    "Decline or defer one rescue mission that is not truly yours. Sit with the guilt instead of buying relief with overwork.",
+    "Keep your hands in your lap while someone does a task their own slower way. Let your body learn that different is not dangerous."
+   ]
+  },
+  "20": {
+   "day": 20,
+   "holiday": {
+    "name": "Virgo · Day 20",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How many lists have you made about this thing compared to minutes spent actually touching it?"
+   ],
+   "adventures": [
+    "Retire the list for today and touch the real materials for fifteen minutes. Reality gives better information than another categorized plan.",
+    "Carry your supplies to where the work actually happens and leave them out, visible and slightly in the way. Ready should look used, not stored."
+   ]
+  },
+  "21": {
+   "day": 21,
+   "holiday": {
+    "name": "Virgo · Day 21",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What tiny, embarrassing flaw are you treating like it disqualifies the whole effort?"
+   ],
+   "adventures": [
+    "Show one person the flaw instead of hiding or fixing it first. Most people lean in when you stop performing competence.",
+    "Point at the flaw, tap it twice, and say 'part of it' out loud. Physical honesty beats silent shame spirals."
+   ]
+  },
+  "22": {
+   "day": 22,
+   "holiday": {
+    "name": "Virgo · Day 22",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When you say 'I will start when I feel confident,' are you describing a plan or a postponement with good PR?"
+   ],
+   "adventures": [
+    "Borrow confidence from action: do the smallest shaky rep and let the feeling catch up later, if it bothers to show up at all.",
+    "Plant your feet flat, press down, and feel the ground hold you before you begin. Earth does not require you to be ready to support you."
+   ]
+  },
+  "23": {
+   "day": 23,
+   "holiday": {
+    "name": "Virgo · Day 23",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which part of this project scares you precisely because it cannot be controlled in advance?"
+   ],
+   "adventures": [
+    "Write down what you cannot control in one column and what you can start anyway in another. Begin from the second column only.",
+    "Loosen your grip — literally — on a pen, wheel, phone, or tool today. Notice how often tight hands pretend to be quality control."
+   ]
+  },
+  "24": {
+   "day": 24,
+   "holiday": {
+    "name": "Virgo · Day 24",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Picture a craftsperson you admire holding your so-called terrible first attempt — what would they actually say about it?"
+   ],
+   "adventures": [
+    "Look at any handmade thing you love and find its uneven edge or repair mark. Craft has always included evidence of the maker.",
+    "Run your fingertips over something well-made and imperfect: wood grain, stitching, a mended seam. Let your hands relearn what real quality feels like."
+   ]
+  },
+  "25": {
+   "day": 25,
+   "holiday": {
+    "name": "Virgo · Day 25",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Is it more information you want, or information that guarantees you will never be wrong?"
+   ],
+   "adventures": [
+    "Make the call with the facts you have and write down what you will adjust if new facts arrive. A plan for correction beats a fantasy of certainty.",
+    "Step outside and notice five things that are growing, weathering, or working without being pristine. Nature ships drafts constantly."
+   ]
+  },
+  "26": {
+   "day": 26,
+   "holiday": {
+    "name": "Virgo · Day 26",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How does criticizing yourself first protect you, and what does that protection cost you every time?"
+   ],
+   "adventures": [
+    "When the pre-attack starts, answer it plainly: 'Noted, I am starting anyway.' Then start within sixty seconds, before debate resumes.",
+    "Splash cool water on your face or hold something cold when the shame heat rises. Give your nervous system a fact instead of an argument."
+   ]
+  },
+  "27": {
+   "day": 27,
+   "holiday": {
+    "name": "Virgo · Day 27",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which request have you left unmade because it might come out imperfect?"
+   ],
+   "adventures": [
+    "Ask badly today: the favor, the clarification, the extra time. A stumbled request that lands beats a polished one never sent.",
+    "Place your phone or notebook face-down across the room while you work for a stretch. Help and distraction can share a costume, so separate them."
+   ]
+  },
+  "28": {
+   "day": 28,
+   "holiday": {
+    "name": "Virgo · Day 28",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If someone did this task at eighty percent of your standard, would the outcome actually matter less to anyone but you?"
+   ],
+   "adventures": [
+    "Hand one task to another person without an instruction manual attached. Accept their version unless real harm is involved, not just style.",
+    "Stretch the side of your body you favor when you are tense. Overworked sides and overworked standards have a lot in common."
+   ]
+  },
+  "29": {
+   "day": 29,
+   "holiday": {
+    "name": "Virgo · Day 29",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Why does starting feel like a promise to finish perfectly instead of just an experiment?"
+   ],
+   "adventures": [
+    "Frame today's attempt as a test with an end time: you are gathering data, not signing a contract. Quit the test when the time is up if you need to.",
+    "Scatter your materials a little instead of lining them up first. Begin inside the small Khaos and find out it is survivable."
+   ]
+  },
+  "30": {
+   "day": 30,
+   "holiday": {
+    "name": "Virgo · Day 30",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What praise have you dismissed because you could still see the flaws behind it?"
+   ],
+   "adventures": [
+    "Accept one compliment today with just 'thank you' — no defect tour, no discounting footnote. Receiving is also a craft, Virgo.",
+    "Touch something you made or fixed a while ago and notice it still working despite its flaws. Let the evidence argue with your memory."
+   ]
+  },
+  "31": {
+   "day": 31,
+   "holiday": {
+    "name": "Virgo · Day 31",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How long have you been 'almost ready' on this, measured honestly instead of hopefully?"
+   ],
+   "adventures": [
+    "Commit to beginning within the next hour and tell one person you have started, not that you will start. A witness makes retreat slightly harder.",
+    "Clear your work surface by sweeping everything to one side with your forearm, not sorting it. Begin in the cleared swath immediately."
+   ]
+  },
+  "32": {
+   "day": 32,
+   "holiday": {
+    "name": "Virgo · Day 32",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What is the worst realistic outcome of a mediocre attempt, stripped of the catastrophic commentary?"
+   ],
+   "adventures": [
+    "Write that worst case down, plus one sentence for how you would handle it. Most feared outcomes shrink to errands when written plainly.",
+    "Deliberately make your next few movements slower and sloppier after a long exhale. Prove to your body that careless is not collapse."
+   ]
+  },
+  "33": {
+   "day": 33,
+   "holiday": {
+    "name": "Virgo · Day 33",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which skill are you refusing to practice badly in public, even though bad practice is literally how skills form?"
+   ],
+   "adventures": [
+    "Do five deliberately imperfect reps of something today and count them like victories. Reps are data, not auditions.",
+    "Get your hands dirty, dusty, wet, or paint-marked in the process and delay washing them for a bit. Mess on skin is proof of contact."
+   ]
+  },
+  "34": {
+   "day": 34,
+   "holiday": {
+    "name": "Virgo · Day 34",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If overthinking were a billable service, who would be paying you for all these hours of analysis?"
+   ],
+   "adventures": [
+    "Invoice your rumination: when a thought loops a third time, it has to produce a decision or leave. No free fourth lap.",
+    "Rearrange one small area purely by instinct in under two minutes. Step back — your eye knew more than your measuring tape admitted."
+   ]
+  },
+  "35": {
+   "day": 35,
+   "holiday": {
+    "name": "Virgo · Day 35",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Be honest: whose unfinished business are you fixing because your own feels worse to face?"
+   ],
+   "adventures": [
+    "Redirect one fixing impulse into your own work: every urge to advise becomes ten minutes on your stalled task. Rude math, effective math.",
+    "Wash your hands and, while they are wet, name whose problem you are carrying that is not yours. Shake the water off like you mean it."
+   ]
+  },
+  "36": {
+   "day": 36,
+   "holiday": {
+    "name": "Virgo · Day 36",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Could starting badly today save you from the much worse fate of never starting at all?"
+   ],
+   "adventures": [
+    "Begin the version you are embarrassed by and protect it for a while from editing. Its only job is to exist.",
+    "Sit in your messiest spot instead of your tidiest one for your first work stretch. Train your body that surroundings do not gate permission."
+   ]
+  },
+  "37": {
+   "day": 37,
+   "holiday": {
+    "name": "Virgo · Day 37",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Where in your life does 'high standards' just mean 'I am scared and have excellent vocabulary for it'?"
+   ],
+   "adventures": [
+    "Translate one lofty standard into a concrete minimum: what is the least this needs to be to count? Do exactly that minimum first.",
+    "Press your palm flat against a wall, table, or tree and push gently. Solid things respond to contact, not to perfect technique."
+   ]
+  },
+  "38": {
+   "day": 38,
+   "holiday": {
+    "name": "Virgo · Day 38",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What feedback are you avoiding by never finishing, and is silence really kinder than criticism?"
+   ],
+   "adventures": [
+    "Finish one small thing and release it before you feel neutral about it. Let discomfort ride along instead of driving.",
+    "Open a window or door and let outside air hit the work, and you. Stuffy rooms breed stuffy verdicts."
+   ]
+  },
+  "39": {
+   "day": 39,
+   "holiday": {
+    "name": "Virgo · Day 39",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How would your day change if mistakes were tuition instead of evidence?"
+   ],
+   "adventures": [
+    "Log one mistake today in plain language with what it taught you, no character judgments attached. Facts age better than shame.",
+    "Drop something unbreakable on purpose and pick it up without commentary. Rehearse recovery in miniature until it bores you."
+   ]
+  },
+  "40": {
+   "day": 40,
+   "holiday": {
+    "name": "Virgo · Day 40",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who are you secretly competing with whose starting line, resources, and life are nothing like yours?"
+   ],
+   "adventures": [
+    "Mute, unfollow, or shelve one comparison source for now and spend that attention on your next physical step. Envy is terrible project management.",
+    "Measure something today with your hand span instead of a precise tool. Close enough, felt in the body, is a real measurement too."
+   ]
+  },
+  "41": {
+   "day": 41,
+   "holiday": {
+    "name": "Virgo · Day 41",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What does your inner critic gain if you never ship, never ask, never try where people can see?"
+   ],
+   "adventures": [
+    "Thank the critic for its concern in one dry sentence, then do the thing while it is still mid-sentence. Interruption is allowed.",
+    "Hum, tap, or make some small noise while you work through a hard start. Sound loosens the frozen, silent courtroom in your head."
+   ]
+  },
+  "42": {
+   "day": 42,
+   "holiday": {
+    "name": "Virgo · Day 42",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If you stopped trying to be impressive, what useful thing would you make instead?"
+   ],
+   "adventures": [
+    "Aim today's effort at helpful, not remarkable: solve one real problem for one real person at ordinary quality, promptly. That is the Virgo gift without the performance tax.",
+    "Carry something heavy a short distance and set it down where it is needed, not displayed. Usefulness has its own quiet satisfaction."
+   ]
+  },
+  "43": {
+   "day": 43,
+   "holiday": {
+    "name": "Virgo · Day 43",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When did you last let a first sentence, sketch, or attempt be genuinely terrible without apologizing for it?"
+   ],
+   "adventures": [
+    "Produce the terrible version in the next ten minutes, apologies banned. You cannot revise a blank page, but you can absolutely wrestle a bad one.",
+    "Crumple one failed attempt and smooth it back out instead of throwing it away. Work on the wrinkled page and keep the history visible."
+   ]
+  },
+  "44": {
+   "day": 44,
+   "holiday": {
+    "name": "Virgo · Day 44",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "That finished thing you keep re-opening — what are you hoping one more check will finally prove?"
+   ],
+   "adventures": [
+    "Create a 'done is done' rule for one item today: after your final check, hands off, even if anxiety files an appeal.",
+    "Close a lid, door, book, or laptop firmly once today and walk away without peeking again. Let the click be the period at the end."
+   ]
+  },
+  "45": {
+   "day": 45,
+   "holiday": {
+    "name": "Virgo · Day 45",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What part of starting requires other people's permission in your head, even though nobody appointed them?"
+   ],
+   "adventures": [
+    "Notify instead of asking today: 'Here is what I am doing,' full stop. Watch how different that sentence feels in your mouth.",
+    "Stand in a doorway for a moment before entering your work space and choose, bodily, to cross. Thresholds are for crossing, not admiring."
+   ]
+  },
+  "46": {
+   "day": 46,
+   "holiday": {
+    "name": "Virgo · Day 46",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Notice the double tariff: other people's rough work gets your kindness while yours gets a fine — why?"
+   ],
+   "adventures": [
+    "Review your draft as if a friend you respect made it: mark what works first, then two fixable notes. Borrow your own fairness.",
+    "Give your eyes a rest from close work: look at the farthest point you can see for a full minute. Discernment needs distance, not just zoom."
+   ]
+  },
+  "47": {
+   "day": 47,
+   "holiday": {
+    "name": "Virgo · Day 47",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Hoarded ideas, supplies, drafts, knowledge — which of them is waiting for a worthy moment that keeps not arriving?"
+   ],
+   "adventures": [
+    "Use the good material, the saved idea, or the stored knowledge on today's imperfect project. Worthy is happening now or it is a storage myth.",
+    "Take one prized supply out of its packaging and actually use some of it. The first cut, scoop, or squeeze ends the shrine phase."
+   ]
+  },
+  "48": {
+   "day": 48,
+   "holiday": {
+    "name": "Virgo · Day 48",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If being useful is how you prove your worth, what are you afraid will be left when you stop fixing for a while?"
+   ],
+   "adventures": [
+    "Let one person's small problem remain unsolved by you today and offer simple company instead. Presence without fixing is still care.",
+    "Lie down on something solid for five minutes with empty hands. Practice being a person on the ground, not a service on call."
+   ]
+  },
+  "49": {
+   "day": 49,
+   "holiday": {
+    "name": "Virgo · Day 49",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which tiny start have you been dismissing as 'not counting' because it is too small to impress anyone?"
+   ],
+   "adventures": [
+    "Count it today, formally: write it down as progress with no asterisk. Small and real beats grand and theoretical.",
+    "Take the smallest possible physical step toward the thing: one drawer opened, one bag packed, one shoe on. Momentum is embarrassingly literal."
+   ]
+  },
+  "50": {
+   "day": 50,
+   "holiday": {
+    "name": "Virgo · Day 50",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Imagine letting this be average on purpose — where would the saved energy go next?"
+   ],
+   "adventures": [
+    "Cap your effort at a preset limit today, even mid-improvement, and redirect the leftover energy immediately. Freedom needs somewhere to go.",
+    "Tidy only what your hands touch during the work, nothing adjacent. Contain the cleanup creep with your actual reach."
+   ]
+  },
+  "51": {
+   "day": 51,
+   "holiday": {
+    "name": "Virgo · Day 51",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "That personality edit you run before social things, same as the draft edit — is the exhaustion really about needing alone time?"
+   ],
+   "adventures": [
+    "Show up to one interaction without a prepared helpful role: no fixing, advising, or organizing assigned to yourself in advance. Just arrive as a person.",
+    "Notice your breathing in company today and slow your hands down. A calm body does not need a flawless performance to belong."
+   ]
+  },
+  "52": {
+   "day": 52,
+   "holiday": {
+    "name": "Virgo · Day 52",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "You've attached conditions to starting — right tools, right mood, enough time — so which one is actually fake?"
+   ],
+   "adventures": [
+    "Strike one condition from the list and start under the remaining imperfect circumstances. Missing tools teach improvisation fast.",
+    "Begin with whatever tool is nearest, even if it is the wrong size or your second favorite. Adapt your grip and go."
+   ]
+  },
+  "53": {
+   "day": 53,
+   "holiday": {
+    "name": "Virgo · Day 53",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What truth is hiding inside your procrastination that you would rather not hear from a question?"
+   ],
+   "adventures": [
+    "Say that truth in one blunt sentence in your notes, no softening adverbs. You do not have to like it for it to be useful data.",
+    "Walk barefoot across a floor or mat and feel every uneven bit without fixing your path. Your feet already know how to adjust."
+   ]
+  },
+  "54": {
+   "day": 54,
+   "holiday": {
+    "name": "Virgo · Day 54",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If a draft could talk back to your perfectionism, what would it ask you to leave alone?"
+   ],
+   "adventures": [
+    "Circle one section of current work and declare it off-limits to editing for now. Protect a living thing from your refinement instinct.",
+    "Trace the outline of an object near you slowly with one finger. Stopping halfway still traced something real."
+   ]
+  },
+  "55": {
+   "day": 55,
+   "holiday": {
+    "name": "Virgo · Day 55",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "'Is it good enough' never ends, but 'is it clear and honest and usable' actually answers — have you noticed?"
+   ],
+   "adventures": [
+    "Judge today's work by three plain tests — clear, honest, usable — then stop judging. Replace the infinite question with finite ones, Virgo.",
+    "Hold your work at arm's length instead of inspection-close before deciding it is done. Distance is information your hunched shoulders forgot."
+   ]
+  },
+  "56": {
+   "day": 56,
+   "holiday": {
+    "name": "Virgo · Day 56",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What beginning have you been romanticizing — the grand launch, the big reveal — instead of just doing its ordinary first step?"
+   ],
+   "adventures": [
+    "Do the unglamorous first step today: the form, the message, the first messy rep. Ceremony is optional; contact is not.",
+    "Put both hands flat on your work surface and feel its temperature and texture before starting. Begin by arriving, not by performing."
+   ]
+  },
+  "57": {
+   "day": 57,
+   "holiday": {
+    "name": "Virgo · Day 57",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When your plan has a plan for the plan, which layer is actually fear wearing a spreadsheet?"
+   ],
+   "adventures": [
+    "Collapse your steps to the next three only and hide the rest. Three steps invite walking; the whole staircase invites freezing.",
+    "Stack three objects representing your next three steps and move the first one forward. Silly, physical, and strangely clarifying."
+   ]
+  },
+  "58": {
+   "day": 58,
+   "holiday": {
+    "name": "Virgo · Day 58",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who has been waiting, patiently or not, for the thing you keep privately perfecting?"
+   ],
+   "adventures": [
+    "Tell that person honestly where it stands and what they will get first, even if it is partial. A partial delivery with honesty beats a perfect silence.",
+    "Carry the partial thing — printout, item, draft — to where it will be handed over, or set it by the door. Near delivery is a real location."
+   ]
+  },
+  "59": {
+   "day": 59,
+   "holiday": {
+    "name": "Virgo · Day 59",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How different is the voice that says 'try again, differently' from the one that says 'you should have known better'?"
+   ],
+   "adventures": [
+    "After any stumble today, use only the first voice in your self-talk, word for word if needed. Tone is a choice you can rehearse.",
+    "Rub your hands together fast until they warm, then place them over your eyes for a breath. Reset is physical before it is philosophical."
+   ]
+  },
+  "60": {
+   "day": 60,
+   "holiday": {
+    "name": "Virgo · Day 60",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What if readiness is not a feeling you wait for, but a side effect of having started badly several times?"
+   ],
+   "adventures": [
+    "Collect starts today instead of outcomes: aim for three beginnings, finished or not, and tally them like they matter. They do.",
+    "Make three small marks, piles, or stations around your space for those three starts. Let your environment show beginnings, not just storage."
+   ]
+  },
+  "61": {
+   "day": 61,
+   "holiday": {
+    "name": "Virgo · Day 61",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "After all this practicing, what still feels too precious to do imperfectly — and what does that preciousness reveal?"
+   ],
+   "adventures": [
+    "Choose that very thing for one honest, unpolished attempt before this stretch of days closes. Not your best work — your bravest draft.",
+    "Sweep or clear a space with broad, imperfect strokes and leave it welcoming rather than spotless. Then begin there, inside the evidence that done is real."
+   ]
+  },
+  "62": {
+   "day": 62,
+   "holiday": {
+    "name": "Virgo · Day 62",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How many tabs are open right now, and what exactly is each one protecting you from doing?"
+   ],
+   "adventures": [
+    "Close every tab you haven't touched in an hour, and watch which closed one you immediately want back — that's the avoidance, not the research.",
+    "Stand up, roll your shoulders back until your shoulder blades touch, and hold for ten slow breaths; notice where your body stores the tension your mind calls 'thinking'."
+   ]
+  },
+  "63": {
+   "day": 63,
+   "holiday": {
+    "name": "Virgo · Day 63",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What would change if your spreadsheet were ugly, misspelled, and finished?"
+   ],
+   "adventures": [
+    "Take one beautiful, elaborate plan you've been perfecting and deliberately make one part of it sloppy — then use it sloppy. The plan survives; your excuse doesn't.",
+    "Press both palms flat on the nearest hard surface and push until your arms shake slightly; feel the difference between bracing and doing."
+   ]
+  },
+  "64": {
+   "day": 64,
+   "holiday": {
+    "name": "Virgo · Day 64",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Whose opinion are you really waiting for — theirs, or a version of yours that already exists and scares you?"
+   ],
+   "adventures": [
+    "Pick the smallest decision you've been polling people about and decide it alone in the next sixty seconds, wrong answers allowed.",
+    "Cover your ears with your hands for thirty seconds and listen to the blood in your head; that's the only committee that was ever going to vote."
+   ]
+  },
+  "65": {
+   "day": 65,
+   "holiday": {
+    "name": "Virgo · Day 65",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Be honest: is your plan detailed because the task is complex, or because the detail is the task you've chosen instead?"
+   ],
+   "adventures": [
+    "Do the first ugly step of the thing you're planning — the embarrassing, half-formed, unworthy step — before you refine one more line of the plan.",
+    "Walk to the nearest door, open it, close it, and stand in the threshold for a moment; thresholds are for crossing, not decorating."
+   ]
+  },
+  "66": {
+   "day": 66,
+   "holiday": {
+    "name": "Virgo · Day 66",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When you rewrite your to-do list, are you organizing your day or negotiating with it?"
+   ],
+   "adventures": [
+    "Write today's list on scrap paper in pen — no categories, no colors, no rewriting — and work from that exact list, handwriting and all.",
+    "Hold a pen between your teeth sideways for twenty seconds and feel your jaw unclench; your jaw knows what your planner won't admit."
+   ]
+  },
+  "67": {
+   "day": 67,
+   "holiday": {
+    "name": "Virgo · Day 67",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What's easier about spotting the flaw in someone else's work than admitting you're avoiding your own?"
+   ],
+   "adventures": [
+    "Catch yourself mid-critique of someone else today and redirect that exact sharp eye onto your own stalled project for five minutes.",
+    "Point at your own chest with your index finger and hold it there for ten seconds; redirection starts with the finger pointing home."
+   ]
+  },
+  "68": {
+   "day": 68,
+   "holiday": {
+    "name": "Virgo · Day 68",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If the perfect notebook finally appeared, what would you write in it that you're afraid to write in this one?"
+   ],
+   "adventures": [
+    "Use the worst tool you own for the task you've been waiting to start — the dull pencil, the cracked app — and start with it anyway.",
+    "Grab the oldest, most worn object within reach and run your thumb over its wear marks; things get worn by use, not by selection."
+   ]
+  },
+  "69": {
+   "day": 69,
+   "holiday": {
+    "name": "Virgo · Day 69",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Seven drafts deep on one email — is it still about the email, or about never being wrong on the record?"
+   ],
+   "adventures": [
+    "Send the next short message after one read-through — not three, not five — and sit with the discomfort of 'good enough' leaving your outbox.",
+    "Tap each fingertip to your thumb in sequence, slowly, five times; your hands are for sending, not hovering."
+   ]
+  },
+  "70": {
+   "day": 70,
+   "holiday": {
+    "name": "Virgo · Day 70",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Are you re-reading the instructions because they're unclear, or because starting feels like a test you might fail?"
+   ],
+   "adventures": [
+    "Start the task with only your best guess at the instructions, and let being slightly wrong be faster than being perfectly still.",
+    "Sit on the floor — actually on the floor — for two minutes; beginning from the lowest possible position makes the first step embarrassingly easy."
+   ]
+  },
+  "71": {
+   "day": 71,
+   "holiday": {
+    "name": "Virgo · Day 71",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who are you helping right now, and what would you have to face if you stopped being useful for one afternoon?"
+   ],
+   "adventures": [
+    "Say no to one request for help today — a real no, not a delayed yes — and spend that hour on the thing only you can do for yourself, Virgo.",
+    "Cross your arms and hug your own shoulders tight for fifteen seconds; service that never turns inward curdles into control."
+   ]
+  },
+  "72": {
+   "day": 72,
+   "holiday": {
+    "name": "Virgo · Day 72",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Is your inner critic protecting your standards, or is it just the bouncer keeping you from entering your own life?"
+   ],
+   "adventures": [
+    "Talk back to the critic once today, out loud, with one sentence: 'Noted. I'm doing it anyway.' Then do it.",
+    "Put your hand on your throat and hum at a low pitch for twenty seconds; feel the vibration where the criticism usually lives."
+   ]
+  },
+  "73": {
+   "day": 73,
+   "holiday": {
+    "name": "Virgo · Day 73",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Would you rather have the perfect morning routine or an actual rested morning?"
+   ],
+   "adventures": [
+    "Skip one step of your morning routine today and notice that the day happens anyway; the routine is a tool, not a contract.",
+    "Stretch your arms overhead and lace your fingers, then lean slowly left and right; a body doesn't need a protocol to wake up."
+   ]
+  },
+  "74": {
+   "day": 74,
+   "holiday": {
+    "name": "Virgo · Day 74",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Name one thing all your fitness research has actually built in your body."
+   ],
+   "adventures": [
+    "Move for ten unplanned minutes right now — ugly, unmeasured — and let that count more than the perfect program.",
+    "Slide down a wall into a squat until your thighs burn, and hold ten seconds past the complaint; that's the sensation research can't give you."
+   ]
+  },
+  "75": {
+   "day": 75,
+   "holiday": {
+    "name": "Virgo · Day 75",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Sentence one is perfect and sentence two doesn't exist — what exactly did the perfection buy you?"
+   ],
+   "adventures": [
+    "Draft three deliberately bad paragraphs without fixing one word, and don't re-read until all three exist.",
+    "Shake your hands out hard for fifteen seconds like you're flicking off water; perfectionism lives in tense fingers."
+   ]
+  },
+  "76": {
+   "day": 76,
+   "holiday": {
+    "name": "Virgo · Day 76",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "At what point did 'let me think about it' become your most reliable hiding place?"
+   ],
+   "adventures": [
+    "Give one stalled decision a five-minute timer and commit to whatever your gut says when it rings — no extensions.",
+    "Stare at a blank wall for exactly sixty seconds with no phone; that's what 'thinking about it' actually looks like."
+   ]
+  },
+  "77": {
+   "day": 77,
+   "holiday": {
+    "name": "Virgo · Day 77",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Tell the truth: are you shopping for a system, or for the feeling of being someone who has one?"
+   ],
+   "adventures": [
+    "Run today's entire life on the system you already own, badly, with no switching and no tweaking.",
+    "Stack every notebook, planner, or device you own into one pile and look at it; abundance of tools is just decorated indecision."
+   ]
+  },
+  "78": {
+   "day": 78,
+   "holiday": {
+    "name": "Virgo · Day 78",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Your drafts folder is a waiting room — who's actually being kept waiting in there?"
+   ],
+   "adventures": [
+    "Publish, send, or submit one thing that's been sitting at 90% for over a week; 90% shipped beats 100% imagined.",
+    "Open your drafts, pick the oldest one, and read it standing up; standing makes 'later' feel ridiculous."
+   ]
+  },
+  "79": {
+   "day": 79,
+   "holiday": {
+    "name": "Virgo · Day 79",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "You checked the plan three times today — when did you last check the person executing it?"
+   ],
+   "adventures": [
+    "Before you open the planner today, write one sentence about how you actually feel, and let that sentence edit the plan.",
+    "Place both hands on your belly and breathe into them for five slow rounds; the plan doesn't breathe, you do."
+   ]
+  },
+  "80": {
+   "day": 80,
+   "holiday": {
+    "name": "Virgo · Day 80",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "You've measured twice, then twice more — what would cutting even cost you at this point?"
+   ],
+   "adventures": [
+    "Make one irreversible-ish decision today — send it, book it, cut it — and survive the aftermath on purpose.",
+    "Clap your hands hard once, loud, and feel the sting; decisiveness has a sound, and it's not a pencil tapping."
+   ]
+  },
+  "81": {
+   "day": 81,
+   "holiday": {
+    "name": "Virgo · Day 81",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Suppose the perfect answer arrived right now — would you trust it, or ask for a second opinion on it?"
+   ],
+   "adventures": [
+    "Answer one question today without consulting anything — no search, no app, no oracle — and stand by the answer.",
+    "Shut your eyes and point at something in the room, then look; your instincts have aim, they just lack practice."
+   ]
+  },
+  "82": {
+   "day": 82,
+   "holiday": {
+    "name": "Virgo · Day 82",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "The review ritual is immaculate and your actual life is unchanged — so what is the ritual actually for?"
+   ],
+   "adventures": [
+    "Cancel one recurring review, audit, or check-in ritual and see what breaks; probably nothing, and that's the data.",
+    "Turn your chair to face the wall and sit with your back to the room for two minutes; the review faces the past, you face forward."
+   ]
+  },
+  "83": {
+   "day": 83,
+   "holiday": {
+    "name": "Virgo · Day 83",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Will one more folder finally make you feel in control, or is the folder the feeling?"
+   ],
+   "adventures": [
+    "Dump the next five files into one messy folder called 'stuff' and move on; retrieval is a future problem, starting is now.",
+    "Spread your fingers wide and hold for ten seconds, then make a fist; organizing is a fist, creating is an open hand."
+   ]
+  },
+  "84": {
+   "day": 84,
+   "holiday": {
+    "name": "Virgo · Day 84",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which fire that isn't yours are you putting out today, and what's going cold in your own house?"
+   ],
+   "adventures": [
+    "Let one small problem that isn't yours stay unsolved today; watch how hard it is, and ask why your hands itch.",
+    "Tuck your hands under your thighs and sit on them for one full minute while someone else's problem stays unsolved; discomfort is the lesson."
+   ]
+  },
+  "85": {
+   "day": 85,
+   "holiday": {
+    "name": "Virgo · Day 85",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Can you hear the commentary track while you work — and whose voice is it, really?"
+   ],
+   "adventures": [
+    "Work on the scary thing for twenty minutes with the commentary allowed but ignored, like a radio in another room.",
+    "Hum one continuous note while you do a simple task; a humming mouth can't narrate, and your hands already know the work."
+   ]
+  },
+  "86": {
+   "day": 86,
+   "holiday": {
+    "name": "Virgo · Day 86",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Describe 'ready' in one concrete sentence — and then notice you can't, because it's a feeling you invented to buy time."
+   ],
+   "adventures": [
+    "Begin at 60% readiness today and keep a list of what actually goes wrong; the catastrophe file is always thinner than feared.",
+    "Balance on one foot for thirty seconds, wobbling allowed; nobody waits to feel balanced before they stand."
+   ]
+  },
+  "87": {
+   "day": 87,
+   "holiday": {
+    "name": "Virgo · Day 87",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Honestly now — is the endless gift search about their joy, or about dodging blame for getting it wrong?"
+   ],
+   "adventures": [
+    "Buy the good-enough gift in the next ten minutes and spend the saved hours writing a card that actually says something.",
+    "Wrap something — anything — badly on purpose, tape crooked and all; the love isn't in the corners."
+   ]
+  },
+  "88": {
+   "day": 88,
+   "holiday": {
+    "name": "Virgo · Day 88",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Somewhere there's a perfect trip planned in exquisite detail — when did its planner last leave the neighborhood?"
+   ],
+   "adventures": [
+    "Go for a twenty-minute walk with no destination, no podcast, no step goal; adventure never needed a booking confirmation.",
+    "Step outside barefoot for one minute and feel the ground temperature; the world is still there, unplanned."
+   ]
+  },
+  "89": {
+   "day": 89,
+   "holiday": {
+    "name": "Virgo · Day 89",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Count the reviews you've read for this one decision — now admit your gut decided in the first thirty seconds."
+   ],
+   "adventures": [
+    "Base your next small purchase on exactly three reviews, then stop; the fourth review is just anxiety shopping.",
+    "Spin in a slow circle once with your arms out; dizziness is what too many opinions feel like from the inside."
+   ]
+  },
+  "90": {
+   "day": 90,
+   "holiday": {
+    "name": "Virgo · Day 90",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Everything in the pantry is alphabetized and the conversation is still unsaid — which one was actually urgent?"
+   ],
+   "adventures": [
+    "Lead with the unsaid thing today — the message, the call, the sentence — and let the pantry stay a little messy.",
+    "Mess up one shelf deliberately — one jar out of line — and leave it; the world keeps turning on a crooked shelf."
+   ]
+  },
+  "91": {
+   "day": 91,
+   "holiday": {
+    "name": "Virgo · Day 91",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Admit it: your gut decided weeks ago — so who is this spreadsheet trying to convince?"
+   ],
+   "adventures": [
+    "Announce the decision you've been spreadsheeting to one person today, out loud, no caveats; the math was never the missing piece.",
+    "Draw a line down the center of a page, write the two options, circle one in ten seconds, and close the notebook on it."
+   ]
+  },
+  "92": {
+   "day": 92,
+   "holiday": {
+    "name": "Virgo · Day 92",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Quick audit: is the resume getting better, or are you just getting better at not sending it?"
+   ],
+   "adventures": [
+    "Submit one application with the resume exactly as it is — no more touches — and let the chips land.",
+    "Line your body against a wall — heels, shoulders, head touching — for one minute; posture first, paperwork second."
+   ]
+  },
+  "93": {
+   "day": 93,
+   "holiday": {
+    "name": "Virgo · Day 93",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Serious question: will the right font make the words true, or just make the delay look designed?"
+   ],
+   "adventures": [
+    "Lock the formatting now — font, size, done — and spend the rescued hour on the actual words.",
+    "Squint at your screen until the text blurs; the content should survive being unreadable, or it was never the font."
+   ]
+  },
+  "94": {
+   "day": 94,
+   "holiday": {
+    "name": "Virgo · Day 94",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "This is the eleventh time you've asked 'am I sure' — has the answer ever changed on the twelfth?"
+   ],
+   "adventures": [
+    "Cap the certainty-checking at two rounds today; after that, the question is banned and the answer stands.",
+    "Nod your head yes, firmly, ten times in a row; teach your neck the shape of a decision."
+   ]
+  },
+  "95": {
+   "day": 95,
+   "holiday": {
+    "name": "Virgo · Day 95",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Why does your pros-and-cons list keep growing new cons — is the decision hard, or is the list the decision?"
+   ],
+   "adventures": [
+    "Freeze the list as-is, flip a coin for the decision, and notice your gut's reaction to the result; that's your answer.",
+    "Weigh something heavy in each hand — books, cans, whatever — then put both down at once; decisions end when you set them down."
+   ]
+  },
+  "96": {
+   "day": 96,
+   "holiday": {
+    "name": "Virgo · Day 96",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Flawless notes, zero memory of the meeting — who exactly were those notes for?"
+   ],
+   "adventures": [
+    "In your next meeting, close the notebook and listen with your whole face; retention beats transcription.",
+    "Unclench your jaw and drop your shoulders right now — yes, this second; presence starts in the body, not the bullet points."
+   ]
+  },
+  "97": {
+   "day": 97,
+   "holiday": {
+    "name": "Virgo · Day 97",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "A backup plan with its own backup plan — at what point did preparation become your hobby?"
+   ],
+   "adventures": [
+    "Delete one layer of contingency today — cancel the backup to the backup — and trust the first plan to hold.",
+    "Fold a piece of paper in half again and again until it won't fold; that's your planning — now unfold it and use the creases."
+   ]
+  },
+  "98": {
+   "day": 98,
+   "holiday": {
+    "name": "Virgo · Day 98",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Nobody does it right — or nobody does it your way, and your way is a toll booth?"
+   ],
+   "adventures": [
+    "Hand off one task today with deliberately loose instructions, and forbid yourself from redoing it; done by others still counts as done.",
+    "Loosen your grip on something you're holding — a mug, a pen — until it almost slips; control is a fist that drops nothing and carries nothing new."
+   ]
+  },
+  "99": {
+   "day": 99,
+   "holiday": {
+    "name": "Virgo · Day 99",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "That five-paragraph apology — is it about their feelings, or about keeping your record clean?"
+   ],
+   "adventures": [
+    "Apologize in two sentences max the next time — what happened, and that you're sorry — then stop typing.",
+    "Exhale slowly through your mouth until your lungs are empty, then wait three seconds before inhaling; brevity is a kind of honesty."
+   ]
+  },
+  "100": {
+   "day": 100,
+   "holiday": {
+    "name": "Virgo · Day 100",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Fourteen mental rehearsals of one conversation — how many of those versions ever happened?"
+   ],
+   "adventures": [
+    "Have the conversation unrehearsed today — first draft, live — and let the mess be part of the message.",
+    "Face a mirror and talk about something trivial for thirty seconds; live words feel nothing like rehearsed ones."
+   ]
+  },
+  "101": {
+   "day": 101,
+   "holiday": {
+    "name": "Virgo · Day 101",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Does the desk need to be clean, or do you need the desk to be clean before you start?"
+   ],
+   "adventures": [
+    "Log one full hour of work inside the mess — crumbs, clutter, beautiful Khaos — and prove the work never cared about the desk.",
+    "Push everything on your desk into one messy pile with both hands and leave it; the pile is honest, the pristine desk was a delay."
+   ]
+  },
+  "102": {
+   "day": 102,
+   "holiday": {
+    "name": "Virgo · Day 102",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Forty emails sorted, flagged, archived — so why is the one that matters still unopened?"
+   ],
+   "adventures": [
+    "Tackle the hardest email first today, before any sorting; triage is what you do when you're avoiding the patient.",
+    "Interlace your fingers and push your palms away from you until your shoulders pop; the inbox will survive your stretch."
+   ]
+  },
+  "103": {
+   "day": 103,
+   "holiday": {
+    "name": "Virgo · Day 103",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Level with yourself: are you improving the system, or has the system become the project and the work its excuse?"
+   ],
+   "adventures": [
+    "Operate the flawed system exactly as-is for one full day — no fixes, no tweaks — and log what actually breaks.",
+    "Tighten every muscle in your body for five seconds, then release all at once; fixing mode is a clench, and clenches exhaust."
+   ]
+  },
+  "104": {
+   "day": 104,
+   "holiday": {
+    "name": "Virgo · Day 104",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "'Just one more article' — how many more until you admit you're not preparing, you're postponing?"
+   ],
+   "adventures": [
+    "Kill the research tab and write down everything you already know about the topic from memory; it's more than you think, and it's enough to start.",
+    "Look away from every screen for sixty seconds and watch something real move — traffic, trees, a pet; the world kept going without your research."
+   ]
+  },
+  "105": {
+   "day": 105,
+   "holiday": {
+    "name": "Virgo · Day 105",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Bad sleep score, elevated resting heart rate — has all this data made you rest, or just made you tired about being tired?"
+   ],
+   "adventures": [
+    "Rest once today with zero tracking — no score, no ring to close, no optimization; rest like it's nobody's data.",
+    "Lie flat on your back, arms at your sides, palms up, for five minutes; this is the only dashboard that matters."
+   ]
+  },
+  "106": {
+   "day": 106,
+   "holiday": {
+    "name": "Virgo · Day 106",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Another masterpiece meal plan, another takeout dinner — who exactly was the plan feeding?"
+   ],
+   "adventures": [
+    "Cook the simplest possible version of one planned meal tonight — five ingredients max, no garnish — and eat it without grading it.",
+    "Smell something in your kitchen — a spice, an onion, coffee — and inhale deeply three times; appetite is a body signal, not a spreadsheet cell."
+   ]
+  },
+  "107": {
+   "day": 107,
+   "holiday": {
+    "name": "Virgo · Day 107",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Page after page of plans for a life you're not living — when does the documenting become the avoidance?"
+   ],
+   "adventures": [
+    "Fill one journal page tonight with only what you did and felt — no plans, no goals, no tomorrow allowed.",
+    "Clutch your journal to your chest for ten seconds before opening it; a witness, not a project manager."
+   ]
+  },
+  "108": {
+   "day": 108,
+   "holiday": {
+    "name": "Virgo · Day 108",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Yes left your mouth and fury moved in — who exactly was that yes protecting?"
+   ],
+   "adventures": [
+    "Revoke one resentful yes today — kindly, briefly, without the essay — and sit with the guilt instead of the resentment.",
+    "Swivel your head in a slow, firm no five times; your neck needs the rehearsal more than your mouth."
+   ]
+  },
+  "109": {
+   "day": 109,
+   "holiday": {
+    "name": "Virgo · Day 109",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Replay the mistake reel one more time — did it fix anything this time either?"
+   ],
+   "adventures": [
+    "Label the mistake you're ruminating on, give it one line of lesson, then close the notebook; filed means finished.",
+    "Touch two fingers to your temple, then drop your hand; the file is closed and the clerk can go home."
+   ]
+  },
+  "110": {
+   "day": 110,
+   "holiday": {
+    "name": "Virgo · Day 110",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "About that last 'helpful' rewrite — were you serving them, or making sure nothing exists you didn't shape?"
+   ],
+   "adventures": [
+    "Offer today's feedback as questions only — no corrections, no rewrites — and let their work stay theirs, Virgo.",
+    "Clasp your hands behind your back for thirty seconds while looking at someone else's work; helpful hands sometimes help most by staying put."
+   ]
+  },
+  "111": {
+   "day": 111,
+   "holiday": {
+    "name": "Virgo · Day 111",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Tally the courses bought for skills never once practiced — what is the enrollment really buying?"
+   ],
+   "adventures": [
+    "Jump straight to lesson one's exercise today — no intros, no workbook — and let the doing teach.",
+    "Rise and mime the skill for thirty seconds — the instrument, the swing, the stroke; your body is allowed to be a beginner."
+   ]
+  },
+  "112": {
+   "day": 112,
+   "holiday": {
+    "name": "Virgo · Day 112",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Pristine photo library, untouched project — which one will anyone actually remember?"
+   ],
+   "adventures": [
+    "Donate the photo-organizing hour to the project today; the photos will wait, the deadline won't.",
+    "Shuffle through a drawer or shelf without organizing it — just look, touch, remember; not everything needs your system."
+   ]
+  },
+  "113": {
+   "day": 113,
+   "holiday": {
+    "name": "Virgo · Day 113",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Waiting for the right moment to reply — or waiting for the reply to stop mattering?"
+   ],
+   "adventures": [
+    "Reply to the message you've been timing perfectly — now, as-is, imperfect — and let the moment be whenever you say so.",
+    "Drum your fingers on a table for ten seconds, then stop abruptly; timing the stop matters more than timing the start."
+   ]
+  },
+  "114": {
+   "day": 114,
+   "holiday": {
+    "name": "Virgo · Day 114",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Three pages of notes for a fifteen-minute call — who are you trying to convince you're competent?"
+   ],
+   "adventures": [
+    "Enter the next small meeting with three bullet points max and trust your brain to do the rest live.",
+    "Roll your neck in slow circles, five each way; over-preparation lives in the shoulders, competence lives lower."
+   ]
+  },
+  "115": {
+   "day": 115,
+   "holiday": {
+    "name": "Virgo · Day 115",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Dozens of budget categories and zero entries — is this financial planning or financial fan fiction?"
+   ],
+   "adventures": [
+    "Record today's spending as one ugly line — just the total, no categories — and let that number be the whole system.",
+    "Empty your pockets or bag onto a table and look at what's actually there; reality is messier and more useful than the categories."
+   ]
+  },
+  "116": {
+   "day": 116,
+   "holiday": {
+    "name": "Virgo · Day 116",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "'I work better under pressure' — or have you just gotten good at manufacturing emergencies to avoid starting calmly?"
+   ],
+   "adventures": [
+    "Crack open the dreaded task today with no deadline — twenty calm minutes — and watch what happens without the adrenaline.",
+    "Breathe in for four counts, out for six, five rounds; calm is a skill, not a personality flaw."
+   ]
+  },
+  "117": {
+   "day": 117,
+   "holiday": {
+    "name": "Virgo · Day 117",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Their typo spotted in seconds — so how long have you been avoiding your own blank page?"
+   ],
+   "adventures": [
+    "Channel today's sharp eye into your own draft for fifteen minutes; the critic is an excellent editor once pointed inward on purpose.",
+    "Palm one eye shut and look around the room; half your vision was always reserved for everyone else."
+   ]
+  },
+  "118": {
+   "day": 118,
+   "holiday": {
+    "name": "Virgo · Day 118",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "New items keep appearing at the bottom of the list — are you finishing tasks or farming them?"
+   ],
+   "adventures": [
+    "Declare the list closed at whatever's on it right now — no additions allowed — and work it to zero.",
+    "Tear a piece of paper in half and use only one half for today's list; a smaller page makes a smaller promise you can keep."
+   ]
+  },
+  "119": {
+   "day": 119,
+   "holiday": {
+    "name": "Virgo · Day 119",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Somehow rest became another optimization project — when did recharging start requiring a protocol?"
+   ],
+   "adventures": [
+    "Waste thirty minutes today on purpose — no podcast, no 'productive rest,' no benefit — and defend the waste like it matters.",
+    "Slouch — fully, gloriously slouch — for two minutes; your spine has earned the right to be unimpressive."
+   ]
+  },
+  "120": {
+   "day": 120,
+   "holiday": {
+    "name": "Virgo · Day 120",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "You'll build the perfect system 'once things calm down' — has that day ever arrived, even once?"
+   ],
+   "adventures": [
+    "Build the system inside the Khaos, today, with whatever's at hand; calm was never coming, and the system knows it.",
+    "Straighten your bed badly — lumps, wrinkles, all of it — and walk away; order built inside mess still counts."
+   ]
+  },
+  "121": {
+   "day": 121,
+   "holiday": {
+    "name": "Virgo · Day 121",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Barely born and the idea is already on trial — can anything survive your courtroom?"
+   ],
+   "adventures": [
+    "Grant one new idea 24 hours of zero evaluation — no pros, no cons, no 'realistic' — just let it breathe.",
+    "Cup your hands like you're holding something fragile and carry them around the room; new ideas need carrying, not cross-examination."
+   ]
+  },
+  "122": {
+   "day": 122,
+   "holiday": {
+    "name": "Virgo · Day 122",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Eighty percent done and all of it was the easy part — what's the 20% you've been circling?"
+   ],
+   "adventures": [
+    "Attack the hardest 20% first today, before anything easy; the easy part will still be there, and it'll feel like dessert.",
+    "Plant your feet wide and push a doorframe with both hands for ten seconds; the hard part pushes back, and you push anyway."
+   ]
+  },
+  "123": {
+   "day": 123,
+   "holiday": {
+    "name": "Virgo · Day 123",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When did your inner editor start grading your thoughts before you'd even finished having them?"
+   ],
+   "adventures": [
+    "Catch one harsh thought mid-sentence today and rewrite it the way you'd text it to a friend.",
+    "Unclench your jaw — you've been grading your teeth too."
+   ]
+  },
+  "124": {
+   "day": 124,
+   "holiday": {
+    "name": "Virgo · Day 124",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Be honest: what are you 'still researching' because starting it terrifies you?"
+   ],
+   "adventures": [
+    "Send the draft, the email, the message — with one imperfection left in on purpose.",
+    "Leave one surface in your home deliberately un-tidied; walk past it three times without fixing it."
+   ]
+  },
+  "125": {
+   "day": 125,
+   "holiday": {
+    "name": "Virgo · Day 125",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Is the voice grading you right now yours — or a ghost of someone who graded you once and never left?"
+   ],
+   "adventures": [
+    "Set a timer for 20 minutes on the task you've been rehearsing instead of doing; ship whatever exists when it rings.",
+    "Stretch the spot between your shoulders where the self-criticism camps out."
+   ]
+  },
+  "126": {
+   "day": 126,
+   "holiday": {
+    "name": "Virgo · Day 126",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Identify one task you're polishing that no one will ever inspect."
+   ],
+   "adventures": [
+    "Write down three things you did this week without the word 'but' anywhere near them.",
+    "Eat one meal without optimizing it — no macros, no moral math, just food."
+   ]
+  },
+  "127": {
+   "day": 127,
+   "holiday": {
+    "name": "Virgo · Day 127",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Name the flaw you keep fixing in yourself that you'd celebrate in anyone else."
+   ],
+   "adventures": [
+    "Notice one moment today when you criticize yourself; pause and ask if you'd say it to someone you love.",
+    "Put your phone in another room for an hour; notice the itch to be productive and don't scratch it."
+   ]
+  },
+  "128": {
+   "day": 128,
+   "holiday": {
+    "name": "Virgo · Day 128",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How many drafts does your life need before you'll call this one the final version?"
+   ],
+   "adventures": [
+    "Do one task at 80% and leave it there. Walk away like you mean it.",
+    "Mess up your desk on purpose — one crooked stack, one pen out of place — then leave the room."
+   ]
+  },
+  "129": {
+   "day": 129,
+   "holiday": {
+    "name": "Virgo · Day 129",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "The thing you've been 'preparing' for — has it started to rot yet?"
+   ],
+   "adventures": [
+    "Delete one 'should' from today's list and feel absolutely nothing about it.",
+    "Take a walk with no destination and no step goal; let your feet go unmeasured."
+   ]
+  },
+  "130": {
+   "day": 130,
+   "holiday": {
+    "name": "Virgo · Day 130",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Quick audit: if your self-talk were a podcast, would you actually subscribe?"
+   ],
+   "adventures": [
+    "Text a friend and ask what they think you're actually good at — then believe the first answer.",
+    "Splash cold water on your face and look at yourself without the evaluation running."
+   ]
+  },
+  "131": {
+   "day": 131,
+   "holiday": {
+    "name": "Virgo · Day 131",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Picture the imperfect version shipped today. What's the worst that actually happens?"
+   ],
+   "adventures": [
+    "Start the scary thing badly. Let the first version be genuinely embarrassing.",
+    "Lie on the floor for five minutes; let your body be a weight, not a project."
+   ]
+  },
+  "132": {
+   "day": 132,
+   "holiday": {
+    "name": "Virgo · Day 132",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "The standards you're failing right now — are they yours, or borrowed ones you're still paying rent on?"
+   ],
+   "adventures": [
+    "Make a list of your standards, then cross out one that clearly belongs to someone else.",
+    "Touch something with real texture — bark, fabric, stone — and notice it without judging it."
+   ]
+  },
+  "133": {
+   "day": 133,
+   "holiday": {
+    "name": "Virgo · Day 133",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Strip away the analysis: what feeling are you avoiding by staying in research mode?"
+   ],
+   "adventures": [
+    "Ask yourself what you're feeling underneath the plan — name the feeling, not the strategy.",
+    "Breathe into your stomach and let it expand; no sucking in, no commentary."
+   ]
+  },
+  "134": {
+   "day": 134,
+   "holiday": {
+    "name": "Virgo · Day 134",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Try this: name one thing you did well this week, and put a period after it. No 'but.'"
+   ],
+   "adventures": [
+    "Compliment yourself out loud with zero qualifiers. Once counts as a rep.",
+    "Leave the bed unmade for one whole day; let the room be unfinished and survive it."
+   ]
+  },
+  "135": {
+   "day": 135,
+   "holiday": {
+    "name": "Virgo · Day 135",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Do the math — how much of your helpfulness is love, and how much is control in an apron?"
+   ],
+   "adventures": [
+    "Help someone today without fixing, advising, or improving anything about them. Let it be pure helpfulness, Virgo — no control wearing an apron.",
+    "Shake out your hands like you're flicking water off; release the grip on the day."
+   ]
+  },
+  "136": {
+   "day": 136,
+   "holiday": {
+    "name": "Virgo · Day 136",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Read your last harsh thought back. Would you let anyone say that to your best friend?"
+   ],
+   "adventures": [
+    "Record a voice memo of your inner critic, then play it back and notice how small it sounds out loud.",
+    "Stand barefoot on a cold floor; feel the ground without improving the sensation."
+   ]
+  },
+  "137": {
+   "day": 137,
+   "holiday": {
+    "name": "Virgo · Day 137",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Are you actually resting, or just reloading ammunition for your inner critic?"
+   ],
+   "adventures": [
+    "Rest today with no recovery plan — no optimizing the downtime, no earning the pause.",
+    "Wear the comfortable thing, not the 'put-together' thing; let comfort win once."
+   ]
+  },
+  "138": {
+   "day": 138,
+   "holiday": {
+    "name": "Virgo · Day 138",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What unfinished thing are you not finishing because finishing means being seen?"
+   ],
+   "adventures": [
+    "Finish one small thing today and refuse to revise it afterward. Done is a full sentence.",
+    "Let your hair be however it is today; don't fix it in every mirror you pass."
+   ]
+  },
+  "139": {
+   "day": 139,
+   "holiday": {
+    "name": "Virgo · Day 139",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Clock it: when a compliment lands, how fast does your editor add a footnote?"
+   ],
+   "adventures": [
+    "When a compliment lands today, say 'thank you' and stop. No footnote, no deflection.",
+    "Sit somewhere and do nothing with your hands for three full minutes."
+   ]
+  },
+  "140": {
+   "day": 140,
+   "holiday": {
+    "name": "Virgo · Day 140",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Imagine 'good enough' were actually enough. What would today look like?"
+   ],
+   "adventures": [
+    "Pick one task and declare it 'good enough' at noon. Done means done, not done-ish.",
+    "Drink a glass of water slowly and actually taste it — no multitasking, no phone."
+   ]
+  },
+  "141": {
+   "day": 141,
+   "holiday": {
+    "name": "Virgo · Day 141",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Sort your rituals into two piles: self-care, and surveillance. What's sitting in the second pile?"
+   ],
+   "adventures": [
+    "Audit one ritual today: does it serve you or surveil you? Keep only the ones that serve.",
+    "Leave a dish in the sink; stand there a moment and confirm the world continues."
+   ]
+  },
+  "142": {
+   "day": 142,
+   "holiday": {
+    "name": "Virgo · Day 142",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Somewhere under the polishing is a feeling you'd rather not touch. What is it?"
+   ],
+   "adventures": [
+    "Sit with the feeling you've been organizing around for five minutes. No fixing, just sitting.",
+    "Close your eyes and listen to the room for one minute — no labeling the sounds, just hearing."
+   ]
+  },
+  "143": {
+   "day": 143,
+   "holiday": {
+    "name": "Virgo · Day 143",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "For one hour, treat yourself like a friend. What softens first?"
+   ],
+   "adventures": [
+    "Go friend-mode for one hour and notice what softens — then keep one soft thing.",
+    "Roll your neck slowly until it stops narrating your flaws."
+   ]
+  },
+  "144": {
+   "day": 144,
+   "holiday": {
+    "name": "Virgo · Day 144",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What list are you writing instead of doing the thing the list is about?"
+   ],
+   "adventures": [
+    "Throw away one list and do the thing instead. The list was the procrastination.",
+    "Put on music you like but would never admit to; dance badly for exactly one song."
+   ]
+  },
+  "145": {
+   "day": 145,
+   "holiday": {
+    "name": "Virgo · Day 145",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Think of someone whose mess you'd forgive instantly. Why can't you forgive your own?"
+   ],
+   "adventures": [
+    "Look in the mirror and say one true, kind thing. You're allowed to mean it badly.",
+    "Touch your own face gently, the way you'd touch someone you love."
+   ]
+  },
+  "146": {
+   "day": 146,
+   "holiday": {
+    "name": "Virgo · Day 146",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Separate the real deadline from the fake one your anxiety invented. Which one is running your day?"
+   ],
+   "adventures": [
+    "Write the real deadline and the fake one side by side; today you honor only the real one.",
+    "Walk out the door with one thing 'undone' — hair, outfit, bag — and feel the air anyway."
+   ]
+  },
+  "147": {
+   "day": 147,
+   "holiday": {
+    "name": "Virgo · Day 147",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Count your 'I shoulds' before noon. What are they actually protecting?"
+   ],
+   "adventures": [
+    "Every 'should' that shows up today gets translated to 'could.' Keep a tally and watch them shrink.",
+    "Press your feet into the floor and notice you're held up without having earned it."
+   ]
+  },
+  "148": {
+   "day": 148,
+   "holiday": {
+    "name": "Virgo · Day 148",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What did you learn this week that you immediately weaponized against yourself?"
+   ],
+   "adventures": [
+    "Take one thing you learned this week and find the way it made you kinder, not harder.",
+    "Smell something strong — coffee, citrus, rain — and let it be just a smell, not a review."
+   ]
+  },
+  "149": {
+   "day": 149,
+   "holiday": {
+    "name": "Virgo · Day 149",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Ask the uncomfortable one: are you helping them, or auditioning to be needed?"
+   ],
+   "adventures": [
+    "Do something kind with no audience and no credit; let nobody know, including your ego.",
+    "Lie down and let your shoulders drop below wherever your editor usually holds them."
+   ]
+  },
+  "150": {
+   "day": 150,
+   "holiday": {
+    "name": "Virgo · Day 150",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "One sentence in your diary would get redacted by your inner editor. Write it down — that's the interesting part."
+   ],
+   "adventures": [
+    "Get the sentence your inner editor would redact onto paper — then keep it and underline it.",
+    "Eat the snack without reading the label first; let pleasure skip the audit."
+   ]
+  },
+  "151": {
+   "day": 151,
+   "holiday": {
+    "name": "Virgo · Day 151",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Where does the self-criticism live in your body right now — and what is it actually asking for?"
+   ],
+   "adventures": [
+    "Notice where tension sits in your body; breathe into it without trying to solve it.",
+    "Walk slower than feels productive for one block; let slowness be the whole point."
+   ]
+  },
+  "152": {
+   "day": 152,
+   "holiday": {
+    "name": "Virgo · Day 152",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If absolutely no one were watching, which standard would you drop today?"
+   ],
+   "adventures": [
+    "Drop one standard for the day and watch the world not end. Take notes on the non-ending.",
+    "Soften your gaze and let it go unfocused for a minute; stop scanning for flaws."
+   ]
+  },
+  "153": {
+   "day": 153,
+   "holiday": {
+    "name": "Virgo · Day 153",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "At some point 'getting better' turned into punishment. When was that, exactly?"
+   ],
+   "adventures": [
+    "Ask of this improvement: does it make me kinder or just more exhausted? Then act on the answer.",
+    "Rest your hand on your chest and feel your heartbeat without rating its performance."
+   ]
+  },
+  "154": {
+   "day": 154,
+   "holiday": {
+    "name": "Virgo · Day 154",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Hold your harshest standard up to a stranger's version of your day. Still reasonable?"
+   ],
+   "adventures": [
+    "Apply your usual harsh standard to a stranger living your exact day; notice how absurd it sounds.",
+    "Let one email sit unanswered past your usual response time; notice the sky doesn't fall."
+   ]
+  },
+  "155": {
+   "day": 155,
+   "holiday": {
+    "name": "Virgo · Day 155",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Give that inner voice a volume knob. Where is it set — and who's allowed to turn it down?"
+   ],
+   "adventures": [
+    "Turn the critic down to a whisper for an hour and listen for what else is in the room.",
+    "Stretch upward like you're reaching for something you don't have to earn."
+   ]
+  },
+  "156": {
+   "day": 156,
+   "holiday": {
+    "name": "Virgo · Day 156",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Some project got embalmed by analysis paralysis. How long has it been in the tomb?"
+   ],
+   "adventures": [
+    "Hand the embalmed project 15 ugly minutes today. Ugly counts as progress.",
+    "Shower at whatever temperature feels good, not the 'right' one."
+   ]
+  },
+  "157": {
+   "day": 157,
+   "holiday": {
+    "name": "Virgo · Day 157",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "That 'flaw' of yours — what if it's a strength you just haven't forgiven yet?"
+   ],
+   "adventures": [
+    "Rename one 'flaw' as a strength with an unkind name. Keep the strength, drop the insult.",
+    "Sit on the floor instead of the chair; let posture be optional for once."
+   ]
+  },
+  "158": {
+   "day": 158,
+   "holiday": {
+    "name": "Virgo · Day 158",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What would you attempt this week if looking sloppy were guaranteed safe?"
+   ],
+   "adventures": [
+    "Run the sloppy version on purpose — messy first, polish never. See what survives.",
+    "Leave your bag unpacked for an evening; the mess is contained, and so are you."
+   ]
+  },
+  "159": {
+   "day": 159,
+   "holiday": {
+    "name": "Virgo · Day 159",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who taught your inner editor its tone of voice — and are they still in the room?"
+   ],
+   "adventures": [
+    "Draft a goodbye letter to the voice's original owner: 'I don't need your tone anymore.'",
+    "Exhale through your mouth in a slow sigh three times; each one is the inner editor packing its briefcase."
+   ]
+  },
+  "160": {
+   "day": 160,
+   "holiday": {
+    "name": "Virgo · Day 160",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What decision are you organizing around instead of making?"
+   ],
+   "adventures": [
+    "Make the decision you've been organizing around in one sentence, then commit and move.",
+    "Touch the ground outside — grass, dirt, pavement — and let it be gloriously unimproved."
+   ]
+  },
+  "161": {
+   "day": 161,
+   "holiday": {
+    "name": "Virgo · Day 161",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Run the experiment: aim for 'done' instead of 'flawless' on one thing today. What shifts?"
+   ],
+   "adventures": [
+    "Aim for 'done' on one thing; when done arrives, stop. Do not circle back.",
+    "Give your stomach ten soft seconds in the mirror — no sucking in, no audit."
+   ]
+  },
+  "162": {
+   "day": 162,
+   "holiday": {
+    "name": "Virgo · Day 162",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which compliment do you deflect most often — and what's the real story underneath it?"
+   ],
+   "adventures": [
+    "Accept the next compliment with a full stop. Practice in the mirror first if you need to.",
+    "Close one drawer that's been hanging open — not to organize, just to close a loop kindly."
+   ]
+  },
+  "163": {
+   "day": 163,
+   "holiday": {
+    "name": "Virgo · Day 163",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Look at your standards honestly: ladder you're climbing, or cage you're decorating?"
+   ],
+   "adventures": [
+    "Interrogate one standard: ladder or cage? If it's a cage, open the door today.",
+    "Hum one low note and feel it in your chest; no melody required, no performance."
+   ]
+  },
+  "164": {
+   "day": 164,
+   "holiday": {
+    "name": "Virgo · Day 164",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Something got skipped today because perfect wasn't available. What was it?"
+   ],
+   "adventures": [
+    "Do the thing you skipped — at half quality, on purpose, today. Half counts.",
+    "Drink something warm and hold it with both hands; let the warmth be enough."
+   ]
+  },
+  "165": {
+   "day": 165,
+   "holiday": {
+    "name": "Virgo · Day 165",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Grade yourself on effort instead of outcome for one day. What changes?"
+   ],
+   "adventures": [
+    "Grade today's effort on a scale of 'I showed up' — that's the entire scale.",
+    "Stop adjusting the atmosphere — leave the lights exactly the way they are."
+   ]
+  },
+  "166": {
+   "day": 166,
+   "holiday": {
+    "name": "Virgo · Day 166",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Say your harshest current thought out loud to a mirror. Notice what happens to it."
+   ],
+   "adventures": [
+    "Say the harsh sentence to the mirror; then answer it back the way a friend would.",
+    "Kick your shoes off and put your bare feet up; let your legs be unproductive for a while."
+   ]
+  },
+  "167": {
+   "day": 167,
+   "holiday": {
+    "name": "Virgo · Day 167",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Peel the planner sticker off: which 'improvement project' is just self-criticism in disguise?"
+   ],
+   "adventures": [
+    "Peel the sticker off one 'improvement project' and call it what it is. Then decide if it stays.",
+    "Smell your own skin — soap, sweat, you — without the commentary track."
+   ]
+  },
+  "168": {
+   "day": 168,
+   "holiday": {
+    "name": "Virgo · Day 168",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What are you afraid would happen if you stopped striving for exactly one day?"
+   ],
+   "adventures": [
+    "Claim one hour with zero striving. Notice what your hands reach for.",
+    "Lean against a wall and let it hold some of your weight; you don't have to hold it all."
+   ]
+  },
+  "169": {
+   "day": 169,
+   "holiday": {
+    "name": "Virgo · Day 169",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Remember the last time something ugly and unfinished was still worth keeping. When was that?"
+   ],
+   "adventures": [
+    "Make something deliberately ugly and keep it visible for a day. Let it embarrass the editor.",
+    "Allow one wrinkle in your shirt to exist; iron nothing today."
+   ]
+  },
+  "170": {
+   "day": 170,
+   "holiday": {
+    "name": "Virgo · Day 170",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Channel the friend-version of you. What do they say to you right now?"
+   ],
+   "adventures": [
+    "Call one trusted person and get their read on you right now — then listen like you believe them.",
+    "Step outside and feel the air on your face without narrating the weather."
+   ]
+  },
+  "171": {
+   "day": 171,
+   "holiday": {
+    "name": "Virgo · Day 171",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Before you fix one more thing today, ask: is this a problem — or is this perfectionism?"
+   ],
+   "adventures": [
+    "Before fixing one more thing, sort it: problem or perfectionism? Only problems get fixed today.",
+    "Wiggle your toes inside your shoes; small rebellion, genuine relief."
+   ]
+  },
+  "172": {
+   "day": 172,
+   "holiday": {
+    "name": "Virgo · Day 172",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What rule did you invent for yourself that you'd never impose on anyone you love?"
+   ],
+   "adventures": [
+    "Break one self-imposed rule today — specifically the one you'd never give to someone you love.",
+    "Give the mirror an hour off; your face is fine without supervision."
+   ]
+  },
+  "173": {
+   "day": 173,
+   "holiday": {
+    "name": "Virgo · Day 173",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How much of today's anxiety is real — and how much is your editor's fan fiction?"
+   ],
+   "adventures": [
+    "Sort today's worries into two columns: real, and editor's fan fiction. Burn the second column.",
+    "Hold your own hand the way you'd hold a friend's — and keep walking."
+   ]
+  },
+  "174": {
+   "day": 174,
+   "holiday": {
+    "name": "Virgo · Day 174",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What have you been 'about to' do for longer than you'd admit out loud?"
+   ],
+   "adventures": [
+    "Give the 'about to' thing ten minutes. Ten is the entire ask.",
+    "Hike your shoulders to your ears, then drop them; repeat until the editor gets bored."
+   ]
+  },
+  "175": {
+   "day": 175,
+   "holiday": {
+    "name": "Virgo · Day 175",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Treat perfectionism as protection for a second. What is it protecting you from?"
+   ],
+   "adventures": [
+    "Write what the perfectionism is protecting you from — then decide if the protection still fits.",
+    "Taste your food before seasoning it; let it be what it is first."
+   ]
+  },
+  "176": {
+   "day": 176,
+   "holiday": {
+    "name": "Virgo · Day 176",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What small imperfection could you let live today — on purpose, unhidden?"
+   ],
+   "adventures": [
+    "Leave one imperfection visible today — unedited, unhidden, unapologetic.",
+    "Stare at the ceiling from your back; no ceiling analysis allowed."
+   ]
+  },
+  "177": {
+   "day": 177,
+   "holiday": {
+    "name": "Virgo · Day 177",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Whose approval are you secretly editing for? Name them — then do one thing they'd never approve of."
+   ],
+   "adventures": [
+    "Choose one tiny act your approval-person would frown at, and do it with relish.",
+    "Uncross your legs and arms; take up the space your critic says you shouldn't."
+   ]
+  },
+  "178": {
+   "day": 178,
+   "holiday": {
+    "name": "Virgo · Day 178",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Discernment or cruelty — which one were you practicing this morning? Be specific."
+   ],
+   "adventures": [
+    "Practice discernment on something small today — judge the soup, not yourself. That's the Virgo gift pointed outward, where it belongs.",
+    "Run your fingers through your hair and mess it up slightly; keep it that way."
+   ]
+  },
+  "179": {
+   "day": 179,
+   "holiday": {
+    "name": "Virgo · Day 179",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Starting badly is guaranteed safe today. What do you start?"
+   ],
+   "adventures": [
+    "Start badly on purpose; the only rule is you can't stop for the first ten minutes.",
+    "Stand in a doorway and stretch your arms wide; fill the frame without apology."
+   ]
+  },
+  "180": {
+   "day": 180,
+   "holiday": {
+    "name": "Virgo · Day 180",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Notice the exact moment helpfulness tips into martyrdom. When did it happen today?"
+   ],
+   "adventures": [
+    "Catch the moment helping becomes martyrdom and step back before the cape comes out.",
+    "Release your face into its natural expression; stop arranging it."
+   ]
+  },
+  "181": {
+   "day": 181,
+   "holiday": {
+    "name": "Virgo · Day 181",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "There's a feeling you're refusing to have. How is 'staying busy improving' helping you refuse it?"
+   ],
+   "adventures": [
+    "Put a name on the feeling under the busyness; let it exist for five minutes, unfixed.",
+    "Squeeze your palms together hard, then release; feel the tingle of letting go."
+   ]
+  },
+  "182": {
+   "day": 182,
+   "holiday": {
+    "name": "Virgo · Day 182",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Your inner editor takes the day off. What do you do with all that quiet?"
+   ],
+   "adventures": [
+    "Bench the editor for a day: every criticism gets answered with 'not today.'",
+    "Take the long way to the next room; the scenic route through your own home."
+   ]
+  },
+  "183": {
+   "day": 183,
+   "holiday": {
+    "name": "Virgo · Day 183",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Define 'enough' for today in one sentence. Then ask why you've never let yourself meet it."
+   ],
+   "adventures": [
+    "Hit today's 'enough' and then actually stop — no bonus round, no victory lap of extra striving.",
+    "End the day with your hand on your heart, saying 'enough' — and mean the period."
+   ]
+  },
+  "184": {
+   "day": 184,
+   "holiday": {
+    "name": "Virgo · Day 184",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "You already know the answer is no — so what story are you telling yourself to make yes sound noble?"
+   ],
+   "adventures": [
+    "Deliver one honest no today, out loud, before midday — small is fine; the muscle matters more than the weight.",
+    "Stand in a doorway and feel the threshold under your feet for ten seconds — a boundary is literally architecture."
+   ]
+  },
+  "185": {
+   "day": 185,
+   "holiday": {
+    "name": "Virgo · Day 185",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Whose emergency are you managing that was never actually yours?"
+   ],
+   "adventures": [
+    "Hand back one problem that wandered onto your plate — name its real owner, out loud, to yourself.",
+    "Set your bag somewhere you never put it; notice how fast your hands itch to \"fix\" the placement."
+   ]
+  },
+  "186": {
+   "day": 186,
+   "holiday": {
+    "name": "Virgo · Day 186",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If nobody ever noticed your helping, would you still do it?"
+   ],
+   "adventures": [
+    "Sneak one good deed past everyone's attention today — useful, invisible, unreported.",
+    "Wash your hands slowly and track the water's temperature shifts; care with no audience still counts."
+   ]
+  },
+  "187": {
+   "day": 187,
+   "holiday": {
+    "name": "Virgo · Day 187",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What are you avoiding in your own life by staying busy with everyone else's?"
+   ],
+   "adventures": [
+    "Spend fifteen minutes on your own unfinished thing before you touch anyone else's request.",
+    "Drop to the floor instead of a chair; feel where your body meets the ground — your foundation wants attention."
+   ]
+  },
+  "188": {
+   "day": 188,
+   "holiday": {
+    "name": "Virgo · Day 188",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Are you helping, or are you auditing?"
+   ],
+   "adventures": [
+    "Swallow one \"helpful\" correction today — catch it rising, and let it dissolve unsaid.",
+    "Press your tongue hard to the roof of your mouth for a full minute; restraint is a muscle, train it."
+   ]
+  },
+  "189": {
+   "day": 189,
+   "holiday": {
+    "name": "Virgo · Day 189",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When did being needed start feeling like being loved?"
+   ],
+   "adventures": [
+    "Borrow a little dependence: ask someone for a small favor today and receive it without managing how they do it.",
+    "Open your hands palms-up on your lap and breathe into them; practice the physical shape of receiving."
+   ]
+  },
+  "190": {
+   "day": 190,
+   "holiday": {
+    "name": "Virgo · Day 190",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Picture the mess that would collapse if you stopped holding it together — why are you its scaffolding?"
+   ],
+   "adventures": [
+    "Loosen your grip on one wobbling situation today — no stabilizing, no rescuing, just watching.",
+    "Balance on one foot while you brush your teeth; wobbling is not failing."
+   ]
+  },
+  "191": {
+   "day": 191,
+   "holiday": {
+    "name": "Virgo · Day 191",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Name the price of your martyrdom, in hours — who exactly is paying it?"
+   ],
+   "adventures": [
+    "Add up the hours you gave away this week and write the number where you'll see it — that's the invoice.",
+    "Lie flat on a hard floor for two minutes; feel what exhaustion actually weighs in your bones."
+   ]
+  },
+  "192": {
+   "day": 192,
+   "holiday": {
+    "name": "Virgo · Day 192",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Tell the truth: if they never thank you, do you rage-quit the friendship?"
+   ],
+   "adventures": [
+    "Tally every mental invoice you issue today — each \"after all I've done\" — just count them, don't act on them.",
+    "Clench both fists as tight as you can, then fling them open; that's the whole ledger, dropping."
+   ]
+  },
+  "193": {
+   "day": 193,
+   "holiday": {
+    "name": "Virgo · Day 193",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Is your advice a gift, or is it a leash?"
+   ],
+   "adventures": [
+    "Offer this instead of advice: \"Do you want input, or just ears?\" — then honor the answer.",
+    "Cover your mouth with your hand for ten seconds when advice starts rising; feel the urge pass through skin."
+   ]
+  },
+  "194": {
+   "day": 194,
+   "holiday": {
+    "name": "Virgo · Day 194",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who taught you that rest has to be earned?"
+   ],
+   "adventures": [
+    "Rest before the work is done today — take the break mid-mess and notice the world doesn't file a complaint.",
+    "Slump in your chair like a puppet with cut strings; let gravity do the holding for once."
+   ]
+  },
+  "195": {
+   "day": 195,
+   "holiday": {
+    "name": "Virgo · Day 195",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Suppose you reclaimed every hour spent managing other people's feelings — what would you build instead?"
+   ],
+   "adventures": [
+    "Reclaim one caretaking hour for your own project today; keep a receipt so you believe it happened.",
+    "Rearrange three objects on your desk purely because you like how they look — your space, your rules."
+   ]
+  },
+  "196": {
+   "day": 196,
+   "holiday": {
+    "name": "Virgo · Day 196",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Honestly: are you the hero, or just the one who can't stand watching someone struggle?"
+   ],
+   "adventures": [
+    "Zip it: watch someone do something badly today and say nothing — let them learn at their own speed.",
+    "Pin your hands under your thighs for five minutes and let the urge to meddle itch itself out, uncured."
+   ]
+  },
+  "197": {
+   "day": 197,
+   "holiday": {
+    "name": "Virgo · Day 197",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Does saying yes make you feel good, or does it just make you feel safe?"
+   ],
+   "adventures": [
+    "Stall on purpose: pause a full ten seconds before answering any request today; let the silence negotiate.",
+    "Lean your back against a wall and push gently; feel yourself holding your own weight."
+   ]
+  },
+  "198": {
+   "day": 198,
+   "holiday": {
+    "name": "Virgo · Day 198",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Quick audit: what are you actually buying with all that usefulness?"
+   ],
+   "adventures": [
+    "Label the transaction: name what you're hoping your helpfulness earns you — say it plainly, even if it's ugly.",
+    "Hold a coin in your palm and study both sides; every transaction needs two willing parties."
+   ]
+  },
+  "199": {
+   "day": 199,
+   "holiday": {
+    "name": "Virgo · Day 199",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Say it plain: if you stopped being useful tomorrow, who would still stay?"
+   ],
+   "adventures": [
+    "Ping one person today with zero offers of help attached — just \"thinking of you,\" full stop.",
+    "Hug yourself — arms crossed, tight squeeze — for thirty seconds; your own company counts."
+   ]
+  },
+  "200": {
+   "day": 200,
+   "holiday": {
+    "name": "Virgo · Day 200",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Why does their disappointment register in your body like an emergency?"
+   ],
+   "adventures": [
+    "Survive someone's mild disappointment today without fixing it — note, afterward, that you survived.",
+    "Exhale through pursed lips until your lungs are fully empty; their feelings aren't your oxygen."
+   ]
+  },
+  "201": {
+   "day": 201,
+   "holiday": {
+    "name": "Virgo · Day 201",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which part of you needs them to need you?"
+   ],
+   "adventures": [
+    "Inventory three things you're genuinely good at that have nothing to do with helping anyone.",
+    "Face yourself in a mirror for a full minute without adjusting your expression; meet yourself unedited."
+   ]
+  },
+  "202": {
+   "day": 202,
+   "holiday": {
+    "name": "Virgo · Day 202",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Admit it: is the problem getting fixed, or just your anxiety about the problem?"
+   ],
+   "adventures": [
+    "Interrogate your next \"help\" before delivering it: whose discomfort am I actually soothing — theirs or mine?",
+    "Put your palm on your sternum and feel your heartbeat for twenty seconds; the anxiety lives here, not in their crisis."
+   ]
+  },
+  "203": {
+   "day": 203,
+   "holiday": {
+    "name": "Virgo · Day 203",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Ever notice when \"I don't mind\" became your native language?"
+   ],
+   "adventures": [
+    "Pick the restaurant, the route, the plan — replace one \"I don't mind\" with an actual preference today.",
+    "Point at something you want in a store and name it out loud, even if you don't buy it; wanting is allowed."
+   ]
+  },
+  "204": {
+   "day": 204,
+   "holiday": {
+    "name": "Virgo · Day 204",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Be real: who would you be if nobody needed a single thing from you?"
+   ],
+   "adventures": [
+    "Wander through one hour with no one to serve; notice what rises — boredom, guilt, or something interesting.",
+    "Wander with no route and no step goal; hand your feet the vote."
+   ]
+  },
+  "205": {
+   "day": 205,
+   "holiday": {
+    "name": "Virgo · Day 205",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Look closer: does your love language say \"service,\" or does it whisper \"control\"?"
+   ],
+   "adventures": [
+    "Detach the strings: do something kind today that gives you zero say in the outcome.",
+    "Tie your shoes starting with the opposite loop; notice how \"wrong\" still holds fine."
+   ]
+  },
+  "206": {
+   "day": 206,
+   "holiday": {
+    "name": "Virgo · Day 206",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Try this thought: what if you were gloriously, unapologetically average at helping?"
+   ],
+   "adventures": [
+    "Ship the good-enough version: the unpolished text, the rough draft, the 80% favor — even a Virgo can sign off on \"fine.\"",
+    "Leave your bed unmade on purpose; walk past it twice and feel the world not ending."
+   ]
+  },
+  "207": {
+   "day": 207,
+   "holiday": {
+    "name": "Virgo · Day 207",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Seriously: whose approval are you quietly harvesting with all that competence?"
+   ],
+   "adventures": [
+    "Flub one thing on purpose today — small, harmless — and observe that nothing collapses.",
+    "Smudge a mirror, a window, a screen — leave the mark and look straight at it."
+   ]
+  },
+  "208": {
+   "day": 208,
+   "holiday": {
+    "name": "Virgo · Day 208",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Count the favors that came with invisible terms and conditions — what's the running total?"
+   ],
+   "adventures": [
+    "Release one favor into the wild with zero expectations attached; if resentment flares, that's data, not failure.",
+    "Give away a possession you actually like — hand it over, no ceremony; feel the lightness after."
+   ]
+  },
+  "209": {
+   "day": 209,
+   "holiday": {
+    "name": "Virgo · Day 209",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Do you actually like these people, or do you just like being needed by them?"
+   ],
+   "adventures": [
+    "Ghost one duty check-in today — the one you do from obligation — and see if the relationship survives.",
+    "Eat something slowly, tasting each bite all the way down; your own appetite deserves attention too."
+   ]
+  },
+  "210": {
+   "day": 210,
+   "holiday": {
+    "name": "Virgo · Day 210",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Consider this: what are you proving, and to whom?"
+   ],
+   "adventures": [
+    "Draft the sentence \"I am enough even when I do nothing\" — then sit with how hard you resist believing it.",
+    "Sprawl on the floor and do absolutely nothing for five minutes — no phone, no plan, just horizontal."
+   ]
+  },
+  "211": {
+   "day": 211,
+   "holiday": {
+    "name": "Virgo · Day 211",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Explain this: if helping is so rewarding, why are you so tired?"
+   ],
+   "adventures": [
+    "Cut one commitment today — the one your body flinches at when you picture it.",
+    "Yawn on purpose — huge, dramatic, jaw-cracking — three times; your body has been holding that in."
+   ]
+  },
+  "212": {
+   "day": 212,
+   "holiday": {
+    "name": "Virgo · Day 212",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Remember the last time someone took care of you without you orchestrating it — or can't you?"
+   ],
+   "adventures": [
+    "Surrender control of one received favor: accept help today with no instructions and no hovering.",
+    "Let someone else carry something for you — a bag, a box — and keep your hands in your pockets."
+   ]
+  },
+  "213": {
+   "day": 213,
+   "holiday": {
+    "name": "Virgo · Day 213",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Notice this: you're tidying their life because yours feels unmanageable — true or false?"
+   ],
+   "adventures": [
+    "Scrub one neglected corner of your own space — the drawer, the shelf — that you've ignored while managing everyone else.",
+    "Get on your knees and scrub something low — baseboards, floor tiles; humble work in your own domain."
+   ]
+  },
+  "214": {
+   "day": 214,
+   "holiday": {
+    "name": "Virgo · Day 214",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Imagine saying the selfish-sounding true thing out loud — what would it be?"
+   ],
+   "adventures": [
+    "Voice the selfish-sounding true thing once today; watch the sky remain exactly where it was.",
+    "Announce to a mirror: \"I want\" followed by something real; hear your own voice wanting things."
+   ]
+  },
+  "215": {
+   "day": 215,
+   "holiday": {
+    "name": "Virgo · Day 215",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Right now: why do you rehearse boundaries in the shower and never deliver them?"
+   ],
+   "adventures": [
+    "Fumble through one small boundary today, clumsy and unrehearsed — clumsy still counts.",
+    "Steam up the bathroom mirror and write your boundary in the fog with your fingertip."
+   ]
+  },
+  "216": {
+   "day": 216,
+   "holiday": {
+    "name": "Virgo · Day 216",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Listen to yourself: rescue mission or audition for indispensable — which is it?"
+   ],
+   "adventures": [
+    "Exit one rescue in progress: step out and let the plot resolve without your character in it.",
+    "Walk backward for twenty steps somewhere safe; feel what it's like to not lead."
+   ]
+  },
+  "217": {
+   "day": 217,
+   "holiday": {
+    "name": "Virgo · Day 217",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Describe what the word \"no\" tastes like in your mouth."
+   ],
+   "adventures": [
+    "Rehearse \"no\" in a mirror until it stops sounding like an apology.",
+    "Bite into something sour — a lemon wedge, a pickle — and let your face react with total honesty."
+   ]
+  },
+  "218": {
+   "day": 218,
+   "holiday": {
+    "name": "Virgo · Day 218",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Forget everyone else for a second: whose life are you living — yours, or the one where everyone else is fine?"
+   ],
+   "adventures": [
+    "Fence off one hour today labeled with your name only — defend it like it belongs to someone you love.",
+    "Draw a circle around yourself — chalk, string, imagination — and stand inside it for a minute."
+   ]
+  },
+  "219": {
+   "day": 219,
+   "holiday": {
+    "name": "Virgo · Day 219",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Gone tomorrow: if your helpfulness vanished overnight, what would be left of you?"
+   ],
+   "adventures": [
+    "Subtract the helping from your identity: list ten things that are \"you\" with service removed.",
+    "Strip your workspace down to a single object; sit with the emptiness and the one thing you kept."
+   ]
+  },
+  "220": {
+   "day": 220,
+   "holiday": {
+    "name": "Virgo · Day 220",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Check yourself: generosity or conflict-avoidance — which is actually driving?"
+   ],
+   "adventures": [
+    "Disagree with someone today about something small — and hold the disagreement without smoothing it over.",
+    "Resist yourself: press your palms together hard and feel the pushback; friction isn't violence."
+   ]
+  },
+  "221": {
+   "day": 221,
+   "holiday": {
+    "name": "Virgo · Day 221",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Confess: what favor are you performing right now that you secretly want rescuing from?"
+   ],
+   "adventures": [
+    "Resign from one favor you're performing resentfully — \"I need to step back from this\" — and mean it.",
+    "Untie your shoes and retie them slowly; notice how easy it is to loosen what binds you."
+   ]
+  },
+  "222": {
+   "day": 222,
+   "holiday": {
+    "name": "Virgo · Day 222",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Really now — do you listen, or do you just wait to deploy solutions?"
+   ],
+   "adventures": [
+    "Echo instead of fix: in your next conversation, reflect back what you heard — \"it sounds like...\" — and stop there.",
+    "Plug your ears with your fingertips for thirty seconds and listen to your own breath; input, not output."
+   ]
+  },
+  "223": {
+   "day": 223,
+   "holiday": {
+    "name": "Virgo · Day 223",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Compare: their mess is intolerable, but yours is \"a project for later\" — why the double standard?"
+   ],
+   "adventures": [
+    "Prioritize the mess you've been deferring: give it thirty minutes before you touch anyone else's.",
+    "Rummage through your junk drawer and touch everything in it; your Khaos deserves hands-on time too."
+   ]
+  },
+  "224": {
+   "day": 224,
+   "holiday": {
+    "name": "Virgo · Day 224",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Pretend your inner critic moonlighted as someone else's PR agent — what would it say about you?"
+   ],
+   "adventures": [
+    "Spin one self-critical thought like a publicist — rewrite it shameless, flattering, and loud.",
+    "Write your meanest self-criticism on paper, crumple it, and hurl it at a wall; hear the thud."
+   ]
+  },
+  "225": {
+   "day": 225,
+   "holiday": {
+    "name": "Virgo · Day 225",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Define it: does your perfectionism serve the craft, or shield you from starting?"
+   ],
+   "adventures": [
+    "Launch something unfinished today — the email, the plan, the draft; done beats perfect.",
+    "Crook a line across a page — deliberately wobbly — and sign it like it's finished, Virgo."
+   ]
+  },
+  "226": {
+   "day": 226,
+   "holiday": {
+    "name": "Virgo · Day 226",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Finally, honestly: how much longer will you \"prepare\" before admitting you're stalling?"
+   ],
+   "adventures": [
+    "Begin the thing with what you have right now — no more research, no more lists, no more \"prep.\"",
+    "Jump in place ten times; momentum starts in the body, not the plan."
+   ]
+  },
+  "227": {
+   "day": 227,
+   "holiday": {
+    "name": "Virgo · Day 227",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Dig under the analysis: what are you thinking to death so you never have to feel it?"
+   ],
+   "adventures": [
+    "Pinpoint the feeling hiding under the analysis in one word — then sit with that word for a full minute.",
+    "Sink a hand onto your belly and breathe low into it; the body kept the memo your brain deleted."
+   ]
+  },
+  "228": {
+   "day": 228,
+   "holiday": {
+    "name": "Virgo · Day 228",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Ask yourself: whose standards are you failing — yours, or the imaginary audience's?"
+   ],
+   "adventures": [
+    "Lower the bar to \"fine\" on one thing today and release it into the world anyway.",
+    "Switch hands and eat with your non-dominant one; clumsy is a quality level too, and it still feeds you."
+   ]
+  },
+  "229": {
+   "day": 229,
+   "holiday": {
+    "name": "Virgo · Day 229",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Test this: if you treated a friend the way you treat yourself, would they stick around?"
+   ],
+   "adventures": [
+    "Befriend yourself in your own head today — talk to yourself like someone you actually like.",
+    "Pat your own shoulder — actually do it — and notice how strange self-kindness feels in your body."
+   ]
+  },
+  "230": {
+   "day": 230,
+   "holiday": {
+    "name": "Virgo · Day 230",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Feel into it: what does your body know that your spreadsheets never will?"
+   ],
+   "adventures": [
+    "Trust your gut on one decision today — ten seconds, no pros-and-cons list, commit.",
+    "Close your eyes and turn in slow circles until you're dizzy; let your body answer first."
+   ]
+  },
+  "231": {
+   "day": 231,
+   "holiday": {
+    "name": "Virgo · Day 231",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Clock it: service or surveillance — which one are you actually doing?"
+   ],
+   "adventures": [
+    "Unfollow the situation you \"helped\" with — no check-in texts, no status updates, no monitoring.",
+    "Distance your phone: leave it in another room for an hour; feel the phantom urge to monitor rise and fall."
+   ]
+  },
+  "232": {
+   "day": 232,
+   "holiday": {
+    "name": "Virgo · Day 232",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Dare yourself: when did you last do something gloriously useless on purpose?"
+   ],
+   "adventures": [
+    "Squander twenty minutes on something gloriously pointless — doodle, stack pebbles, stare; no outcome.",
+    "Stack five random objects into a tower, knock it down, build it differently; no purpose required."
+   ]
+  },
+  "233": {
+   "day": 233,
+   "holiday": {
+    "name": "Virgo · Day 233",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Follow the money: who benefits from you never being finished?"
+   ],
+   "adventures": [
+    "Declare one imperfect task finished today — say the word \"done\" out loud and mean it.",
+    "Fold a sheet of paper into a rough shape — boat, crane, beautiful mess; unfinished is a shape too."
+   ]
+  },
+  "234": {
+   "day": 234,
+   "holiday": {
+    "name": "Virgo · Day 234",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Decide: does your helpfulness build bridges, or collect tolls?"
+   ],
+   "adventures": [
+    "Empower instead of rescue: help someone today in a way that makes them less dependent on you.",
+    "Unlock a door and leave it open behind you; some thresholds are meant to be crossed without you."
+   ]
+  },
+  "235": {
+   "day": 235,
+   "holiday": {
+    "name": "Virgo · Day 235",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Sit with this: what would you have to feel if you stopped fixing things?"
+   ],
+   "adventures": [
+    "Endure one unsolved problem for ten minutes without brainstorming — just feel the itch and don't scratch it.",
+    "Melt an ice cube in your bare hand; discomfort ends on its own, no intervention required."
+   ]
+  },
+  "236": {
+   "day": 236,
+   "holiday": {
+    "name": "Virgo · Day 236",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Audit your roles: friend or unpaid project manager — pick the one on your business card."
+   ],
+   "adventures": [
+    "Retire from one unofficial job — the planner, the reminder service, the fixer — effective immediately.",
+    "Unwind the tracker: take off your watch or fitness band for the day; stop managing even yourself."
+   ]
+  },
+  "237": {
+   "day": 237,
+   "holiday": {
+    "name": "Virgo · Day 237",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Unpack this: why does asking for help feel like filing for bankruptcy?"
+   ],
+   "adventures": [
+    "Request help with something you're perfectly capable of doing yourself; let it be easy on purpose.",
+    "Extend your hand palm-up to someone and ask for a high-five; receiving starts embarrassingly small."
+   ]
+  },
+  "238": {
+   "day": 238,
+   "holiday": {
+    "name": "Virgo · Day 238",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Brave question: what are you afraid they'll discover if you stop performing competence?"
+   ],
+   "adventures": [
+    "Cede the expert role once today: say \"I don't know\" out loud to a person, and watch nothing break.",
+    "Wear something slightly wrinkled on purpose today; let the world meet an unpressed version of you."
+   ]
+  },
+  "239": {
+   "day": 239,
+   "holiday": {
+    "name": "Virgo · Day 239",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Own it: is this your circus, or did you just volunteer for tent duty?"
+   ],
+   "adventures": [
+    "Recuse yourself from one circus that isn't yours — quietly exit the tent, no announcement.",
+    "Whirl in a slow circle with your arms out; not every ring needs a ringmaster."
+   ]
+  },
+  "240": {
+   "day": 240,
+   "holiday": {
+    "name": "Virgo · Day 240",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Grant it, just for today: what would change if people could handle their own lives?"
+   ],
+   "adventures": [
+    "Bet on someone's competence today: treat one person as fully capable — no tips, no safety net, just trust.",
+    "Watch an ant or a spider work for two full minutes without interfering; competence is everywhere."
+   ]
+  },
+  "241": {
+   "day": 241,
+   "holiday": {
+    "name": "Virgo · Day 241",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Measure honestly: overflow or bone — where is this giving actually coming from?"
+   ],
+   "adventures": [
+    "Gauge your own tank before your next yes — if it's bone-dry, the answer is no.",
+    "Drink a full glass of water slowly, in deliberate sips; refill yourself first, literally."
+   ]
+  },
+  "242": {
+   "day": 242,
+   "holiday": {
+    "name": "Virgo · Day 242",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Free of their reaction: what boundary would you set then?"
+   ],
+   "adventures": [
+    "Issue the boundary and let them have whatever reaction they have — their feelings are theirs to carry.",
+    "Etch a line in salt, sand, or flour on a counter; look at it — yours, real, non-negotiable."
+   ]
+  },
+  "243": {
+   "day": 243,
+   "holiday": {
+    "name": "Virgo · Day 243",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Read your own eulogy draft: does it sound like a to-do list?"
+   ],
+   "adventures": [
+    "Compose one line you'd actually want remembered for — not a task, a truth.",
+    "Gaze upward from flat on your back for three minutes — sky or ceiling; the world is bigger than your list."
+   ]
+  },
+  "244": {
+   "day": 244,
+   "holiday": {
+    "name": "Virgo · Day 244",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Wonder with me: what if the most helpful thing you can do today is nothing?"
+   ],
+   "adventures": [
+    "Master the art of strategic nothing: pick one situation today, intervene zero times, stay fully present.",
+    "Freeze for three minutes — perfectly still, no fidgeting, no fixing; stillness is also a craft."
+   ]
+  },
+  "245": {
+   "day": 245,
+   "holiday": {
+    "name": "Virgo · Day 245",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Whose standard are you actually serving today — yours, or one you inherited and never audited?"
+   ],
+   "adventures": [
+    "Catch one 'should' in the wild, trace it to its owner, and if the owner isn't you, decide whether you're keeping it or returning it.",
+    "Fix one small thing that's been nagging you for weeks — a drawer, a wobbly knob — and notice how fifteen minutes of real repair beats three days of mental rehearsal."
+   ]
+  },
+  "246": {
+   "day": 246,
+   "holiday": {
+    "name": "Virgo · Day 246",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If 'perfect' left the building, what would you ship this week that fear of flaws has been holding hostage?"
+   ],
+   "adventures": [
+    "Send the draft, post the thing, book the appointment — one act done at 80% before the sun goes down.",
+    "Organize one shelf by usefulness, not by aesthetics. Useful beats photogenic every time."
+   ]
+  },
+  "247": {
+   "day": 247,
+   "holiday": {
+    "name": "Virgo · Day 247",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which flaw in you is actually a feature wearing an insult somebody else dressed it in?"
+   ],
+   "adventures": [
+    "Write down the three things your inner critic said loudest this week, then cross-examine each one like a lawyer with receipts.",
+    "Face a mirror and name one thing your body does well that you never thank it for. Say it out loud."
+   ]
+  },
+  "248": {
+   "day": 248,
+   "holiday": {
+    "name": "Virgo · Day 248",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Where are you analyzing a decision to death because deciding would mean risking being wrong?"
+   ],
+   "adventures": [
+    "Set a timer for ten minutes, gather exactly enough info to choose, then choose. Write down what 'enough' meant.",
+    "Walk somewhere without your usual route planning — let the streets be un-optimized for once."
+   ]
+  },
+  "249": {
+   "day": 249,
+   "holiday": {
+    "name": "Virgo · Day 249",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who benefits from you doing it 'their way' — and what does that cost your way?"
+   ],
+   "adventures": [
+    "Do one routine task entirely your way today, no apology tour, no explanation. Observe how the world doesn't end.",
+    "Rearrange one small corner of your home to serve your actual habits instead of the fantasy version of you."
+   ]
+  },
+  "250": {
+   "day": 250,
+   "holiday": {
+    "name": "Virgo · Day 250",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Helping hand or control in a halo — which is yours, honestly?"
+   ],
+   "adventures": [
+    "Ask someone what they need before offering what you think they need. Then sit with the difference.",
+    "Leave someone's mess alone for a full day — your desk mate's, your partner's, your kid's. Practice restraint in your hands, not just your head."
+   ]
+  },
+  "251": {
+   "day": 251,
+   "holiday": {
+    "name": "Virgo · Day 251",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Imagine perfectionism refunds your hours tomorrow, paid in full. What would you do with them?"
+   ],
+   "adventures": [
+    "Time one 'quick fix' you're about to do: under twenty minutes, do it; longer, and it's a project — schedule it or drop it.",
+    "Toss one box of clutter without sorting it first — yes, unsorted; freedom has a learning curve."
+   ]
+  },
+  "252": {
+   "day": 252,
+   "holiday": {
+    "name": "Virgo · Day 252",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Name the critic whose voice still lives rent-free in your head, years after they said it — then ask why they never got evicted."
+   ],
+   "adventures": [
+    "Draft the eviction notice: write their words, then write three pieces of evidence against them, and read it aloud.",
+    "Scrub something until it gleams — then stop. Admire it for sixty seconds without finding the next thing to clean."
+   ]
+  },
+  "253": {
+   "day": 253,
+   "holiday": {
+    "name": "Virgo · Day 253",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When did 'good enough' last feel like enough — and who convinced you it wasn't?"
+   ],
+   "adventures": [
+    "Finish one task at 80% on purpose. Label it 'complete.' Feel the twitch and finish anyway.",
+    "Eat one meal slowly, tasting every bite, without improving anything about it. No phone, no planning."
+   ]
+  },
+  "254": {
+   "day": 254,
+   "holiday": {
+    "name": "Virgo · Day 254",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What are you 'fixing' in others that you refuse to look at in yourself?"
+   ],
+   "adventures": [
+    "Notice the next time you correct someone today, then pause and ask what you were avoiding in your own life at that exact moment.",
+    "Stretch the part of your body you always ignore — the tight jaw, the hunched shoulders. They hold the critique you swallow."
+   ]
+  },
+  "255": {
+   "day": 255,
+   "holiday": {
+    "name": "Virgo · Day 255",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Does your list serve your life, or does your life serve your list?"
+   ],
+   "adventures": [
+    "Move one to-do from today to the trash, permanently — delete it; if the world doesn't notice in a week, it was never real.",
+    "Drop to the floor mid-day, no list in reach, and let gravity make the argument your planner will not."
+   ]
+  },
+  "256": {
+   "day": 256,
+   "holiday": {
+    "name": "Virgo · Day 256",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Strip away everybody's need for you — no one needs a thing. Who are you then?"
+   ],
+   "adventures": [
+    "Spend twenty minutes on something utterly unproductive that you love. No output, no audience, no improvement.",
+    "Take a different path home — literally. New street, new view, same you with less script."
+   ]
+  },
+  "257": {
+   "day": 257,
+   "holiday": {
+    "name": "Virgo · Day 257",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Your 'just in case' drawer is full. Is it preparation, or fear with a label maker?"
+   ],
+   "adventures": [
+    "Pick one 'just in case' item or commitment and release it today. Watch nothing happen.",
+    "Clear the surface you use most — desk, nightstand — down to five things. Breathing room is a form of honesty."
+   ]
+  },
+  "258": {
+   "day": 258,
+   "holiday": {
+    "name": "Virgo · Day 258",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Nobody remembers the last time you let yourself be bad at something new without apologizing. Can you?"
+   ],
+   "adventures": [
+    "Try something you're guaranteed to suck at, for fun — sketch, sing, dance in the kitchen, and suck with pride.",
+    "Do one familiar motion with your non-dominant hand. Feel the clumsiness and keep going anyway."
+   ]
+  },
+  "259": {
+   "day": 259,
+   "holiday": {
+    "name": "Virgo · Day 259",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "You're waiting for the right moment. Honest question: is 'not ready' a fact, or your favorite hiding spot?"
+   ],
+   "adventures": [
+    "Take the thing you've been 'preparing' for and do it with whatever you have right now. Preparation is over; it's showtime.",
+    "Stand outside for two minutes, rain or shine, no umbrella, no plan. Let weather be weather."
+   ]
+  },
+  "260": {
+   "day": 260,
+   "holiday": {
+    "name": "Virgo · Day 260",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Look at your routines. Which are devotion, and which are just superstitions dressed in logic?"
+   ],
+   "adventures": [
+    "Skip one sacred routine today and observe: did the day collapse, or did you just feel naked? Data over dogma.",
+    "Brew your drink differently, or drink it in a different room. Small disruption, big honesty."
+   ]
+  },
+  "261": {
+   "day": 261,
+   "holiday": {
+    "name": "Virgo · Day 261",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Take inventory: which mess isn't actually yours, but you're cleaning it up anyway?"
+   ],
+   "adventures": [
+    "Hand one responsibility back to its rightful owner today, kindly but clearly. No rescue missions.",
+    "Sneak one thing in only for yourself that nobody will see or thank you for. Private goodness counts double."
+   ]
+  },
+  "262": {
+   "day": 262,
+   "holiday": {
+    "name": "Virgo · Day 262",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "There's a detail you're obsessing over that nobody else will ever notice. What's it costing you?"
+   ],
+   "adventures": [
+    "Run the month test: will anyone care in a month? If no, cap the effort at ten more minutes and ship it.",
+    "Step out the door with one imperfection — a wrinkle, a stray hair, a scuff. Let the world see you unproofed."
+   ]
+  },
+  "263": {
+   "day": 263,
+   "holiday": {
+    "name": "Virgo · Day 263",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Bodies keep score and file complaints. What's at the top of its list for you?"
+   ],
+   "adventures": [
+    "Listen for one ignored signal — tension, hunger, exhaustion — and act on it within the hour. No negotiation.",
+    "Run a real bath or take a long shower, not a functional rinse. Let water do the worrying for a while."
+   ]
+  },
+  "264": {
+   "day": 264,
+   "holiday": {
+    "name": "Virgo · Day 264",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Love, earned through usefulness — where did you learn that, and is the invoice still open?"
+   ],
+   "adventures": [
+    "Give one generous thing anonymously today. No credit, no witnesses, no ledger entry.",
+    "Rest in a common space — couch, park bench — doing nothing visible. Let people see you un-useful."
+   ]
+  },
+  "265": {
+   "day": 265,
+   "holiday": {
+    "name": "Virgo · Day 265",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Fast-forward to your 80-year-old self and hear their plea: stop perfecting something. Name it."
+   ],
+   "adventures": [
+    "Compose a letter from future-you to present-you, letting them be blunt — then follow one instruction.",
+    "Call or message someone you've been meaning to, before you find the 'right words.' Rough and real beats perfect and never."
+   ]
+  },
+  "266": {
+   "day": 266,
+   "holiday": {
+    "name": "Virgo · Day 266",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Editing your life, or just endlessly revising the same chapter — which is it?"
+   ],
+   "adventures": [
+    "Start one genuinely new thing today — not a better version of the old thing, a different thing entirely.",
+    "Shift one piece of furniture, even slightly. The room's new angle is a metaphor your brain will understand."
+   ]
+  },
+  "267": {
+   "day": 267,
+   "holiday": {
+    "name": "Virgo · Day 267",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "One question scares you because the answer would demand change. Ask it anyway."
+   ],
+   "adventures": [
+    "Speak it out loud — the question — then write the answer you've been avoiding. The page can hold what you can't.",
+    "Sit in silence for three minutes — no music, no podcast, no input. Let the uncomfortable thought surface."
+   ]
+  },
+  "268": {
+   "day": 268,
+   "holiday": {
+    "name": "Virgo · Day 268",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Somebody's rulebook is running your life. Have you ever actually read it, or did you just adopt it?"
+   ],
+   "adventures": [
+    "Interrogate one rule you follow automatically: who made it, why, and does it still serve you?",
+    "Prepare food the way you actually like it, not the way you were taught 'proper' people do."
+   ]
+  },
+  "269": {
+   "day": 269,
+   "holiday": {
+    "name": "Virgo · Day 269",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Be honest: is your organization a tool that serves you, or a shrine to looking put-together?"
+   ],
+   "adventures": [
+    "Audit one system you maintain religiously and ask: does this save me time, or does maintaining it cost me time?",
+    "Empty one container — a bag, a junk drawer, a pocket — onto a table. Rebuild it from scratch, keeping only what's earned its place."
+   ]
+  },
+  "270": {
+   "day": 270,
+   "holiday": {
+    "name": "Virgo · Day 270",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "A piece of criticism about you was actually accurate. Which one — and why are you still ignoring it?"
+   ],
+   "adventures": [
+    "Choose one fair critique you've dodged and make one small correction today. Growth beats grudge.",
+    "Straighten up: posture check, fix what you can in thirty seconds. Your spine knows when you're avoiding things."
+   ]
+  },
+  "271": {
+   "day": 271,
+   "holiday": {
+    "name": "Virgo · Day 271",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Somewhere in your life, you're the bottleneck — holding a project hostage until it's flawless. Where is it?"
+   ],
+   "adventures": [
+    "Release one thing that's 90% ready and delegate one thing you've been hoarding; trust the gap.",
+    "Hand someone else the knife, the dish, the remote — let them do it their way in your space. Survive it."
+   ]
+  },
+  "272": {
+   "day": 272,
+   "holiday": {
+    "name": "Virgo · Day 272",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "'Being prepared' — is that what you call it? Or is it just anxiety with a clipboard?"
+   ],
+   "adventures": [
+    "Leave the house with one fewer backup item than usual — one less charger, one less snack — and live dangerously-ish.",
+    "Sleep without the phone on the nightstand tonight. Let the morning be unplanned for ten minutes."
+   ]
+  },
+  "273": {
+   "day": 273,
+   "holiday": {
+    "name": "Virgo · Day 273",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "You learned to keep auditioning for approval somewhere along the way. Name the judge, then ask what the prize even is."
+   ],
+   "adventures": [
+    "Name them, then do one thing today specifically because THEY wouldn't approve — feel the freedom in your gut.",
+    "Wear something slightly 'wrong' — mismatched, wrinkled, bold. Walk around in your own skin anyway."
+   ]
+  },
+  "274": {
+   "day": 274,
+   "holiday": {
+    "name": "Virgo · Day 274",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "It comes so easily you barely count it — but what skill are you undervaluing for exactly that reason?"
+   ],
+   "adventures": [
+    "Identify one thing you're great at that you've dismissed as 'just something anyone can do.' Then price it or claim it properly.",
+    "Use your hands for something skilled today — cook, fix, build, mend. Virgo hands were made for craft; feel it in your fingers."
+   ]
+  },
+  "275": {
+   "day": 275,
+   "holiday": {
+    "name": "Virgo · Day 275",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Rest: when did it last feel earned instead of stolen?"
+   ],
+   "adventures": [
+    "Schedule a real break today like it's a meeting — non-negotiable. Show up for it the way you'd show up for a boss.",
+    "Nap or lie down without guilt for twenty minutes. Set a timer so the guilt has no argument."
+   ]
+  },
+  "276": {
+   "day": 276,
+   "holiday": {
+    "name": "Virgo · Day 276",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Something's being tolerated in the name of 'not making a fuss.' Name it — and price the silence."
+   ],
+   "adventures": [
+    "Say the small true thing you've been swallowing — kindly, clearly, once — then stop, no campaign.",
+    "Repair the annoyance you've been stepping around — the squeak, the drip, the flicker — today, with no more tolerance tax."
+   ]
+  },
+  "277": {
+   "day": 277,
+   "holiday": {
+    "name": "Virgo · Day 277",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Is your helpfulness a gift, or is it a leash you're hoping someone will hold?"
+   ],
+   "adventures": [
+    "Carry out one helpful thing with zero expectation of thanks or return. Then don't mention it to anyone, ever.",
+    "Let someone do something for you today without deflecting. Receive without earning it first."
+   ]
+  },
+  "278": {
+   "day": 278,
+   "holiday": {
+    "name": "Virgo · Day 278",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Others get your surgical precision by default. Turn it on yourself for once — what changes?"
+   ],
+   "adventures": [
+    "Apply your famous attention to detail to one self-care act today — do it properly, not as an afterthought.",
+    "Groom or dress with unusual care for no special reason. Be the person your standards deserve."
+   ]
+  },
+  "279": {
+   "day": 279,
+   "holiday": {
+    "name": "Virgo · Day 279",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Worries have track records. Pull the files: has any of yours ever actually been right?"
+   ],
+   "adventures": [
+    "List your top three recurring worries, then check the evidence: how many times did each actually happen? Burn the list.",
+    "Go for a walk without a destination and without tracking it. Move for the sake of moving."
+   ]
+  },
+  "280": {
+   "day": 280,
+   "holiday": {
+    "name": "Virgo · Day 280",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Future-you is watching today. What would they call a waste of a perfectly good day?"
+   ],
+   "adventures": [
+    "Cut one energy-drain from today — you know which one, so be ruthless for once; your future self is watching.",
+    "Lend five minutes to doing absolutely nothing in a sunlit spot. Productive rest is a skill; practice it badly if you must."
+   ]
+  },
+  "281": {
+   "day": 281,
+   "holiday": {
+    "name": "Virgo · Day 281",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "At some point you learned that asking for help means you failed. Who taught you that lesson?"
+   ],
+   "adventures": [
+    "Request help with one thing today — small, specific, honest. Then actually let them do it.",
+    "Carry one less bag, literally — travel lighter and notice how your body thanks you."
+   ]
+  },
+  "282": {
+   "day": 282,
+   "holiday": {
+    "name": "Virgo · Day 282",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "The workspace is talking about your mind. What's it saying that you'd never say out loud?"
+   ],
+   "adventures": [
+    "Look at your desk or digital desktop like a detective and ask what the mess is protecting you from — then tidy one honest thing.",
+    "Clean your most-used screen — phone, mirror, glasses. See clearly, for once, what you've been squinting past."
+   ]
+  },
+  "283": {
+   "day": 283,
+   "holiday": {
+    "name": "Virgo · Day 283",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "'Bad with money' — is that actually true, or are you just bad at forgiving your past spending?"
+   ],
+   "adventures": [
+    "Face one financial truth you've been avoiding — a balance, a subscription, a bill — look at it, just look, then act.",
+    "Count your cash or check one account balance barefoot on the floor. Grounding plus numbers equals honesty."
+   ]
+  },
+  "284": {
+   "day": 284,
+   "holiday": {
+    "name": "Virgo · Day 284",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "'Done' — what does that word even mean to you? Finished, or finished-and-flawless-and-praised?"
+   ],
+   "adventures": [
+    "Define 'done' for one project in writing, and make 'good enough' the finish line. Then cross it.",
+    "Finish something physical — a puzzle, a chore, a repair — and declare victory loudly. Celebrate completion, not perfection."
+   ]
+  },
+  "285": {
+   "day": 285,
+   "holiday": {
+    "name": "Virgo · Day 285",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Other people's lives get your organizing; yours waits in the hallway. Whose turn is it — theirs or yours?"
+   ],
+   "adventures": [
+    "Redirect one hour from managing others to tending one of your own neglected projects. Your hallway first.",
+    "Tidy your own private space — the corner nobody sees. It's yours; that's the whole point."
+   ]
+  },
+  "286": {
+   "day": 286,
+   "holiday": {
+    "name": "Virgo · Day 286",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Everyone else moved on from your mistake years ago. So why are you still punishing yourself for it?"
+   ],
+   "adventures": [
+    "Pen the apology you owe yourself and read it aloud. Forgiveness is a skill; practice on the one who needs it most.",
+    "Retry the thing the mistake was about — try again, differently. Redemption is physical."
+   ]
+  },
+  "287": {
+   "day": 287,
+   "holiday": {
+    "name": "Virgo · Day 287",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Caution feels like wisdom until it costs you everything interesting. Is yours protecting you, or just fear that's done a lot of reading?"
+   ],
+   "adventures": [
+    "Seize one calculated risk today — say yes before you've fully mapped the consequences. The map was never the territory.",
+    "Sample a food, route, or activity you usually avoid. Let your senses gather new data."
+   ]
+  },
+  "288": {
+   "day": 288,
+   "holiday": {
+    "name": "Virgo · Day 288",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Narrate less, notice more: what would you see about your life if you stopped narrating it for a day?"
+   ],
+   "adventures": [
+    "Claim one hour of zero commentary — no judging, no planning, no reviewing. Just observe what happens.",
+    "Listen to the sounds of your home or street for five minutes with your eyes closed. The world is still talking."
+   ]
+  },
+  "289": {
+   "day": 289,
+   "holiday": {
+    "name": "Virgo · Day 289",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "'I'm fine' — where are you saying that when you're actually running on fumes?"
+   ],
+   "adventures": [
+    "Tell one person the truth about your energy level today. 'I'm running low' is a complete sentence.",
+    "Drink a full glass of water and sit down for ten minutes. Fumes need fuel, not willpower."
+   ]
+  },
+  "290": {
+   "day": 290,
+   "holiday": {
+    "name": "Virgo · Day 290",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Peel back the polish. Some part of your identity is a defense mechanism in a good suit — which part?"
+   ],
+   "adventures": [
+    "Pose the scary question: if you weren't 'the reliable one' or 'the fixer,' who would you be? Sit with the blank.",
+    "Be gloriously unreliable once today — spontaneous, unplanned, slightly irresponsible. Feel the other side."
+   ]
+  },
+  "291": {
+   "day": 291,
+   "holiday": {
+    "name": "Virgo · Day 291",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Today you're living on somebody's schedule. Whose is it — and what did yours cost?"
+   ],
+   "adventures": [
+    "Reclaim one hour today and spend it on YOUR priority, not someone else's emergency. Guard it like a dragon.",
+    "Dine at a time that suits your hunger, not your calendar. Your stomach doesn't read agendas."
+   ]
+  },
+  "292": {
+   "day": 292,
+   "holiday": {
+    "name": "Virgo · Day 292",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Deep down you know the thing you're pretending not to know. Admit it — then ask what changes once you do."
+   ],
+   "adventures": [
+    "Put the truth you've been circling into one sentence. Then act like you know it, because you do.",
+    "Hold your own gaze in the mirror for thirty seconds without looking away. You already know."
+   ]
+  },
+  "293": {
+   "day": 293,
+   "holiday": {
+    "name": "Virgo · Day 293",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Modesty looks humble. But is yours really humility — or fear of being seen wanting something?"
+   ],
+   "adventures": [
+    "State one want out loud today — to a person, not a journal. 'I want' is not a confession.",
+    "Buy or make yourself one thing you've been 'too practical' to get — want it, have it, no justification."
+   ]
+  },
+  "294": {
+   "day": 294,
+   "holiday": {
+    "name": "Virgo · Day 294",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Picture a project no one will ever judge — no blueprint review, no side-eye — and describe what you'd build."
+   ],
+   "adventures": [
+    "Sketch, plan, or start the project you've been censoring. The only critic allowed today is curiosity.",
+    "Build or assemble something with your hands — furniture, a meal, a mess. Make it real."
+   ]
+  },
+  "295": {
+   "day": 295,
+   "holiday": {
+    "name": "Virgo · Day 295",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Niceness has a price. Yours has been paid in honesty — where exactly?"
+   ],
+   "adventures": [
+    "Offer one honest opinion today where you'd normally smooth it over. Kindness and honesty are not enemies.",
+    "Deliver one firm 'no' with your whole body standing tall. Feel the word land."
+   ]
+  },
+  "296": {
+   "day": 296,
+   "holiday": {
+    "name": "Virgo · Day 296",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Metrics, metrics everywhere. Which of the ones you track actually matters?"
+   ],
+   "adventures": [
+    "Drop one metric you track obsessively for a full week — steps, likes, hours. See if your life notices.",
+    "Weigh, count, or time nothing for one whole day. Let your body be un-quantified."
+   ]
+  },
+  "297": {
+   "day": 297,
+   "holiday": {
+    "name": "Virgo · Day 297",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Suppose you stopped being useful for a month. Who would actually miss you?"
+   ],
+   "adventures": [
+    "Make a list of people who love you versus people who use you. Then invest in the first list this week.",
+    "Give an evening to something you love that serves nobody; pure, selfish joy takes practice."
+   ]
+  },
+  "298": {
+   "day": 298,
+   "holiday": {
+    "name": "Virgo · Day 298",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "That inner critic has a voice. Whose is it really — and who does it remind you of?"
+   ],
+   "adventures": [
+    "Christen the critic — give it a name and a ridiculous voice. Every time it speaks today, answer back in that voice.",
+    "Write one self-compassionate sentence and tape it to your mirror. Read it every time you see your reflection today."
+   ]
+  },
+  "299": {
+   "day": 299,
+   "holiday": {
+    "name": "Virgo · Day 299",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Are you living, or are you just maintaining?"
+   ],
+   "adventures": [
+    "Add one alive thing to today — laughter, adventure, silliness. Maintenance can wait; you're not a machine.",
+    "Dance, spin, or move wildly for one song. Let your body be ridiculous and unproductive."
+   ]
+  },
+  "300": {
+   "day": 300,
+   "holiday": {
+    "name": "Virgo · Day 300",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Some truth about yourself has been filed under 'later' for years. What is it — and what's the filing fee costing you?"
+   ],
+   "adventures": [
+    "Open the file and read it, then take one small step that treats it as true, not theoretical.",
+    "Visit a place that holds an old version of you — a street, a building, a park. Notice what's changed."
+   ]
+  },
+  "301": {
+   "day": 301,
+   "holiday": {
+    "name": "Virgo · Day 301",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Dreams: somebody's get polished, yours gather dust. Whose turn is it?"
+   ],
+   "adventures": [
+    "Devote thirty minutes today to YOUR dream — not the respectable one, the real one. Dust it off.",
+    "Make room where your dream would live — clear the desk, the studio corner, the notebook's first page."
+   ]
+  },
+  "302": {
+   "day": 302,
+   "holiday": {
+    "name": "Virgo · Day 302",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Pride, unapproved, no permission slip. What would it take to feel that?"
+   ],
+   "adventures": [
+    "Count three things you've done well this month. No qualifiers, no 'but.' Just pride, plain and unapproved.",
+    "Square your shoulders in front of a mirror and say one accomplishment out loud. Let your shoulders hear it."
+   ]
+  },
+  "303": {
+   "day": 303,
+   "holiday": {
+    "name": "Virgo · Day 303",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Answer honestly: is your life a craft, or just a very well-kept cage?"
+   ],
+   "adventures": [
+    "Insert one thing into today that serves no purpose but delight — yours, Virgo. Craft includes joy; cages don't.",
+    "Open a window, step outside, feel the air. The world outside the cage is still there."
+   ]
+  },
+  "304": {
+   "day": 304,
+   "holiday": {
+    "name": "Virgo · Day 304",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Still paying that debt — proving yourself. To whom, and what's the deadline?"
+   ],
+   "adventures": [
+    "Ink the name of the person you're proving yourself to, then write what would happen if you just... stopped.",
+    "Botch one thing on purpose today — a sloppy doodle, a crooked shelf. Let 'enough' be the whole point."
+   ]
+  },
+  "305": {
+   "day": 305,
+   "holiday": {
+    "name": "Virgo · Day 305",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "This is your last day of refining. What do you finally call finished?"
+   ],
+   "adventures": [
+    "Select one long-polished thing and declare it done — today, out loud, to someone. Done is a decision.",
+    "Touch something you've made or fixed and say 'thank you' to your own hands. Craft deserves gratitude."
+   ]
+  },
+  "306": {
+   "day": 306,
+   "holiday": {
+    "name": "Virgo · Day 306",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Which of your systems actually serves you, and which one are you just serving out of habit?"
+   ],
+   "adventures": [
+    "Choose one routine you keep from guilt and run it at half effort today — watch what truly breaks versus what you only feared would.",
+    "Stand in the room you tidy most, drop your shoulders, and notice where your body stores the unfinished feeling."
+   ]
+  },
+  "307": {
+   "day": 307,
+   "holiday": {
+    "name": "Virgo · Day 307",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "If your body kept the score of your systems, where would it say you're overdrawn?"
+   ],
+   "adventures": [
+    "Cancel one 'should' on your list and spend those minutes doing absolutely nothing productive — let the itch rise without obeying it.",
+    "Press your palms flat against a table, feel the cool surface, and breathe until your jaw unclenches."
+   ]
+  },
+  "308": {
+   "day": 308,
+   "holiday": {
+    "name": "Virgo · Day 308",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Where in your day does order quietly turn into control?"
+   ],
+   "adventures": [
+    "Leave one small thing imperfect on purpose — an unmade corner of the bed — and catch the story your mind spins about it.",
+    "Walk barefoot across your floor slowly, feeling texture under your feet instead of scanning for dirt."
+   ]
+  },
+  "309": {
+   "day": 309,
+   "holiday": {
+    "name": "Virgo · Day 309",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "How much of your tidying is care, and how much is rehearsal for being judged?"
+   ],
+   "adventures": [
+    "Ask yourself before the next cleanup: who exactly am I impressing right now, and what would I do if no one were watching?",
+    "Run your hand along a shelf you dust often; feel the smoothness and decide whether it needed you today or you needed it."
+   ]
+  },
+  "310": {
+   "day": 310,
+   "holiday": {
+    "name": "Virgo · Day 310",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "When did maintenance become a marathon you only run after everything breaks?"
+   ],
+   "adventures": [
+    "Do one five-minute repair you've been postponing — tighten, wipe, file — and notice how small 'kept up' can feel.",
+    "Stretch your arms overhead and twist gently side to side, loosening the back you hunch over fixes."
+   ]
+  },
+  "311": {
+   "day": 311,
+   "holiday": {
+    "name": "Virgo · Day 311",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Why do you polish what already works while the wobbly leg gets ignored?"
+   ],
+   "adventures": [
+    "Redirect today's perfectionist energy to the one neglected thing you've been avoiding because fixing it won't look pretty.",
+    "Kneel or crouch to eye level with the lowest shelf or baseboard you skip, and really see what's gathered there."
+   ]
+  },
+  "312": {
+   "day": 312,
+   "holiday": {
+    "name": "Virgo · Day 312",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "What are you still organizing instead of deciding?"
+   ],
+   "adventures": [
+    "Set a timer for ten minutes, make the call on the thing you've been 'researching,' and let good enough be the verdict.",
+    "Hold an object you've been shuffling between piles, feel its weight, and place it somewhere final with your whole hand."
+   ]
+  },
+  "313": {
+   "day": 313,
+   "holiday": {
+    "name": "Virgo · Day 313",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Honestly, which rule in your system has no reason except that you've always followed it?"
+   ],
+   "adventures": [
+    "Break that one rule deliberately today and document what happens to you — data beats devotion.",
+    "Open the drawer you organize most and touch each item once, asking your fingers which ones earn their space."
+   ]
+  },
+  "314": {
+   "day": 314,
+   "holiday": {
+    "name": "Virgo · Day 314",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Who taught you that your worth shows up in how useful you are?"
+   ],
+   "adventures": [
+    "Offer one helpful thing today that no one will notice you did, and refuse the urge to mention it — practice service without the receipt.",
+    "Place both hands on your own chest, feel your breath rise, and remind your nervous system you exist outside your output."
+   ]
+  },
+  "315": {
+   "day": 315,
+   "holiday": {
+    "name": "Virgo · Day 315",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Is your calendar a tool you wield, or a boss you've stopped questioning?"
+   ],
+   "adventures": [
+    "Delete or shrink one block that serves the image of productivity more than your actual energy, and guard the gap.",
+    "Sit in the chair where you plan everything, plant both feet flat, and feel the ground hold you without a task attached."
+   ]
+  },
+  "316": {
+   "day": 316,
+   "holiday": {
+    "name": "Virgo · Day 316",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Suppose 'good enough' were a craft decision, not a failure — what would you ship today?"
+   ],
+   "adventures": [
+    "Finish something at eighty percent and release it into the world before your inner critic finishes its speech.",
+    "Smooth your hands over your work surface once, slowly, and let the texture tell you it's ready enough."
+   ]
+  },
+  "317": {
+   "day": 317,
+   "holiday": {
+    "name": "Virgo · Day 317",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Can you tell the difference between tending your ground and trampling it?"
+   ],
+   "adventures": [
+    "Swap one harsh self-correction of yours for a neutral observation today — tell yourself 'the sink is full' instead of 'I'm behind again.'",
+    "Step outside or to a window, feel air on your face, and let your eyes rest on something you didn't arrange."
+   ]
+  },
+  "318": {
+   "day": 318,
+   "holiday": {
+    "name": "Virgo · Day 318",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Right now, what system costs you more energy than the problem it was built to solve?"
+   ],
+   "adventures": [
+    "Simplify that system of yours to three steps max on paper, then live with the leaner version for the rest of your day.",
+    "Roll your neck in slow circles, noticing each click of tension your overbuilt routines have been banking."
+   ]
+  },
+  "319": {
+   "day": 319,
+   "holiday": {
+    "name": "Virgo · Day 319",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Do your tools still fit your hands, or are you gripping habits that fit an older you?"
+   ],
+   "adventures": [
+    "Retire one tool, app, or method you've outgrown — thank it silently and replace it with the simpler thing you actually reach for.",
+    "Grip and release your fists five times, feeling the difference between useful tension and the kind you carry for no reason."
+   ]
+  },
+  "320": {
+   "day": 320,
+   "holiday": {
+    "name": "Virgo · Day 320",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Are you maintaining your life, or auditioning for the role of person who has it together?"
+   ],
+   "adventures": [
+    "Skip one performative tidy and do one invisible maintenance instead — the filter, the backup, the thing no guest of yours ever sees.",
+    "Lie flat on the floor for two minutes, feel your spine settle, and notice how little the room needs you upright."
+   ]
+  },
+  "321": {
+   "day": 321,
+   "holiday": {
+    "name": "Virgo · Day 321",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Whose standards are you really meeting when you re-do something no one asked you to re-do?"
+   ],
+   "adventures": [
+    "Name the phantom critic out loud, then ask whether their opinion pays your bills or calms your mind — act accordingly.",
+    "Wipe one surface with slow, deliberate strokes, feeling the cloth drag, and stop the moment you see it's clean instead of sterilized."
+   ]
+  },
+  "322": {
+   "day": 322,
+   "holiday": {
+    "name": "Virgo · Day 322",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Imagine your home ran itself for a day — what would you finally notice about your own body?"
+   ],
+   "adventures": [
+    "Give yourself the day's smallest luxury your systems usually veto — the longer pause, the second cup — without logging it anywhere.",
+    "Close your eyes and scan from scalp to soles, pausing wherever you find tightness your busyness usually mutes."
+   ]
+  },
+  "323": {
+   "day": 323,
+   "holiday": {
+    "name": "Virgo · Day 323",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Does your space reflect your mind, or does it just reflect your fear of being seen as messy?"
+   ],
+   "adventures": [
+    "Keep one honest trace of your living visible today — the book mid-read, the project mid-flow — and resist staging it.",
+    "Perch on the floor of your most 'presentable' room and feel how different it is to occupy a space instead of curating it."
+   ]
+  },
+  "324": {
+   "day": 324,
+   "holiday": {
+    "name": "Virgo · Day 324",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Be real: what are you controlling through service because asking for what you need feels riskier?"
+   ],
+   "adventures": [
+    "State one need of yours directly today without wrapping it in helpfulness — no 'I can just do it,' just the plain request.",
+    "Unclench your hands from whatever you're holding — phone, pen, sponge — and shake them loose for ten seconds."
+   ]
+  },
+  "325": {
+   "day": 325,
+   "holiday": {
+    "name": "Virgo · Day 325",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "No hedging: which unfinished task are you using as proof that you're behind as a person?"
+   ],
+   "adventures": [
+    "Separate the task from your verdict — write the task down, cross out the character judgment, and do one neutral next step.",
+    "Squeeze your fingertips together hard for five seconds, release, and feel the blood return as your judgment loosens too."
+   ]
+  },
+  "326": {
+   "day": 326,
+   "holiday": {
+    "name": "Virgo · Day 326",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Level with yourself: where has analysis become your favorite hiding place?"
+   ],
+   "adventures": [
+    "Cap today's research at twenty minutes, then act on what you know — let the decision teach you what more data never will.",
+    "Rise tall, interlace your fingers behind your back, open your chest, and feel what deciding feels like in your ribs."
+   ]
+  },
+  "327": {
+   "day": 327,
+   "holiday": {
+    "name": "Virgo · Day 327",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Say it plain: what would 'tended' look like for you, minus anyone else's definition?"
+   ],
+   "adventures": [
+    "Write your own three-line definition of a well-kept life and measure today against that, not the internet's.",
+    "Water a plant of yours or wipe a leaf slowly, watching the green, and borrow its unhurried standard of enough."
+   ]
+  },
+  "328": {
+   "day": 328,
+   "holiday": {
+    "name": "Virgo · Day 328",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "For once, what if the Khaos in your life isn't the enemy but the feedback?"
+   ],
+   "adventures": [
+    "Pick the messiest spot you own and ask what it's telling you about capacity, not character — then adjust the load, not your worth.",
+    "Gather the scattered items in one room into a single pile with your hands, feeling the honest volume before you sort a thing."
+   ]
+  },
+  "329": {
+   "day": 329,
+   "holiday": {
+    "name": "Virgo · Day 329",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Without the story, what does your body actually need from your environment today?"
+   ],
+   "adventures": [
+    "Hand it one blunt thing — light, quiet, warmth, space — before you give your space another round of improvement.",
+    "Adjust one physical thing near you right now — the lamp angle, the blanket, the window — and feel the instant relief."
+   ]
+  },
+  "330": {
+   "day": 330,
+   "holiday": {
+    "name": "Virgo · Day 330",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Underneath the system, are you afraid that without the fixing, there's nothing holding you together?"
+   ],
+   "adventures": [
+    "Sit with one un-fixed thing for an hour without solving it, and prove to yourself you remain intact anyway.",
+    "Hug your knees to your chest, rock gently, and feel your own weight as something solid that isn't a project."
+   ]
+  },
+  "331": {
+   "day": 331,
+   "holiday": {
+    "name": "Virgo · Day 331",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Past the polish, which corner of your life gets energy only when it screams?"
+   ],
+   "adventures": [
+    "Tend that corner of yours for fifteen quiet minutes before it screams — maintenance is cheaper than rescue, in plumbing and in people.",
+    "Rest your palm on the wall of the room you neglect most and feel its temperature, its stillness, its patience."
+   ]
+  },
+  "332": {
+   "day": 332,
+   "holiday": {
+    "name": "Virgo · Day 332",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Beneath the routine, what tiny neglect have you normalized because fixing it feels too small to matter?"
+   ],
+   "adventures": [
+    "Fix exactly that tiny thing in your place — the squeak, the flicker, the loose knob — and let small care count as real work.",
+    "Glide your thumb over the repaired spot slowly, feeling the before-and-after your hands just made."
+   ]
+  },
+  "333": {
+   "day": 333,
+   "holiday": {
+    "name": "Virgo · Day 333",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Outside the checklist, when was the last time you asked your body what 'order' feels like to it?"
+   ],
+   "adventures": [
+    "Let comfort set your standard today — arrange one space for how it feels for you to use, not how it photographs.",
+    "Sink into your seat, feel where it supports you and where it doesn't, and shift until your spine says yes."
+   ]
+  },
+  "334": {
+   "day": 334,
+   "holiday": {
+    "name": "Virgo · Day 334",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Quick gut check: do you actually like your system, or do you just like being good at maintaining it?"
+   ],
+   "adventures": [
+    "Admit which one it is on paper, then change one feature you'd change if liking it were the requirement.",
+    "Do the motion of your most-repeated chore in the air, slowly, and notice whether your muscles dread or welcome it."
+   ]
+  },
+  "335": {
+   "day": 335,
+   "holiday": {
+    "name": "Virgo · Day 335",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Cut the story: what clutter of yours is really just postponed decisions wearing a disguise?"
+   ],
+   "adventures": [
+    "Decide on five of your items fast — keep, release, relocate — no revisiting, and feel decision as a physical unclenching.",
+    "Lift each of those five items, feel its true weight in your hands, and let your body vote before your brain filibusters."
+   ]
+  },
+  "336": {
+   "day": 336,
+   "holiday": {
+    "name": "Virgo · Day 336",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Drop the audit: who benefits when you grade yourself this harshly?"
+   ],
+   "adventures": [
+    "Catch one self-grade today and rewrite it as a field note — no score, just what you observed and what you'll try.",
+    "Soften your face deliberately — forehead, eyes, jaw — and feel how much of your criticism lives in those muscles."
+   ]
+  },
+  "337": {
+   "day": 337,
+   "holiday": {
+    "name": "Virgo · Day 337",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Forget perfect: what would your maintenance look like if it were allowed to be boring?"
+   ],
+   "adventures": [
+    "Perform your upkeep today without optimizing it — same route, same method — and let boring be the efficiency.",
+    "Repeat one simple physical motion with your hands — folding, wiping, sweeping — and settle into its rhythm like a metronome."
+   ]
+  },
+  "338": {
+   "day": 338,
+   "holiday": {
+    "name": "Virgo · Day 338",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Minus the guilt, which habit serves you at your best, not your most anxious?"
+   ],
+   "adventures": [
+    "Honor that one habit of yours today and do it with full presence instead of rushing — quality over quota, this time.",
+    "Move through that habit at half speed, feeling each step in your fingers, and notice what care tastes like unrushed."
+   ]
+  },
+  "339": {
+   "day": 339,
+   "holiday": {
+    "name": "Virgo · Day 339",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Skip the shame: what have you outgrown that your systems haven't caught up with yet?"
+   ],
+   "adventures": [
+    "Update one system to match who you are now, not who you were when you built it — permissions granted, no apology.",
+    "Face your closet or shelf, touch the things that no longer fit your life, and feel the honest no in your gut."
+   ]
+  },
+  "340": {
+   "day": 340,
+   "holiday": {
+    "name": "Virgo · Day 340",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Beyond the list, how does your home feel to the animal part of you that just needs shelter?"
+   ],
+   "adventures": [
+    "Add one creature comfort today — a soft landing spot, a warm light — chosen for your nervous system, not your aesthetic.",
+    "Curl into the coziest spot you own, pull something warm over you, and let your body register safety before style."
+   ]
+  },
+  "341": {
+   "day": 341,
+   "holiday": {
+    "name": "Virgo · Day 341",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Under the control, where do you feel most alive in your own space?"
+   ],
+   "adventures": [
+    "Spend ten extra minutes there today doing nothing useful — aliveness is data your systems keep ignoring.",
+    "Drift to that spot now, stand still, and breathe in its particular smell — let place anchor you faster than plans."
+   ]
+  },
+  "342": {
+   "day": 342,
+   "holiday": {
+    "name": "Virgo · Day 342",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Inside the habit, what are you really rehearsing every time you reorganize the same drawer?"
+   ],
+   "adventures": [
+    "Interrupt your loop: close the drawer mid-sort, walk away, and use the freed minutes on the thing the sorting postpones for you.",
+    "Lay your hands flat on the closed drawer, feel its edges, and thank it for holding your avoidance so visibly."
+   ]
+  },
+  "343": {
+   "day": 343,
+   "holiday": {
+    "name": "Virgo · Day 343",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Against your rules, what would happen if you let one system run messier for a full day?"
+   ],
+   "adventures": [
+    "Run the experiment on your system — loosen the rule, log nothing, and collect actual evidence instead of catastrophic predictions.",
+    "Tousle something of yours deliberately — the throw blanket, the papers — and sit with the visual static until it stops shouting at you."
+   ]
+  },
+  "344": {
+   "day": 344,
+   "holiday": {
+    "name": "Virgo · Day 344",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Through the clutter, what is your space trying to tell you about your capacity right now?"
+   ],
+   "adventures": [
+    "Believe the message and shrink your commitments to fit today's real capacity, not the fantasy version.",
+    "Clear one small surface completely, feel the emptiness with your palm, and let spaciousness recalibrate your sense of enough."
+   ]
+  },
+  "345": {
+   "day": 345,
+   "holiday": {
+    "name": "Virgo · Day 345",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Between the lines of your to-do list, what need keeps getting scheduled last?"
+   ],
+   "adventures": [
+    "Move that need to first position today, ahead of every task, and defend it like an appointment with someone you respect.",
+    "Lengthen the part of your body that aches from being scheduled last — neck, hips, eyes — and give it the first word."
+   ]
+  },
+  "346": {
+   "day": 346,
+   "holiday": {
+    "name": "Virgo · Day 346",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Above the noise, can you hear what 'enough' sounds like in your own voice?"
+   ],
+   "adventures": [
+    "Say 'that's enough for today' out loud at a real stopping point, and stop — let the sentence do what your willpower won't.",
+    "Set down whatever is in your hands, let your arms hang heavy, and feel the full stop travel down to your fingertips."
+   ]
+  },
+  "347": {
+   "day": 347,
+   "holiday": {
+    "name": "Virgo · Day 347",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Still, which small kindness to your future self keeps getting skipped?"
+   ],
+   "adventures": [
+    "Deliver that kindness now — prep the thing, lay out the thing — a two-minute gift your morning self will actually feel.",
+    "Tidy the sheets or reset the room you'll return to tonight, feeling the future comfort under your hands."
+   ]
+  },
+  "348": {
+   "day": 348,
+   "holiday": {
+    "name": "Virgo · Day 348",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Within your walls, where does your perfectionism do its quietest damage?"
+   ],
+   "adventures": [
+    "Shine light on that exact spot of yours today — name it, touch the task, and do the minimum viable version — done beats polished.",
+    "Crouch beside that neglected spot of yours, breathe with it, and sense the gap between shame about it and care for it."
+   ]
+  },
+  "349": {
+   "day": 349,
+   "holiday": {
+    "name": "Virgo · Day 349",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Across your week, which maintenance are you skipping that would prevent the crises you keep solving?"
+   ],
+   "adventures": [
+    "Schedule your unsexy upkeep in writing — the check, the clean-out, the restock — and treat it as non-negotiable as any deadline.",
+    "Tend your own hinges: roll your wrists, ankles, and shoulders, oiling the joints your crisis-mode forgets."
+   ]
+  },
+  "350": {
+   "day": 350,
+   "holiday": {
+    "name": "Virgo · Day 350",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Around your body, what environment makes you feel most like yourself instead of most improved?"
+   ],
+   "adventures": [
+    "Recreate one element of that environment around you today, even in miniature — the light, the texture, the quiet — and work inside it.",
+    "Shut your eyes where you sit, recall that place in your skin, and let your shoulders find its posture from memory."
+   ]
+  },
+  "351": {
+   "day": 351,
+   "holiday": {
+    "name": "Virgo · Day 351",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Behind the system, whose comfort is it actually built for — yours, or everyone else's?"
+   ],
+   "adventures": [
+    "Redesign one routine around your own comfort first today, and let other people's convenience adjust to you for once.",
+    "Rearrange one cushion, chair, or lamp purely for your own body, then sit in the result and feel the difference."
+   ]
+  },
+  "352": {
+   "day": 352,
+   "holiday": {
+    "name": "Virgo · Day 352",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Below the service, when do you say yes with your hands while your body says no?"
+   ],
+   "adventures": [
+    "Practice one clean no today — no explanation, no substitute offer — and let the discomfort pass through you like weather.",
+    "Notice where your body braces when you overcommit — stomach, throat, chest — and place a warm hand there as you decline."
+   ]
+  },
+  "353": {
+   "day": 353,
+   "holiday": {
+    "name": "Virgo · Day 353",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "So tell me: what does your space look like when it's serving you instead of grading you?"
+   ],
+   "adventures": [
+    "Arrange one area exactly that way today — function over photo — and use it hard without tidying after yourself immediately.",
+    "Settle in the middle of that lived-in area, your feet on the floor, and feel belonging instead of evaluation."
+   ]
+  },
+  "354": {
+   "day": 354,
+   "holiday": {
+    "name": "Virgo · Day 354",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "And yet, what tiny order could genuinely make your tomorrow easier without becoming another shrine?"
+   ],
+   "adventures": [
+    "Complete just that one thing for yourself — lay out, list, reset — then walk away before the ritual expands into a project.",
+    "Handle tomorrow's first object tonight — the keys, the cup, the bag — feeling its readiness in your palm like a promise."
+   ]
+  },
+  "355": {
+   "day": 355,
+   "holiday": {
+    "name": "Virgo · Day 355",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "But really, how will you know when your system is done serving and started ruling?"
+   ],
+   "adventures": [
+    "Watch for the dread signal today — when upkeep feels like obedience, it's time to renegotiate the terms with yourself.",
+    "Shake out your whole body for thirty seconds, head to toes, and register the contrast between chosen rhythm and forced pace."
+   ]
+  },
+  "356": {
+   "day": 356,
+   "holiday": {
+    "name": "Virgo · Day 356",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Okay, but what if your body is the first environment you're meant to tend?"
+   ],
+   "adventures": [
+    "Treat one bodily signal of yours as a maintenance ticket today — the thirst, the ache, the fatigue — and respond like it matters.",
+    "Empty a full glass of water one slow sip at a time, tasting it travel; basic tending can feel almost radical."
+   ]
+  },
+  "357": {
+   "day": 357,
+   "holiday": {
+    "name": "Virgo · Day 357",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Seriously, which of your 'non-negotiables' is negotiable the moment you stop performing?"
+   ],
+   "adventures": [
+    "Demote one of your non-negotiables to 'nice when possible' for today and observe that the sky holds its position.",
+    "Recline on your back, knees bent, feet flat, and feel which muscles you've been holding as non-negotiable too."
+   ]
+  },
+  "358": {
+   "day": 358,
+   "holiday": {
+    "name": "Virgo · Day 358",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Zero performance: where has your craft become camouflage for fear of being seen unfinished?"
+   ],
+   "adventures": [
+    "Show one piece of your work or space mid-process today, unfinished edges visible, and let yourself be seen in draft.",
+    "Look at your own hands — the working tools, smudged and real — and feel pride in process instead of polish."
+   ]
+  },
+  "359": {
+   "day": 359,
+   "holiday": {
+    "name": "Virgo · Day 359",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "In your body, what does 'good enough' feel like as a physical sensation?"
+   ],
+   "adventures": [
+    "Chase that sensation of yours today: stop each task at the first warm flicker of sufficiency instead of the cold finish of perfection.",
+    "Exhale fully through your mouth three times, feeling your belly soften, and memorize that as the body's yes."
+   ]
+  },
+  "360": {
+   "day": 360,
+   "holiday": {
+    "name": "Virgo · Day 360",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Facing that drawer, what are you keeping for a self that no longer exists?"
+   ],
+   "adventures": [
+    "Release three items that belong to her — thank them, remove them — and let your systems reflect your current shape.",
+    "Cup each released item to your chest briefly, feel the old attachment, then set it down and feel your hands empty and light."
+   ]
+  },
+  "361": {
+   "day": 361,
+   "holiday": {
+    "name": "Virgo · Day 361",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "On your worst day, which system actually holds you, and which one just scolds you?"
+   ],
+   "adventures": [
+    "Strengthen the holder in you, soften the scolder — rewrite one harsh rule into a rescue plan for your low-capacity days.",
+    "Wrap yourself in the heaviest blanket you own, feel its pressure, and ask your body which system feels like this."
+   ]
+  },
+  "362": {
+   "day": 362,
+   "holiday": {
+    "name": "Virgo · Day 362",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "At full honesty, whose mess are you cleaning when you clean — yours, or someone else's expectations?"
+   ],
+   "adventures": [
+    "Clean only what's actually yours today, and let the rest sit as someone else's curriculum, not your emergency.",
+    "Sweep or wipe one boundary line — a doorway, a desktop edge — feeling the physical line between yours and theirs."
+   ]
+  },
+  "363": {
+   "day": 363,
+   "holiday": {
+    "name": "Virgo · Day 363",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "To be direct, what still works in your life that you keep trying to fix?"
+   ],
+   "adventures": [
+    "Declare a moratorium on improving that one working thing in your life for a full day — let functional be the finish line.",
+    "Touch the thing that works — the sturdy handle, the reliable tool — and feel gratitude in your fingertips instead of critique."
+   ]
+  },
+  "364": {
+   "day": 364,
+   "holiday": {
+    "name": "Virgo · Day 364",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Since tending is love made practical, where have you been withholding it from yourself?"
+   ],
+   "adventures": [
+    "Aim today's best tending inward — the meal, the pause, the repair you keep giving everyone else first.",
+    "Massage your own hands slowly, thumb into palm, and feel what it is to receive the care you usually dispense."
+   ]
+  },
+  "365": {
+   "day": 365,
+   "holiday": {
+    "name": "Virgo · Day 365",
+    "action": "THE USEFUL MAGIC — EARTH / CRAFT / DISCERNMENT"
+   },
+   "soulQuestions": [
+    "Finally, what will you stop serving so you can start being served?"
+   ],
+   "adventures": [
+    "Select one system to retire, shrink, or hand back, and mark the ending — Virgo, your craft is devotion, not servitude.",
+    "Plant yourself in your space, arms open wide, turn slowly once, and feel the ground you tend finally tending you back."
+   ]
+  }
+ }
+}
