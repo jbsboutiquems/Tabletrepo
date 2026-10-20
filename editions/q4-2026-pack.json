@@ -1,0 +1,1407 @@
+{
+ "edition": "q4-2026",
+ "name": "Q4 2026 Sampler — Life OS: Off*Script",
+ "window": {
+  "start": "2026-10-01",
+  "end": "2026-12-31"
+ },
+ "themes": {
+  "October": {
+   "module": 10,
+   "name": "RAW",
+   "theme": "THE COURAGE OF HONESTY"
+  },
+  "November": {
+   "module": 11,
+   "name": "ENOUGH",
+   "theme": "THE PRACTICE OF ENOUGH"
+  },
+  "December": {
+   "module": 12,
+   "name": "ENDING WELL",
+   "theme": "THE ART OF ENDING WELL"
+  }
+ },
+ "days": {
+  "2026-10-01": {
+   "date": "2026-10-01",
+   "holiday": {
+    "name": "Unnecessary Title Day Two",
+    "action": "Give your coffee order a grand, pointless title and let the barista announce it like royalty."
+   },
+   "soulQuestions": [
+    "Which royal title fits your morning coffee ritual, and what does that title confess about your day?",
+    "If your coffee order got a secret title nobody else knew, what would it reveal that you hide?"
+   ],
+   "adventures": [
+    "Rename your usual coffee with a pompous title, order it out loud, and watch the barista pause",
+    "Write a titled menu for three coffees you love, leave the best one blank, and dare a friend to fill it."
+   ]
+  },
+  "2026-10-02": {
+   "date": "2026-10-02",
+   "holiday": {
+    "name": "Strange Familiarity Day Two",
+    "action": "✶ Taste a fried scallop like a stranger and notice how familiar comfort turns weird on the tongue."
+   },
+   "soulQuestions": [
+    "When did a familiar seafood bite start tasting strange, and what changed in you before the flavor did?",
+    "Which comfort food feels least like itself when you eat it slowly, and why do you t still crave it?"
+   ],
+   "adventures": [
+    "Eat one golden fried scallop with your eyes closed, then describe its crunch to a stranger in three words",
+    "Order a pillow-shaped snack, eat it on a bench you always pass, and list five sounds that feel off."
+   ]
+  },
+  "2026-10-03": {
+   "date": "2026-10-03",
+   "holiday": {
+    "name": "Three-Color Treaty Day Two",
+    "action": "Broker a truce between three clashing colors for a date night your boyfriend will never forget."
+   },
+   "soulQuestions": [
+    "Which three colors would your boyfriend pick to describe you, and which one would you veto on sight?",
+    "If your partner held a peace summit for your closet, what color would walk out and what would stay?"
+   ],
+   "adventures": [
+    "Wear three clashing colors to meet your boyfriend, snap a sidewalk photo, and dare him to rank the combo",
+    "Build a three-color snack plate for your boyfriend, eat it outside, and leave the last bite uneaten for suspense."
+   ]
+  },
+  "2026-10-04": {
+   "date": "2026-10-04",
+   "holiday": {
+    "name": "Accidental Tourist Day Two",
+    "action": "Play tourist on your own block and hunt for the taco worth a stranger's camera roll."
+   },
+   "soulQuestions": [
+    "What would a first-time visitor order at your taco spot that you stopped noticing years ago?",
+    "If you arrived here with no history, which taco stand, bench, or doorway would pull you in first?"
+   ],
+   "adventures": [
+    "Ask a shop clerk for directions to the best taco nearby, then walk there like you are visiting",
+    "Order a taco you have never tried at a familiar stand and eat it on a curb you never use."
+   ]
+  },
+  "2026-10-05": {
+   "date": "2026-10-05",
+   "holiday": {
+    "name": "Unlikely Costume Element Day",
+    "action": "Smuggle one wild costume piece into a nice deed and wear it like it belongs there."
+   },
+   "soulQuestions": [
+    "What one costume piece feels most like you when you do something nice for no reason at all?",
+    "Which version of you shows up when you dress a little wrong and help a stranger without telling anyone?"
+   ],
+   "adventures": [
+    "Wear one cape, glove, feather, or fake mustache to do a nice deed and keep the secret all evening",
+    "Pin a paper badge that says Chief of Mischief on your jacket and do one small kindness in disguise."
+   ]
+  },
+  "2026-10-06": {
+   "date": "2026-10-06",
+   "holiday": {
+    "name": "Sidewalk Astronomy Day Two",
+    "action": "Read the sidewalk like a night sky while slurping noodles and map cracks into constellations."
+   },
+   "soulQuestions": [
+    "What patterns do you only notice when you look down mid-slurp, and what do they say about you?",
+    "If the cracks outside your noodle shop formed a map, where would your feet be headed without asking you?"
+   ],
+   "adventures": [
+    "Crouch on the sidewalk with a noodle cup, trace three crack-constellations with chalk, and slurp loudly",
+    "Stand outside after dark with leftover noodles, find one bright star, then find its twin in a puddle."
+   ]
+  },
+  "2026-10-07": {
+   "date": "2026-10-07",
+   "holiday": {
+    "name": "Better Question Day Two",
+    "action": "Swap your usual question for a sharper one over a blended frappe that could not decide."
+   },
+   "soulQuestions": [
+    "What question have you been asking that keeps giving you the same dull answer over a cold frappe?",
+    "If you could ask one person one question over a frappe, who gets it and what do you blend in?"
+   ],
+   "adventures": [
+    "Text a friend a question you have never asked, then blend two answers into one before explaining why",
+    "Write five sharper versions of a question you asked today and blend the boldest one into a frappe order."
+   ]
+  },
+  "2026-10-08": {
+   "date": "2026-10-08",
+   "holiday": {
+    "name": "Borrowed Vocabulary Day Two",
+    "action": "Steal five words from a dumpling kitchen and use them to describe your pierogi lunch."
+   },
+   "soulQuestions": [
+    "Which borrowed word makes your pierogi taste more like home, and why do you keep reaching for it?",
+    "If your day had to be described in a dumpling maker's words, which slang fits your filling best?"
+   ],
+   "adventures": [
+    "Borrow three words from a cookbook, a dumpling stall, and a hardware aisle, then describe your morning",
+    "Teach a friend one invented word for your pierogi mood, then use it five times before lunch without smiling."
+   ]
+  },
+  "2026-10-09": {
+   "date": "2026-10-09",
+   "holiday": {
+    "name": "Unclaimed Tune Day Two",
+    "action": "Catch a melody with no owner while tasting funky cheese that went too far on purpose."
+   },
+   "soulQuestions": [
+    "What tune lives in your head with no singer attached, and what funky flavor keeps humming along?",
+    "If your life had a background hum nobody could name, what would it sound like over blue cheese?"
+   ],
+   "adventures": [
+    "Hum a tune you just invented while tasting cheese, and see who hums back before you finish the wedge",
+    "Record a thirty-second hum on your phone, play it for one friend, and dare them to guess the cheese it smells like."
+   ]
+  },
+  "2026-10-10": {
+   "date": "2026-10-10",
+   "holiday": {
+    "name": "Temporary Monument Day Two",
+    "action": "Build a tiny monument from cake crumbs and strawberries that floats, then watch it vanish."
+   },
+   "soulQuestions": [
+    "What small moment from this week deserves a monument of airy cake, even if nobody else notices it?",
+    "If you could honor one ordinary act with light cake, what act would you carve and who would you hide it for?"
+   ],
+   "adventures": [
+    "Stack seven strawberry slices and cake crumbs into a tower on a plate and photograph it before it topples",
+    "Leave a berry, a cream dollop, and a note on a bench as a monument, then walk away without looking back."
+   ]
+  },
+  "2026-10-11": {
+   "date": "2026-10-11",
+   "holiday": {
+    "name": "Public Noun Day Two",
+    "action": "Pick one hearty noun, set it loose over sausage pizza, and let strangers decide what it means."
+   },
+   "soulQuestions": [
+    "Which noun would you claim as yours over sausage pizza if the whole block had to use it your way?",
+    "If your name were replaced by one hearty topping today, which topping would strangers call you and why?"
+   ],
+   "adventures": [
+    "Write one big noun on a pizza box in chalk, circle it, and watch how many people step around the word",
+    "Ask three strangers to use the noun sausage in a sentence, then write down the strangest answer."
+   ]
+  },
+  "2026-10-12": {
+   "date": "2026-10-12",
+   "holiday": {
+    "name": "Alternate Entrance Day Two",
+    "action": "Enter every familiar place through a different door, like gumbo mixing histories in one pot."
+   },
+   "soulQuestions": [
+    "What changes about you when you enter a gumbo joint through the back door instead of the front?",
+    "Which door in your life have you never opened, and what gumbo history hides behind it waiting?"
+   ],
+   "adventures": [
+    "Use the side gate, back stair, or service door for every stop today and note which entry smells like gumbo",
+    "Knock on your own front door like a visitor, wait ten seconds, then step inside like a gumbo guest."
+   ]
+  },
+  "2026-10-13": {
+   "date": "2026-10-13",
+   "holiday": {
+    "name": "Lucky Misprint Day Two",
+    "action": "Treat one typo as a lucky charm and drop the mask that typo was hiding behind."
+   },
+   "soulQuestions": [
+    "What typo have you made that accidentally told the truth your mask kept hiding all week?",
+    "If one misprinted word could unmask your day, which word would you misspell on purpose right now?"
+   ],
+   "adventures": [
+    "Type a sentence with your eyes closed, keep the best typo, and read it aloud with no mask on",
+    "Circle one misprint in today's mail, cross out the mask you wore longest, and keep the typo visible."
+   ]
+  },
+  "2026-10-14": {
+   "date": "2026-10-14",
+   "holiday": {
+    "name": "Unfinished Sketch Day Two",
+    "action": "Start a sketch of dessert you refuse to finish and let the blank half do the talking."
+   },
+   "soulQuestions": [
+    "What half-finished dessert sketch still pulls at you because you never closed it or ate it?",
+    "If you had to leave one dessert portrait half-drawn, which bite would you finish last and why does it tease you?"
+   ],
+   "adventures": [
+    "Draw your dessert in ninety seconds, stop mid-line, and pin the half sketch where you will see it",
+    "Sketch a stranger's dessert from memory in four lines, then stop before adding the cherry on top."
+   ]
+  },
+  "2026-10-15": {
+   "date": "2026-10-15",
+   "holiday": {
+    "name": "Mild Rebellion Day Two",
+    "action": "Break one tiny rule on purpose and eat a squeaky cheese curd loud enough to hear."
+   },
+   "soulQuestions": [
+    "What tiny rule do you follow without thinking, and what would breaking it once prove over squeaky cheese?",
+    "If you could rebel in a way nobody notices but you, what squeaky defiance would taste sweetest?"
+   ],
+   "adventures": [
+    "Wear your watch on the wrong wrist, eat a cheese curd first, and tell nobody until bedtime",
+    "Take the long way home on purpose, skip one chore, and spend ten minutes squeaking curds for fun."
+   ]
+  },
+  "2026-10-16": {
+   "date": "2026-10-16",
+   "holiday": {
+    "name": "Unusual Etiquette Day Two",
+    "action": "Invent one strange new table manner for sharing food and use it with total confidence."
+   },
+   "soulQuestions": [
+    "Which polite habit feels fakest at a shared table, and what rule would serve food as more than fuel?",
+    "If manners were yours to rewrite for one shared meal, what would guests have to do before the first bite?"
+   ],
+   "adventures": [
+    "Greet three people with an invented handshake, share one bite, and keep a straight face throughout",
+    "Eat one shared meal with your non-dominant hand, offer the best bite away, and leave a doodle tip note."
+   ]
+  },
+  "2026-10-17": {
+   "date": "2026-10-17",
+   "holiday": {
+    "name": "Tiny Stage Day Two",
+    "action": "Turn a curb, crate, or counter into a stage and twirl pasta for thirty seconds of applause."
+   },
+   "soulQuestions": [
+    "What thirty-second pasta act would you perform if the whole street paused to watch you and then forgot?",
+    "Which part of you only comes out when you pretend a pasta spotlight is on, even with no audience?"
+   ],
+   "adventures": [
+    "Stand on a curb and deliver a dramatic pasta weather report to the pigeons, then bow and step down",
+    "Film a one-minute pasta play using a spoon, a sock, and a mug as the cast on your kitchen counter."
+   ]
+  },
+  "2026-10-18": {
+   "date": "2026-10-18",
+   "holiday": {
+    "name": "Unadvertised View Day Two",
+    "action": "Find one view nobody advertises, a gap with a chocolate cupcake held up to the sky."
+   },
+   "soulQuestions": [
+    "What view have you kept secret because sharing it would spoil the cupcake quiet it gives you?",
+    "If you could frame one hidden cupcake view and hang it in your hallway, which crack would you pick?"
+   ],
+   "adventures": [
+    "Climb one flight higher than usual, peek through a gap, and eat a chocolate cupcake with the view",
+    "Walk until you find a bench that frames the sky, then eat a cupcake there for eight minutes."
+   ]
+  },
+  "2026-10-19": {
+   "date": "2026-10-19",
+   "holiday": {
+    "name": "Neighborhood Myth Day Two",
+    "action": "Start a cheeky local legend about a new friend on your block and watch it grow legs."
+   },
+   "soulQuestions": [
+    "What myth would new neighbors tell about you if they only watched your porch for a week?",
+    "If your street had a legend with a new friend at the center, what would the first line claim?"
+   ],
+   "adventures": [
+    "Tell one stranger a tall tale about the oak, then say hi and see if a new friendship sticks",
+    "Write a three-line myth about a crack in your sidewalk and hand it to someone you just met."
+   ]
+  },
+  "2026-10-20": {
+   "date": "2026-10-20",
+   "holiday": {
+    "name": "Two-Minute Republic Day",
+    "action": "Declare yourself a two-minute republic and soak one fancy fruit in brandy like a decree."
+   },
+   "soulQuestions": [
+    "If you ruled yourself for just two minutes while soaking in brandy fruit, what would you declare first?",
+    "What one law would your two-minute republic pass about soaking fruit that your real life keeps voting down?"
+   ],
+   "adventures": [
+    "Set a timer for two minutes, rule your kitchen as a republic, and issue one fruity decree out loud",
+    "Draw a napkin flag, plant it beside soaked fruit, and salute it before the timer ends."
+   ]
+  },
+  "2026-10-21": {
+   "date": "2026-10-21",
+   "holiday": {
+    "name": "Almost-Architecture Day Two",
+    "action": "Hunt for buildings that almost make sense while eating pumpkin cheesecake that tastes like fall."
+   },
+   "soulQuestions": [
+    "Which almost-building on your route feels like it was designed by someone dreaming in pumpkin spice?",
+    "If you lived inside a building that was almost finished, which pumpkin room would you claim as yours?"
+   ],
+   "adventures": [
+    "Photograph one crooked fence, leaning shed, or half-wall and caption it like a pumpkin landmark",
+    "Stack books, boxes, and cans into an almost-tower, top it with pumpkin cheesecake, and keep one bite back."
+   ]
+  },
+  "2026-10-22": {
+   "date": "2026-10-22",
+   "holiday": {
+    "name": "Public Scribble Day Two",
+    "action": "Scribble something bold where strangers can see it and hide a nut in the loop for luck."
+   },
+   "soulQuestions": [
+    "What scribble have you always wanted to leave in public while going a little nuts on purpose?",
+    "If one public scribble could say what you really think, what three nutty words would you write and where?"
+   ],
+   "adventures": [
+    "Fill a napkin with wild scribbles at a cafe, leave a nut on the table, and walk out grinning",
+    "Draw a looping scribble on a foggy window, dot it with crushed nuts, and photograph it before it fades."
+   ]
+  },
+  "2026-10-23": {
+   "date": "2026-10-23",
+   "holiday": {
+    "name": "Decoy Landmark Day Two",
+    "action": "Plant a fake landmark that is two things at once, a cake calling itself a pie on your route."
+   },
+   "soulQuestions": [
+    "What fake cake-pie landmark would you invent to make strangers stop and stare?",
+    "If your block needed a decoy to hide its real treasure, what cake-pie object would you disguise as famous?"
+   ],
+   "adventures": [
+    "Place a painted rock with an arrow on a sidewalk, label it Famous Cake-Pie, and watch from across the street",
+    "Give a friend directions to a landmark you invented, call it pie-cake, then meet them there and confess."
+   ]
+  },
+  "2026-10-24": {
+   "date": "2026-10-24",
+   "holiday": {
+    "name": "Fictional Department Day Two",
+    "action": "✶ Open a fictional department for childhood sandwiches and start stamping approvals for bologna."
+   },
+   "soulQuestions": [
+    "What fictional department would you run if paperwork could fix the sandwich memory that follows you?",
+    "If your hallway held a Department of Lost Sandwiches, which desk would you staff first at lunch?"
+   ],
+   "adventures": [
+    "Stamp APPROVED on three sticky notes, post them on your fridge, and enforce one bologna rule all evening",
+    "Call a friend, announce you are from the Department of Bologna, and file one complaint about white bread."
+   ]
+  },
+  "2026-10-25": {
+   "date": "2026-10-25",
+   "holiday": {
+    "name": "Better Detour Day Two",
+    "action": "Take the worse road on purpose and find the noodle from another country waiting on the detour."
+   },
+   "soulQuestions": [
+    "What detour in your past turned out better than the plan, and which foreign noodle would you have found there?",
+    "If you took the long way on purpose today, what noodle from another country might the shortcut keep hiding?"
+   ],
+   "adventures": [
+    "Take a detour with two extra turns on your next errand and buy noodles from a shop you pass",
+    "Walk one block past your destination, loop back through an alley, and enter a noodle shop from the opposite side."
+   ]
+  },
+  "2026-10-26": {
+   "date": "2026-10-26",
+   "holiday": {
+    "name": "Unnecessary Ceremony Day Two",
+    "action": "Stage a grand ceremony for one pumpkin and give it trumpets, speeches, and a ribbon."
+   },
+   "soulQuestions": [
+    "What tiny pumpkin act in your day deserves a full ceremony with speeches, and who would you invite to clap?",
+    "If one boring pumpkin task earned a full ceremony, which task would finally feel important enough?"
+   ],
+   "adventures": [
+    "Hold a two-minute ribbon-cutting for your pumpkin, your mailbox, or your sock drawer, then applaud loudly",
+    "Draft a three-line speech honoring your pumpkin, read it aloud, and place a paper medal on its stem."
+   ]
+  },
+  "2026-10-27": {
+   "date": "2026-10-27",
+   "holiday": {
+    "name": "Ordinary Marvel Day Two",
+    "action": "Pick one ordinary marvel on your street and toast it with beer or whatever you have in hand."
+   },
+   "soulQuestions": [
+    "What ordinary sight still stops you cold when you slow down to toast it with beer like a place you love?",
+    "Suppose you must defend one everyday thing as a marvel, which cold beer gets your loudest toast?"
+   ],
+   "adventures": [
+    "Stare at one crack, leaf, or shadow for three full minutes, then toast it with beer while you watch",
+    "Show one stranger an ordinary marvel on your block, raise a beer or whatever you have, and say nothing else."
+   ]
+  },
+  "2026-10-28": {
+   "date": "2026-10-28",
+   "holiday": {
+    "name": "Unfinished Chorus Day Two",
+    "action": "Sing a chorus that never resolves and leave the last note hanging over melting chocolate."
+   },
+   "soulQuestions": [
+    "What song in your life keeps stopping before the chorus, and what chocolate ending are you avoiding by pausing?",
+    "If your day were a chorus with no last line, what chocolate words would you refuse to sing, and why now?"
+   ],
+   "adventures": [
+    "Hum a chorus you love, stop one line before the end, and eat one square of chocolate without finishing",
+    "Teach a friend the first half of a made-up chorus, then make them guess the chocolate ending over coffee."
+   ]
+  },
+  "2026-10-29": {
+   "date": "2026-10-29",
+   "holiday": {
+    "name": "Reverse Forecast Day Two",
+    "action": "Predict yesterday from today and read your cat's morning backwards like a weather map in reverse."
+   },
+   "soulQuestions": [
+    "If you read today's weather backwards, what forecast would your cat have given you this morning?",
+    "What would you predict about your past if you only knew how your cat's morning smelled, sounded, and felt?"
+   ],
+   "adventures": [
+    "Write tonight's forecast in reverse, starting with midnight and ending at your cat's breakfast, then read it aloud",
+    "Tell a friend an evening-to-morning cat forecast backwards and let them guess the breakfast weather."
+   ]
+  },
+  "2026-10-30": {
+   "date": "2026-10-30",
+   "holiday": {
+    "name": "Low-Stakes Drama Day Two",
+    "action": "Stage a tiny drama with candy corn and give your laundry, lunch, or keys the starring role."
+   },
+   "soulQuestions": [
+    "What tiny candy-corn drama in your kitchen deserves an over-the-top narrator, and what would it whisper?",
+    "If your candy corn became a drama, who would play the hero, the villain, and the gossiping spoon?"
+   ],
+   "adventures": [
+    "Narrate your next chore like a sports announcer, whisper the candy-corn climax, and take a bow at the sink",
+    "Stage a slow-motion showdown between candy corn and your bag, then declare a winner with confetti."
+   ]
+  },
+  "2026-10-31": {
+   "date": "2026-10-31",
+   "holiday": {
+    "name": "October Erratum Day",
+    "action": "File one correction to October Erratum Day and write the truer version in the margin."
+   },
+   "soulQuestions": [
+    "What one line from this month would you correct in red ink if nobody could see the edit?",
+    "If October had a typo in your story, which date would you rewrite and what would the new line say?"
+   ],
+   "adventures": [
+    "Cross out one line in today's notes, write the correction above it, and leave the mistake visible",
+    "Find one error on a receipt, sign, or label, circle it in pen, and write a funnier correction beside it."
+   ]
+  },
+  "2026-11-01": {
+   "date": "2026-11-01",
+   "holiday": {
+    "name": "Spare Syllable Day Two",
+    "action": "Stretch the word cinnamon with an extra syllable and taste how fall wobbles."
+   },
+   "soulQuestions": [
+    "What does the word cinnamon promise you that plain sugar never could?",
+    "Say cinnamon slower with one extra syllable and notice which memory wakes up.?"
+   ],
+   "adventures": [
+    "Order a cinnamon roll under a five-syllable alias and answer to it all morning",
+    "Send a friend a five-syllable nickname for cinnamon and insist it sticks today."
+   ]
+  },
+  "2026-11-02": {
+   "date": "2026-11-02",
+   "holiday": {
+    "name": "Contrarian Breakfast Day Two",
+    "action": "Eat breakfast backwards with deviled eggs at the wrong hour on purpose."
+   },
+   "soulQuestions": [
+    "What breakfast rule would break first if deviled eggs showed up before sunrise?",
+    "If mornings stopped belonging to cereal, what would a paprika-or-no-paprika first bite prove?"
+   ],
+   "adventures": [
+    "Make deviled eggs for breakfast, eat dessert first, and photograph both plates side by side",
+    "Order the eggiest item you always skip and eat it before anything familiar."
+   ]
+  },
+  "2026-11-03": {
+   "date": "2026-11-03",
+   "holiday": {
+    "name": "Open-Ended Question Day Two",
+    "action": "Layer a sandwich and a question that cannot be answered with yes or no."
+   },
+   "soulQuestions": [
+    "Which question have you been dodging that no stacked sandwich could soften or bury?",
+    "Whose answer would unsettle you most if you asked it over a shared sandwich?"
+   ],
+   "adventures": [
+    "Ask a stranger what surprised them this week over lunch, then stay quiet until they finish",
+    "Pose one question at the sandwich counter that forces everyone past small talk into real stories."
+   ]
+  },
+  "2026-11-04": {
+   "date": "2026-11-04",
+   "holiday": {
+    "name": "Wrong-Scale Day Two",
+    "action": "Blow one candy huge and shrink one big worry down to pocket size."
+   },
+   "soulQuestions": [
+    "What small slight are you treating like a billboard while a real problem stays candy-sized?",
+    "Which candy deserves a microscope, and which worry deserves a shrinking ray?"
+   ],
+   "adventures": [
+    "Draw your biggest worry the size of one candy and your smallest joy huge",
+    "Buy the tiniest candy in the shop and eat it like it cost a fortune."
+   ]
+  },
+  "2026-11-05": {
+   "date": "2026-11-05",
+   "holiday": {
+    "name": "Borrowed Perspective Day Two",
+    "action": "Borrow a donut lover's eyes for an hour and report what shifts."
+   },
+   "soulQuestions": [
+    "Whose eyes would make a second donut shop visit look brand-new, and what would they notice first?",
+    "What opinion of yours would collapse fastest if you argued it from inside a donut shop?"
+   ],
+   "adventures": [
+    "Narrate your donut run out loud as if you were a tourist seeing it first time",
+    "Swap seats with a friend at the donut counter and order whatever they would normally choose."
+   ]
+  },
+  "2026-11-06": {
+   "date": "2026-11-06",
+   "holiday": {
+    "name": "Unlikely Evidence Day Two",
+    "action": "Hunt for odd clues that a nacho pile is evidence of something bigger."
+   },
+   "soulQuestions": [
+    "What odd clue today hints a pile of nachos is evidence of a bigger appetite?",
+    "Which cheesy coincidence are you dismissing too fast because the boring explanation feels safer?"
+   ],
+   "adventures": [
+    "Photograph three odd details on your block that could prove a secret nacho plot is brewing",
+    "Follow one stray cheese stain, flyer, or footprint and write where the trail actually ends."
+   ]
+  },
+  "2026-11-07": {
+   "date": "2026-11-07",
+   "holiday": {
+    "name": "Street-Corner Theory Day Two",
+    "action": "Stand on a corner tasting dark chocolate and almonds, then invent a theory."
+   },
+   "soulQuestions": [
+    "What theory about your neighborhood would tourists believe if you told it over dark chocolate?",
+    "Which stranger did you invent a whole life for today, and what bitter detail gave them away?"
+   ],
+   "adventures": [
+    "Stand on one corner for ten minutes, share almonds, and invent a theory for every third passerby",
+    "Sketch the corner you know best, then label three bittersweet details you had never noticed."
+   ]
+  },
+  "2026-11-08": {
+   "date": "2026-11-08",
+   "holiday": {
+    "name": "Unusual Landmark Day Two",
+    "action": "Crown the foam-hatted cappuccino bar your personal landmark and give it a story."
+   },
+   "soulQuestions": [
+    "What cracked, crooked, or oddly painted cafe feels more yours than any monument?",
+    "Suppose your life had a landmark instead of a milestone — what foam-capped moment would tourists photograph?"
+   ],
+   "adventures": [
+    "Give the weirdest espresso machine on your street a name, a plaque, and a one-line legend",
+    "Walk a visitor to your favorite unlisted cafe and deliver a dramatic five-minute foam tour."
+   ]
+  },
+  "2026-11-09": {
+   "date": "2026-11-09",
+   "holiday": {
+    "name": "Almost-Performance Day Two",
+    "action": "Rehearse breakfast like a show that almost starts, then serve the scrapple anyway."
+   },
+   "soulQuestions": [
+    "Where in your morning are you rehearsing breakfast instead of serving it, and who waits hungry?",
+    "What past would you confess out loud if the curtain rose on a breakfast nobody could interrupt?"
+   ],
+   "adventures": [
+    "Deliver your breakfast order like a stage monologue at the counter, with gestures included",
+    "Bow dramatically after frying one mysterious breakfast meat, then take an encore lap."
+   ]
+  },
+  "2026-11-10": {
+   "date": "2026-11-10",
+   "holiday": {
+    "name": "Public Gesture Day Two",
+    "action": "☾ Make one visible, generous gesture with a vanilla cupcake strangers can actually see."
+   },
+   "soulQuestions": [
+    "What generous move would you make if a plain vanilla foundation erased the embarrassment?",
+    "Whose day would tilt if you handed them the first cupcake and spoke first today?"
+   ],
+   "adventures": [
+    "Hand a cupcake to the next person you see and announce them like a parade marshal.",
+    "Leave a cupcake and a chalk compliment where at least twenty strangers will find them."
+   ]
+  },
+  "2026-11-11": {
+   "date": "2026-11-11",
+   "holiday": {
+    "name": "Unnecessary Badge Day Two",
+    "action": "Honor real service first, then award yourself one badge for a skill nobody asked you to master."
+   },
+   "soulQuestions": [
+    "Which veteran in your life deserves a badge, a ceremony, and a real thank-you?",
+    "When a badge comes with no parade, what kind of service still earns it?"
+   ],
+   "adventures": [
+    "Thank a veteran in person today, then craft one paper badge for your most useless skill",
+    "Listen to a veteran's story today, then pin a handmade badge on a friend for quiet work."
+   ]
+  },
+  "2026-11-12": {
+   "date": "2026-11-12",
+   "holiday": {
+    "name": "Unmarked Door Day Two",
+    "action": "Notice the pizza joint with no sign and wonder what toppings hide behind its door."
+   },
+   "soulQuestions": [
+    "What door in your life has no label, and which topping behind it scares you most?",
+    "Which unmarked choice are you avoiding because nobody posted which toppings to ban?"
+   ],
+   "adventures": [
+    "Photograph three unmarked doors on your street and invent which pizza hides behind each one",
+    "Order a pizza with everything except the one topping you would ban, then note what changes."
+   ]
+  },
+  "2026-11-13": {
+   "date": "2026-11-13",
+   "holiday": {
+    "name": "Lucky Detour Day Two",
+    "action": "Take the long way on purpose and let a kind detour surprise a stranger."
+   },
+   "soulQuestions": [
+    "When did a wrong turn last hand a stranger something better than the plan you abandoned?",
+    "What shortcut are you clinging to that keeps you from the kindest part of town?"
+   ],
+   "adventures": [
+    "Take a detour of at least three blocks and do one kind thing nobody will ever know about",
+    "Miss your usual turn on purpose, then follow the next stranger who needs a hand."
+   ]
+  },
+  "2026-11-14": {
+   "date": "2026-11-14",
+   "holiday": {
+    "name": "Unfinished Sentence Day Two",
+    "action": "Leave sentences hanging like a pickle jar left open, and let silence finish them."
+   },
+   "soulQuestions": [
+    "What sentence have you started a dozen times but never brined long enough to finish?",
+    "If you stopped mid-sentence right now, what sour truth would the silence say for you?"
+   ],
+   "adventures": [
+    "Start five sentences in your notes, leave each one unfinished, and crunch a pickle between them",
+    "Trail off mid-sentence over pickles and watch how the other person fills the gap."
+   ]
+  },
+  "2026-11-15": {
+   "date": "2026-11-15",
+   "holiday": {
+    "name": "Spare Chair Day Two",
+    "action": "Pull up an extra chair, open the fridge, and invite someone unexpected to sit down."
+   },
+   "soulQuestions": [
+    "Who would you pull up a chair for if the fridge stopped testifying about your habits?",
+    "What conversation have you been saving an empty seat and a forgotten leftover for?"
+   ],
+   "adventures": [
+    "Clean one shelf of your fridge, set out an extra chair, and invite a neighbor tonight",
+    "Toss the fridge science experiment, carry a folding chair out, and offer the seat to a stranger."
+   ]
+  },
+  "2026-11-16": {
+   "date": "2026-11-16",
+   "holiday": {
+    "name": "Three-Question Day Two",
+    "action": "☾ You get exactly three questions at the drive-thru today, so make each one count."
+   },
+   "soulQuestions": [
+    "Given only three questions at the drive-thru, what would your first one unlock?",
+    "Which drive-thru question do you keep asking because the answer lets you stay . exactly put?"
+   ],
+   "adventures": [
+    "Ask a friend three questions over fast food without offering a single opinion of your own",
+    "Write down three questions for a stranger in line, then go ask the bravest one aloud."
+   ]
+  },
+  "2026-11-17": {
+   "date": "2026-11-17",
+   "holiday": {
+    "name": "Unlikely Pairing Day Two",
+    "action": "Pair two things that should never meet, like warm bread and something wild, and see what sparks."
+   },
+   "soulQuestions": [
+    "Which two people would cause delicious trouble if they met over warm homemade bread?",
+    "What odd combination inside you keeps getting sorted like flour into the wrong bin?"
+   ],
+   "adventures": [
+    "Introduce two friends who have nothing in common over fresh bread and host their ten-minute chat",
+    "Pair warm bread with pickles, jazz with chores, or socks with sandals and rank the results."
+   ]
+  },
+  "2026-11-18": {
+   "date": "2026-11-18",
+   "holiday": {
+    "name": "Quiet Applause Day Two",
+    "action": "Praise someone loudly without a sound, then hand them a paper crown."
+   },
+   "soulQuestions": [
+    "Whose quiet effort deserves a tiara, noticed for weeks without you ever saying so?",
+    "What tiara-worthy praise do you secretly crave that nobody would think to give you?"
+   ],
+   "adventures": [
+    "Clap silently for a stranger wearing invisible royalty and mouth an exaggerated thank-you",
+    "Fire off a message made only of crown emojis and one specific royal reason why."
+   ]
+  },
+  "2026-11-19": {
+   "date": "2026-11-19",
+   "holiday": {
+    "name": "Side-Door Day Two",
+    "action": "Skip the front entrance, slip in the side, and order an espresso marked with foam."
+   },
+   "soulQuestions": [
+    "What front-door version of yourself are you tired of presenting to the coffee line?",
+    "Which small mark would change everything if you stopped marching through the main entrance?"
+   ],
+   "adventures": [
+    "Enter your next coffee run through a side entrance and exit through a different door",
+    "Leave a foam-marked note for someone through a back channel and start with an honest hello."
+   ]
+  },
+  "2026-11-20": {
+   "date": "2026-11-20",
+   "holiday": {
+    "name": "Unclaimed Viewpoint Day Two",
+    "action": "Claim a viewpoint nobody else wants, like fudge mixed with peanut butter, and argue for it."
+   },
+   "soulQuestions": [
+    "What sweet-and-salty viewpoint have you left unclaimed because defending it costs approval?",
+    "Whose peanut-butter-and-fudge perspective gets ignored, and why does that silence suit everyone?"
+   ],
+   "adventures": [
+    "Stand somewhere you have never stood and describe the view in six sweet-and-salty words",
+    "Combine two things you love, then photograph the result from knee height and a bench."
+   ]
+  },
+  "2026-11-21": {
+   "date": "2026-11-21",
+   "holiday": {
+    "name": "Honest Metaphor Day Two",
+    "action": "Describe your life as a side dish that steals the show, embarrassingly accurate."
+   },
+   "soulQuestions": [
+    "If your week were a side dish, which one would steal the show and why exactly?",
+    "What stuffing metaphor have you used to excuse yourself that just stopped working?"
+   ],
+   "adventures": [
+    "Describe your boss, your inbox, and your weekend using only stuffing ingredients in one paragraph",
+    "Draw your current mood as a holiday table and label the side dish with its real name."
+   ]
+  },
+  "2026-11-22": {
+   "date": "2026-11-22",
+   "holiday": {
+    "name": "Reverse Queue Day Two",
+    "action": "☾ Flip the line, the order, and let the tart cranberry side go first for once."
+   },
+   "soulQuestions": [
+    "What would change if the tart side dish went first for one whole day?",
+    "Where do you always insist on going first, and what tart bite are you afraid of missing?"
+   ],
+   "adventures": [
+    "Let the person behind you go ahead in line and ask what tart thing they love",
+    "Eat your meal backwards today, starting with the tart relish you saved for last."
+   ]
+  },
+  "2026-11-23": {
+   "date": "2026-11-23",
+   "holiday": {
+    "name": "Small Astonishment Day Two",
+    "action": "Find one tiny cup with big energy that still makes you say wow out loud."
+   },
+   "soulQuestions": [
+    "When did you last gasp at something tiny with big energy, and why did you hurry past it?",
+    "What tiny wow are you overlooking because a small cup does not photograph well enough?"
+   ],
+   "adventures": [
+    "Magnify one ordinary espresso shot and show a friend why its smallness stopped you",
+    "Stop at the first tiny wonder you spot and sip it slowly for a full minute."
+   ]
+  },
+  "2026-11-24": {
+   "date": "2026-11-24",
+   "holiday": {
+    "name": "Unscheduled Encore Day Two",
+    "action": "Repeat your tiniest favorite moment today, sardine-small, even though nobody asked for an encore."
+   },
+   "soulQuestions": [
+    "What sardine-small moment deserves a repeat even though nobody asked for one?",
+    "What tiny slice of your day would you replay if applause, not duty, decided the schedule?"
+   ],
+   "adventures": [
+    "Replay your favorite tiny pleasure three times in a row and dance through the final chorus",
+    "Call back the friend whose tiny story ended too soon and ask for five more minutes."
+   ]
+  },
+  "2026-11-25": {
+   "date": "2026-11-25",
+   "holiday": {
+    "name": "Fictional Holiday Day Two",
+    "action": "Invent a brand-new holiday with visible layers, rituals, food, and a terrible parade."
+   },
+   "soulQuestions": [
+    "What layered holiday would you invent if you could force the whole town to celebrate it?",
+    "Which layered ritual from your invented day would embarrass your family and delight your friends?"
+   ],
+   "adventures": [
+    "Declare a personal holiday today, layer its dessert in a glass, and celebrate with one loud ritual",
+    "Throw a five-minute parade for your layered holiday down your hallway with music blasting."
+   ]
+  },
+  "2026-11-26": {
+   "date": "2026-11-26",
+   "holiday": {
+    "name": "Anti-Cliche Day Two",
+    "action": "Ban every cliche you catch today, even the one about cake, and replace it with something real."
+   },
+   "soulQuestions": [
+    "Which cake cliche do you lean on when you do not want to say the harder thing?",
+    "What would your celebration sound like if every familiar cake phrase got deleted on sight?"
+   ],
+   "adventures": [
+    "Catch yourself calling something a piece of cake and rewrite it as a blunt, specific sentence",
+    "Ban the words fine, good, busy, and cake from one conversation and say what is true."
+   ]
+  },
+  "2026-11-27": {
+   "date": "2026-11-27",
+   "holiday": {
+    "name": "Ordinary Hero Day Two",
+    "action": "☾ Spot the everyday heroics hiding in grocery runs, dish duty, and one fancy pie."
+   },
+   "soulQuestions": [
+    "Who in your life does heroic work that nobody photographs, applauds, or serves fancy pie to?",
+    "What ordinary act of yours felt heroic this week even though nobody served it with cream?"
+   ],
+   "adventures": [
+    "Thank the cashier, the custodian, or the pie baker by name for one specific thing",
+    "Do one unglamorous chore for someone else before noon, then eat one fancy slice."
+   ]
+  },
+  "2026-11-28": {
+   "date": "2026-11-28",
+   "holiday": {
+    "name": "Unlikely Mascot Day Two",
+    "action": "Elect the least likely breakfast in the room, like bread turned dessert, as today's mascot."
+   },
+   "soulQuestions": [
+    "What breakfast in your house would make the worst mascot, and why is it perfect?",
+    "Which syrup-soaked mascot would your friends pick for you, and would you dare to wear it?"
+   ],
+   "adventures": [
+    "Crown a syrup-soaked spatula, a sock, or a houseplant as today's mascot and carry it proudly",
+    "Draw your new mascot a tiny jersey, then photograph it with French toast in three spots."
+   ]
+  },
+  "2026-11-29": {
+   "date": "2026-11-29",
+   "holiday": {
+    "name": "Unfinished Route Day Two",
+    "action": "Leave one route unfinished on purpose and see where the tart gap leads."
+   },
+   "soulQuestions": [
+    "What route in your life did you abandon halfway, and what tart surprise is still waiting there?",
+    "Which sweet-and-sour destination do you keep postponing because finishing it would change the story?"
+   ],
+   "adventures": [
+    "Walk halfway down a street you never take, taste something lemon, and write what you saw",
+    "Start a new walking route today, stop at the most interesting lemon tree, and go home."
+   ]
+  },
+  "2026-11-30": {
+   "date": "2026-11-30",
+   "holiday": {
+    "name": "November Postscript Day",
+    "action": "Add a light, airy postscript to November before the month slips away for good."
+   },
+   "soulQuestions": [
+    "What would your airy postscript to November say if you could add one honest line?",
+    "Which light-as-air November moment do you want to underline before December rewrites the story?"
+   ],
+   "adventures": [
+    "Pen a three-line postscript to your month, light as mousse, and tape it where you will see it",
+    "Send one last light November message tonight to someone you meant to call all month."
+   ]
+  },
+  "2026-12-01": {
+   "date": "2026-12-01",
+   "holiday": {
+    "name": "Weather Hypothesis Day",
+    "action": "Bet on one red apple's crunch before you bite, then let the bite argue back."
+   },
+   "soulQuestions": [
+    "Which forecast would you defend on Weather Hypothesis Day, even if one red apple proved you wrong?",
+    "If your gut called the apple's sweetness before the first bite, what would you still want to check?"
+   ],
+   "adventures": [
+    "Step outside, study one cloud for sixty seconds, then bite a red apple and grade your forecast",
+    "Text a friend your boldest apple prediction and leave their reply unopened for an hour."
+   ]
+  },
+  "2026-12-02": {
+   "date": "2026-12-02",
+   "holiday": {
+    "name": "Unnecessary Diagram Day Three",
+    "action": "Draw a gloriously pointless chart for one mutt's mixed-up pedigree."
+   },
+   "soulQuestions": [
+    "What mixed-up mutt of a habit deserves a diagram too elaborate to be a joke?",
+    "Pick one unpapered mutt-part of your day and admit why charting it feels weirdly satisfying, then stop there.?"
+   ],
+   "adventures": [
+    "Sketch a flowchart for one mutt with six decision diamonds and no final step",
+    "Label your mutt's pedigree like a museum map for Unnecessary Diagram Day Three, then hide the key."
+   ]
+  },
+  "2026-12-03": {
+   "date": "2026-12-03",
+   "holiday": {
+    "name": "Three-Point Turn Day Two",
+    "action": "Reverse, swing, straighten — change direction on the way to the pie that means home."
+   },
+   "soulQuestions": [
+    "Where in your life are you idling instead of attempting a Three-Point Turn Day Two, and what pie waits at the turn?",
+    "Name the U-turn you keep postponing because the first move looks clumsy, then name the pie it leads to.?"
+   ],
+   "adventures": [
+    "Drive or walk one block, reverse your route, and finish facing the pie shop without explaining why",
+    "Do a literal three-point turn in an empty lot, then drive off toward pie before anyone asks what it meant."
+   ]
+  },
+  "2026-12-04": {
+   "date": "2026-12-04",
+   "holiday": {
+    "name": "Public Footnote Day Four",
+    "action": "Scribble the small print for the cookie you stole, then post it where strangers can read it."
+   },
+   "soulQuestions": [
+    "What tiny truth about one cookie belongs in the margin rather than the headline, still unspoken?",
+    "Choose one boast you made this week and append the honest asterisk it needed, then leave it hanging, cookie crumbs and all.?"
+   ],
+   "adventures": [
+    "Write a one-line footnote on a sticky note for Public Footnote Day Four, then post it with no name on it, cookie in hand",
+    "Photograph one cookie, then caption it with the footnote the bakery forgot to add."
+   ]
+  },
+  "2026-12-05": {
+   "date": "2026-12-05",
+   "holiday": {
+    "name": "Almost-Local Legend Day Two",
+    "action": "Invent the almost-true tale of the fanciest chocolate cake your block ever saw."
+   },
+   "soulQuestions": [
+    "Which neighbor could become an Almost-Local Legend Day Two if one fancy cake story got exaggerated just once?",
+    "Admit the small feat you want strangers to whisper about, and refuse to say whether the fancy cake happened.?"
+   ],
+   "adventures": [
+    "Tell a cashier a tall-but-kind tale about your street's fanciest cake and leave before they can verify it",
+    "Chalk a plaque for your block's imaginary cake hero on the sidewalk tonight, with no name attached."
+   ]
+  },
+  "2026-12-06": {
+   "date": "2026-12-06",
+   "holiday": {
+    "name": "Temporary Guide Day Two",
+    "action": "Lead someone to the coldest soup in town for an hour, then hand the map back and vanish."
+   },
+   "soulQuestions": [
+    "Who would you happily steer for one afternoon, and where would you refuse to go with them, cold soup in tow?",
+    "What place do you know well enough to narrate without checking your phone, and what cold soup would you skip there?"
+   ],
+   "adventures": [
+    "Give a stranger directions to cold soup with one invented landmark for Temporary Guide Day Two, then vanish mid-tour",
+    "Walk a friend through your favorite shortcut while narrating it like a tour, then end at the cold soup."
+   ]
+  },
+  "2026-12-07": {
+   "date": "2026-12-07",
+   "holiday": {
+    "name": "Quiet Reframe Day Two",
+    "action": "★ Rename one sour moment in a softer voice and watch it dissolve like sugar clouds."
+   },
+   "soulQuestions": [
+    "What single word, swapped quietly, would change how you remember this morning, and which pink cloud scares you?",
+    "Hold today's most annoying moment up to different light for Quiet Reframe Day Two, and leave it unrenamed, still pink.?"
+   ],
+   "adventures": [
+    "Rewrite one text you already sent, kinder and shorter, and keep both versions without sending the pink one",
+    "Move one pink object in your room six inches and let the room feel new, without telling . anyone why."
+   ]
+  },
+  "2026-12-08": {
+   "date": "2026-12-08",
+   "holiday": {
+    "name": "Unusual Refreshment Day Two",
+    "action": "Sip something you would never order beside a brownie you would never share."
+   },
+   "soulQuestions": [
+    "Which brownie flavor scares you slightly, and what does that fear keep that you have not tasted?",
+    "When did a strange drink become a story you still tell at tables, minus the ending, brownie crumbs on the page?"
+   ],
+   "adventures": [
+    "Mix two fridge leftovers into a drink, taste it beside a brownie, and rate it out loud without revealing the recipe",
+    "Order the weirdest drink on the menu for Unusual Refreshment Day Two, sip it boldly beside a brownie, and keep your rating secret."
+   ]
+  },
+  "2026-12-09": {
+   "date": "2026-12-09",
+   "holiday": {
+    "name": "Streetlight Census Day Two",
+    "action": "Count the lights that guard your street after dark, then thank one with a flaky pastry."
+   },
+   "soulQuestions": [
+    "Which corner feels calmest at night, and what earns that feeling that you cannot name, layers and all?",
+    "If every streetlight kept a secret, which one would you ask first, and what buttery layer would you never ask about?"
+   ],
+   "adventures": [
+    "Walk one block after dusk and tally every glowing light for Streetlight Census Day Two, then lose the count over pastry",
+    "Photograph the crookedest lamppost you find and give it a formal title, with no explanation attached, pastry in hand."
+   ]
+  },
+  "2026-12-10": {
+   "date": "2026-12-10",
+   "holiday": {
+    "name": "Better Boundary Day Two",
+    "action": "Draw one clean line today and guard it without explaining yourself twice, cold drink in hand."
+   },
+   "soulQuestions": [
+    "What request would you decline if guilt stopped voting on your decisions, and what cold standard would you keep?",
+    "Whose access to your time needs a smaller gate for Better Boundary Day Two, and what stays outside it, crisp and cold?"
+   ],
+   "adventures": [
+    "Say no to one invitation today, kindly and without offering a backup excuse, then keep the evening unwritten, lager or not",
+    "Lock your phone in another room for one hour and guard the quiet, without checking what you missed, cold drink waiting."
+   ]
+  },
+  "2026-12-11": {
+   "date": "2026-12-11",
+   "holiday": {
+    "name": "Unclaimed Rhythm Day Two",
+    "action": "Steal a beat nobody owns and drum it on a pasta ring until your feet join in."
+   },
+   "soulQuestions": [
+    "What rhythm lives in your body when nobody is watching you move, and what ring does it circle?",
+    "Which song would your hips pick if your brain stopped auditioning tracks, and why would you hide it in pasta?"
+   ],
+   "adventures": [
+    "Tap a beat on a pasta ring for Unclaimed Rhythm Day Two, record it, loop it twice, and keep it anonymous",
+    "Sing a tune you just invented while walking and teach it to someone, minus the last three notes, wreath in hand."
+   ]
+  },
+  "2026-12-12": {
+   "date": "2026-12-12",
+   "holiday": {
+    "name": "Twelve-Second Mystery Day",
+    "action": "Stare at one red flower for twelve seconds until it turns suspicious."
+   },
+   "soulQuestions": [
+    "What could you notice in one red flower in twelve seconds that an hour would have missed?",
+    "If a stranger vanished mid-sentence, what detail would you remember about them, and what red petal would you invent?"
+   ],
+   "adventures": [
+    "Set a twelve-second timer, study the nearest red flower, and list three odd details without solving any of them",
+    "Hide one small red flower in plain sight for Twelve-Second Mystery Day and time its discovery, without telling anyone."
+   ]
+  },
+  "2026-12-13": {
+   "date": "2026-12-13",
+   "holiday": {
+    "name": "Sidewalk Fiction Day Two",
+    "action": "Let the pavement tell a lie so good that walkers slow down, cocoa in hand, to read it."
+   },
+   "soulQuestions": [
+    "Whose footprints would you follow if the sidewalk started narrating their day over warm cocoa, and where would you stop?",
+    "What story does your street tell strangers before you ever say hello, and what warm cocoa part does it leave out?"
+   ],
+   "adventures": [
+    "Chalk one cocoa-stained sentence of fiction on the sidewalk for Sidewalk Fiction Day Two, and leave it mid-story",
+    "Invent backstories for three parked cars over cocoa and whisper the best one aloud, keeping the worst one to yourself."
+   ]
+  },
+  "2026-12-14": {
+   "date": "2026-12-14",
+   "holiday": {
+    "name": "Public Still Life Day Two",
+    "action": "Arrange three found objects on a bench and let strangers mistake them for a fish stew story."
+   },
+   "soulQuestions": [
+    "Which ordinary object earns a pedestal once you stop rushing past it, and what stew story would its label hide?",
+    "What would you place in a shop window if the display told your stew story, minus the part you polish?"
+   ],
+   "adventures": [
+    "Arrange three found objects on a bench for Public Still Life Day Two and photograph them like a stew that tells a story",
+    "Balance a cup, a key, and a leaf into a tiny public sculpture beside a stew pot, and leave it for a stranger. 12 Days of Christmas — Day 1: a partridge in a pear tree"
+   ]
+  },
+  "2026-12-15": {
+   "date": "2026-12-15",
+   "holiday": {
+    "name": "Unlikely Ambassador Day Two",
+    "action": "Send the least obvious person to deliver your boldest message today, cupcake in hand."
+   },
+   "soulQuestions": [
+    "Who would speak for you if your usual spokesperson suddenly lost their voice, and what cupcake would they get wrong?",
+    "What message deserves a messenger nobody would ever predict, and why would you never hand-deliver it with a cupcake?"
+   ],
+   "adventures": [
+    "Ask the shyest person you know to deliver your silliest announcement today over a cupcake, and refuse to rehearse it",
+    "Appoint your pet, plant, or cupcake as ambassador for Unlikely Ambassador Day Two, with no speech prepared. 12 Days of Christmas — Day 2: two turtle doves"
+   ]
+  },
+  "2026-12-16": {
+   "date": "2026-12-16",
+   "holiday": {
+    "name": "One-Sentence Notice Day Two",
+    "action": "Say the whole thing in one sentence, then dip it in chocolate and pin it where it counts."
+   },
+   "soulQuestions": [
+    "What truth have you been padding with paragraphs that needs one chocolate-covered sentence, and what would it omit?",
+    "If only one sentence of yours survived tonight, which one earns the slot, and which chocolate-covered one would you burn?"
+   ],
+   "adventures": [
+    "Write your day's biggest news in exactly one sentence on an index card, then dip the card in chocolate and pocket it",
+    "Post a chocolate-covered one-sentence notice on your fridge for One-Sentence Notice Day Two, gloriously unclear and nameless. 12 Days of Christmas — Day 3: three French hens"
+   ]
+  },
+  "2026-12-17": {
+   "date": "2026-12-17",
+   "holiday": {
+    "name": "Accidental Museum Day Two",
+    "action": "Line up your junk like treasure, charge admission in compliments, and let patience turn sap to gold."
+   },
+   "soulQuestions": [
+    "Which forgotten object in your home deserves a glass case and a label, and what slow gold would the label skip?",
+    "What would visitors learn about you from the drawer you never open, and what sticky gold would they misread?"
+   ],
+   "adventures": [
+    "Arrange five random objects on a shelf as an Accidental Museum Day Two exhibit, with one label blank and sticky",
+    "Give a guided tour of your fridge shelf like a museum curator, and end the tour at the sticky syrup bottle. 12 Days of Christmas — Day 4: four calling birds"
+   ]
+  },
+  "2026-12-18": {
+   "date": "2026-12-18",
+   "holiday": {
+    "name": "Unusual Silence Day Two",
+    "action": "Wear your ugliest sweater and let one conversation go quiet to hear what fills the gap."
+   },
+   "soulQuestions": [
+    "When does silence feel like kindness to you, and when does it sting too much to name under an ugly sweater?",
+    "What have you been avoiding saying that silence keeps saying for you, while your ugly sweater says nothing?"
+   ],
+   "adventures": [
+    "Sit in your parked car for three silent minutes in your ugliest sweater for Unusual Silence Day Two, then drive off wordless",
+    "Mute every notification for one hour in your ugliest sweater and write what the quiet delivers, without reading it back. 12 Days of Christmas — Day 5: five golden rings"
+   ]
+  },
+  "2026-12-19": {
+   "date": "2026-12-19",
+   "holiday": {
+    "name": "Borrowed Color Day Two",
+    "action": "Wear a borrowed color and eat an oatmeal muffin warm while nobody watches the crumbs."
+   },
+   "soulQuestions": [
+    "Which muffin color feels most unlike you, and what part of you wants it without knowing why?",
+    "If you borrowed a stranger's favorite muffin color for a day, whose would you take, and would you return it?"
+   ],
+   "adventures": [
+    "Wear one oatmeal-colored item for Borrowed Color Day Two and photograph it, without explaining the choice",
+    "Paint one fingernail an oatmeal shade and let people ask about it, without ever answering them. 12 Days of Christmas — Day 6: six geese a-laying"
+   ]
+  },
+  "2026-12-20": {
+   "date": "2026-12-20",
+   "holiday": {
+    "name": "Solstice Side Note Day Two",
+    "action": "Scribble a side note on the year's darkest day and let it glow beside a fruit pitcher."
+   },
+   "soulQuestions": [
+    "What small light have you been ignoring while watching the dark grow, and what fruit would it reveal if you looked?",
+    "If the longest dark handed you a margin, what fruit would you scribble there, and what would you cross out?"
+   ],
+   "adventures": [
+    "Light one candle at dusk and write a side note for Solstice Side Note Day Two, then pocket the note beside the pitcher",
+    "Step outside at nightfall with a fruit pitcher, face the dark sky, and whisper one aside nobody hears completely. 12 Days of Christmas — Day 7: seven swans a-swimming"
+   ]
+  },
+  "2026-12-21": {
+   "date": "2026-12-21",
+   "holiday": {
+    "name": "Longest-Night Footnote Day",
+    "action": "★ Stay up with the longest night and footnote its crunch, salty and crisp."
+   },
+   "soulQuestions": [
+    "What truth only arrives after midnight when the house finally stops talking, and what crunch does it whisper?",
+    "Which night habit of yours would you defend at two in the morning without blinking, and what crispy bite would you defend with it?"
+   ],
+   "adventures": [
+    "Stay awake one extra hour tonight and log every crunch the dark makes, without naming a single one",
+    "Write tonight's first secret in the margin for Longest-Night Footnote Day, and leave the second one blank beside the shrimp. 12 Days of Christmas — Day 8: eight maids a-milking"
+   ]
+  },
+  "2026-12-22": {
+   "date": "2026-12-22",
+   "holiday": {
+    "name": "Nearby Elsewhere Day Three",
+    "action": "Turn the nearest block into foreign soil with a loaf of bread that has a past."
+   },
+   "soulQuestions": [
+    "Where nearby have you never looked closely enough to call it yours, and what old loaf might be hiding there?",
+    "What would make your own street feel like somewhere you have never been, and what dense loaf would you lose there?"
+   ],
+   "adventures": [
+    "Walk a street you avoid and photograph one foreign detail for Nearby Elsewhere Day Three, then keep walking toward bread with a past",
+    "Order bread with a past from the closest place you have never tried and eat it outside, without checking the menu first. 12 Days of Christmas — Day 9: nine ladies dancing"
+   ]
+  },
+  "2026-12-23": {
+   "date": "2026-12-23",
+   "holiday": {
+    "name": "Unfinished Anthem Day Two",
+    "action": "Sing the anthem you never finish, loudly, and stop before the chorus, spice cookie unnamed."
+   },
+   "soulQuestions": [
+    "Which song of yours stays unfinished because finishing it would end the feeling, and what unpronounceable name would it carry?",
+    "What chorus do you hum when nobody can hear the missing words, and what spice are the words hiding?"
+   ],
+   "adventures": [
+    "Sing one verse of your anthem for Unfinished Anthem Day Two, flaws included, into your phone, then eat the spice cookie",
+    "Hum the chorus of a song you love, then stop cold mid-note and pocket the rest, spice cookie in your pocket. 12 Days of Christmas — Day 10: ten lords a-leaping"
+   ]
+  },
+  "2026-12-24": {
+   "date": "2026-12-24",
+   "holiday": {
+    "name": "Unnecessary Expedition Day Two",
+    "action": "Take the long way to nowhere with a mug of eggnog and call the detour the destination."
+   },
+   "soulQuestions": [
+    "What trip would you take if arrival stopped mattering and wandering counted, and what nutmeg would you turn back for?",
+    "When did a pointless detour deliver the best part of your day, and what creamy secret did you never find out?"
+   ],
+   "adventures": [
+    "Walk to the farthest mailbox on your street, then take a longer way home, eggnog in your thermos, without telling anyone",
+    "Pack eggnog, pick a random direction, and walk ten minutes for Unnecessary Expedition Day Two, then pause anywhere. 12 Days of Christmas — Day 11: eleven pipers piping"
+   ]
+  },
+  "2026-12-25": {
+   "date": "2026-12-25",
+   "holiday": {
+    "name": "Quiet Autonomy Day Two",
+    "action": "Make one decision alone today inside a giving day, and skip the group chat entirely."
+   },
+   "soulQuestions": [
+    "What choice becomes yours the moment you stop polling everyone around you, and what gift would you keep for yourself?",
+    "Whose permission have you been waiting for that you could simply skip, and what would you give yourself first?"
+   ],
+   "adventures": [
+    "Spend one hour alone for Quiet Autonomy Day Two, doing exactly what you want, then give an hour away",
+    "Decline one plan today with a smile and keep the evening for yourself, then give one small gift away. 12 Days of Christmas — Day 12: twelve drummers drumming"
+   ]
+  },
+  "2026-12-26": {
+   "date": "2026-12-26",
+   "holiday": {
+    "name": "Reverse Souvenir Day Three",
+    "action": "Leave something behind for another stranger instead of taking one, candy cane hooked on a bench."
+   },
+   "soulQuestions": [
+    "What would you leave in a place if you knew a stranger would find it, and what striped thing would you keep back?",
+    "Which memory of yours would make a better gift than any object, and what minty hook would you never give away?"
+   ],
+   "adventures": [
+    "Hide a candy cane inside a library book for Reverse Souvenir Day Three, for whoever finds it, with no name on it",
+    "Leave a candy cane on a bench with a tiny note saying keep it, and slip away before anyone looks up."
+   ]
+  },
+  "2026-12-27": {
+   "date": "2026-12-27",
+   "holiday": {
+    "name": "Public Listening Day Two",
+    "action": "★ Listen to the room like a spy with good manners, fruitcake jokes and all, notebook open."
+   },
+   "soulQuestions": [
+    "Whose voice in public do you overhear and instantly want to follow, and what fruitcake joke would you ask them about?",
+    "What do strangers' conversations reveal about the city you think you know, and . what fruitcake joke do they never finish?"
+   ],
+   "adventures": [
+    "Sit on a bench for ten minutes with fruitcake and transcribe sounds for Public Listening Day Two, without identifying a single voice",
+    "Eavesdrop on one café conversation about fruitcake, kindly, and steal a single sentence to carry, unsolved, in your pocket."
+   ]
+  },
+  "2026-12-28": {
+   "date": "2026-12-28",
+   "holiday": {
+    "name": "Unscheduled Lecture Day Two",
+    "action": "Teach one surprising thing to whoever will stand still long enough, chocolate candy in hand."
+   },
+   "soulQuestions": [
+    "What are you secretly an expert on that no diploma would ever prove, and what chocolate lesson would your first class skip?",
+    "If you taught a five-minute class tonight, what would the title promise, and what truffle would the class withhold?"
+   ],
+   "adventures": [
+    "Explain your weirdest skill to a friend in under ninety seconds flat, and stop before the best part, chocolate still unwrapped",
+    "Stand on a chair and deliver a one-minute lecture for Unscheduled Lecture Day Two, ending on a question, chocolate as the prize."
+   ]
+  },
+  "2026-12-29": {
+   "date": "2026-12-29",
+   "holiday": {
+    "name": "Almost-Map Day Three",
+    "action": "Sketch your neighborhood from memory and let the wrong streets win, pepper pot on the stove."
+   },
+   "soulQuestions": [
+    "How wrong is your mental map of home, and which spicy error charms you too much to correct?",
+    "What landmark do you navigate by that no official map would ever mark, and what spicy soup would its real name be?"
+   ],
+   "adventures": [
+    "Draw your block from memory for Almost-Map Day Three, wrong turns included, then fold it shut over pepper pot",
+    "Fold a paper map, mark an X somewhere new, and walk toward it without unfolding the rest, kick in your step."
+   ]
+  },
+  "2026-12-30": {
+   "date": "2026-12-30",
+   "holiday": {
+    "name": "December Addendum Day",
+    "action": "★ Tack one last page onto December for the powder that does everything, and let it hang there crooked."
+   },
+   "soulQuestions": [
+    "What belongs in the December Addendum Day postscript the month itself refused to hold, and what powder would it take to erase it?",
+    "Which December moment deserves a postscript you were too busy to write, and what volcano would its first line hide?"
+   ],
+   "adventures": [
+    "Write a postscript to your month on a fresh page and tape it up, with the last line missing, powder on your fingers",
+    "Add one item to your December that the month almost forgot to include, and leave it unlabeled, powder that does everything."
+   ]
+  },
+  "2026-12-31": {
+   "date": "2026-12-31",
+   "holiday": {
+    "name": "Final Margin Day",
+    "action": "★ Scribble in the last margin of the year and refuse to stay inside lines."
+   },
+   "soulQuestions": [
+    "Which skipped detail keeps asking for a margin note, and what would the note confess?",
+    "Which rule did you break recently that you would break again gladly, and what would you set down in the margin to end it?"
+   ],
+   "adventures": [
+    "Write one confession in today's margin for Final Margin Day and underline it twice, without signing your name",
+    "Cross out one leftover resolution in the margin and replace it with a dare instead, then keep the dare from yourself."
+   ]
+  }
+ }
+}

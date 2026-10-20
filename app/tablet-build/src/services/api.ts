@@ -1,0 +1,1531 @@
+import { UserProfile, Goal, AntiGoal, FaqQuestion, DailyEntry, PersonalitySnapshot, InterpersonalInsight, WeeklyFlightDebrief, MonthlyMoneyMap, TokenRedemptionResult, UserEntitlement, ExpansionProduct, KhaosPointEntry, KhaosPointAction, KHAOS_POINT_VALUES, FlightCrewContact, AuthResult, ActiveEdition, EditionDay, EditionTheme } from '../types';
+import { DueReminder } from '../lib/reminders';
+import { aiConsentHeaders } from './aiConsent';
+import { setActiveUserId } from '../storage';
+import { noteSaveAction } from '../beast';
+import { getVoiceProfile } from '../tone';
+
+// ================= Auth + session =================
+
+// OS-006: the auth token used to live in localStorage, where it persisted
+// indefinitely and was readable by any script on the page. It now lives in
+// sessionStorage (cleared when the tab/app session ends). One-time
+// migration: a pre-OS-006 localStorage token is moved over on first read
+// so existing sessions aren't force-logged-out by the upgrade.
+const TOKEN_KEY = 'lifeos:auth:token';
+let cachedUserId: string | null = null;
+let authFailureHandler: (() => void) | null = null;
+
+export class AuthError extends Error {
+  code = 'AUTH';
+  constructor(message: string) {
+    super(message);
+    this.name = 'AuthError';
+  }
+}
+
+/** Thrown when the server answers 403 with code EMAIL_UNVERIFIED (OS-002). */
+export class EmailUnverifiedError extends Error {
+  code = 'EMAIL_UNVERIFIED';
+  constructor(message: string) {
+    super(message);
+    this.name = 'EmailUnverifiedError';
+  }
+}
+
+function getToken(): string | null {
+  try {
+    const t = sessionStorage.getItem(TOKEN_KEY);
+    if (t) return t;
+    const legacy = localStorage.getItem(TOKEN_KEY);
+    if (legacy) {
+      try { sessionStorage.setItem(TOKEN_KEY, legacy); } catch { /* ignore */ }
+      try { localStorage.removeItem(TOKEN_KEY); } catch { /* ignore */ }
+      return legacy;
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+function setToken(token: string) {
+  try {
+    sessionStorage.setItem(TOKEN_KEY, token);
+  } catch {
+    // ignore
+  }
+  // Never leave a copy in localStorage.
+  try {
+    localStorage.removeItem(TOKEN_KEY);
+  } catch {
+    // ignore
+  }
+  cachedUserId = null;
+    setActiveUserId(null);
+}
+
+function clearToken() {
+  try {
+    sessionStorage.removeItem(TOKEN_KEY);
+  } catch {
+    // ignore
+  }
+  try {
+    localStorage.removeItem(TOKEN_KEY);
+  } catch {
+    // ignore
+  }
+  cachedUserId = null;
+    setActiveUserId(null);
+}
+
+// Per-user namespaced localStorage keys, so offline fallbacks never leak one
+// account's data into another's on a shared browser.
+function ns(key: string): string {
+  return `lifeos:${cachedUserId || 'anon'}:${key}`;
+}
+
+function lsGet<T>(key: string): T | null {
+  try {
+    const v = localStorage.getItem(ns(key));
+    return v ? (JSON.parse(v) as T) : null;
+  } catch {
+    return null;
+  }
+}
+
+function lsSet(key: string, val: unknown) {
+  try {
+    localStorage.setItem(ns(key), JSON.stringify(val));
+  } catch {
+    // ignore
+  }
+}
+
+// ================= Mutation outbox (offline write queue) =================
+// When a mutation fails because the network is unreachable (TypeError), the
+// api layer still saves locally AND enqueues the write here. flushOutbox()
+// replays entries FIFO on reconnect (window 'online' + at the start of
+// App.loadAll). Only personal-content writes are queued — social writes
+// (wall, DMs, rooms, FAQ) fail loudly instead: silently replaying a wall
+// post or DM risks duplicates the user never intended.
+// Entries are per-user (ns()) and capped; 4xx rejections are dropped
+// (permanent), 5xx/network failures stop the flush for a later retry.
+export interface OutboxEntry {
+  id: string;
+  method: 'POST' | 'PATCH' | 'DELETE';
+  path: string;
+  body?: unknown;
+  ts: number;
+}
+
+const OUTBOX_KEY = 'outbox';
+const OUTBOX_CAP = 100;
+
+function getOutbox(): OutboxEntry[] {
+  return lsGet<OutboxEntry[]>(OUTBOX_KEY) || [];
+}
+
+function setOutbox(entries: OutboxEntry[]) {
+  lsSet(OUTBOX_KEY, entries.slice(0, OUTBOX_CAP));
+}
+
+export function enqueueOutbox(method: OutboxEntry['method'], path: string, body?: unknown) {
+  const entries = getOutbox();
+  entries.push({
+    id: `out_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`,
+    method,
+    path,
+    body,
+    ts: Date.now(),
+  });
+  setOutbox(entries);
+}
+
+/** Replay queued writes, oldest first. Stops at the first retryable failure.
+ *  Concurrent callers share one run — two flushes racing could replay the
+ *  same create twice (e.g. two goals from one offline tap). */
+let flushInflight: Promise<{ flushed: number; remaining: number }> | null = null;
+
+export function flushOutbox(): Promise<{ flushed: number; remaining: number }> {
+  if (flushInflight) return flushInflight;
+  flushInflight = (async (): Promise<{ flushed: number; remaining: number }> => {
+    if (!getToken()) return { flushed: 0, remaining: getOutbox().length };
+    let queue = getOutbox();
+    let flushed = 0;
+    while (queue.length > 0) {
+      const entry = queue[0];
+      try {
+        const res = await req(entry.path, {
+          method: entry.method,
+          body: entry.body !== undefined ? JSON.stringify(entry.body) : undefined,
+        });
+        if (res.ok) {
+          queue = queue.slice(1);
+          setOutbox(queue);
+          flushed++;
+          continue;
+        }
+        if (res.status >= 400 && res.status < 500) {
+          // Permanent rejection — drop it rather than retrying forever.
+          console.warn('Outbox entry rejected by server, dropping', entry.method, entry.path, res.status);
+          queue = queue.slice(1);
+          setOutbox(queue);
+          continue;
+        }
+        break; // 5xx: stop, retry later
+      } catch (e) {
+        if (e instanceof AuthError) break; // session gone; queue waits for next login
+        break; // network still down (TypeError) or anything else: retry later
+      }
+    }
+    return { flushed, remaining: queue.length };
+  })();
+  return flushInflight.finally(() => { flushInflight = null; });
+}
+
+// ================= API base URL =================
+// Every /api/* call goes through apiUrl(). The base comes ONLY from
+// VITE_API_URL baked in at build time — there is no runtime override.
+//
+// Canonical backend per build type:
+//   - APK (build:mobile) + GitHub Pages: VITE_API_URL =
+//     https://off-script-life-os-production.up.railway.app (set by the
+//     build script / CI workflow — never by the user).
+//   - Server-served web build (`npm run build` + node dist/server.cjs):
+//     VITE_API_URL unset -> '' (same origin).
+//
+// A user-editable server URL was REMOVED (2026-10-14): it let anyone
+// redirect the app — and its credentials/data — to a malicious server.
+// Old localStorage overrides (`lifeos:api:base_override`) are ignored.
+export function getApiBase(): string {
+  const envBase = (import.meta as any).env?.VITE_API_URL as string | undefined;
+  if (envBase && envBase.trim()) return envBase.trim().replace(/\/+$/, '');
+  return '';
+}
+
+export function apiUrl(path: string): string {
+  const base = getApiBase();
+  return base ? `${base}${path}` : path;
+}
+
+// Authenticated request helper. Throws AuthError on 401 (session gone) and a
+// TypeError on network failure, matching the offline-fallback convention below.
+async function req(path: string, options: RequestInit = {}): Promise<Response> {
+  const headers: Record<string, string> = {
+    'Content-Type': 'application/json',
+    ...((options.headers as Record<string, string>) || {})
+  };
+  const token = getToken();
+  if (token) headers['Authorization'] = `Bearer ${token}`;
+  let res: Response;
+  try {
+    res = await fetch(apiUrl(path), { ...options, headers });
+  } catch {
+    throw new TypeError('network unreachable');
+  }
+  if (res.status === 401) {
+    clearToken();
+    if (authFailureHandler) authFailureHandler();
+    const body = await res.json().catch(() => ({} as any));
+    throw new AuthError(body.error || 'Session expired. Please log in again.');
+  }
+  // OS-002: the email-verification gate answers 403 + code
+  // EMAIL_UNVERIFIED. Previously this fell through to generic errors and
+  // the UI had no branch for it. The session is still valid, so the
+  // token is NOT cleared here.
+  if (res.status === 403) {
+    const body = await res.json().catch(() => ({} as any));
+    if (body.code === 'EMAIL_UNVERIFIED') {
+      throw new EmailUnverifiedError(body.error || 'Verify your email first — check your inbox for the link.');
+    }
+  }
+  return res;
+}
+
+function blankProfile(id: string): UserProfile {
+  return {
+    id,
+    khaos_name: '',
+    word_of_the_year: '',
+    khaos_mantra: '',
+    what_done_pretending: '',
+    what_ready_to_admit: '',
+    relationship_with_khaos: '',
+    permission_granted: '',
+    birthday: '',
+    birth_time: '',
+    birthplace: '',
+    created_at: new Date().toISOString(),
+    core_values: {
+      autonomy: 5,
+      honesty: 5,
+      creativity: 5,
+      presence: 5,
+      resilience: 5,
+      playfulness: 5,
+      rest: 5,
+      discipline: 5
+    }
+  };
+}
+
+const defaultAntiGoals: AntiGoal[] = [
+  {
+    id: "antigoal_01",
+    title: "Apologizing before asking a straightforward question in team chats",
+    category: "People Pleasing",
+    why_stopped: "Shrinking myself to make normal communication feel like an inconvenience.",
+    is_completed: false,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: "antigoal_02",
+    title: "Saying 'yes' on the spot to non-urgent commitments without sleeping on it",
+    category: "Boundary",
+    why_stopped: "Immediate compliance is fear masquerading as helpfulness.",
+    is_completed: true,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: "antigoal_03",
+    title: "Checking work notifications and email before getting out of bed",
+    category: "Time Theft",
+    why_stopped: "Hands over the keys of my nervous system to strangers before sunrise.",
+    is_completed: false,
+    created_at: new Date().toISOString()
+  },
+  {
+    id: "antigoal_04",
+    title: "Polishing drafts for hours when 80% clarity was reached 3 hours ago",
+    category: "Perfectionism",
+    why_stopped: "Procrastination dressed in bespoke calligraphy.",
+    is_completed: false,
+    created_at: new Date().toISOString()
+  }
+];
+
+let interpersonalCache: InterpersonalInsight[] | null = null;
+let interpersonalCacheAt = 0;
+let interpersonalInflight: Promise<InterpersonalInsight[]> | null = null;
+
+export const api = {
+  // ---- Server connection (build-time only — no runtime override) ----
+  getApiBase,
+  apiUrl,
+
+  // ---- Offline: mutation outbox (replay queued writes on reconnect) ----
+  enqueueOutbox,
+  flushOutbox,
+
+  // ---- Auth ----
+  getToken,
+  setToken,
+  clearToken,
+
+  onAuthFailure(handler: (() => void) | null) {
+    authFailureHandler = handler;
+  },
+
+  // NOTE: sign-in is EMAIL-ONLY (2026-10-17). Username is the account's
+  // display name, never a login credential. Signups go through
+  // emailRegister() -> /api/auth/email/register.
+  async login(email: string, password: string): Promise<AuthResult> {
+    const res = await fetch(apiUrl('/api/auth/login'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, password })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (res.status === 403 && body.code === 'EMAIL_UNVERIFIED') {
+      throw new EmailUnverifiedError(body.error || 'Verify your email first — check your inbox for the link.');
+    }
+    if (!res.ok) throw new Error(body.error || 'Login failed.');
+    setToken(body.token);
+    cachedUserId = body.user?.id || null;
+    setActiveUserId(cachedUserId);
+    return body as AuthResult;
+  },
+
+  async logout(): Promise<void> {
+    // Raw fetch on purpose: the central req() helper fires the auth-failure
+    // handler on 401, which would call logout() again — infinite recursion.
+    try {
+      const token = getToken();
+      await fetch(apiUrl('/api/auth/logout'), {
+        method: 'POST',
+        headers: token ? { Authorization: `Bearer ${token}` } : {}
+      });
+    } catch {
+      // ignore — clearing the local token is what matters
+    }
+    clearToken();
+  },
+
+  async recoverAccount(email: string, recoveryCode: string, newPassword: string): Promise<{ success: boolean; recoveryCode: string }> {
+    const res = await fetch(apiUrl('/api/auth/recover'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, recoveryCode, newPassword })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Recovery failed.');
+    return body;
+  },
+
+  async rotateRecoveryCode(): Promise<{ recoveryCode: string }> {
+    const res = await req('/api/auth/recovery-code/rotate', { method: 'POST' });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not mint a new code.');
+    return body;
+  },
+
+  // ---- Expanded auth: OAuth / email / usernames ----
+
+  async getAuthConfig(): Promise<{ google: boolean; facebook: boolean; email: boolean; smtp: boolean }> {
+    try {
+      const res = await fetch(apiUrl('/api/auth/config'));
+      if (res.ok) return await res.json();
+    } catch { /* ignore */ }
+    return { google: false, facebook: false, email: true, smtp: false };
+  },
+
+  async emailRegister(email: string, username: string, password: string): Promise<AuthResult & { emailVerified: boolean; verificationEmailed: boolean }> {
+    const res = await fetch(apiUrl('/api/auth/email/register'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, username, password })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) {
+      const err = new Error(body.error || 'Email registration failed.') as any;
+      err.suggestions = body.suggestions;
+      throw err;
+    }
+    setToken(body.token);
+    cachedUserId = body.user?.id || null;
+    setActiveUserId(cachedUserId);
+    return body;
+  },
+
+  // (emailLogin removed 2026-10-17 — identical to login() now that sign-in
+  // is email-only. One canonical path: login() -> /api/auth/login.)
+  /**
+   * OS-002: public resend for locked-out users — prove the password, get a
+   * fresh verification link. Used by the login screen's "Resend
+   * verification email" button (no session needed, unlike resendVerification).
+   */
+  async requestVerification(email: string, password: string): Promise<void> {
+    const res = await fetch(apiUrl('/api/auth/email/request-verification'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, password })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not resend the verification email.');
+  },
+
+  async resendVerification(): Promise<void> {
+    const res = await req('/api/auth/email/resend-verification', { method: 'POST' });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not resend the verification email.');
+  },
+
+  // ---- Phone verification / SMS recovery / friend discovery ----
+  async phoneStatus(): Promise<{ phone: string | null; phoneVerified: boolean; smsLive: boolean }> {
+    const res = await req('/api/auth/phone/status');
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not load phone status.');
+    return body;
+  },
+  async requestPhoneCode(phone: string): Promise<{ sent: boolean; smsLive: boolean }> {
+    const res = await req('/api/auth/phone/request-code', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ phone }),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not send the code.');
+    return body;
+  },
+  async verifyPhoneCode(code: string): Promise<{ verified: boolean }> {
+    const res = await req('/api/auth/phone/verify', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ code }),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Code did not check out.');
+    return body;
+  },
+  async phoneForgot(phone: string): Promise<{ sent: boolean; message?: string }> {
+    const res = await fetch(apiUrl('/api/auth/phone/forgot'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ phone }),
+    });
+    return res.json().catch(() => ({ sent: false } as any));
+  },
+  async phoneReset(phone: string, code: string, newPassword: string): Promise<{ ok: boolean; message?: string }> {
+    const res = await fetch(apiUrl('/api/auth/phone/reset'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ phone, code, newPassword }),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Reset failed.');
+    return body;
+  },
+  async discoverFriends(hashes: string[]): Promise<{ matches: { id: string; username: string }[] }> {
+    const res = await req('/api/friends/discover', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ hashes }),
+    });
+    const body = await res.json().catch(() => ({ matches: [] } as any));
+    if (!res.ok) throw new Error(body.error || 'Discovery failed.');
+    return body;
+  },
+  // ---- Friends: requests + list ----
+  async sendFriendRequest(toId: string): Promise<{ request?: any; alreadyFriends?: boolean; duplicate?: boolean }> {
+    const res = await req('/api/friends/requests', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ toId }),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not send that friend request.');
+    return body;
+  },
+  async sendFriendRequestToAmber(): Promise<{ request?: any; alreadyFriends?: boolean; duplicate?: boolean }> {
+    const res = await req('/api/friends/requests/amber', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({}),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not send that friend request.');
+    return body;
+  },
+  async listFriends(): Promise<{ id: string; username: string }[]> {
+    const res = await req('/api/friends');
+    if (!res.ok) throw new Error('Could not load your friends.');
+    return res.json();
+  },
+  async listFriendRequests(): Promise<{ incoming: any[]; outgoing: any[] }> {
+    const res = await req('/api/friends/requests');
+    if (!res.ok) throw new Error('Could not load friend requests.');
+    return res.json();
+  },
+  async acceptFriendRequest(id: string): Promise<{ request: any }> {
+    const res = await req(`/api/friends/requests/${id}/accept`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({}),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not accept that request.');
+    return body;
+  },
+  async declineFriendRequest(id: string): Promise<{ request: any }> {
+    const res = await req(`/api/friends/requests/${id}/decline`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({}),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not decline that request.');
+    return body;
+  },
+  // ---- Developer-mode password gate ----
+  async devStatus(): Promise<{ passwordSet: boolean }> {
+    const res = await req('/api/auth/dev/status');
+    const body = await res.json().catch(() => ({ passwordSet: false } as any));
+    if (!res.ok) throw new Error(body.error || 'Could not check dev status.');
+    return body;
+  },
+  async setDevPassword(password: string): Promise<void> {
+    const res = await req('/api/admin/dev-password', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ password }),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not set the dev password.');
+  },
+  async unlockDev(password: string): Promise<void> {
+    const res = await req('/api/auth/dev-unlock', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ password }),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Wrong dev password.');
+  },
+
+  async forgotByEmail(email: string): Promise<{ fallback?: string; message?: string; sent?: boolean }> {
+    const res = await fetch(apiUrl('/api/auth/email/forgot'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email })
+    });
+    return res.json().catch(() => ({} as any));
+  },
+
+  async completeOAuthSignup(pendingKey: string, username: string): Promise<AuthResult> {
+    const res = await fetch(apiUrl('/api/auth/oauth/complete'), {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ pendingKey, username })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) {
+      const err = new Error(body.error || 'Signup failed.') as any;
+      err.suggestions = body.suggestions;
+      throw err;
+    }
+    setToken(body.token);
+    cachedUserId = body.user?.id || null;
+    setActiveUserId(cachedUserId);
+    return body;
+  },
+
+  async changeUsername(username: string): Promise<{ username: string; khaosName: string }> {
+    const res = await req('/api/auth/username', {
+      method: 'POST',
+      body: JSON.stringify({ username })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) {
+      const err = new Error(body.error || 'Could not change username.') as any;
+      err.suggestions = body.suggestions;
+      throw err;
+    }
+    return body;
+  },
+
+  // ---- Reminders ----
+
+  async getDueReminders(): Promise<{ due: DueReminder[] }> {
+    const res = await req('/api/reminders/due');
+    if (!res.ok) throw new Error('Could not load reminders.');
+    return res.json();
+  },
+
+  // ---- The Khaos Wall ----
+
+  async getWallPosts(): Promise<{ id: string; userId: string; username: string; text: string; created_at: string }[]> {
+    const res = await req('/api/wall');
+    if (!res.ok) throw new Error('Could not load the wall.');
+    return res.json();
+  },
+
+  async getFieldWallPosts(regionId: string, radius: number): Promise<{ id: string; userId: string; username: string; text: string; created_at: string }[]> {
+    const res = await req(`/api/wall/field?regionId=${encodeURIComponent(regionId)}&radius=${radius}`);
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not load the Field Wall.');
+    return Array.isArray(body) ? body : [];
+  },
+
+  async postToWall(text: string): Promise<{ id: string; userId: string; username: string; text: string; created_at: string }> {
+    const res = await req('/api/wall', { method: 'POST', body: JSON.stringify({ text }) });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not post.');
+    return body;
+  },
+
+  async deleteWallPost(id: string): Promise<void> {
+    const res = await req(`/api/wall/${id}`, { method: 'DELETE' });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not delete that post.');
+  },
+
+  async replyToWallPost(id: string, text: string): Promise<{ id: string; userId: string; username: string; text: string; created_at: string }> {
+    const res = await req(`/api/wall/${id}/replies`, { method: 'POST', body: JSON.stringify({ text }) });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not reply.');
+    return body;
+  },
+
+  async deleteWallReply(postId: string, replyId: string): Promise<void> {
+    const res = await req(`/api/wall/${postId}/replies/${replyId}`, { method: 'DELETE' });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not delete that reply.');
+  },
+
+  async toggleWallReaction(id: string, emoji: string): Promise<{ reactions: Record<string, string[]> }> {
+    const res = await req(`/api/wall/${id}/reactions`, { method: 'POST', body: JSON.stringify({ emoji }) });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not react.');
+    return body;
+  },
+
+  async toggleWallPin(id: string): Promise<{ pinned: boolean }> {
+    const res = await req(`/api/wall/${id}/pin`, { method: 'POST' });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not pin that post.');
+    return body;
+  },
+
+  // ---- Notifications ----
+
+  async getNotifications(): Promise<{ items: { id: string; kind: string; text: string; refId: string | null; created_at: string; read: boolean }[]; unread: number }> {
+    const res = await req('/api/notifications');
+    if (!res.ok) throw new Error('Could not load notifications.');
+    return res.json();
+  },
+
+  async markNotificationsRead(): Promise<void> {
+    await req('/api/notifications/read', { method: 'POST' });
+  },
+
+  // ---- Group rooms ----
+
+  async getRooms(): Promise<{ id: string; name: string; description: string; ownerId: string; memberCount: number; lastAt: string }[]> {
+    const res = await req('/api/rooms');
+    if (!res.ok) throw new Error('Could not load rooms.');
+    return res.json();
+  },
+
+  async createRoom(name: string, description: string): Promise<{ id: string; name: string }> {
+    const res = await req('/api/rooms', { method: 'POST', body: JSON.stringify({ name, description }) });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not create that room.');
+    return body;
+  },
+
+  async joinRoom(id: string): Promise<void> {
+    const res = await req(`/api/rooms/${id}/join`, { method: 'POST' });
+    if (!res.ok) throw new Error('Could not join that room.');
+  },
+
+  async leaveRoom(id: string): Promise<void> {
+    const res = await req(`/api/rooms/${id}/leave`, { method: 'POST' });
+    if (!res.ok) throw new Error('Could not leave that room.');
+  },
+
+  async deleteRoom(id: string): Promise<void> {
+    const res = await req(`/api/rooms/${id}`, { method: 'DELETE' });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not delete that room.');
+  },
+
+  async getRoomMessages(id: string): Promise<{ room: { id: string; name: string; description: string; ownerId: string; memberIds: string[] }; messages: { id: string; userId: string; username: string; text: string; created_at: string }[] }> {
+    const res = await req(`/api/rooms/${id}/messages`);
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not load that room.');
+    return body;
+  },
+
+  async sendRoomMessage(id: string, text: string): Promise<{ id: string; userId: string; username: string; text: string; created_at: string }> {
+    const res = await req(`/api/rooms/${id}/messages`, { method: 'POST', body: JSON.stringify({ text }) });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not send that message.');
+    return body;
+  },
+
+  // ---- Inbox (DMs) ----
+
+  async getUserDirectory(query?: string): Promise<{ id: string; username: string }[]> {
+    const res = await req('/api/users/directory' + (query ? `?q=${encodeURIComponent(query)}` : ''));
+    if (!res.ok) throw new Error('Could not load the directory.');
+    return res.json();
+  },
+
+  async getInboxThreads(): Promise<{ partnerId: string; partnerUsername: string; lastText: string; lastAt: string; lastFromMe: boolean; unread: number }[]> {
+    const res = await req('/api/inbox/threads');
+    if (!res.ok) throw new Error('Could not load threads.');
+    return res.json();
+  },
+
+  async getThread(partnerId: string): Promise<{ partner: { id: string; username: string }; messages: { id: string; fromId: string; fromUsername: string; text: string; created_at: string }[] }> {
+    const res = await req(`/api/inbox/threads/${partnerId}`);
+    if (!res.ok) throw new Error('Could not load that thread.');
+    return res.json();
+  },
+
+  async sendDm(toId: string, text: string): Promise<{ id: string; fromId: string; fromUsername: string; text: string; created_at: string }> {
+    const res = await req('/api/inbox/messages', { method: 'POST', body: JSON.stringify({ toId, text }) });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not send that.');
+    return body;
+  },
+
+  async deleteDm(id: string): Promise<void> {
+    const res = await req(`/api/inbox/messages/${id}`, { method: 'DELETE' });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not delete that message.');
+  },
+
+  async getMe(): Promise<UserProfile> {
+    const res = await req('/api/auth/me');
+    if (!res.ok) {
+      const body = await res.json().catch(() => ({} as any));
+      throw new Error(body.error || 'Could not load your profile.');
+    }
+    const user = (await res.json()) as UserProfile;
+    cachedUserId = user.id || cachedUserId;
+    setActiveUserId(cachedUserId);
+    return user;
+  },
+
+  // ---- Content packs / entitlements ----
+  async getEntitlements(): Promise<UserEntitlement[]> {
+    try {
+      const res = await req('/api/entitlements');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('entitlements', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API unavailable, reading local entitlements', e);
+    }
+    return lsGet<UserEntitlement[]>('entitlements') || [];
+  },
+
+  async getExpansions(): Promise<ExpansionProduct[]> {
+    const res = await req('/api/expansions');
+    if (!res.ok) throw new Error('Could not load expansions.');
+    return res.json();
+  },
+
+  // ---- Editions (the planner edition the app RUNS) ----
+  async getActiveEdition(): Promise<{ edition: ActiveEdition | null }> {
+    try {
+      const res = await req('/api/editions/active');
+      if (res.ok) return res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('Editions endpoint unavailable', e);
+    }
+    return { edition: null };
+  },
+
+  async getEditionDay(editionId: string, date: string): Promise<{ edition_id: string; date: string; theme: EditionTheme | null; day: EditionDay } | null> {
+    try {
+      const res = await req(`/api/editions/${encodeURIComponent(editionId)}/day?date=${encodeURIComponent(date)}`);
+      if (res.ok) return res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('Edition day unavailable', e);
+    }
+    return null;
+  },
+
+  async purchaseExpansion(productId: string): Promise<{ success: boolean; expires_at: string }> {
+    const res = await req('/api/expansions/purchase', {
+      method: 'POST',
+      body: JSON.stringify({ product_id: productId }),
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not complete that purchase.');
+    return body;
+  },
+
+  async redeemToken(tokenId: string): Promise<TokenRedemptionResult> {
+    const normalizedToken = tokenId.trim().toUpperCase();
+    try {
+      const res = await req('/api/redeem-token', {
+        method: 'POST',
+        body: JSON.stringify({ tokenId: normalizedToken })
+      });
+      const result = await res.json();
+      if (!res.ok) return { success: false, error: result.error || 'Unable to redeem this QR code.' };
+      const current = await this.getEntitlements().catch(() => [] as UserEntitlement[]);
+      // Don't stack a duplicate local entitlement if this pack is already unlocked.
+      if (!current.some(e => e.pack_id === result.packId)) {
+        const entitlement: UserEntitlement = {
+          user_id: cachedUserId || '',
+          pack_id: result.packId,
+          unlocked_at: new Date().toISOString(),
+          expires_at: null,
+          expired: false,
+          days_left: null
+        };
+        lsSet('entitlements', [...current, entitlement]);
+      }
+      return result;
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      // No local fallback: entitlements are granted server-side only.
+      // (Offline demo grants were a forgery hole — removed 2026-10-10.)
+      return { success: false, error: 'Connect to the internet to redeem this code.' };
+    }
+  },
+
+  // ---- Profile ----
+  async getUser(): Promise<UserProfile> {
+    try {
+      const res = await req('/api/user');
+      if (res.ok) {
+        const user = await res.json();
+        lsSet('user', user);
+        return user;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API unavailable, reading local user', e);
+    }
+    return lsGet<UserProfile>('user') || blankProfile(cachedUserId || 'local');
+  },
+
+  async updateUser(user: Partial<UserProfile>): Promise<UserProfile> {
+    try {
+      const res = await req('/api/user', {
+        method: 'POST',
+        body: JSON.stringify(user)
+      });
+      if (res.ok) {
+        const updated = await res.json();
+        lsSet('user', updated);
+        return updated;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, saving local user', e);
+    }
+    const current = await this.getUser().catch(() => blankProfile(cachedUserId || 'local'));
+    const updated = { ...current, ...user, updated_at: new Date().toISOString() };
+    lsSet('user', updated);
+    return updated;
+  },
+
+  // ---- Goals ----
+  async getGoals(): Promise<Goal[]> {
+    try {
+      const res = await req('/api/goals');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('goals', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local goals', e);
+    }
+    return lsGet<Goal[]>('goals') || [];
+  },
+
+  async createGoal(goalData: Omit<Goal, 'id' | 'created_at' | 'is_completed'>): Promise<Goal> {
+    noteSaveAction();
+    try {
+      const res = await req('/api/goals', {
+        method: 'POST',
+        body: JSON.stringify(goalData)
+      });
+      if (res.ok) return await res.json();
+      // Server validation errors (e.g. the six-goal maximum) surface directly —
+      // they must not be masked by the offline local fallback below.
+      const body = await res.json().catch(() => ({} as any));
+      throw new Error(body.error || `Server rejected goal (${res.status})`);
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (!(e instanceof TypeError)) throw e;
+      console.warn('API unreachable, saving local goal', e);
+      const goals = await this.getGoals().catch(() => [] as Goal[]);
+      if (goals.length >= 6) {
+        throw new Error("Strict maximum of 6 goals allowed in the Big 6 Os!");
+      }
+      const newGoal: Goal = {
+        ...goalData,
+        id: `goal_${Date.now()}`,
+        is_completed: false,
+        created_at: new Date().toISOString()
+      };
+      const updated = [...goals, newGoal];
+      lsSet('goals', updated);
+      enqueueOutbox('POST', '/api/goals', goalData);
+      return newGoal;
+    }
+  },
+
+  async updateGoal(id: string, updates: Partial<Goal>): Promise<Goal> {
+    let networkFailed = false;
+    try {
+      const res = await req(`/api/goals/${id}`, {
+        method: 'PATCH',
+        body: JSON.stringify(updates)
+      });
+      if (res.ok) return await res.json();
+      const body = await res.json().catch(() => ({} as any));
+      throw new Error(body.error || `Server rejected goal update (${res.status})`);
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (!(e instanceof TypeError)) throw e;
+      networkFailed = true;
+      console.warn('API unreachable, updating local goal', e);
+    }
+    const goals = await this.getGoals();
+    const found = goals.find(g => g.id === id);
+    if (!found) throw new Error("Goal not found");
+    const updated = goals.map(g => g.id === id ? { ...g, ...updates } : g);
+    lsSet('goals', updated);
+    if (networkFailed) enqueueOutbox('PATCH', `/api/goals/${id}`, updates);
+    return updated.find(g => g.id === id) as Goal;
+  },
+
+  async deleteGoal(id: string): Promise<void> {
+    let networkFailed = false;
+    try {
+      await req(`/api/goals/${id}`, { method: 'DELETE' });
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, deleting local goal', e);
+    }
+    const goals = await this.getGoals();
+    const filtered = goals.filter(g => g.id !== id);
+    lsSet('goals', filtered);
+    if (networkFailed) enqueueOutbox('DELETE', `/api/goals/${id}`);
+  },
+
+  // ---- Anti-goals ----
+  async getAntiGoals(): Promise<AntiGoal[]> {
+    try {
+      const res = await req('/api/anti-goals');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('antigoals', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local anti-goals', e);
+    }
+    return lsGet<AntiGoal[]>('antigoals') || defaultAntiGoals;
+  },
+
+  async createAntiGoal(antiGoalData: Omit<AntiGoal, 'id' | 'created_at' | 'is_completed'> & { is_completed?: boolean }): Promise<AntiGoal> {
+    noteSaveAction();
+    let networkFailed = false;
+    try {
+      const res = await req('/api/anti-goals', {
+        method: 'POST',
+        body: JSON.stringify(antiGoalData)
+      });
+      if (res.ok) return await res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, saving local anti-goal', e);
+    }
+    const antiGoals = await this.getAntiGoals();
+    const newAntiGoal: AntiGoal = {
+      ...antiGoalData,
+      id: `antigoal_${Date.now()}`,
+      is_completed: Boolean(antiGoalData.is_completed),
+      created_at: new Date().toISOString()
+    };
+    const updated = [...antiGoals, newAntiGoal];
+    lsSet('antigoals', updated);
+    if (networkFailed) enqueueOutbox('POST', '/api/anti-goals', antiGoalData);
+    return newAntiGoal;
+  },
+
+  async updateAntiGoal(id: string, updates: Partial<AntiGoal>): Promise<AntiGoal> {
+    let networkFailed = false;
+    try {
+      const res = await req(`/api/anti-goals/${id}`, {
+        method: 'PATCH',
+        body: JSON.stringify(updates)
+      });
+      if (res.ok) return await res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, updating local anti-goal', e);
+    }
+    const antiGoals = await this.getAntiGoals();
+    const updated = antiGoals.map(ag => ag.id === id ? { ...ag, ...updates } : ag);
+    lsSet('antigoals', updated);
+    if (networkFailed) enqueueOutbox('PATCH', `/api/anti-goals/${id}`, updates);
+    return updated.find(ag => ag.id === id)!;
+  },
+
+  async deleteAntiGoal(id: string): Promise<void> {
+    let networkFailed = false;
+    try {
+      await req(`/api/anti-goals/${id}`, { method: 'DELETE' });
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, deleting local anti-goal', e);
+    }
+    const antiGoals = await this.getAntiGoals();
+    const filtered = antiGoals.filter(ag => ag.id !== id);
+    lsSet('antigoals', filtered);
+    if (networkFailed) enqueueOutbox('DELETE', `/api/anti-goals/${id}`);
+  },
+
+  // ---- Daily entries ----
+  async getAllDailyEntries(): Promise<DailyEntry[]> {
+    try {
+      const res = await req('/api/entries');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('entries_all', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading all entries', e);
+    }
+    return lsGet<DailyEntry[]>('entries_all') || [];
+  },
+
+  async getDailyEntry(dateStr: string): Promise<DailyEntry | null> {
+    try {
+      const res = await req(`/api/entries/${dateStr}`);
+      if (res.ok) {
+        const entry = await res.json();
+        lsSet(`entry_${dateStr}`, entry);
+        return entry;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local entry', e);
+    }
+    return lsGet<DailyEntry>(`entry_${dateStr}`);
+  },
+
+  async saveDailyEntry(entry: Partial<DailyEntry> & { entry_date: string }): Promise<DailyEntry> {
+    noteSaveAction();
+    let networkFailed = false;
+    try {
+      const res = await req('/api/entries', {
+        method: 'POST',
+        body: JSON.stringify(entry)
+      });
+      if (res.ok) {
+        const saved = await res.json();
+        lsSet(`entry_${entry.entry_date}`, saved);
+        return saved;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, saving local entry', e);
+    }
+    const existing = (await this.getDailyEntry(entry.entry_date).catch(() => null)) || {
+      id: `entry_${entry.entry_date}`,
+      entry_date: entry.entry_date,
+      morning_intention: '',
+      today_i_am: '',
+      anchor_question_answer: '',
+      priorities: ['', '', ''],
+      midday_checkin: '',
+      micro_dare_completed: false,
+      evening_notes: '',
+      khaos_score: 5,
+      updated_at: new Date().toISOString()
+    };
+    const saved = { ...existing, ...entry, updated_at: new Date().toISOString() };
+    lsSet(`entry_${entry.entry_date}`, saved);
+    // Keep the cached entries list in sync so the history views see this
+    // entry offline instead of waiting for a successful server round-trip.
+    const all = lsGet<DailyEntry[]>('entries_all') || [];
+    const idx = all.findIndex(e => e.entry_date === entry.entry_date);
+    if (idx >= 0) all[idx] = saved as DailyEntry;
+    else all.unshift(saved as DailyEntry);
+    lsSet('entries_all', all);
+    if (networkFailed) enqueueOutbox('POST', '/api/entries', entry);
+    return saved as DailyEntry;
+  },
+
+  // ---- Intent diagnostic ----
+  async runIntentDiagnostic(params: {
+    entry_date: string;
+    evening_notes: string;
+    morning_intention?: string;
+    midday_checkin?: string;
+    khaos_score?: number;
+    user_profile?: UserProfile;
+    /** Client-computed voice profile so the Intent can mirror the user's tone. */
+    buddy_voice?: import('../tone').VoiceProfile | null;
+  }): Promise<PersonalitySnapshot> {
+    try {
+      // The server only runs its Gemini fallback when this header says the
+      // user consented; without it, diagnose falls back to the local engine.
+      const enriched = { ...params, buddy_voice: getVoiceProfile() };
+      const res = await req('/api/diagnose', {
+        method: 'POST',
+        headers: aiConsentHeaders(),
+        body: JSON.stringify(enriched)
+      });
+      if (res.ok) {
+        const snapshot = await res.json();
+        const existingSnapshots = await this.getSnapshots().catch(() => [] as PersonalitySnapshot[]);
+        lsSet('snapshots', [snapshot, ...existingSnapshots.slice(0, 49)]);
+        return snapshot;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error during diagnostic, using local engine fallback', e);
+    }
+
+    // Local client-side fallback
+    const notes = (params.evening_notes || '').toLowerCase();
+    const wordCount = notes.split(/\s+/).filter(Boolean).length;
+    const hasBurnout = /tired|exhaust|drain|fumes|overwhelm|can't|heavy|collapse|numb|burnout|anxious/i.test(notes);
+    const hasDefiance = /refuse|no|done|stop|script|quit|hell|fake|pretend|furious/i.test(notes);
+
+    const snapshot: PersonalitySnapshot = {
+      id: `snap_${Date.now()}`,
+      entry_id: `entry_${params.entry_date}`,
+      snapshot_date: params.entry_date,
+      openness: Math.min(95, 65 + (wordCount > 30 ? 15 : 5) + (hasDefiance ? 10 : 0)),
+      conscientiousness: 64,
+      extraversion: 48,
+      agreeableness: hasDefiance ? 45 : 62,
+      neuroticism: hasBurnout ? 78 : 55,
+      detected_mood: hasBurnout ? "Running on Low Battery & Defiance" : "Sharp, Observant & Grounded",
+      burnout_risk: hasBurnout ? "High" : "Low",
+      self_sabotage_alert: "Rationalizing overwork as 'necessary discipline' instead of acknowledging mental fatigue.",
+      contradiction_callout: "You wrote that you're done pretending, yet you spent all afternoon editing your thoughts before letting them breathe.",
+      ai_feedback: "Here is your honest mirror: You showed up with plenty of energy to criticize yourself, but zero willingness to just let the day be messy. You don't have to turn every mundane hour into a breakthrough. Take the armor off. It's safe.",
+      micro_dare: "Tomorrow, write with your non-dominant hand for 3 minutes and refuse to apologize for being clumsy.",
+      sub_traits: [
+        { name: "Imagination", dimension: "Openness", score: 86, trait_description: "Rich internal narrative" },
+        { name: "Intellect", dimension: "Openness", score: 80, trait_description: "Appetite for re-framing mental premises" },
+        { name: "Self-Discipline", dimension: "Conscientiousness", score: 60, trait_description: "Grit amidst fatigue" },
+        { name: "Assertiveness", dimension: "Extraversion", score: 55, trait_description: "Direct boundary awareness" },
+        { name: "Honesty", dimension: "Agreeableness", score: 88, trait_description: "Uncurated truth-seeking" },
+        { name: "Anxiety", dimension: "Neuroticism", score: hasBurnout ? 78 : 54, trait_description: "Tension between control and freedom" }
+      ]
+    };
+
+    const existingSnapshots = await this.getSnapshots().catch(() => [] as PersonalitySnapshot[]);
+    lsSet('snapshots', [snapshot, ...existingSnapshots.slice(0, 49)]);
+    return snapshot;
+  },
+
+  async getSnapshots(): Promise<PersonalitySnapshot[]> {
+    try {
+      const res = await req('/api/snapshots');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('snapshots', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local snapshots', e);
+    }
+    return lsGet<PersonalitySnapshot[]>('snapshots') || [];
+  },
+
+  // ---- Intent interpersonal (relationship-with-others) ----
+  // Short TTL cache: the Intent card renders in two tabs, and we don't want to
+  // fire the Gemini path twice for the same mount.
+  async getInterpersonalInsights(): Promise<InterpersonalInsight[]> {
+    const now = Date.now();
+    if (now - interpersonalCacheAt < 60_000 && interpersonalCache) return interpersonalCache;
+    if (interpersonalInflight) return interpersonalInflight;
+    interpersonalInflight = (async (): Promise<InterpersonalInsight[]> => {
+      try {
+        const res = await req('/api/diagnose/interpersonal', {
+          method: 'POST',
+          headers: aiConsentHeaders(),
+        });
+        if (res.ok) {
+          const body = await res.json();
+          const insights = Array.isArray(body.insights) ? body.insights : [];
+          interpersonalCache = insights;
+          interpersonalCacheAt = Date.now();
+          return insights;
+        }
+      } catch (e) {
+        if (e instanceof AuthError) throw e;
+        console.warn('Interpersonal diagnostic unavailable, showing empty state', e);
+      }
+      return [];
+    })();
+    try {
+      return await interpersonalInflight;
+    } finally {
+      interpersonalInflight = null;
+    }
+  },
+
+  // ---- Weekly debriefs ----
+  async getWeeklyDebrief(weekNum: number): Promise<WeeklyFlightDebrief | null> {
+    try {
+      const res = await req('/api/flight-debriefs');
+      if (res.ok) {
+        const list = await res.json();
+        const found = list.find((d: any) => d.week_number === weekNum);
+        if (found) return found;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local debrief', e);
+    }
+    return lsGet<WeeklyFlightDebrief>(`debrief_${weekNum}`);
+  },
+
+  async saveWeeklyDebrief(debrief: WeeklyFlightDebrief): Promise<WeeklyFlightDebrief> {
+    noteSaveAction();
+    let networkFailed = false;
+    try {
+      const res = await req('/api/flight-debriefs', {
+        method: 'POST',
+        body: JSON.stringify(debrief)
+      });
+      if (res.ok) return await res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, saving local debrief', e);
+    }
+    lsSet(`debrief_${debrief.week_number}`, debrief);
+    // Keep the cached debrief list in sync so loadAll can restore it offline.
+    const list = lsGet<WeeklyFlightDebrief[]>('debriefs_all') || [];
+    const idx = list.findIndex(d => d.week_number === debrief.week_number);
+    if (idx >= 0) list[idx] = debrief;
+    else list.unshift(debrief);
+    lsSet('debriefs_all', list);
+    if (networkFailed) enqueueOutbox('POST', '/api/flight-debriefs', debrief);
+    return debrief;
+  },
+
+  // ---- Money maps ----
+  async getMoneyMap(year: number, month: number): Promise<MonthlyMoneyMap | null> {
+    const key = `${year}-${String(month).padStart(2, '0')}`;
+    try {
+      const res = await req(`/api/money-maps/${key}`);
+      if (res.ok) {
+        const data = await res.json();
+        if (data) return data;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local money map', e);
+    }
+    return lsGet<MonthlyMoneyMap>(`moneymap_${key}`);
+  },
+
+  async getAllMoneyMaps(): Promise<MonthlyMoneyMap[]> {
+    try {
+      const res = await req('/api/money-maps/all');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('moneymaps_all', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading money maps', e);
+    }
+    return lsGet<MonthlyMoneyMap[]>('moneymaps_all') || [];
+  },
+
+  async getAllDebriefs(): Promise<WeeklyFlightDebrief[]> {
+    try {
+      const res = await req('/api/flight-debriefs');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('debriefs_all', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading debriefs', e);
+    }
+    return lsGet<WeeklyFlightDebrief[]>('debriefs_all') || [];
+  },
+
+  async saveMoneyMap(map: MonthlyMoneyMap): Promise<MonthlyMoneyMap> {
+    const key = `${map.year}-${String(map.month).padStart(2, '0')}`;
+    let networkFailed = false;
+    try {
+      const res = await req('/api/money-maps', {
+        method: 'POST',
+        body: JSON.stringify(map)
+      });
+      if (res.ok) return await res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, saving local money map', e);
+    }
+    lsSet(`moneymap_${key}`, map);
+    // Keep the cached money-map list in sync so loadAll can restore it offline.
+    const list = lsGet<MonthlyMoneyMap[]>('moneymaps_all') || [];
+    const idx = list.findIndex(m => m.year === map.year && m.month === map.month);
+    if (idx >= 0) list[idx] = map;
+    else list.unshift(map);
+    lsSet('moneymaps_all', list);
+    if (networkFailed) enqueueOutbox('POST', '/api/money-maps', map);
+    return map;
+  },
+
+  // ---- Khaos Points ----
+  async getPoints(): Promise<KhaosPointEntry[]> {
+    try {
+      const res = await req('/api/points');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('points', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local points', e);
+    }
+    return lsGet<KhaosPointEntry[]>('points') || [];
+  },
+
+  getPointsTotal(points: KhaosPointEntry[]): number {
+    return points.reduce((s, p) => s + p.points, 0);
+  },
+
+  async awardPoints(action: KhaosPointAction, ref: string, label?: string): Promise<{ entry: KhaosPointEntry; total: number; duplicate: boolean }> {
+    const points = KHAOS_POINT_VALUES[action];
+    let networkFailed = false;
+    try {
+      const res = await req('/api/points/award', {
+        method: 'POST',
+        body: JSON.stringify({ action, ref, label: label || action })
+      });
+      if (res.ok) {
+        const result = await res.json();
+        await this.getPoints().catch(() => []);
+        return result;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, awarding local points', e);
+    }
+    // Local fallback with the same dedupe rule
+    const list = await this.getPoints().catch(() => [] as KhaosPointEntry[]);
+    const existing = list.find(p => p.ref === ref && p.action === action);
+    if (existing) {
+      return { entry: existing, total: this.getPointsTotal(list), duplicate: true };
+    }
+    const entry: KhaosPointEntry = {
+      id: `pts_${Date.now()}`,
+      action,
+      points,
+      ref,
+      label: label || action,
+      awarded_at: new Date().toISOString()
+    };
+    const updated = [entry, ...list];
+    lsSet('points', updated);
+    // Safe to replay: the server dedupes awards by (action, ref), so a
+    // replayed award can never double-credit. Already-awarded (duplicate)
+    // entries are NOT enqueued.
+    if (networkFailed) enqueueOutbox('POST', '/api/points/award', { action, ref, label: label || action });
+    return { entry, total: this.getPointsTotal(updated), duplicate: false };
+  },
+
+  // ---- Flight Crew contacts ----
+  async getFlightCrew(): Promise<FlightCrewContact[]> {
+    try {
+      const res = await req('/api/flight-crew');
+      if (res.ok) {
+        const list = await res.json();
+        lsSet('flightcrew', list);
+        return list;
+      }
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      console.warn('API error, reading local flight crew', e);
+    }
+    return lsGet<FlightCrewContact[]>('flightcrew') || [];
+  },
+
+  async createFlightCrewContact(data: Omit<FlightCrewContact, 'id' | 'created_at'>): Promise<FlightCrewContact> {
+    let networkFailed = false;
+    try {
+      const res = await req('/api/flight-crew', {
+        method: 'POST',
+        body: JSON.stringify(data)
+      });
+      if (res.ok) return await res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, saving local contact', e);
+    }
+    const list = await this.getFlightCrew().catch(() => [] as FlightCrewContact[]);
+    const contact: FlightCrewContact = { ...data, id: `crew_${Date.now()}`, created_at: new Date().toISOString() };
+    const updated = [...list, contact];
+    lsSet('flightcrew', updated);
+    if (networkFailed) enqueueOutbox('POST', '/api/flight-crew', data);
+    return contact;
+  },
+
+  async updateFlightCrewContact(id: string, updates: Partial<FlightCrewContact>): Promise<FlightCrewContact> {
+    let networkFailed = false;
+    try {
+      const res = await req(`/api/flight-crew/${id}`, {
+        method: 'PATCH',
+        body: JSON.stringify(updates)
+      });
+      if (res.ok) return await res.json();
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, updating local contact', e);
+    }
+    const list = await this.getFlightCrew().catch(() => [] as FlightCrewContact[]);
+    const updated = list.map(c => c.id === id ? { ...c, ...updates } : c);
+    lsSet('flightcrew', updated);
+    if (networkFailed) enqueueOutbox('PATCH', `/api/flight-crew/${id}`, updates);
+    return updated.find(c => c.id === id)!;
+  },
+
+  async deleteFlightCrewContact(id: string): Promise<void> {
+    let networkFailed = false;
+    try {
+      await req(`/api/flight-crew/${id}`, { method: 'DELETE' });
+    } catch (e) {
+      if (e instanceof AuthError) throw e;
+      if (e instanceof TypeError) networkFailed = true;
+      console.warn('API error, deleting local contact', e);
+    }
+    const list = await this.getFlightCrew().catch(() => [] as FlightCrewContact[]);
+    lsSet('flightcrew', list.filter(c => c.id !== id));
+    if (networkFailed) enqueueOutbox('DELETE', `/api/flight-crew/${id}`);
+  },
+
+  // ---- Community FAQ board ----
+  async faqList(): Promise<FaqQuestion[]> {
+    const res = await req('/api/faq');
+    if (!res.ok) throw new Error('Could not load questions.');
+    return res.json();
+  },
+
+  async faqAsk(question: string): Promise<FaqQuestion> {
+    const res = await req('/api/faq/ask', {
+      method: 'POST',
+      body: JSON.stringify({ question })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not post your question.');
+    return body as FaqQuestion;
+  },
+
+  async faqAnswer(id: string, answer: string): Promise<FaqQuestion> {
+    const res = await req('/api/faq/answer', {
+      method: 'POST',
+      body: JSON.stringify({ id, answer })
+    });
+    const body = await res.json().catch(() => ({} as any));
+    if (!res.ok) throw new Error(body.error || 'Could not save the answer.');
+    return body as FaqQuestion;
+  },
+
+  async faqDelete(id: string): Promise<void> {
+    const res = await req(`/api/faq/${id}`, { method: 'DELETE' });
+    if (!res.ok) {
+      const body = await res.json().catch(() => ({} as any));
+      throw new Error(body.error || 'Could not delete the question.');
+    }
+  }
+};
