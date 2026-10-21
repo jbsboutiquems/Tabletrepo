@@ -5,3 +5,4 @@
 .cover-img{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:12px;display:block;background:#0a0f22}
 
 .hero-emblem{max-width:300px;width:100%;margin:auto;display:block;filter:drop-shadow(0 0 28px #ff35ad55)}
+.product-card .alt-link{display:inline-block;margin-left:12px;font-weight:600}
