@@ -55,14 +55,14 @@ def cover_base(img, band_top, anchor="center"):
     base.paste(img2.crop((x, y, x + W, y + zone_h)), (0, 0))
     return base
 
-def draw_band(base, band_top, band_color, rule_color, lines):
+def draw_band(base, band_top, band_color, rule_color, lines, qcolor=(250, 246, 239)):
     d = ImageDraw.Draw(base)
     d.rectangle([0, band_top, W, H], fill=band_color)
     d.rectangle([0, band_top, W, band_top + 14], fill=rule_color)
     # big Q block, left
     qlabel, qbig, span, sub, foot = lines
     d.text((150, band_top + 88), qlabel, font=font(FB, 58), fill=rule_color)
-    d.text((140, band_top + 165), qbig, font=font(FS, 330), fill=(250, 246, 239))
+    d.text((140, band_top + 165), qbig, font=font(FS, 330), fill=qcolor)
     # right block
     rx = 880
     d.text((rx, band_top + 105), span, font=font(FB, 92), fill=(250, 246, 239))
@@ -129,10 +129,13 @@ def intro_2028(q):
     c.showPage(); c.save()
     return path
 
+PINK = (234, 71, 152); CREAM = (250, 246, 239)
+WAYS28 = {1: (NAVY, CYAN), 2: (NAVY, PINK), 3: (PINK, NAVY), 4: (NAVY, CREAM)}
 for q in (1, 2, 3, 4):
     span, seasons = Q28[q]
+    band_c, acc_c = WAYS28[q]
     base = cover_base(suite, 2380, anchor="top")
-    base = draw_band(base, 2380, NAVY, CYAN,
+    base = draw_band(base, 2380, band_c, acc_c,
                      ("QUARTER", f"Q{q}", span + " 2028", seasons,
                       "LIFE OS: OFF*SCRIPT · 2028 COSMIC FORECAST"))
     cov = os.path.join(TMP, f"cover-2028-q{q}.pdf"); img_to_pdf(base, cov)
@@ -190,12 +193,16 @@ for sign in SIGNS:
     meta = json.load(open(os.path.expanduser(f"~/workspace/zodiac-rebuild/content/{sign}-final.json")))
     art = Image.open(os.path.expanduser(f"~/workspace/your_files/zodiac-covers-extracted/{meta["cover_file"]}")).convert("RGB")
     pal_rgb = [tuple(int(h[i:i+2], 16) for i in (1, 3, 5)) for h in meta["palette"]]
+    INK = (24, 18, 12); CREAM = (250, 246, 239)
+    ways = {1: (INK, pal_rgb[0]), 2: (pal_rgb[2], CREAM), 3: (pal_rgb[1], CREAM), 4: (pal_rgb[0], INK)}
     for q in (1, 2, 3, 4):
         a, b = QRANGE[q]
+        band_c, acc_c = ways[q]
         base = cover_base(art, 2600)
-        base = draw_band(base, 2600, (24, 18, 12), pal_rgb[0],
+        base = draw_band(base, 2600, band_c, acc_c,
                          ("QUARTER", f"Q{q}", f"DAYS {a}–{b}", ARCS[q].title(),
-                          f"LIFE OS: OFF*SCRIPT · {sign.upper()} — {meta['edition_title']}"))
+                          f"LIFE OS: OFF*SCRIPT · {sign.upper()} — {meta['edition_title']}"),
+                         qcolor=CREAM if band_c != pal_rgb[0] else INK)
         cov = os.path.join(TMP, f"cover-{sign}-q{q}.pdf"); img_to_pdf(base, cov)
         folder = glob.glob(os.path.join(splits, f"Zodiac-{sign.capitalize()}-Undated"))[0]
         src_pdf = glob.glob(os.path.join(folder, f"*{sign.capitalize()}*Q{q}*.pdf"))[0]
