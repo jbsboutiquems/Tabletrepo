@@ -97,7 +97,7 @@ def scene(t):
     else:  # S5 CTA
         lt = t - 14.2
         s = 0.85 + 0.15 * ease(min(1, lt / 0.45))
-        ctext(d, 300, "$5", font(F_B, int(210 * s)), CREAM)
+        ctext(d, 300, "$10", font(F_B, int(210 * s)), CREAM)
         a = int(255 * fade(t, 14.8, 15.4))
         ctext(d, 580, "INSTANT DOWNLOAD ON ETSY", font(F_B, 40), (255, 53, 173, a))
         ctext(d, 650, "TheLifeOSPlanner · etsy.com", font(F_R, 32), (40, 215, 255, a))
@@ -112,14 +112,14 @@ subprocess.run(["ffmpeg", "-y", "-v", "error",
                 "-f", "lavfi", "-i", "sine=frequency=392:duration=19",
                 "-filter_complex", "[0:a][1:a][2:a]amix=inputs=3:normalize=0,volume=0.05,tremolo=f=0.4:d=0.5,afade=t=in:st=0:d=1.2,afade=t=out:st=17.6:d=1.4[pad]",
                 "-map", "[pad]", "/tmp/ad-pad.m4a"], check=True)
-subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", "/tmp/ad-pad.m4a", "-i", os.path.join(YF, "ad-vo-2026-10-20.mp3"),
+subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", "/tmp/ad-pad.m4a", "-i", os.path.join(YF, "ad-vo-2026-10-21.mp3"),
                 "-filter_complex", "[1:a]adelay=400:all=1,volume=1.15[vo];[0:a][vo]amix=inputs=2:normalize=0,alimiter=limit=0.95[a]",
                 "-map", "[a]", "-t", "19", "/tmp/ad-audio.m4a"], check=True)
 
 ff = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "image2pipe", "-vcodec", "png", "-r", str(FPS),
                        "-i", "-", "-i", "/tmp/ad-audio.m4a", "-c:v", "libx264", "-pix_fmt", "yuv420p",
                        "-crf", "19", "-preset", "medium", "-c:a", "aac", "-b:a", "160k", "-shortest",
-                       os.path.join(YF, "sampler-etsy-launch-ad-2026-10-20.mp4")], stdin=subprocess.PIPE)
+                       os.path.join(YF, "sampler-etsy-launch-ad-2026-10-21.mp4")], stdin=subprocess.PIPE)
 for i in range(N):
     import io
     buf = io.BytesIO(); scene(i / FPS).save(buf, "PNG"); ff.stdin.write(buf.getvalue())
