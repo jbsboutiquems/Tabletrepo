@@ -65,7 +65,7 @@ def scene(t):
         f = font(F_B, int(118 * s))
         ctext(d, 470, "IT'S LIVE.", f, PINK)
         a = int(255 * fade(t, 0.5, 1.1))
-        ctext(d, 640, "THE Q4 2026 SAMPLER", font(F_B, 40), (40, 215, 255, a))
+        ctext(d, 640, "THE Q4 2026 EDITION", font(F_B, 40), (40, 215, 255, a))
         ctext(d, 700, "from Life OS: Off*Script", font(F_R, 30), (183, 191, 213, a))
     elif t < 6.2:  # S2 cover
         lt = (t - 2.6) / 3.6
@@ -112,7 +112,7 @@ subprocess.run(["ffmpeg", "-y", "-v", "error",
                 "-f", "lavfi", "-i", "sine=frequency=392:duration=19",
                 "-filter_complex", "[0:a][1:a][2:a]amix=inputs=3:normalize=0,volume=0.05,tremolo=f=0.4:d=0.5,afade=t=in:st=0:d=1.2,afade=t=out:st=17.6:d=1.4[pad]",
                 "-map", "[pad]", "/tmp/ad-pad.m4a"], check=True)
-subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", "/tmp/ad-pad.m4a", "-i", os.path.join(YF, "ad-vo-2026-10-21.mp3"),
+subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", "/tmp/ad-pad.m4a", "-i", os.path.join(YF, "ad-vo-2026-10-21b.mp3"),
                 "-filter_complex", "[1:a]adelay=400:all=1,volume=1.15[vo];[0:a][vo]amix=inputs=2:normalize=0,alimiter=limit=0.95[a]",
                 "-map", "[a]", "-t", "19", "/tmp/ad-audio.m4a"], check=True)
 

@@ -134,7 +134,7 @@ const EXPANSION_PRODUCTS: ExpansionProduct[] = [
   // ---- Editions first: the app RUNS on the yearly editions ----
   {
     product_id: "edition-q4-2026",
-    title: "Q4 2026 Sampler — Life OS: Off*Script",
+    title: "Q4 2026 Edition — Life OS: Off*Script",
     blurb: "The live edition: October through December 2026, Pink Forest. 92 days of unofficial holidays, soul questions, and living adventures — the quarter the app runs right now.",
     price: 10,
     days: 92,
@@ -407,7 +407,7 @@ const defaultContentPacks: Record<string, any> = {
   },
   "edition-q4-2026": {
     pack_id: "edition-q4-2026",
-    title: "Q4 2026 Sampler — Life OS: Off*Script",
+    title: "Q4 2026 Edition — Life OS: Off*Script",
     assets_url: "/packs/q4-2026-sampler"
   },
   "edition-2027-khaos-year": {
@@ -1864,7 +1864,7 @@ app.get("/api/entitlements", requireAuth, (req, res) => {
 // pack lands (flagship master fix first).
 interface EditionWindow { edition_id: string; title: string; start: string; end: string; }
 const EDITION_WINDOWS: EditionWindow[] = [
-  { edition_id: "edition-q4-2026", title: "Q4 2026 Sampler \u2014 Life OS: Off*Script", start: "2026-10-01", end: "2026-12-31" },
+  { edition_id: "edition-q4-2026", title: "Q4 2026 Edition \u2014 Life OS: Off*Script", start: "2026-10-01", end: "2026-12-31" },
   { edition_id: "edition-2028-cosmic-forecast", title: "2028 Cosmic Forecast \u2014 Life OS: Off*Script", start: "2028-01-01", end: "2028-12-31" },
   { edition_id: "edition-2028-q1", title: "2028 Cosmic Forecast — Q1", start: "2028-01-01", end: "2028-03-31" },
   { edition_id: "edition-2028-q2", title: "2028 Cosmic Forecast — Q2", start: "2028-04-01", end: "2028-06-30" },
