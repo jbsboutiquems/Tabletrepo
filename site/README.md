@@ -17,7 +17,7 @@ https://jbsboutiquems.github.io/off-script-life-os/
 The default customer email is `support@lifeosoffscript.info`. The address is linked with `mailto:` across the site. Ensure the mailbox/domain is configured to receive mail before launch.
 
 ## Product checkout
-Each product page currently has an editable placeholder purchase link. Replace it with your secure checkout/product URL before accepting payment. Each color variation is represented as its own product page at $5 per quarter.
+Each product page currently has an editable placeholder purchase link. Replace it with your secure checkout/product URL before accepting payment. Each color variation is represented as its own product page at $10 per quarter.
 
 ## Editing
 Edit the HTML files for copy and links, `styles.css` for colors/layout, and `script.js` for simple navigation behavior. Keep a backup copy before uploading updates.
